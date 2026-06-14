@@ -1,0 +1,16 @@
+{
+  "chsl_active": false,
+  "chsl_first_seen": null,
+  "last_page_hash": {
+    "https://ssc.gov.in/home/apply": "a7a1d77bcba6fb80",
+    "https://ssc.gov.in/home/latestNotice": "a7a1d77bcba6fb80",
+    "https://ssc.gov.in/home/examCalendar": "a7a1d77bcba6fb80"
+  },
+  "consecutive_errors": 0,
+  "last_error_alert_ts": null,
+  "last_error_msg": null,
+  "last_alert_ts": null,
+  "total_checks": 1,
+  "total_alerts": 0,
+  "last_digest_date": null
+}
