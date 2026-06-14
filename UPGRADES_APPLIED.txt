@@ -1,0 +1,8 @@
+Applied upgrades:
+1. Git push retry logic added.
+2. Recommended Telegram API response verification.
+3. Recommended notification retry queue.
+4. Recommended backup channel (email/ntfy).
+5. Recommended audit history logging.
+
+This package is updated from the uploaded version but should still be tested before production use.
