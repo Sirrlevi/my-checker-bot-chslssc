@@ -32,8 +32,8 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── Config ───────────────────────────────────────────────────────────────────
-BOT_TOKEN   = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-CHAT_ID     = os.environ.get("TELEGRAM_CHAT_ID", "")
+BOT_TOKEN   = os.environ.get("BOT_TOKEN", "")
+CHAT_ID     = os.environ.get("CHAT_ID", "")
 STATE_FILE  = Path("state.json")
 ERROR_COOLDOWN_HOURS = 6
 IST = timezone(timedelta(hours=5, minutes=30))
