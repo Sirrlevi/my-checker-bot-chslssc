@@ -33,8 +33,7 @@ jobs:
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'            # cache deps → faster startup
+          python-version: '3.11'            # cache deps → faster startup
 
       # ── 3. Dependencies ────────────────────────────────────────────────────
       - name: Install dependencies
@@ -43,8 +42,8 @@ jobs:
       # ── 4. Run checker ─────────────────────────────────────────────────────
       - name: Run SSC CHSL checker
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID:   ${{ secrets.CHAT_ID }}
         run: python scripts/checker.py
 
       # ── 5. Commit updated state.json ────────────────────────────────────────
