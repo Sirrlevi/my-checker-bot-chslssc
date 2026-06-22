@@ -6,11 +6,11 @@
     "https://ssc.gov.in/home/latestNotice": "a7a1d77bcba6fb80",
     "https://ssc.gov.in/home/examCalendar": "a7a1d77bcba6fb80"
   },
-  "consecutive_errors": 1,
-  "last_error_alert_ts": "2026-06-22T16:04:10.672416+00:00",
+  "consecutive_errors": 0,
+  "last_error_alert_ts": null,
   "last_error_msg": null,
   "last_alert_ts": null,
-  "total_checks": 67,
-  "total_alerts": 1,
+  "total_checks": 68,
+  "total_alerts": 2,
   "last_digest_date": "2026-06-22"
 }
