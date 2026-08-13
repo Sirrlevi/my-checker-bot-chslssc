@@ -1,8 +1,959 @@
 {
-  "sources": {},
+  "sources": {
+    "ssc_apply": {
+      "seen": {},
+      "last_page_hash": "a7a1d77bcba6fb80",
+      "baseline_done": true
+    },
+    "ssc_notice": {
+      "seen": {},
+      "last_page_hash": "a7a1d77bcba6fb80",
+      "baseline_done": true
+    },
+    "upsc_whatsnew": {
+      "seen": {},
+      "last_page_hash": null,
+      "baseline_done": false
+    },
+    "ibps_home": {
+      "seen": {},
+      "last_page_hash": null,
+      "baseline_done": false
+    },
+    "sarkariresult_latestjob": {
+      "seen": {},
+      "last_page_hash": null,
+      "baseline_done": false
+    },
+    "sarkarijobs_home": {
+      "seen": {
+        "9c46374073720960": {
+          "title": "Railway Recruitment",
+          "url": "https://railway.sarkarijobs.com/",
+          "first_seen": "2026-08-13T10:07:00.180966+00:00",
+          "eligibility": "unknown"
+        },
+        "d6f8e6159f8e75f4": {
+          "title": "Indian Railway 2026 Recruitment (1000+ Posts)",
+          "url": "https://railway.sarkarijobs.com/",
+          "first_seen": "2026-08-13T10:07:00.180993+00:00",
+          "eligibility": "unknown"
+        },
+        "18c334cf808e1f10": {
+          "title": "Cochin Shipyard Apprentice Recruitment 2026: 139 Graduate and Diploma Posts through NATS",
+          "url": "https://www.sarkarijobs.com/cochin-shipyard-apprentice-recruitment-2026-139-graduate-and-diploma-posts-through-nats/",
+          "first_seen": "2026-08-13T10:07:00.181004+00:00",
+          "eligibility": "unknown"
+        },
+        "e1f56ec2d29e12b2": {
+          "title": "DGQA Recruitment 2026: 15 Technician Vacancies, Offline Applications by August 28",
+          "url": "https://www.sarkarijobs.com/dgqa-recruitment-2026-15-technician-vacancies-offline-applications-by-august-28/",
+          "first_seen": "2026-08-13T10:07:00.181011+00:00",
+          "eligibility": "unknown"
+        },
+        "a2c4be41daae571f": {
+          "title": "Indbank Recruitment 2026: 14 Relationship Manager and Dealer Vacancies in Various Cities",
+          "url": "https://www.sarkarijobs.com/indbank-recruitment-2026-14-relationship-manager-and-dealer-vacancies-in-various-cities/",
+          "first_seen": "2026-08-13T10:07:00.181018+00:00",
+          "eligibility": "unknown"
+        },
+        "36fbd264f6cbaa4a": {
+          "title": "SCCL Apprentice Recruitment 2026: 300 Graduate and Diploma Vacancies with One Year Training",
+          "url": "https://www.sarkarijobs.com/sccl-apprentice-recruitment-2026-300-graduate-and-diploma-vacancies-with-one-year-training/",
+          "first_seen": "2026-08-13T10:07:00.181024+00:00",
+          "eligibility": "unknown"
+        },
+        "b8ac5453eb5525e0": {
+          "title": "NAL Recruitment 2026 for 95+ MTS, Project Staff and Other Posts",
+          "url": "https://www.sarkarijobs.com/nal-india-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181031+00:00",
+          "eligibility": "eligible"
+        },
+        "1f182c9357a1fee3": {
+          "title": "EdCIL Recruitment 2026: 57 Consultant and Coordinator Vacancies for Education Project",
+          "url": "https://www.sarkarijobs.com/edcil-recruitment-2026-57-consultant-and-coordinator-vacancies-for-education-project/",
+          "first_seen": "2026-08-13T10:07:00.181039+00:00",
+          "eligibility": "unknown"
+        },
+        "fff8d5bc441f3ee3": {
+          "title": "RITES Recruitment 2026 for 35+ AM/PAPIS, IT Specialists, Assistant Managers, Field Engineers, Engineers, Managers and Other Vacancies @ rites.com",
+          "url": "https://www.sarkarijobs.com/rites-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181045+00:00",
+          "eligibility": "unknown"
+        },
+        "88315a7f1bcc70e3": {
+          "title": "AIIMS Recruitment 2026 for 2460+ Nursing Officers, Teaching, Non-Teaching and Other Posts",
+          "url": "https://www.sarkarijobs.com/aiims-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181051+00:00",
+          "eligibility": "unknown"
+        },
+        "49949f5b686a52dd": {
+          "title": "ICAR-IARI Recruitment 2026: 11 Project Staff Vacancies, Walk-in on September 2 & 3",
+          "url": "https://www.sarkarijobs.com/icar-iari-recruitment-2026-11-project-staff-vacancies-walk-in-on-september-2-3/",
+          "first_seen": "2026-08-13T10:07:00.181057+00:00",
+          "eligibility": "unknown"
+        },
+        "05caed67e5f14aad": {
+          "title": "GMDC Recruitment 2026 for Various IT Professional & Other Posts",
+          "url": "https://www.sarkarijobs.com/gmdc-recruitment-2026-for-various-it-professional-other-posts/",
+          "first_seen": "2026-08-13T10:07:00.181063+00:00",
+          "eligibility": "unknown"
+        },
+        "28e5b30f8418c30e": {
+          "title": "Karnataka Teacher Recruitment 2026: 15,000 Vacancies Announced for Government Schools",
+          "url": "https://www.sarkarijobs.com/karnataka-teacher-recruitment-2026-15000-vacancies-announced-for-government-schools/",
+          "first_seen": "2026-08-13T10:07:00.181069+00:00",
+          "eligibility": "unknown"
+        },
+        "f50e0c53491d1690": {
+          "title": "MGCU Recruitment 2026: 12 Graduate Apprentice Vacancies, Walk-in Interview Announced",
+          "url": "https://www.sarkarijobs.com/mgcu-recruitment-2026-12-graduate-apprentice-vacancies-walk-in-interview-announced/",
+          "first_seen": "2026-08-13T10:07:00.181074+00:00",
+          "eligibility": "unknown"
+        },
+        "9c778c8eb2657c68": {
+          "title": "Karnataka High Court Recruitment 2026: 20 Second Division Assistant Vacancies, Apply Online from August 13",
+          "url": "https://www.sarkarijobs.com/karnataka-high-court-recruitment-2026-20-second-division-assistant-vacancies-apply-online-from-august-13/",
+          "first_seen": "2026-08-13T10:07:00.181080+00:00",
+          "eligibility": "unknown"
+        },
+        "cdcae4592190c666": {
+          "title": "CSIR Recruitment 2026 for 220+ MTS, Project Staff, Apprentice, Technicians, Assistants, Research Staff and Other Vacancies",
+          "url": "https://www.sarkarijobs.com/csir-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181086+00:00",
+          "eligibility": "eligible"
+        },
+        "8521f7bbfaf6dedb": {
+          "title": "BPCL Recruitment 2026 for 150+ Process Technicians, Operators, Technician and Other Vacancies",
+          "url": "https://www.sarkarijobs.com/bpcl-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181092+00:00",
+          "eligibility": "unknown"
+        },
+        "6819aa613c9b9d10": {
+          "title": "AVFCCL Recruitment 2026 for Executives and Other Posts",
+          "url": "https://www.sarkarijobs.com/avfccl-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181098+00:00",
+          "eligibility": "unknown"
+        },
+        "9335608d55d67904": {
+          "title": "Rajasthan Board 10th Result 2026 Declared, Check RBSE Class 10 Results Online",
+          "url": "https://www.sarkarijobs.com/news/rajasthan-board-10th-result-2026-declared-check-rbse-class-10-results-online/",
+          "first_seen": "2026-08-13T10:07:00.181105+00:00",
+          "eligibility": "unknown"
+        },
+        "81292f753047d647": {
+          "title": "Rajasthan Board 5th 8th Result 2026 Declared, Check RBSE Class 5 & 8 Results Online",
+          "url": "https://www.sarkarijobs.com/news/rajasthan-board-5th-8th-result-2026-declared-check-rbse-class-5-8-results-online/",
+          "first_seen": "2026-08-13T10:07:00.181111+00:00",
+          "eligibility": "unknown"
+        },
+        "7c58b1ef117ae9aa": {
+          "title": "RRVUNL Technician, Operator, Plant Attendant Mains Result 2026 Declared For 2163 Posts",
+          "url": "https://www.sarkarijobs.com/news/rrvunl-technician-operator-plant-attendant-mains-result-2026-declared-for-2163-posts/",
+          "first_seen": "2026-08-13T10:07:00.181124+00:00",
+          "eligibility": "unknown"
+        },
+        "6041e51c614af486": {
+          "title": "Bihar Board Class 12th Result 2026, Check BSEB Inter Result Updates Here",
+          "url": "https://www.sarkarijobs.com/news/bihar-board-class-12th-result-2026-check-bseb-inter-result-updates-here/",
+          "first_seen": "2026-08-13T10:07:00.181134+00:00",
+          "eligibility": "eligible"
+        },
+        "6e063c05a8943103": {
+          "title": "RRB Technician Gr-I Answer Key 2026 Released For 6238 Posts At rrb.gov.in",
+          "url": "https://www.sarkarijobs.com/news/rrb-technician-gr-i-answer-key-2026-released-for-6238-posts-at-rrb-gov-in/",
+          "first_seen": "2026-08-13T10:07:00.181140+00:00",
+          "eligibility": "unknown"
+        },
+        "87169ae7de6ff9bb": {
+          "title": "DME Telangana GNM Results 2026 Released, Check 1st, 2nd And 3rd Year Result Link Online",
+          "url": "https://www.sarkarijobs.com/news/dme-telangana-gnm-results-2026-released-check-1st-2nd-and-3rd-year-result-link-online/",
+          "first_seen": "2026-08-13T10:07:00.181146+00:00",
+          "eligibility": "unknown"
+        },
+        "41475bc252454756": {
+          "title": "RRB ALP Answer Key 2026 Released For 9970 Posts under CEN No. 01/2025",
+          "url": "https://www.sarkarijobs.com/news/rrb-alp-answer-key-2026-released-for-9970-posts/",
+          "first_seen": "2026-08-13T10:07:00.181152+00:00",
+          "eligibility": "unknown"
+        },
+        "acaf15504e9221c5": {
+          "title": "NTA NIFT Stage-I Result 2026 Declared At nta.ac.in",
+          "url": "https://www.sarkarijobs.com/news/nta-nift-stage-i-result-2026-declared-at-nta-ac-in/",
+          "first_seen": "2026-08-13T10:07:00.181158+00:00",
+          "eligibility": "unknown"
+        },
+        "09eb1105a3b66ca5": {
+          "title": "RRB Paramedical Staff CEN No. 03/2025 Answer Key 2026 Released",
+          "url": "https://www.sarkarijobs.com/news/rrb-paramedical-staff-cen-no-03-2025-answer-key-2026-released/",
+          "first_seen": "2026-08-13T10:07:00.181164+00:00",
+          "eligibility": "unknown"
+        },
+        "dd0935711eca14b4": {
+          "title": "Supreme Court SCI Court Master Final Result 2026 Released For 30 Posts",
+          "url": "https://www.sarkarijobs.com/news/supreme-court-sci-court-master-final-result-2026-released-for-30-posts/",
+          "first_seen": "2026-08-13T10:07:00.181169+00:00",
+          "eligibility": "unknown"
+        },
+        "4ee8249c01ef6467": {
+          "title": "SSC CHSL Tier-I Marks / Score Card 2026 Released At ssc.nic.in",
+          "url": "https://www.sarkarijobs.com/news/ssc-chsl-tier-i-marks-score-card-2026-released-at-ssc-nic-in/",
+          "first_seen": "2026-08-13T10:07:00.181174+00:00",
+          "eligibility": "eligible"
+        },
+        "f257b1f4c7073f15": {
+          "title": "Sarkari Result",
+          "url": "https://sarkariresult.sarkarijobs.com/",
+          "first_seen": "2026-08-13T10:07:00.181180+00:00",
+          "eligibility": "unknown"
+        },
+        "0099db339a8443bb": {
+          "title": "More Sarkari Results",
+          "url": "https://www.sarkarijobs.com/news/results/",
+          "first_seen": "2026-08-13T10:07:00.181185+00:00",
+          "eligibility": "unknown"
+        },
+        "c4b22a4e0bda416d": {
+          "title": "Indian Airforce Agniveer Vayu Intake 01/2027 Exam City Details Released",
+          "url": "https://www.sarkarijobs.com/news/indian-airforce-agniveer-vayu-intake-01-2027-exam-city-details-released/",
+          "first_seen": "2026-08-13T10:07:00.181190+00:00",
+          "eligibility": "unknown"
+        },
+        "a8a845cb870c8651": {
+          "title": "Airforce Group Y Medical Assistant Airmen Intake 01/2027 Exam City Details Released",
+          "url": "https://www.sarkarijobs.com/news/airforce-group-y-medical-assistant-airmen-intake-01-2027-exam-city-details-released/",
+          "first_seen": "2026-08-13T10:07:00.181196+00:00",
+          "eligibility": "unknown"
+        },
+        "5306c6fe061cf980": {
+          "title": "KVS NVS Teaching & Non-Teaching Tier-II Admit Card 2026 Released, Exam From March 27",
+          "url": "https://www.sarkarijobs.com/news/kvs-nvs-teaching-non-teaching-tier-ii-admit-card-2026-released-exam-from-march-27/",
+          "first_seen": "2026-08-13T10:07:00.181202+00:00",
+          "eligibility": "unknown"
+        },
+        "c0948d084e55d4cb": {
+          "title": "SSC CHSL 10+2 Tier-II Exam City Notice 2026 Released, Check City Details",
+          "url": "https://www.sarkarijobs.com/news/ssc-chsl-102-tier-ii-exam-city-notice-2026-released-check-city-details/",
+          "first_seen": "2026-08-13T10:07:00.181208+00:00",
+          "eligibility": "eligible"
+        },
+        "309ed4bea1750f3e": {
+          "title": "NTA JEE Mains Session 2 Exam City Details 2026 Released, Check City Slip Now",
+          "url": "https://www.sarkarijobs.com/news/nta-jee-mains-session-2-exam-city-details-2026-released-check-city-slip-now/",
+          "first_seen": "2026-08-13T10:07:00.181213+00:00",
+          "eligibility": "unknown"
+        },
+        "dccaaab05917727b": {
+          "title": "RSSB Agriculture Supervisor Exam Date 2026 Announced For 1100 Posts, Check Full Schedule",
+          "url": "https://www.sarkarijobs.com/news/rssb-agriculture-supervisor-exam-date-2026-announced-for-1100-posts-check-full-schedule/",
+          "first_seen": "2026-08-13T10:07:00.181219+00:00",
+          "eligibility": "unknown"
+        },
+        "3ef7a0b43a2971d4": {
+          "title": "DRDO CEPTAM-11 Admit Card 2026 Released For 764 Posts, CBT Exam From 23 March",
+          "url": "https://www.sarkarijobs.com/news/drdo-ceptam-11-admit-card-2026-released-for-764-posts-cbt-exam-from-23-march/",
+          "first_seen": "2026-08-13T10:07:00.181225+00:00",
+          "eligibility": "unknown"
+        },
+        "4a07ac6b71ca9ff0": {
+          "title": "NCERT Group A, B, C Admit Card 2026 Released, Exam From 24 March",
+          "url": "https://www.sarkarijobs.com/news/ncert-group-a-b-c-admit-card-2026-released-exam-from-24-march/",
+          "first_seen": "2026-08-13T10:07:00.181231+00:00",
+          "eligibility": "unknown"
+        },
+        "0c79ca5b300f509c": {
+          "title": "EMRS Teaching & Non-Teaching Tier-II Admit Card 2026 Released, Exam From 22 March",
+          "url": "https://www.sarkarijobs.com/news/emrs-teaching-non-teaching-tier-ii-admit-card-2026-released-exam-from-22-march/",
+          "first_seen": "2026-08-13T10:07:00.181237+00:00",
+          "eligibility": "unknown"
+        },
+        "efcf83d4a034de0c": {
+          "title": "More Admit Cards",
+          "url": "https://www.sarkarijobs.com/news/admit-cards/",
+          "first_seen": "2026-08-13T10:07:00.181242+00:00",
+          "eligibility": "unknown"
+        },
+        "151b4e28c69df84a": {
+          "title": "Casino Jobs in Goa 2026: Roles, Salary, Eligibility and How to Apply",
+          "url": "https://www.sarkarijobs.com/careerguide/casino-jobs-in-goa-2026-roles-salary-eligibility-and-how-to-apply/",
+          "first_seen": "2026-08-13T10:07:00.181248+00:00",
+          "eligibility": "unknown"
+        },
+        "54baf09b356a43b1": {
+          "title": "UPTET Online Form 2026 Notification Out, Apply From 27 March For July Exam",
+          "url": "https://www.sarkarijobs.com/news/uptet-online-form-2026-notification/",
+          "first_seen": "2026-08-13T10:07:00.181254+00:00",
+          "eligibility": "unknown"
+        },
+        "1161ffd9136b0383": {
+          "title": "ELI Scheme, AI & Green Hydrogen: Why Sarkari Jobs Are Entering a New Era in 2026",
+          "url": "https://www.sarkarijobs.com/careerguide/eli-scheme-ai-green-hydrogen-why-sarkari-jobs-are-entering-a-new-era-in-2026/",
+          "first_seen": "2026-08-13T10:07:00.181261+00:00",
+          "eligibility": "unknown"
+        },
+        "94e9295eff68ef21": {
+          "title": "neet pg result",
+          "url": "https://www.sarkarijobs.com/news/neet-pg-result-2025-declared-check-scorecard-and-merit-rank-now/",
+          "first_seen": "2026-08-13T10:07:00.181267+00:00",
+          "eligibility": "unknown"
+        },
+        "eb20277b895d78cf": {
+          "title": "ssc exam calendar",
+          "url": "https://www.sarkarijobs.com/ssc/exams-calendar/",
+          "first_seen": "2026-08-13T10:07:00.181273+00:00",
+          "eligibility": "unknown"
+        },
+        "fe7fc989330cd5a4": {
+          "title": "government holidays 2026",
+          "url": "https://www.sarkarijobs.com/government-holidays/india-2026/",
+          "first_seen": "2026-08-13T10:07:00.181278+00:00",
+          "eligibility": "unknown"
+        },
+        "9689d05634cdceba": {
+          "title": "iocl recruitment",
+          "url": "https://www.sarkarijobs.com/iocl-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181283+00:00",
+          "eligibility": "unknown"
+        },
+        "53221f37337a55f7": {
+          "title": "drdo recruitment",
+          "url": "https://www.sarkarijobs.com/drdo-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181288+00:00",
+          "eligibility": "unknown"
+        },
+        "8e6a1f9dea53e210": {
+          "title": "ser railway recruitment",
+          "url": "https://railway.sarkarijobs.com/south-eastern-railway-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181294+00:00",
+          "eligibility": "unknown"
+        },
+        "d93482247e193a7b": {
+          "title": "india post recruitment",
+          "url": "https://www.sarkarijobs.com/india-post-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181299+00:00",
+          "eligibility": "unknown"
+        },
+        "bc3c505f669d9ae2": {
+          "title": "npcil recruitment",
+          "url": "https://www.sarkarijobs.com/npcil-recruitment/",
+          "first_seen": "2026-08-13T10:07:00.181309+00:00",
+          "eligibility": "unknown"
+        },
+        "643456d8fbf369a4": {
+          "title": "India Recruitment",
+          "url": "https://www.sarkarijobs.com/recruitmentalerts/",
+          "first_seen": "2026-08-13T10:07:00.181314+00:00",
+          "eligibility": "unknown"
+        }
+      },
+      "last_page_hash": "4cef93b8f03d3f30",
+      "baseline_done": true
+    },
+    "sarkariexam_home": {
+      "seen": {
+        "8a9c400d26ba6771": {
+          "title": "Top Online Form",
+          "url": "https://www.sarkariexam.com/category/top-online-form/",
+          "first_seen": "2026-08-13T10:07:00.432308+00:00",
+          "eligibility": "unknown"
+        },
+        "794db45468aa22c3": {
+          "title": "Sarkari Result",
+          "url": "https://sarkariresult.com.cm/",
+          "first_seen": "2026-08-13T10:07:00.432330+00:00",
+          "eligibility": "unknown"
+        },
+        "761b89812425dcdc": {
+          "title": "Railway RRB Technician Grade I & III Online Form 2026 (6565 Posts) – Apply Here",
+          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
+          "first_seen": "2026-08-13T10:07:00.432340+00:00",
+          "eligibility": "unknown"
+        },
+        "9b3c6578befd5275": {
+          "title": "RRB Group D Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
+          "first_seen": "2026-08-13T10:07:00.432345+00:00",
+          "eligibility": "eligible"
+        },
+        "fd9d1277c6c1a8e7": {
+          "title": "RRB Section Controller Online Form",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-08-13T10:07:00.432351+00:00",
+          "eligibility": "unknown"
+        },
+        "73944868397fc51d": {
+          "title": "IBPS Clerk 16th Form (11403 Posts)",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-08-13T10:07:00.432356+00:00",
+          "eligibility": "unknown"
+        },
+        "d84b10005f356dac": {
+          "title": "RSSB Junior Technical Assistant JTA Final Result 2026",
+          "url": "https://www.sarkariexam.com/rssb-junior-technical-assistant-jta-result-2025/",
+          "first_seen": "2026-08-13T10:07:00.432362+00:00",
+          "eligibility": "unknown"
+        },
+        "46802c2752622d54": {
+          "title": "RSSB Aayush Officer Final Result 2026",
+          "url": "https://www.sarkariexam.com/rssb-aayush-officer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432367+00:00",
+          "eligibility": "unknown"
+        },
+        "9e2d01a954d5be95": {
+          "title": "UPSSSC Assistant Accountant 2024 Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-assistant-accountant-mains-result-2025/",
+          "first_seen": "2026-08-13T10:07:00.432372+00:00",
+          "eligibility": "unknown"
+        },
+        "c4137aa964877bd8": {
+          "title": "UPSC CAPF AC Final Result / Marks 2026",
+          "url": "https://www.sarkariexam.com/upsc-capf-ac-2025/",
+          "first_seen": "2026-08-13T10:07:00.432376+00:00",
+          "eligibility": "unknown"
+        },
+        "b035e5f4bf1f7a33": {
+          "title": "Bihar Vidhan Parishad PA / LDC Pre Result 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432381+00:00",
+          "eligibility": "unknown"
+        },
+        "6b9ce3bdd33f4448": {
+          "title": "CBSE Board Class 12th Compartment Result 2026",
+          "url": "https://www.sarkariexam.com/cbse-board-class-10th-supplementary-result-2025/",
+          "first_seen": "2026-08-13T10:07:00.432387+00:00",
+          "eligibility": "eligible"
+        },
+        "5e9f5f9628e3b5ab": {
+          "title": "HPSC PGT Computer Science Final Result 2026",
+          "url": "https://www.sarkariexam.com/hpsc-pgt-computer-science-2026/",
+          "first_seen": "2026-08-13T10:07:00.432392+00:00",
+          "eligibility": "unknown"
+        },
+        "f0ddc022e2f71789": {
+          "title": "AIIMS CRE 5th Group B & C Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/aiims-cre-group-b-c-2026/",
+          "first_seen": "2026-08-13T10:07:00.432399+00:00",
+          "eligibility": "unknown"
+        },
+        "adb262924557b2fb": {
+          "title": "Bihar DCECE Polytechnic PM/PMM 1st Round Allotment Result 2026",
+          "url": "https://www.sarkariexam.com/dcece-bihar-polytechnic-2026/",
+          "first_seen": "2026-08-13T10:07:00.432404+00:00",
+          "eligibility": "unknown"
+        },
+        "d892c08d939d1a7d": {
+          "title": "AFCAT 02/2026 Answer Key – Out",
+          "url": "https://www.sarkariexam.com/afcat-02-2026/",
+          "first_seen": "2026-08-13T10:07:00.432411+00:00",
+          "eligibility": "unknown"
+        },
+        "f87ddbd867728903": {
+          "title": "BCECE Admission 2nd Round Allotment Result 2026",
+          "url": "https://www.sarkariexam.com/bcece-admission-2026/",
+          "first_seen": "2026-08-13T10:07:00.432415+00:00",
+          "eligibility": "unknown"
+        },
+        "2b091cae198eaa03": {
+          "title": "UP DELEd 2026 Online Counselling / Rank Card",
+          "url": "https://www.sarkariexam.com/up-deled-admission-2026/",
+          "first_seen": "2026-08-13T10:07:00.432418+00:00",
+          "eligibility": "unknown"
+        },
+        "0ce6a9d2c4ec68a6": {
+          "title": "Bihar CET B.Ed 5th Round Allotment Result 2026",
+          "url": "https://www.sarkariexam.com/bihar-cet-b-ed-2026/",
+          "first_seen": "2026-08-13T10:07:00.432421+00:00",
+          "eligibility": "unknown"
+        },
+        "70121e93764c66b7": {
+          "title": "Bihar Vidhan Parishad Security Guard 03/2023 Final Result",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-2023/",
+          "first_seen": "2026-08-13T10:07:00.432424+00:00",
+          "eligibility": "unknown"
+        },
+        "8a1170c8506a14fa": {
+          "title": "UPSC CDS-II Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
+          "first_seen": "2026-08-13T10:07:00.432428+00:00",
+          "eligibility": "unknown"
+        },
+        "48a56b69ba3783f0": {
+          "title": "UPSC NDA/ NA-II Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
+          "first_seen": "2026-08-13T10:07:00.432431+00:00",
+          "eligibility": "unknown"
+        },
+        "61845a7e4f4c89ac": {
+          "title": "SSC JHT Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
+          "first_seen": "2026-08-13T10:07:00.432434+00:00",
+          "eligibility": "unknown"
+        },
+        "27c526438d32241b": {
+          "title": "SSC Stenographer Grade C & D Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
+          "first_seen": "2026-08-13T10:07:00.432437+00:00",
+          "eligibility": "eligible"
+        },
+        "335518d7f2e0f9a1": {
+          "title": "RSSB Computer Instructor Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
+          "first_seen": "2026-08-13T10:07:00.432440+00:00",
+          "eligibility": "unknown"
+        },
+        "49164c7b33c360ca": {
+          "title": "BSNL JTO Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
+          "first_seen": "2026-08-13T10:07:00.432443+00:00",
+          "eligibility": "unknown"
+        },
+        "b1fb5d57c262ae8b": {
+          "title": "NEET PG Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/neet-pg-2026/",
+          "first_seen": "2026-08-13T10:07:00.432447+00:00",
+          "eligibility": "unknown"
+        },
+        "3740aa33d1053447": {
+          "title": "Railway RRB Group D Exam City / Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
+          "first_seen": "2026-08-13T10:07:00.432451+00:00",
+          "eligibility": "eligible"
+        },
+        "f737c0a1286275f6": {
+          "title": "IBPS CRP PO/ MT 16th PET Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-08-13T10:07:00.432455+00:00",
+          "eligibility": "unknown"
+        },
+        "7d652388c7f735d2": {
+          "title": "SSC Delhi Police Constable Executive PE & MT Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-delhi-police-constable-executive-2026/",
+          "first_seen": "2026-08-13T10:07:00.432458+00:00",
+          "eligibility": "eligible"
+        },
+        "1788a2d8bc9cc977": {
+          "title": "SSB Constable Tradesman PET PST Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssb-constable-tradesman-2026/",
+          "first_seen": "2026-08-13T10:07:00.432462+00:00",
+          "eligibility": "eligible"
+        },
+        "29b56c7cb2335df3": {
+          "title": "SSB Head Constable (Non-GD) PET PST Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssb-head-constable-non-gd-2026/",
+          "first_seen": "2026-08-13T10:07:00.432466+00:00",
+          "eligibility": "unknown"
+        },
+        "1f45a6ac9fb836e1": {
+          "title": "SSB Head Constable (Medical Cader) PET PST Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssb-head-constable-medical-cader-2026/",
+          "first_seen": "2026-08-13T10:07:00.432472+00:00",
+          "eligibility": "unknown"
+        },
+        "b7203f29f819dd5c": {
+          "title": "SSB ASI Non-GD PET PST Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssb-si-asi-non-gd-2026/",
+          "first_seen": "2026-08-13T10:07:00.432482+00:00",
+          "eligibility": "unknown"
+        },
+        "c97b8b2301c1a011": {
+          "title": "SSB SI (Non-GD) PET PST Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssb-si-non-gd-2026/",
+          "first_seen": "2026-08-13T10:07:00.432489+00:00",
+          "eligibility": "unknown"
+        },
+        "e357b9e37bf532a0": {
+          "title": "Bank of India Credit Officer Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/bank-of-india-credit-officer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432495+00:00",
+          "eligibility": "unknown"
+        },
+        "a60e87812981551b": {
+          "title": "Bihar STET Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
+          "first_seen": "2026-08-13T10:07:00.432499+00:00",
+          "eligibility": "unknown"
+        },
+        "c6f49ce26860259f": {
+          "title": "AIIMS NORCET 11th Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
+          "first_seen": "2026-08-13T10:07:00.432505+00:00",
+          "eligibility": "unknown"
+        },
+        "af90b861d9e53006": {
+          "title": "ISRO Assistant, UDC, JPA, Stenographer Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432513+00:00",
+          "eligibility": "eligible"
+        },
+        "b6a18d20d83c4f00": {
+          "title": "SBI Junior Associates Clerk Online Form 2026 (9124 Posts)",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
+          "first_seen": "2026-08-13T10:07:00.432517+00:00",
+          "eligibility": "unknown"
+        },
+        "ba1c6367bbe2e804": {
+          "title": "GIMS Noida Staff Nurse Online Form 2026",
+          "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
+          "first_seen": "2026-08-13T10:07:00.432520+00:00",
+          "eligibility": "unknown"
+        },
+        "f28f3e997ee1a2d9": {
+          "title": "Railway ICF Trade Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/railway-icf-trade-apprentice-2026/",
+          "first_seen": "2026-08-13T10:07:00.432523+00:00",
+          "eligibility": "unknown"
+        },
+        "fb29c70cd239ad3d": {
+          "title": "UPSSSC Livestock Extension Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-livestock-extension-officer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432527+00:00",
+          "eligibility": "unknown"
+        },
+        "1252271935de5641": {
+          "title": "RCF Kapurthala Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/rcf-kapurthala-apprentice-2026/",
+          "first_seen": "2026-08-13T10:07:00.432531+00:00",
+          "eligibility": "unknown"
+        },
+        "10b724050fab99d7": {
+          "title": "Himachal Pradesh High Court Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/himachal-pradesh-high-court-various-post-2026/",
+          "first_seen": "2026-08-13T10:07:00.432535+00:00",
+          "eligibility": "unknown"
+        },
+        "293ca335ba98a8e3": {
+          "title": "IOCL Marketing Division NR Apprentices Online Form 2026",
+          "url": "https://www.sarkariexam.com/iocl-marketing-division-nr-apprentices-2026/",
+          "first_seen": "2026-08-13T10:07:00.432539+00:00",
+          "eligibility": "unknown"
+        },
+        "80c9f3bea3c9597f": {
+          "title": "UPSRTC Bus Conductor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsrtc-bus-conductor-kausambi-2026/",
+          "first_seen": "2026-08-13T10:07:00.432542+00:00",
+          "eligibility": "unknown"
+        },
+        "4edb8d77cbb38a05": {
+          "title": "AAI Junior Executive & Manager Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/aai-junior-executive-manager-2026/",
+          "first_seen": "2026-08-13T10:07:00.432546+00:00",
+          "eligibility": "unknown"
+        },
+        "83bc8e96094d4702": {
+          "title": "IBPS Clerk CSA 16th Online Form 2026 (11403 Posts)",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-08-13T10:07:00.432549+00:00",
+          "eligibility": "unknown"
+        },
+        "349d43acdaa063ba": {
+          "title": "UPSSSC PET Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-08-13T10:07:00.432558+00:00",
+          "eligibility": "unknown"
+        },
+        "42f635fca0a033a2": {
+          "title": "SBI Junior Associates Clerk Backlog Online Form 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-08-13T10:07:00.432563+00:00",
+          "eligibility": "unknown"
+        },
+        "6e98c974b26f556c": {
+          "title": "Indian Overseas Bank LBO Online Form 2026",
+          "url": "https://www.sarkariexam.com/indian-overseas-bank-lbo-2026/",
+          "first_seen": "2026-08-13T10:07:00.432568+00:00",
+          "eligibility": "unknown"
+        },
+        "491e616dcfd09dc0": {
+          "title": "Punjab National Bank PNB LBO Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/punjab-national-bank-pnb-lbo-2026/",
+          "first_seen": "2026-08-13T10:07:00.432574+00:00",
+          "eligibility": "unknown"
+        },
+        "ca6ea1e579c95433": {
+          "title": "UPSSSC Technical Assistant Group C AGTA Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsssc-agriculture-technical-assistant-group-c-2026/",
+          "first_seen": "2026-08-13T10:07:00.432579+00:00",
+          "eligibility": "unknown"
+        },
+        "3ab56b5efa2d5028": {
+          "title": "DSSSB Answer Key July 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
+          "first_seen": "2026-08-13T10:07:00.432584+00:00",
+          "eligibility": "unknown"
+        },
+        "2e3bf1952f6c6cee": {
+          "title": "Uttarakhand TET UTET Online Form 2026",
+          "url": "https://www.sarkariexam.com/uttarakhand-tet-utet-2026/",
+          "first_seen": "2026-08-13T10:07:00.432588+00:00",
+          "eligibility": "unknown"
+        },
+        "ff57324e74d352b6": {
+          "title": "RRB Ministerial & Isolated Category Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-isolated-categories-2026/",
+          "first_seen": "2026-08-13T10:07:00.432594+00:00",
+          "eligibility": "unknown"
+        },
+        "9d304b2c5d163ffe": {
+          "title": "UPSSSC Cane Supervisor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-cane-supervisor-2026/",
+          "first_seen": "2026-08-13T10:07:00.432599+00:00",
+          "eligibility": "unknown"
+        },
+        "b448303bf040302d": {
+          "title": "BSEB Bihar D.El.Ed Common Application Form 2026",
+          "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
+          "first_seen": "2026-08-13T10:07:00.432603+00:00",
+          "eligibility": "unknown"
+        },
+        "d3144bf7764001fa": {
+          "title": "NTA NEET UG Online Counselling 2026",
+          "url": "https://www.sarkariexam.com/nta-neet-ug-2026/",
+          "first_seen": "2026-08-13T10:07:00.432608+00:00",
+          "eligibility": "unknown"
+        },
+        "b7caf67c8e49b70a": {
+          "title": "SAV Bihar Class 6 Pre Online Form 2027-28",
+          "url": "https://www.sarkariexam.com/sav-bihar-class-6-pre-admission-2027-28/",
+          "first_seen": "2026-08-13T10:07:00.432614+00:00",
+          "eligibility": "unknown"
+        },
+        "b7701c8073fa199b": {
+          "title": "IIM CAT Admission Online Form 2026",
+          "url": "https://www.sarkariexam.com/iim-cat-admission-2026/",
+          "first_seen": "2026-08-13T10:07:00.432618+00:00",
+          "eligibility": "unknown"
+        },
+        "57794cac54cacfef": {
+          "title": "UPSSSC Platoon Commander / Block Organizer Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
+          "first_seen": "2026-08-13T10:07:00.432624+00:00",
+          "eligibility": "unknown"
+        },
+        "5d843e8014b33593": {
+          "title": "UPSSSC Vidhan Bhawan Guard/ Fire Guard Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-vidhan-bhawan-guard-fire-guard-2026/",
+          "first_seen": "2026-08-13T10:07:00.432629+00:00",
+          "eligibility": "unknown"
+        },
+        "34af56f3432324ee": {
+          "title": "Jharkhand Teacher Eligibility Test JHTET Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
+          "first_seen": "2026-08-13T10:07:00.432635+00:00",
+          "eligibility": "unknown"
+        },
+        "22b0e947dd55dcc0": {
+          "title": "Allahabad High Court RO, ARO & CA Online Form 2026",
+          "url": "https://www.sarkariexam.com/allahabad-high-court-ro-aro-ca-2026/",
+          "first_seen": "2026-08-13T10:07:00.432640+00:00",
+          "eligibility": "unknown"
+        },
+        "b085ffeb779981c1": {
+          "title": "BSF Constable Tradesman PET/ PST Result 2026",
+          "url": "https://www.sarkariexam.com/bsf-constable-tradesman-2025/",
+          "first_seen": "2026-08-13T10:07:00.432646+00:00",
+          "eligibility": "eligible"
+        },
+        "9393c092ae1fddca": {
+          "title": "Haryana HTET Final Answer Key / Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/haryana-htet-2026/",
+          "first_seen": "2026-08-13T10:07:00.432651+00:00",
+          "eligibility": "unknown"
+        },
+        "0da8dcbdc3610ace": {
+          "title": "Railway RRB ALP CEN 01/2025 CBT-II Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/railway-rrb-alp-advt-01-2025/",
+          "first_seen": "2026-08-13T10:07:00.432657+00:00",
+          "eligibility": "unknown"
+        },
+        "57f749b1172c9b22": {
+          "title": "UPSC Combined Medical Services CMS Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsc-cms-2026/",
+          "first_seen": "2026-08-13T10:07:00.432664+00:00",
+          "eligibility": "unknown"
+        },
+        "5983c5600a9b539b": {
+          "title": "Delhi Laxmi Yojana Form 2026",
+          "url": "https://www.sarkariexam.com/delhi-laxmi-yojana-2026/",
+          "first_seen": "2026-08-13T10:07:00.432669+00:00",
+          "eligibility": "unknown"
+        },
+        "cf0a78fd7c3c803e": {
+          "title": "Aadhar Card PVC Download, Correction, Status 2026",
+          "url": "https://www.sarkariexam.com/aadhar-card-print-verification-correction-form/",
+          "first_seen": "2026-08-13T10:07:00.432674+00:00",
+          "eligibility": "unknown"
+        },
+        "b32e8bc4573915d9": {
+          "title": "PAN Card Registration, Correction & Other Service 2026",
+          "url": "https://www.sarkariexam.com/pan-card-registration-correction-other-service-2026/",
+          "first_seen": "2026-08-13T10:07:00.432679+00:00",
+          "eligibility": "unknown"
+        },
+        "78fc291c446937b8": {
+          "title": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026",
+          "url": "https://www.sarkariexam.com/bihar-caste-income-residence-certificate-online-form/",
+          "first_seen": "2026-08-13T10:07:00.432685+00:00",
+          "eligibility": "unknown"
+        },
+        "a434ff9c0b45fde4": {
+          "title": "UP Caste, Niwas, Income Certificate Online Verification 2026",
+          "url": "https://www.sarkariexam.com/up-caste-niwas-income-certificate-online-verification/",
+          "first_seen": "2026-08-13T10:07:00.432690+00:00",
+          "eligibility": "unknown"
+        },
+        "ceb45d576fb4e324": {
+          "title": "Railway RRB Technician Application Status Link 2024 – Out",
+          "url": "https://www.sarkariexam.com/railway-rrb-technician-exam-date-admit-card-2024/",
+          "first_seen": "2026-08-13T10:07:00.432696+00:00",
+          "eligibility": "unknown"
+        },
+        "b0ae4d85ac637169": {
+          "title": "Government Jobs 2024: Latest Government Jobs, 61,521 Vacancies For 10th, 12th Pass",
+          "url": "https://www.sarkariexam.com/live-government-jobs-2024/",
+          "first_seen": "2026-08-13T10:07:00.432701+00:00",
+          "eligibility": "eligible"
+        },
+        "7257453ea0c65d70": {
+          "title": "RRB NTPC Vacancy 2024: रेलवे एनटीपीसी भर्ती सूचना जारी, डायरेक्ट लिंक से करें आवेदन",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-vacancy-2024/",
+          "first_seen": "2026-08-13T10:07:00.432707+00:00",
+          "eligibility": "unknown"
+        },
+        "ce361a145b61b069": {
+          "title": "Sewadar Chowkidar Recruitment 2024: 8वीं पास के लिए मौका, वेतन 18 हजार महिना",
+          "url": "https://www.sarkariexam.com/sewadar-chowkidar-recruitment-2024/",
+          "first_seen": "2026-08-13T10:07:00.432713+00:00",
+          "eligibility": "eligible"
+        },
+        "eb9df5c582ab82b9": {
+          "title": "Air Force Group C Civilian Offline Form 2026",
+          "url": "https://www.sarkariexam.com/air-force-group-c-civilian-offline-form-2026/",
+          "first_seen": "2026-08-13T10:07:00.432718+00:00",
+          "eligibility": "unknown"
+        },
+        "9064f308da0da3f5": {
+          "title": "CIPET Admit Card 2025",
+          "url": "https://www.sarkariexam.com/cipet-admit-card-2025/",
+          "first_seen": "2026-08-13T10:07:00.432723+00:00",
+          "eligibility": "unknown"
+        },
+        "34522846740b7665": {
+          "title": "Rail Wheel Factory RWF Apprentices Online Form 2025",
+          "url": "https://www.sarkariexam.com/rail-wheel-factory-rwf-apprentices-recruitment-2025/",
+          "first_seen": "2026-08-13T10:07:00.432727+00:00",
+          "eligibility": "unknown"
+        },
+        "1a2a346223456f97": {
+          "title": "Voter ID Registration & Other Voter Service 2026",
+          "url": "https://www.sarkariexam.com/voter-id-registration-other-voter-service-2026/",
+          "first_seen": "2026-08-13T10:07:00.432732+00:00",
+          "eligibility": "unknown"
+        },
+        "5b11d418c7987001": {
+          "title": "UP Dakhil Kharij, Registration Online 2026",
+          "url": "https://www.sarkariexam.com/up-khasra-khatauni-online-form/",
+          "first_seen": "2026-08-13T10:07:00.432737+00:00",
+          "eligibility": "unknown"
+        },
+        "148f5534de21aabb": {
+          "title": "Bihar Dakhil Kharij, Registration Online 2026",
+          "url": "https://www.sarkariexam.com/bihar-jamin-dakhil-kharij-online-apply-2026/",
+          "first_seen": "2026-08-13T10:07:00.432742+00:00",
+          "eligibility": "unknown"
+        },
+        "e8428edc2c60b811": {
+          "title": "UP Scholarship Online Form 2025-26",
+          "url": "https://www.sarkariexam.com/up-scholarship-online-form-2025-26/",
+          "first_seen": "2026-08-13T10:07:00.432767+00:00",
+          "eligibility": "unknown"
+        },
+        "24a5fe2fa32e37d9": {
+          "title": "Rajasthan Scholarship & Scooty Yojana 2025-26 – Start",
+          "url": "https://www.sarkariexam.com/rajasthan-scholarship-scooty-yojana-2025-26-start/",
+          "first_seen": "2026-08-13T10:07:00.432777+00:00",
+          "eligibility": "unknown"
+        },
+        "4cb1bcc7ffdfa0df": {
+          "title": "KGMU Non Teaching Various Post Online Form 2025",
+          "url": "https://www.sarkariexam.com/kgmu-non-teaching-recruitment-2025-extended/",
+          "first_seen": "2026-08-13T10:07:00.432781+00:00",
+          "eligibility": "unknown"
+        },
+        "b605bf2d02f675fa": {
+          "title": "MPESB Group 4 Stenographer Online Form 2025",
+          "url": "https://www.sarkariexam.com/mpesb-group-4-stenographer-recruitment-2025/",
+          "first_seen": "2026-08-13T10:07:00.432786+00:00",
+          "eligibility": "eligible"
+        },
+        "5a881e4f5766b733": {
+          "title": "Air Force Airmen Group ‘Y’ Bharti Rally 2025",
+          "url": "https://www.sarkariexam.com/air-force-airmen-group-y-recruitment-2025/",
+          "first_seen": "2026-08-13T10:07:00.432792+00:00",
+          "eligibility": "unknown"
+        },
+        "9e2469b26a04601e": {
+          "title": "UP Bahraich ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-bahraich-ecce-educator-2026/",
+          "first_seen": "2026-08-13T10:07:00.432797+00:00",
+          "eligibility": "unknown"
+        },
+        "980ecaa491c03989": {
+          "title": "UP Unnao ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-unnao-ecce-educator-2026/",
+          "first_seen": "2026-08-13T10:07:00.432801+00:00",
+          "eligibility": "unknown"
+        },
+        "bc2207f8d52ef189": {
+          "title": "UP Ghazipur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-ghazipur-ecce-educator-2026/",
+          "first_seen": "2026-08-13T10:07:00.432806+00:00",
+          "eligibility": "unknown"
+        },
+        "e6cb48c8c8a92bc2": {
+          "title": "UPSRTC Meerut Conductor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsrtc-meerut-conductor-2026/",
+          "first_seen": "2026-08-13T10:07:00.432811+00:00",
+          "eligibility": "unknown"
+        },
+        "2b4097f4104ba059": {
+          "title": "UP Dairy Development Manager, DEO Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-dairy-development-deo-2026/",
+          "first_seen": "2026-08-13T10:07:00.432816+00:00",
+          "eligibility": "unknown"
+        },
+        "4aaf481303ea69e4": {
+          "title": "UPSRTC Bus Conductor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsrtc-gorakhpur-bus-conductor-2026/",
+          "first_seen": "2026-08-13T10:07:00.432821+00:00",
+          "eligibility": "unknown"
+        },
+        "51415ec03e935971": {
+          "title": "UP Siddharth Nagar ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-siddharth-nagar-ecce-educator-2026/",
+          "first_seen": "2026-08-13T10:07:00.432826+00:00",
+          "eligibility": "unknown"
+        },
+        "03f8f87156ce4728": {
+          "title": "UP Bijnor ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-bijnor-ecce-educator-2026/",
+          "first_seen": "2026-08-13T10:07:00.432831+00:00",
+          "eligibility": "unknown"
+        },
+        "b412a4ffabb73feb": {
+          "title": "Sarkari Result",
+          "url": "https://www.sarkariexam.com/",
+          "first_seen": "2026-08-13T10:07:00.432836+00:00",
+          "eligibility": "unknown"
+        }
+      },
+      "last_page_hash": "6834a2dd3faf69ae",
+      "baseline_done": true
+    }
+  },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 0,
+  "total_checks": 1,
   "total_alerts": 0,
-  "last_digest_date": null
+  "last_new_job_ts": null,
+  "last_heartbeat_key": null
 }
