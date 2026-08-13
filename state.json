@@ -944,16 +944,22 @@
           "url": "https://www.sarkariexam.com/",
           "first_seen": "2026-08-13T10:07:00.432836+00:00",
           "eligibility": "unknown"
+        },
+        "33f685d04fc64f6f": {
+          "title": "SBI Assistant Manager Law, Deputy Manager Law Admit Card 2026",
+          "url": "https://www.sarkariexam.com/sbi-assistant-manager-law-deputy-manager-law-2026/",
+          "first_seen": "2026-08-13T11:08:53.924435+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6834a2dd3faf69ae",
+      "last_page_hash": "a8b0d9b242d9e579",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1,
-  "total_alerts": 0,
-  "last_new_job_ts": null,
+  "total_checks": 2,
+  "total_alerts": 1,
+  "last_new_job_ts": "2026-08-13T11:08:54.676773+00:00",
   "last_heartbeat_key": null
 }
