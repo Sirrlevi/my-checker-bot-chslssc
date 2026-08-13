@@ -1,15 +1,20 @@
-name: SSC CHSL Watcher 🔔
+name: Sarkari Naukri Multi-Watcher 🔔
 
 on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'state.json'   # don't fire on the bot's own auto-commits (extra safety on top of [skip ci])
   schedule:
-    # Every 5 minutes — GitHub Actions minimum granularity
-    - cron: '*/5 * * * *'
+    # Har 10 minute — aggregator sites ko bhi thoda saans lene dena zaroori hai,
+    # nahi to bar-bar hit karne se rate-limit/block ho sakta hai.
+    - cron: '*/10 * * * *'
   # Manual trigger from Actions UI (useful for testing)
   workflow_dispatch:
 
 # Only one run at a time — prevents race conditions on state.json
 concurrency:
-  group: ssc-watcher
+  group: sarkari-watcher
   cancel-in-progress: false   # never cancel; let running job finish
 
 permissions:
@@ -17,16 +22,15 @@ permissions:
 
 jobs:
   watch:
-    name: Check SSC & Notify
+    name: Check All Sources & Notify
     runs-on: ubuntu-latest
-    timeout-minutes: 3          # hard cap — keeps monthly minutes low
+    timeout-minutes: 5          # hard cap — keeps monthly minutes low
 
     steps:
       # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          # Always pull latest state.json (written by previous run)
           fetch-depth: 1
 
       # ── 2. Python ──────────────────────────────────────────────────────────
@@ -34,26 +38,39 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'            # cache deps → faster startup
 
       # ── 3. Dependencies ────────────────────────────────────────────────────
       - name: Install dependencies
-        run: pip install --quiet requests beautifulsoup4
+        run: pip install --quiet -r requirements.txt
 
-      # ── 4. Run checker ─────────────────────────────────────────────────────
-      - name: Run SSC CHSL checker
+      # ── 3b. Notify Telegram on new commit deploy ─────────────────────────────
+      - name: Notify Telegram — new commit deployed
+        if: github.event_name == 'push'
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          BOT_TOKEN:  ${{ secrets.BOT_TOKEN }}
+          CHAT_ID:    ${{ secrets.CHAT_ID }}
+          COMMIT_SHA: ${{ github.sha }}
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+        run: |
+          SHORT_SHA="${COMMIT_SHA:0:7}"
+          TEXT="$(printf '🚀 <b>Bot Updated!</b>\n\nNaya commit deploy ho gaya hai — bot active hai aur monitoring chalu hai ✅\n\n📝 Commit: <code>%s</code>\n💬 %s' "$SHORT_SHA" "$COMMIT_MSG")"
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
+            --data-urlencode "text=${TEXT}" \
+            --data-urlencode "parse_mode=HTML" > /dev/null
+
+      # ── 4. Run watcher ─────────────────────────────────────────────────────
+      - name: Run Sarkari Naukri watcher
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID:   ${{ secrets.CHAT_ID }}
         run: python scripts/checker.py
 
       # ── 5. Commit updated state.json ────────────────────────────────────────
-      #       This is what gives us persistent state across workflow runs.
-      #       If state.json didn't change, git commit is a no-op.
       - name: Persist state
         run: |
-          git config user.name  "ssc-watcher[bot]"
-          git config user.email "ssc-watcher[bot]@users.noreply.github.com"
+          git config user.name  "sarkari-watcher[bot]"
+          git config user.email "sarkari-watcher[bot]@users.noreply.github.com"
           git add state.json
           git diff --staged --quiet || git commit -m "chore: update watcher state [skip ci]"
           for i in 1 2 3; do git pull --rebase origin ${GITHUB_REF_NAME:-main} || true; git push && break; sleep $((i*5)); done

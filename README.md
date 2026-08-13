@@ -134,6 +134,14 @@ Actions tab me jaake workflow ko enable karo (agar disabled dikhe) ya
 
 ---
 
+## Kitne baar / kis frequency pe alerts aate hain
+
+- **Job checks:** har 10 minute (naya job milte hi turant alert)
+- **Heartbeat pings ("Bot Active hai" confirmation):** din me **4 baar** — 9 AM, 1 PM, 5 PM, 9 PM (IST). 9 AM wala poora daily digest hota hai (stats ke saath), baaki 3 chhote heartbeat pings hote hain.
+- **Deploy notification:** jab bhi tum `main` branch pe naya commit push karte ho (state.json ke auto-commits ignore ho jaate hain — sirf tumhare khud ke code-change commits pe fire hota hai), turant ek "🚀 Bot Updated" message aata hai commit details ke saath.
+
+Heartbeat hours `scripts/checker.py` me `HEARTBEAT_HOURS_IST` list se change kar sakte ho — jaise `[9, 12, 15, 18, 21]` kar do to 5 baar/din ho jayega.
+
 ## Architecture
 
 ```

@@ -52,6 +52,11 @@ MAX_SEEN_PER_SOURCE = 600      # cap so state.json doesn't grow forever
 SEEN_MAX_AGE_DAYS   = 120      # prune items older than this
 MAX_ITEMS_PER_ALERT_MSG = 10   # avoid giant Telegram messages
 
+# Heartbeat pings — "bot zinda hai" alerts through the day, independent of
+# whether any new job was found. 9 AM slot also carries the full daily digest.
+HEARTBEAT_HOURS_IST = [9, 13, 17, 21]   # 4x/day
+DIGEST_HOUR_IST     = 9
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -76,9 +81,11 @@ class State:
     # Alert tracking
     total_checks:         int              = 0
     total_alerts:         int              = 0
+    last_new_job_ts:      Optional[str]    = None   # last time a real new-job alert was sent
 
-    # Daily digest
-    last_digest_date:     Optional[str]    = None   # "YYYY-MM-DD" in IST
+    # Heartbeat / daily digest — key format "YYYY-MM-DD-HH" (IST), prevents
+    # re-sending within the same hour slot across multiple 10-min cron runs
+    last_heartbeat_key:   Optional[str]    = None
 
     def save(self):
         STATE_FILE.write_text(json.dumps(asdict(self), indent=2, ensure_ascii=False))
@@ -248,6 +255,16 @@ def msg_daily_digest(state: State) -> str:
         f"🕐 Report time: {ist_str()}"
     )
 
+def msg_heartbeat(state: State) -> str:
+    last_job = "abhi tak koi nahi" if not state.last_new_job_ts else \
+        datetime.fromisoformat(state.last_new_job_ts).astimezone(IST).strftime("%d %b, %I:%M %p")
+    return (
+        "✅ <b>Bot Active Hai</b> — Sarkari Naukri Watcher chal raha hai 🟢\n\n"
+        f"🔍 Total checks so far: {state.total_checks}\n"
+        f"📌 Last naya job/form mila: {last_job}\n\n"
+        f"🕐 {ist_str()}"
+    )
+
 def msg_error(error_msg: str, count: int) -> str:
     return (
         "⚠️ <b>Watcher — Fetch Error</b>\n\n"
@@ -338,13 +355,20 @@ def run():
     state = State.load()
     state.total_checks += 1
     log.info(f"Check #{state.total_checks} | consecutive_errors={state.consecutive_errors}")
-
-    # ── 1. Daily Digest (9 AM IST) ────────────────────────────────────────────
     today_ist = now_ist().strftime("%Y-%m-%d")
-    if state.last_digest_date != today_ist and now_ist().hour >= 9:
-        log.info("Sending daily digest...")
-        tg_send(msg_daily_digest(state))
-        state.last_digest_date = today_ist
+
+    # ── 1. Heartbeat / Daily Digest (4x/day: 9 AM, 1 PM, 5 PM, 9 PM IST) ──────
+    current_hour = now_ist().hour
+    if current_hour in HEARTBEAT_HOURS_IST:
+        heartbeat_key = f"{today_ist}-{current_hour}"
+        if state.last_heartbeat_key != heartbeat_key:
+            if current_hour == DIGEST_HOUR_IST:
+                log.info("Sending daily digest (heartbeat slot)...")
+                tg_send(msg_daily_digest(state))
+            else:
+                log.info("Sending heartbeat ping...")
+                tg_send(msg_heartbeat(state))
+            state.last_heartbeat_key = heartbeat_key
 
     # ── 2. Process each source, tracking global failure state ────────────────
     fail_count = 0
@@ -385,6 +409,7 @@ def run():
     for i, msg in enumerate(alert_msgs):
         tg_send(msg, disable_preview=False)
         state.total_alerts += 1
+        state.last_new_job_ts = ts()
         if i < len(alert_msgs) - 1:
             time.sleep(1.5)  # be gentle on Telegram API
 
