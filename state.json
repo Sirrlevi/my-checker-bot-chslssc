@@ -956,16 +956,22 @@
           "url": "https://www.sarkariexam.com/iit-gate-2027/",
           "first_seen": "2026-08-13T11:56:53.062467+00:00",
           "eligibility": "unknown"
+        },
+        "010cc82585b51f45": {
+          "title": "NTA AIAPGET Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
+          "first_seen": "2026-08-13T15:16:11.585362+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3166cdb9ca5d2dec",
+      "last_page_hash": "6e237c4f2efd2615",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 5,
-  "total_alerts": 2,
-  "last_new_job_ts": "2026-08-13T11:56:53.760362+00:00",
+  "total_checks": 6,
+  "total_alerts": 3,
+  "last_new_job_ts": "2026-08-13T15:16:12.195651+00:00",
   "last_heartbeat_key": "2026-08-13-17"
 }
