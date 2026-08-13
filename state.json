@@ -950,16 +950,22 @@
           "url": "https://www.sarkariexam.com/sbi-assistant-manager-law-deputy-manager-law-2026/",
           "first_seen": "2026-08-13T11:08:53.924435+00:00",
           "eligibility": "unknown"
+        },
+        "88a71162e998c7b1": {
+          "title": "IIT GATE Online Form 2027",
+          "url": "https://www.sarkariexam.com/iit-gate-2027/",
+          "first_seen": "2026-08-13T11:56:53.062467+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a8b0d9b242d9e579",
+      "last_page_hash": "3166cdb9ca5d2dec",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 2,
-  "total_alerts": 1,
-  "last_new_job_ts": "2026-08-13T11:08:54.676773+00:00",
-  "last_heartbeat_key": null
+  "total_checks": 3,
+  "total_alerts": 2,
+  "last_new_job_ts": "2026-08-13T11:56:53.760362+00:00",
+  "last_heartbeat_key": "2026-08-13-17"
 }
