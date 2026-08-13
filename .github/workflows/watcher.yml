@@ -1,0 +1,56 @@
+name: Sarkari Naukri Multi-Watcher 🔔
+
+on:
+  schedule:
+    # Har 10 minute — aggregator sites ko bhi thoda saans lene dena zaroori hai,
+    # nahi to bar-bar hit karne se rate-limit/block ho sakta hai.
+    - cron: '*/10 * * * *'
+  # Manual trigger from Actions UI (useful for testing)
+  workflow_dispatch:
+
+# Only one run at a time — prevents race conditions on state.json
+concurrency:
+  group: sarkari-watcher
+  cancel-in-progress: false   # never cancel; let running job finish
+
+permissions:
+  contents: write   # needed to commit state.json back to repo
+
+jobs:
+  watch:
+    name: Check All Sources & Notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 5          # hard cap — keeps monthly minutes low
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ── 3. Dependencies ────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install --quiet -r requirements.txt
+
+      # ── 4. Run watcher ─────────────────────────────────────────────────────
+      - name: Run Sarkari Naukri watcher
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID:   ${{ secrets.CHAT_ID }}
+        run: python scripts/checker.py
+
+      # ── 5. Commit updated state.json ────────────────────────────────────────
+      - name: Persist state
+        run: |
+          git config user.name  "sarkari-watcher[bot]"
+          git config user.email "sarkari-watcher[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "chore: update watcher state [skip ci]"
+          for i in 1 2 3; do git pull --rebase origin ${GITHUB_REF_NAME:-main} || true; git push && break; sleep $((i*5)); done
