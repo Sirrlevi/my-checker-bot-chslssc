@@ -1,16 +1,15 @@
-name: Sarkari Naukri Multi-Watcher 🔔
+name: SSC CHSL Watcher 🔔
 
 on:
   schedule:
-    # Har 10 minute — aggregator sites ko bhi thoda saans lene dena zaroori hai,
-    # nahi to bar-bar hit karne se rate-limit/block ho sakta hai.
-    - cron: '*/10 * * * *'
+    # Every 5 minutes — GitHub Actions minimum granularity
+    - cron: '*/5 * * * *'
   # Manual trigger from Actions UI (useful for testing)
   workflow_dispatch:
 
 # Only one run at a time — prevents race conditions on state.json
 concurrency:
-  group: sarkari-watcher
+  group: ssc-watcher
   cancel-in-progress: false   # never cancel; let running job finish
 
 permissions:
@@ -18,15 +17,16 @@ permissions:
 
 jobs:
   watch:
-    name: Check All Sources & Notify
+    name: Check SSC & Notify
     runs-on: ubuntu-latest
-    timeout-minutes: 5          # hard cap — keeps monthly minutes low
+    timeout-minutes: 3          # hard cap — keeps monthly minutes low
 
     steps:
       # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
+          # Always pull latest state.json (written by previous run)
           fetch-depth: 1
 
       # ── 2. Python ──────────────────────────────────────────────────────────
@@ -34,23 +34,26 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'            # cache deps → faster startup
 
       # ── 3. Dependencies ────────────────────────────────────────────────────
       - name: Install dependencies
-        run: pip install --quiet -r requirements.txt
+        run: pip install --quiet requests beautifulsoup4
 
-      # ── 4. Run watcher ─────────────────────────────────────────────────────
-      - name: Run Sarkari Naukri watcher
+      # ── 4. Run checker ─────────────────────────────────────────────────────
+      - name: Run SSC CHSL checker
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID:   ${{ secrets.CHAT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scripts/checker.py
 
       # ── 5. Commit updated state.json ────────────────────────────────────────
+      #       This is what gives us persistent state across workflow runs.
+      #       If state.json didn't change, git commit is a no-op.
       - name: Persist state
         run: |
-          git config user.name  "sarkari-watcher[bot]"
-          git config user.email "sarkari-watcher[bot]@users.noreply.github.com"
+          git config user.name  "ssc-watcher[bot]"
+          git config user.email "ssc-watcher[bot]@users.noreply.github.com"
           git add state.json
           git diff --staged --quiet || git commit -m "chore: update watcher state [skip ci]"
           for i in 1 2 3; do git pull --rebase origin ${GITHUB_REF_NAME:-main} || true; git push && break; sleep $((i*5)); done
