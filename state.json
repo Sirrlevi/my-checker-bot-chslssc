@@ -1148,16 +1148,28 @@
           "url": "https://www.sarkariexam.com/upsc-principal-vice-principal-2026/",
           "first_seen": "2026-08-14T06:43:38.124049+00:00",
           "eligibility": "unknown"
+        },
+        "407be4ae76939079": {
+          "title": "UPSSSC Lower PCS Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-lower-pcs-2026/",
+          "first_seen": "2026-08-14T08:03:16.165847+00:00",
+          "eligibility": "unknown"
+        },
+        "c88c96d463c172b0": {
+          "title": "UPSSSC Technical Assistant Group C AGTA Answer Key Objection 2026",
+          "url": "https://www.sarkariexam.com/upsssc-agriculture-technical-assistant-group-c-2026/",
+          "first_seen": "2026-08-14T08:03:16.165932+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "92919450727bb5b6",
+      "last_page_hash": "12d189235fd479c1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 20,
-  "total_alerts": 5,
-  "last_new_job_ts": "2026-08-14T06:43:38.661689+00:00",
-  "last_heartbeat_key": "2026-08-13-21"
+  "total_checks": 21,
+  "total_alerts": 6,
+  "last_new_job_ts": "2026-08-14T08:03:16.711204+00:00",
+  "last_heartbeat_key": "2026-08-14-13"
 }
