@@ -1166,16 +1166,28 @@
           "url": "https://www.sarkariexam.com/upsssc-veterinary-pharmacist-2026/",
           "first_seen": "2026-08-14T09:16:42.411564+00:00",
           "eligibility": "unknown"
+        },
+        "112830b97e7b562e": {
+          "title": "RSSB NHM & RajMES Final Result 2026 – Updated",
+          "url": "https://www.sarkariexam.com/rssb-nhm-rajmes-2025/",
+          "first_seen": "2026-08-14T10:18:38.498533+00:00",
+          "eligibility": "unknown"
+        },
+        "721db87514aabc86": {
+          "title": "RSSB Computer Instructor Exam City Details 2026 – Out",
+          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
+          "first_seen": "2026-08-14T10:18:38.498582+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6006396dce87c2d2",
+      "last_page_hash": "1a669701d212961f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 22,
-  "total_alerts": 7,
-  "last_new_job_ts": "2026-08-14T09:16:43.135420+00:00",
+  "total_checks": 23,
+  "total_alerts": 8,
+  "last_new_job_ts": "2026-08-14T10:18:39.077493+00:00",
   "last_heartbeat_key": "2026-08-14-13"
 }
