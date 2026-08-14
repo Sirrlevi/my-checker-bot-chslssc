@@ -1130,16 +1130,34 @@
           "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
           "first_seen": "2026-08-13T15:16:11.585362+00:00",
           "eligibility": "unknown"
+        },
+        "50935c849fc05d8b": {
+          "title": "Allahabad High Court Research Associates Admit Card 2026",
+          "url": "https://www.sarkariexam.com/allahabad-high-court-research-associates-2026/",
+          "first_seen": "2026-08-14T06:43:38.123977+00:00",
+          "eligibility": "unknown"
+        },
+        "ec4b82c06d1a85b3": {
+          "title": "Railway RRB Section Controller Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-08-14T06:43:38.124039+00:00",
+          "eligibility": "unknown"
+        },
+        "89a8b501999a73fd": {
+          "title": "UPSC Principal, Vice Principal Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsc-principal-vice-principal-2026/",
+          "first_seen": "2026-08-14T06:43:38.124049+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f8883163ca505e0b",
+      "last_page_hash": "92919450727bb5b6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 19,
-  "total_alerts": 4,
-  "last_new_job_ts": "2026-08-14T05:11:58.401479+00:00",
+  "total_checks": 20,
+  "total_alerts": 5,
+  "last_new_job_ts": "2026-08-14T06:43:38.661689+00:00",
   "last_heartbeat_key": "2026-08-13-21"
 }
