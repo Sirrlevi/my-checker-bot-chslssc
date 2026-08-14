@@ -1214,16 +1214,22 @@
           "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
           "first_seen": "2026-08-14T15:08:25.249743+00:00",
           "eligibility": "unknown"
+        },
+        "2bf65ab6fc4dc6c0": {
+          "title": "MPESB Forest Guard & Jail Prahari Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/mpesb-forest-guard-jail-prahari-2026/",
+          "first_seen": "2026-08-14T16:02:26.510223+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "49dbded98e1f157d",
+      "last_page_hash": "4840d19d0eb58c29",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 28,
-  "total_alerts": 12,
-  "last_new_job_ts": "2026-08-14T15:08:25.763919+00:00",
-  "last_heartbeat_key": "2026-08-14-17"
+  "total_checks": 29,
+  "total_alerts": 13,
+  "last_new_job_ts": "2026-08-14T16:02:27.177344+00:00",
+  "last_heartbeat_key": "2026-08-14-21"
 }
