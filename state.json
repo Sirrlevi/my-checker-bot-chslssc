@@ -1178,16 +1178,28 @@
           "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
           "first_seen": "2026-08-14T10:18:38.498582+00:00",
           "eligibility": "unknown"
+        },
+        "4dcb3ae1807c8f0b": {
+          "title": "CNP Supervisor / Junior Technician Admit Card 2026",
+          "url": "https://www.sarkariexam.com/currency-note-press-cnp-supervisor-junior-technician-2026/",
+          "first_seen": "2026-08-14T11:11:03.225078+00:00",
+          "eligibility": "unknown"
+        },
+        "cfa42ed7409e962d": {
+          "title": "BHU School Teacher TGT, PGT, PRT, Principal Exam Date 2026",
+          "url": "https://www.sarkariexam.com/bhu-school-teacher-tgt-pgt-prt-principal-2024/",
+          "first_seen": "2026-08-14T11:11:03.225103+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1a669701d212961f",
+      "last_page_hash": "e731a1d3bf3e9a60",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 23,
-  "total_alerts": 8,
-  "last_new_job_ts": "2026-08-14T10:18:39.077493+00:00",
+  "total_checks": 24,
+  "total_alerts": 9,
+  "last_new_job_ts": "2026-08-14T11:11:03.906891+00:00",
   "last_heartbeat_key": "2026-08-14-13"
 }
