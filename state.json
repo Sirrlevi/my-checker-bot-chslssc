@@ -1190,16 +1190,22 @@
           "url": "https://www.sarkariexam.com/bhu-school-teacher-tgt-pgt-prt-principal-2024/",
           "first_seen": "2026-08-14T11:11:03.225103+00:00",
           "eligibility": "unknown"
+        },
+        "4a481486eaa822c4": {
+          "title": "Delhi High Court Higher Judicial Service HJS Pre Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
+          "first_seen": "2026-08-14T11:58:36.751529+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e731a1d3bf3e9a60",
+      "last_page_hash": "56247b9ab890ea79",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 24,
-  "total_alerts": 9,
-  "last_new_job_ts": "2026-08-14T11:11:03.906891+00:00",
-  "last_heartbeat_key": "2026-08-14-13"
+  "total_checks": 25,
+  "total_alerts": 10,
+  "last_new_job_ts": "2026-08-14T11:58:37.439230+00:00",
+  "last_heartbeat_key": "2026-08-14-17"
 }
