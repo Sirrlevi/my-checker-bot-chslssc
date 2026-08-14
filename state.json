@@ -1160,16 +1160,22 @@
           "url": "https://www.sarkariexam.com/upsssc-agriculture-technical-assistant-group-c-2026/",
           "first_seen": "2026-08-14T08:03:16.165932+00:00",
           "eligibility": "unknown"
+        },
+        "c46c83c09ceff585": {
+          "title": "UPSSSC Veterinary Pharmacist Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-veterinary-pharmacist-2026/",
+          "first_seen": "2026-08-14T09:16:42.411564+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "12d189235fd479c1",
+      "last_page_hash": "6006396dce87c2d2",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 21,
-  "total_alerts": 6,
-  "last_new_job_ts": "2026-08-14T08:03:16.711204+00:00",
+  "total_checks": 22,
+  "total_alerts": 7,
+  "last_new_job_ts": "2026-08-14T09:16:43.135420+00:00",
   "last_heartbeat_key": "2026-08-14-13"
 }
