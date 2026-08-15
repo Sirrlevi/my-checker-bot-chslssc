@@ -1304,16 +1304,28 @@
           "url": "https://www.sarkariexam.com/mpesb-forest-guard-jail-prahari-2026/",
           "first_seen": "2026-08-14T16:02:26.510223+00:00",
           "eligibility": "unknown"
+        },
+        "9ce8ec5fc577027e": {
+          "title": "UPSRTC Bus Conductor Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsrtc-bus-conductor-kausambi-2026/",
+          "first_seen": "2026-08-15T06:01:15.594660+00:00",
+          "eligibility": "unknown"
+        },
+        "bff697c2c9292126": {
+          "title": "UKSSSC Assistant Accountant Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/uksssc-assistant-accountant-2026/",
+          "first_seen": "2026-08-15T06:01:15.594679+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4840d19d0eb58c29",
+      "last_page_hash": "25b69e53dac4b908",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 52,
-  "total_alerts": 14,
-  "last_new_job_ts": "2026-08-15T03:55:54.184421+00:00",
+  "total_checks": 53,
+  "total_alerts": 15,
+  "last_new_job_ts": "2026-08-15T06:01:16.317707+00:00",
   "last_heartbeat_key": "2026-08-15-9"
 }
