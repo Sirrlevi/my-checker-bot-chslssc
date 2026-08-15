@@ -596,9 +596,33 @@
           "url": "https://www.sarkarijobs.com/uksssc-recruitment/",
           "first_seen": "2026-08-15T03:55:53.314786+00:00",
           "eligibility": "unknown"
+        },
+        "bba237937acd15f3": {
+          "title": "IOCL Executive Recruitment 2026 Notification Issued for Graduate Engineer, Officer and Diploma Engineer Posts, Apply Online by September 3",
+          "url": "https://www.sarkarijobs.com/iocl-executive-recruitment-2026-notification-issued-for-graduate-engineer-officer-and-diploma-engineer-posts-apply-online-by-september-3/",
+          "first_seen": "2026-08-15T20:44:29.218394+00:00",
+          "eligibility": "unknown"
+        },
+        "b52466b6fdf922fb": {
+          "title": "ISRO LPSC Recruitment 2026: Applications Invited for 19 Technical Assistant, Technician, Draughtsman and Fireman Vacancies",
+          "url": "https://www.sarkarijobs.com/isro-lpsc-recruitment-2026-applications-invited-for-19-technical-assistant-technician-draughtsman-and-fireman-vacancies/",
+          "first_seen": "2026-08-15T20:44:29.218414+00:00",
+          "eligibility": "eligible"
+        },
+        "14cfc66061d03675": {
+          "title": "CCI Recruitment 2026 Official Notification Released: 15 Engineer, Officer and Analyst Vacancies Now Available",
+          "url": "https://www.sarkarijobs.com/cci-recruitment-2026-official-notification-released-15-engineer-officer-and-analyst-vacancies-now-available/",
+          "first_seen": "2026-08-15T20:44:29.218421+00:00",
+          "eligibility": "unknown"
+        },
+        "edd5dbe4c397206a": {
+          "title": "Income Tax Pune 2026 Sports Quota Recruitment Drive Announced: 85 Stenographer, Tax Assistant and MTS Vacancies",
+          "url": "https://www.sarkarijobs.com/income-tax-pune-2026-sports-quota-recruitment-drive-announced-85-stenographer-tax-assistant-and-mts-vacancies/",
+          "first_seen": "2026-08-15T20:44:29.218428+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "bb03d4c37fa547b6",
+      "last_page_hash": "f9dc9997e160964d",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1348,8 +1372,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 90,
-  "total_alerts": 17,
-  "last_new_job_ts": "2026-08-15T07:21:14.828765+00:00",
+  "total_checks": 91,
+  "total_alerts": 18,
+  "last_new_job_ts": "2026-08-15T20:44:29.891752+00:00",
   "last_heartbeat_key": "2026-08-15-21"
 }
