@@ -1334,16 +1334,22 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-08-15T06:53:52.986201+00:00",
           "eligibility": "unknown"
+        },
+        "0f5eb38659ef3ea1": {
+          "title": "Rajasthan Safai Karamchari Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
+          "first_seen": "2026-08-15T07:21:14.197537+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3ad8c462f314fd34",
+      "last_page_hash": "07e760b06b5ab710",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 54,
-  "total_alerts": 16,
-  "last_new_job_ts": "2026-08-15T06:53:53.593974+00:00",
+  "total_checks": 55,
+  "total_alerts": 17,
+  "last_new_job_ts": "2026-08-15T07:21:14.828765+00:00",
   "last_heartbeat_key": "2026-08-15-9"
 }
