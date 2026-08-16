@@ -1376,16 +1376,34 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-08-16T05:24:23.397970+00:00",
           "eligibility": "unknown"
+        },
+        "a61fca9fdb4de3f1": {
+          "title": "BPSSC Bihar Forest Range Officer Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bpssc-bihar-forest-range-officer-2026/",
+          "first_seen": "2026-08-16T05:51:18.809294+00:00",
+          "eligibility": "unknown"
+        },
+        "16bd08a3b91addb3": {
+          "title": "Punjab National Bank PNB LBO Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/punjab-national-bank-pnb-lbo-2026/",
+          "first_seen": "2026-08-16T05:51:18.809320+00:00",
+          "eligibility": "unknown"
+        },
+        "bfec891a3e8529e8": {
+          "title": "NTA CSIR UGC NET June Answer Key 2026",
+          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
+          "first_seen": "2026-08-16T05:51:18.809357+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2d1938701a742ef9",
+      "last_page_hash": "240d728f042f874c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 108,
-  "total_alerts": 20,
-  "last_new_job_ts": "2026-08-16T05:24:24.006080+00:00",
+  "total_checks": 109,
+  "total_alerts": 21,
+  "last_new_job_ts": "2026-08-16T05:51:19.344824+00:00",
   "last_heartbeat_key": "2026-08-16-9"
 }
