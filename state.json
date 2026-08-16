@@ -620,9 +620,15 @@
           "url": "https://www.sarkarijobs.com/income-tax-pune-2026-sports-quota-recruitment-drive-announced-85-stenographer-tax-assistant-and-mts-vacancies/",
           "first_seen": "2026-08-15T20:44:29.218428+00:00",
           "eligibility": "eligible"
+        },
+        "e9528757c8da4347": {
+          "title": "BPSSC Recruitment 2026 for 250+ Range Officers, Sub-Inspectors / SI, Company Commander / Gulm Senapati and Other Posts",
+          "url": "https://www.sarkarijobs.com/bpssc-recruitment/",
+          "first_seen": "2026-08-16T04:58:41.967254+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f9dc9997e160964d",
+      "last_page_hash": "ec08d5b450772f15",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1372,8 +1378,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 106,
-  "total_alerts": 18,
-  "last_new_job_ts": "2026-08-15T20:44:29.891752+00:00",
+  "total_checks": 107,
+  "total_alerts": 19,
+  "last_new_job_ts": "2026-08-16T04:58:42.834382+00:00",
   "last_heartbeat_key": "2026-08-16-9"
 }
