@@ -640,7 +640,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1cf8a0557f2a0973",
+      "last_page_hash": "04c2b1813649f0a6",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1414,7 +1414,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 143,
+  "total_checks": 144,
   "total_alerts": 22,
   "last_new_job_ts": "2026-08-16T11:32:21.054048+00:00",
   "last_heartbeat_key": "2026-08-16-21"
