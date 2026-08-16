@@ -1414,8 +1414,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 131,
+  "total_checks": 132,
   "total_alerts": 22,
   "last_new_job_ts": "2026-08-16T11:32:21.054048+00:00",
-  "last_heartbeat_key": "2026-08-16-17"
+  "last_heartbeat_key": "2026-08-16-21"
 }
