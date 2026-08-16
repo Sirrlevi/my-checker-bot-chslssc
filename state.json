@@ -626,9 +626,21 @@
           "url": "https://www.sarkarijobs.com/bpssc-recruitment/",
           "first_seen": "2026-08-16T04:58:41.967254+00:00",
           "eligibility": "unknown"
+        },
+        "6b32624686b71087": {
+          "title": "Rajasthan Safai Karmachari Recruitment 2026 Drive: 24,752 Vacancies Announced Across 183 Urban Local Bodies",
+          "url": "https://www.sarkarijobs.com/rajasthan-safai-karmachari-recruitment-2026-24752-contractual-vacancies-apply-online-by-september-28/",
+          "first_seen": "2026-08-16T11:32:20.223409+00:00",
+          "eligibility": "unknown"
+        },
+        "f75393050624aa79": {
+          "title": "ICAR Recruitment 2026 for Young Professionals – I/II, SRF, Field Assistant and Other Vacancies",
+          "url": "https://www.sarkarijobs.com/icar-recruitment/",
+          "first_seen": "2026-08-16T11:32:20.223430+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ec08d5b450772f15",
+      "last_page_hash": "1cf8a0557f2a0973",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1402,8 +1414,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 121,
-  "total_alerts": 21,
-  "last_new_job_ts": "2026-08-16T05:51:19.344824+00:00",
-  "last_heartbeat_key": "2026-08-16-13"
+  "total_checks": 122,
+  "total_alerts": 22,
+  "last_new_job_ts": "2026-08-16T11:32:21.054048+00:00",
+  "last_heartbeat_key": "2026-08-16-17"
 }
