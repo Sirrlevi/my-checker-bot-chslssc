@@ -764,9 +764,15 @@
           "url": "https://www.sarkarijobs.com/haryana-roadways-karnal-apprentice-recruitment-2026-notice-out-applications-open-for-iti-trade-apprentices/",
           "first_seen": "2026-08-17T13:09:40.336828+00:00",
           "eligibility": "unknown"
+        },
+        "dc4494ba76549ec0": {
+          "title": "MPESB Group-3 Recruitment 2026 Notification Released for 1,040 Sub Engineers, Draftsman, Lab Technicians and Other Vacancies",
+          "url": "https://www.sarkarijobs.com/mpesb-group-3-recruitment-2026-notification-released-for-1040-sub-engineers-draftsman-lab-technicians-and-other-vacancies/",
+          "first_seen": "2026-08-17T13:50:49.619987+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a8af9ea04d8f7fcb",
+      "last_page_hash": "d9c90983be8f2936",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1558,8 +1564,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 177,
-  "total_alerts": 30,
-  "last_new_job_ts": "2026-08-17T13:09:41.128212+00:00",
+  "total_checks": 178,
+  "total_alerts": 31,
+  "last_new_job_ts": "2026-08-17T13:50:50.493992+00:00",
   "last_heartbeat_key": "2026-08-17-17"
 }
