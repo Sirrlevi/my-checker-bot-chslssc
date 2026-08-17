@@ -1540,7 +1540,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 174,
+  "total_checks": 175,
   "total_alerts": 28,
   "last_new_job_ts": "2026-08-17T11:35:13.879661+00:00",
   "last_heartbeat_key": "2026-08-17-17"
