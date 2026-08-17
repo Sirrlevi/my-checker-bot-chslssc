@@ -1430,16 +1430,34 @@
           "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
           "first_seen": "2026-08-16T05:51:18.809357+00:00",
           "eligibility": "unknown"
+        },
+        "3d52b80aa79024a7": {
+          "title": "Indian Army JAG 125th Course April 2027 Online Form – Last Date",
+          "url": "https://www.sarkariexam.com/indian-army-jag-125th-course-april-2027/",
+          "first_seen": "2026-08-17T05:19:21.777382+00:00",
+          "eligibility": "unknown"
+        },
+        "972e319caf8551ab": {
+          "title": "Chhattisgarh State Eligibility Test SET Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-026/",
+          "first_seen": "2026-08-17T05:19:21.777400+00:00",
+          "eligibility": "unknown"
+        },
+        "af45d18582e4f841": {
+          "title": "UPSSSC Forensic Science Laboratory Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
+          "first_seen": "2026-08-17T05:19:21.777406+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "240d728f042f874c",
+      "last_page_hash": "2bf85b37339c5104",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 163,
-  "total_alerts": 23,
-  "last_new_job_ts": "2026-08-17T04:37:56.481736+00:00",
+  "total_checks": 164,
+  "total_alerts": 24,
+  "last_new_job_ts": "2026-08-17T05:19:22.482910+00:00",
   "last_heartbeat_key": "2026-08-17-9"
 }
