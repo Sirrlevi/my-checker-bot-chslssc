@@ -746,9 +746,21 @@
           "url": "https://www.sarkarijobs.com/indian-navy-announces-50-iti-apprentice-vacancies-under-it-03-batch-at-naval-ship-repair-yard/",
           "first_seen": "2026-08-17T11:35:13.233265+00:00",
           "eligibility": "unknown"
+        },
+        "35cbf13770eaa75e": {
+          "title": "BHEL Invites Applications for 380 Trade Apprentice Vacancies; Check Trades and Stipend",
+          "url": "https://www.sarkarijobs.com/bhel-invites-applications-for-380-trade-apprentice-vacancies-check-trades-and-stipend/",
+          "first_seen": "2026-08-17T12:18:43.611473+00:00",
+          "eligibility": "unknown"
+        },
+        "259b77761f78a2d2": {
+          "title": "ISRO LPSC Recruitment 2026 Announced for 18 Technical Assistant, Technician, Draughtsman and Fireman Posts; ITI and Diploma Candidates Eligible",
+          "url": "https://www.sarkarijobs.com/isro-lpsc-recruitment-2026-announced-for-18-posts/",
+          "first_seen": "2026-08-17T12:18:43.611491+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "cf110e2f2b3d5bc7",
+      "last_page_hash": "66273f443a1fb1c9",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1540,8 +1552,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 175,
-  "total_alerts": 28,
-  "last_new_job_ts": "2026-08-17T11:35:13.879661+00:00",
+  "total_checks": 176,
+  "total_alerts": 29,
+  "last_new_job_ts": "2026-08-17T12:18:44.376091+00:00",
   "last_heartbeat_key": "2026-08-17-17"
 }
