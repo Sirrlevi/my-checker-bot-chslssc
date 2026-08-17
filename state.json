@@ -710,9 +710,15 @@
           "url": "https://www.sarkarijobs.com/news/railway-rrb-group-d-admit-card-2026-released-for-level-1-cbt-exam/",
           "first_seen": "2026-08-17T05:53:59.222305+00:00",
           "eligibility": "eligible"
+        },
+        "8816ad1f2e8774ab": {
+          "title": "HAL Apprentice Recruitment 2026 Notification Released: 627 ITI, Graduate and Diploma Apprentice Vacancies Announced",
+          "url": "https://www.sarkarijobs.com/hal-apprentice-recruitment-2026-notification-released-627-iti-graduate-and-diploma-apprentice-vacancies-announced/",
+          "first_seen": "2026-08-17T08:58:15.991915+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "dac58e11b38334c8",
+      "last_page_hash": "f6be0a2db02fba17",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1504,8 +1510,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 168,
-  "total_alerts": 25,
-  "last_new_job_ts": "2026-08-17T05:54:00.414608+00:00",
+  "total_checks": 169,
+  "total_alerts": 26,
+  "last_new_job_ts": "2026-08-17T08:58:16.811643+00:00",
   "last_heartbeat_key": "2026-08-17-13"
 }
