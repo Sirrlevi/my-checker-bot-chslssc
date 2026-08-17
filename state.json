@@ -662,9 +662,57 @@
           "url": "https://www.sarkarijobs.com/news/nta-aiapget-exam-city-details-2026-released-entrance-test-on-august-22/",
           "first_seen": "2026-08-17T04:37:55.605129+00:00",
           "eligibility": "unknown"
+        },
+        "576046ddf439c1af": {
+          "title": "RSSB Ayush Officer Final Result 2026 Declared for 1,535 Posts",
+          "url": "https://www.sarkarijobs.com/news/rssb-ayush-officer-final-result-2026-declared-for-1535-posts/",
+          "first_seen": "2026-08-17T05:53:59.222199+00:00",
+          "eligibility": "unknown"
+        },
+        "eb00e524f5a003eb": {
+          "title": "HPRCA Hindi Teacher Result 2026 Declared for 151 Posts, 375 Candidates Shortlisted for DV",
+          "url": "https://www.sarkarijobs.com/news/hprca-hindi-teacher-result-2026-declared-for-151-posts-375-candidates-shortlisted-for-dv/",
+          "first_seen": "2026-08-17T05:53:59.222234+00:00",
+          "eligibility": "unknown"
+        },
+        "4e5eab3fc33c13d6": {
+          "title": "UPSSSC Lower PCS Exam City Details 2026 Released for August 23 Exam",
+          "url": "https://www.sarkarijobs.com/news/upsssc-lower-pcs-exam-city-details-2026-released-for-august-23-exam/",
+          "first_seen": "2026-08-17T05:53:59.222265+00:00",
+          "eligibility": "unknown"
+        },
+        "4352b5eca55ce80d": {
+          "title": "CNP Nashik Supervisor & Junior Technician Admit Card 2026 Released for 534 Posts",
+          "url": "https://www.sarkarijobs.com/news/cnp-nashik-supervisor-junior-technician-admit-card-2026-released-for-534-posts/",
+          "first_seen": "2026-08-17T05:53:59.222284+00:00",
+          "eligibility": "unknown"
+        },
+        "3495bd4c6dbb9687": {
+          "title": "APTRANSCO AEE Hall Ticket 2026 Released, CBT From August 22",
+          "url": "https://www.sarkarijobs.com/news/aptransco-aee-hall-ticket-2026-released-cbt-from-august-22/",
+          "first_seen": "2026-08-17T05:53:59.222287+00:00",
+          "eligibility": "unknown"
+        },
+        "ebcd55b1b0823e87": {
+          "title": "RSSB Computer Instructor Exam City Details 2026 Released for 3,951 Posts",
+          "url": "https://www.sarkarijobs.com/news/rssb-computer-instructor-exam-city-details-2026-released-for-3951-posts/",
+          "first_seen": "2026-08-17T05:53:59.222295+00:00",
+          "eligibility": "unknown"
+        },
+        "5741d8d5280c2e7d": {
+          "title": "Allahabad High Court Research Associates Admit Card 2026 Released, Exam on August 16",
+          "url": "https://www.sarkarijobs.com/news/allahabad-high-court-research-associates-admit-card-2026-released-exam-on-august-16/",
+          "first_seen": "2026-08-17T05:53:59.222301+00:00",
+          "eligibility": "unknown"
+        },
+        "969785ae49fc6a7a": {
+          "title": "Railway RRB Group D Admit Card 2026 Released for Level-1 CBT Exam",
+          "url": "https://www.sarkarijobs.com/news/railway-rrb-group-d-admit-card-2026-released-for-level-1-cbt-exam/",
+          "first_seen": "2026-08-17T05:53:59.222305+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "d5dc3713fff0ad4a",
+      "last_page_hash": "dac58e11b38334c8",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1456,8 +1504,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 164,
-  "total_alerts": 24,
-  "last_new_job_ts": "2026-08-17T05:19:22.482910+00:00",
+  "total_checks": 165,
+  "total_alerts": 25,
+  "last_new_job_ts": "2026-08-17T05:54:00.414608+00:00",
   "last_heartbeat_key": "2026-08-17-9"
 }
