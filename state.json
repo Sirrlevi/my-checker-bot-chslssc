@@ -740,9 +740,15 @@
           "url": "https://www.sarkarijobs.com/mecon-recruitment-2026-notice-out-for-deputy-manager-manager-and-senior-manager-vacancies/",
           "first_seen": "2026-08-17T10:45:02.758352+00:00",
           "eligibility": "unknown"
+        },
+        "cf369cddeab9d1a8": {
+          "title": "Indian Navy Announces 50 ITI Apprentice Vacancies Under IT-03 Batch at Naval Ship Repair Yard",
+          "url": "https://www.sarkarijobs.com/indian-navy-announces-50-iti-apprentice-vacancies-under-it-03-batch-at-naval-ship-repair-yard/",
+          "first_seen": "2026-08-17T11:35:13.233265+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9292cab5010d1351",
+      "last_page_hash": "cf110e2f2b3d5bc7",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1534,8 +1540,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 173,
-  "total_alerts": 27,
-  "last_new_job_ts": "2026-08-17T10:45:03.399382+00:00",
-  "last_heartbeat_key": "2026-08-17-13"
+  "total_checks": 174,
+  "total_alerts": 28,
+  "last_new_job_ts": "2026-08-17T11:35:13.879661+00:00",
+  "last_heartbeat_key": "2026-08-17-17"
 }
