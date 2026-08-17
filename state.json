@@ -638,9 +638,33 @@
           "url": "https://www.sarkarijobs.com/icar-recruitment/",
           "first_seen": "2026-08-16T11:32:20.223430+00:00",
           "eligibility": "unknown"
+        },
+        "94421a1fa990bf2a": {
+          "title": "RSSB JTA and Account Assistant Final Result 2026 Declared for 2,600 Posts",
+          "url": "https://www.sarkarijobs.com/news/rssb-jta-and-account-assistant-final-result-2026-declared-for-2600-posts/",
+          "first_seen": "2026-08-17T04:37:55.605081+00:00",
+          "eligibility": "unknown"
+        },
+        "51fa3d3655015105": {
+          "title": "Delhi High Court HJS Result 2026 Declared for 27 Higher Judicial Service Posts",
+          "url": "https://www.sarkarijobs.com/news/delhi-high-court-hjs-result-2026-declared-for-27-higher-judicial-service-posts/",
+          "first_seen": "2026-08-17T04:37:55.605099+00:00",
+          "eligibility": "unknown"
+        },
+        "0228164a229378a8": {
+          "title": "BHU Teacher Exam Date 2026 Announced for TGT, PGT, PRT and Principal Posts",
+          "url": "https://www.sarkarijobs.com/news/bhu-teacher-exam-date-2026-announced-for-tgt-pgt-prt-and-principal-posts/",
+          "first_seen": "2026-08-17T04:37:55.605124+00:00",
+          "eligibility": "unknown"
+        },
+        "17a7ba0b722b8beb": {
+          "title": "NTA AIAPGET Exam City Details 2026 Released, Entrance Test on August 22",
+          "url": "https://www.sarkarijobs.com/news/nta-aiapget-exam-city-details-2026-released-entrance-test-on-august-22/",
+          "first_seen": "2026-08-17T04:37:55.605129+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "af34cda824e01873",
+      "last_page_hash": "d5dc3713fff0ad4a",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1414,8 +1438,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 162,
-  "total_alerts": 22,
-  "last_new_job_ts": "2026-08-16T11:32:21.054048+00:00",
+  "total_checks": 163,
+  "total_alerts": 23,
+  "last_new_job_ts": "2026-08-17T04:37:56.481736+00:00",
   "last_heartbeat_key": "2026-08-17-9"
 }
