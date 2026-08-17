@@ -758,9 +758,15 @@
           "url": "https://www.sarkarijobs.com/isro-lpsc-recruitment-2026-announced-for-18-posts/",
           "first_seen": "2026-08-17T12:18:43.611491+00:00",
           "eligibility": "eligible"
+        },
+        "322e691383417f4d": {
+          "title": "Haryana Roadways Karnal Apprentice Recruitment 2026 Notice Out: Applications Open for ITI Trade Apprentices",
+          "url": "https://www.sarkarijobs.com/haryana-roadways-karnal-apprentice-recruitment-2026-notice-out-applications-open-for-iti-trade-apprentices/",
+          "first_seen": "2026-08-17T13:09:40.336828+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "66273f443a1fb1c9",
+      "last_page_hash": "a8af9ea04d8f7fcb",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1552,8 +1558,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 176,
-  "total_alerts": 29,
-  "last_new_job_ts": "2026-08-17T12:18:44.376091+00:00",
+  "total_checks": 177,
+  "total_alerts": 30,
+  "last_new_job_ts": "2026-08-17T13:09:41.128212+00:00",
   "last_heartbeat_key": "2026-08-17-17"
 }
