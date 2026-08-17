@@ -770,9 +770,15 @@
           "url": "https://www.sarkarijobs.com/mpesb-group-3-recruitment-2026-notification-released-for-1040-sub-engineers-draftsman-lab-technicians-and-other-vacancies/",
           "first_seen": "2026-08-17T13:50:49.619987+00:00",
           "eligibility": "unknown"
+        },
+        "3eef43a1613d5fd2": {
+          "title": "More Results",
+          "url": "https://www.sarkarijobs.com/news/results/",
+          "first_seen": "2026-08-17T15:03:38.498577+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d9c90983be8f2936",
+      "last_page_hash": "da850de677a0c62d",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1564,8 +1570,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 180,
-  "total_alerts": 31,
-  "last_new_job_ts": "2026-08-17T13:50:50.493992+00:00",
+  "total_checks": 181,
+  "total_alerts": 32,
+  "last_new_job_ts": "2026-08-17T15:03:39.181710+00:00",
   "last_heartbeat_key": "2026-08-17-17"
 }
