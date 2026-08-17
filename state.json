@@ -716,9 +716,33 @@
           "url": "https://www.sarkarijobs.com/hal-apprentice-recruitment-2026-notification-released-627-iti-graduate-and-diploma-apprentice-vacancies-announced/",
           "first_seen": "2026-08-17T08:58:15.991915+00:00",
           "eligibility": "unknown"
+        },
+        "f4b49882f7fd9dac": {
+          "title": "HNBGU Announces Recruitment for 27 Non-Teaching Group B Vacancies, Candidates Can Apply Online by September 16",
+          "url": "https://www.sarkarijobs.com/hnbgu-announces-recruitment-for-27-non-teaching-group-b-vacancies/",
+          "first_seen": "2026-08-17T10:45:02.758318+00:00",
+          "eligibility": "unknown"
+        },
+        "51bfa7952401f6f1": {
+          "title": "KVS Samvida Sathi Portal 2026 Opens Centralised Registration for Teachers and Staff, Here’s How to Register & Apply Online",
+          "url": "https://www.sarkarijobs.com/kvs-samvida-sathi-portal-2026-opens-centralised-registration-for-teachers-and-staff-heres-how-to-register-apply-online/",
+          "first_seen": "2026-08-17T10:45:02.758339+00:00",
+          "eligibility": "unknown"
+        },
+        "783854e3931009bf": {
+          "title": "Nalanda University Non-Teaching Vacancies Announced for 2026 Recruitment Drive , Apply Online by August 31",
+          "url": "https://www.sarkarijobs.com/nalanda-university-non-teaching-vacancies-announced-for-2026-recruitment-drive-apply-online-by-august-31/",
+          "first_seen": "2026-08-17T10:45:02.758345+00:00",
+          "eligibility": "unknown"
+        },
+        "6c3651f40d5c8ca8": {
+          "title": "MECON Recruitment 2026 Notice Out for Deputy Manager, Manager and Senior Manager Vacancies, Grade-wise Salary Between ₹60,000–₹2,40,000,",
+          "url": "https://www.sarkarijobs.com/mecon-recruitment-2026-notice-out-for-deputy-manager-manager-and-senior-manager-vacancies/",
+          "first_seen": "2026-08-17T10:45:02.758352+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f6be0a2db02fba17",
+      "last_page_hash": "9292cab5010d1351",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1510,8 +1534,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 171,
-  "total_alerts": 26,
-  "last_new_job_ts": "2026-08-17T08:58:16.811643+00:00",
+  "total_checks": 172,
+  "total_alerts": 27,
+  "last_new_job_ts": "2026-08-17T10:45:03.399382+00:00",
   "last_heartbeat_key": "2026-08-17-13"
 }
