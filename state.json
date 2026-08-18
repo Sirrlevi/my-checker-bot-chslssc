@@ -1640,16 +1640,28 @@
           "url": "https://www.sarkariexam.com/ssc-chsl-2025/",
           "first_seen": "2026-08-18T05:27:07.751652+00:00",
           "eligibility": "eligible"
+        },
+        "3f792cde056caa34": {
+          "title": "UPSSSC Gram Panchayat Adhikari VDO 2023 Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-vdo-2023/",
+          "first_seen": "2026-08-18T05:53:05.397501+00:00",
+          "eligibility": "unknown"
+        },
+        "8ee1b866758f00f7": {
+          "title": "Bihar Vidhan Parishad LDC, DEO & PA Result / Score Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
+          "first_seen": "2026-08-18T05:53:05.397559+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "51c9259b2b4a90d6",
+      "last_page_hash": "9b00a4f81cf528c5",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 209,
-  "total_alerts": 35,
-  "last_new_job_ts": "2026-08-18T05:27:08.456925+00:00",
+  "total_checks": 210,
+  "total_alerts": 36,
+  "last_new_job_ts": "2026-08-18T05:53:06.194835+00:00",
   "last_heartbeat_key": "2026-08-18-9"
 }
