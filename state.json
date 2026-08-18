@@ -1610,16 +1610,34 @@
           "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
           "first_seen": "2026-08-17T05:19:21.777406+00:00",
           "eligibility": "unknown"
+        },
+        "4523f6a199506086": {
+          "title": "Indian Airforce Agniveer Vayu Musician Intake 01/2027 Admit Card",
+          "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-musician-intake-01-2027-online-form/",
+          "first_seen": "2026-08-18T04:59:17.527016+00:00",
+          "eligibility": "unknown"
+        },
+        "e97f25034c0f88dd": {
+          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
+          "first_seen": "2026-08-18T04:59:17.527058+00:00",
+          "eligibility": "unknown"
+        },
+        "10b07a4efb42c507": {
+          "title": "UPSRTC Bus Conductor Online Form 2026 (43 Posts)",
+          "url": "https://www.sarkariexam.com/upsrtc-conductor-2026-2/",
+          "first_seen": "2026-08-18T04:59:17.527126+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2bf85b37339c5104",
+      "last_page_hash": "e4b4a5990c8fc43b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 207,
-  "total_alerts": 33,
-  "last_new_job_ts": "2026-08-18T04:24:14.775468+00:00",
+  "total_checks": 208,
+  "total_alerts": 34,
+  "last_new_job_ts": "2026-08-18T04:59:18.132277+00:00",
   "last_heartbeat_key": "2026-08-18-9"
 }
