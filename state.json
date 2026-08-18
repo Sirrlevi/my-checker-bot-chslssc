@@ -1738,13 +1738,13 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ad8d00e56a81f855",
+      "last_page_hash": "6f6a40dfebff5a0a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 221,
+  "total_checks": 222,
   "total_alerts": 43,
   "last_new_job_ts": "2026-08-18T10:39:50.731244+00:00",
   "last_heartbeat_key": "2026-08-18-17"
