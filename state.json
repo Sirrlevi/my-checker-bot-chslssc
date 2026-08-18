@@ -776,9 +776,57 @@
           "url": "https://www.sarkarijobs.com/news/results/",
           "first_seen": "2026-08-17T15:03:38.498577+00:00",
           "eligibility": "unknown"
+        },
+        "edec599be8b000fa": {
+          "title": "SSC CHSL FRTA Result 2026 Released, 3,515 Candidates Recommended for Document Verification",
+          "url": "https://www.sarkarijobs.com/news/ssc-chsl-frta-result-2026-released-3515-candidates-recommended-for-document-verification/",
+          "first_seen": "2026-08-18T04:24:13.858959+00:00",
+          "eligibility": "eligible"
+        },
+        "25a6cb4b42b936a9": {
+          "title": "KVS NVS Tier-2 Result 2026 Released for 15,000+ PGT, TGT, Finance Officer, Stenographer & Other Posts, Check Scorecare",
+          "url": "https://www.sarkarijobs.com/news/kvs-nvs-tier-2-result-2026-released-for-15000-pgt-tgt-finance-officer-stenographer-other-posts-check-scorecare/",
+          "first_seen": "2026-08-18T04:24:13.858978+00:00",
+          "eligibility": "eligible"
+        },
+        "d71224275cb3cf4c": {
+          "title": "RSSB Forester Result 2026 Declared for 259 Posts, Check Merit List and Result",
+          "url": "https://www.sarkarijobs.com/news/rssb-forester-result-2026-declared-for-259-posts-check-merit-list-and-result/",
+          "first_seen": "2026-08-18T04:24:13.858985+00:00",
+          "eligibility": "unknown"
+        },
+        "74aa6981f07f83f9": {
+          "title": "KVS NVS Tier-II Result 2026 Released for 15,762 Teaching and Non-Teaching Posts",
+          "url": "https://www.sarkarijobs.com/news/kvs-nvs-tier-ii-result-2026-released-for-15762-teaching-and-non-teaching-posts/",
+          "first_seen": "2026-08-18T04:24:13.858990+00:00",
+          "eligibility": "unknown"
+        },
+        "71a61a2661dbbaee": {
+          "title": "RSSB Lab Assistant Result 2026 Released for 804 Posts, Check Merit List and Result",
+          "url": "https://www.sarkarijobs.com/news/rssb-lab-assistant-result-2026-released-for-804-posts-check-merit-list-and-result/",
+          "first_seen": "2026-08-18T04:24:13.858995+00:00",
+          "eligibility": "unknown"
+        },
+        "e11b3a47812ade4f": {
+          "title": "Indian Air Force Agniveervayu Musician Admit Card 2026 Released for Intake 01/2027, Rally From August 31",
+          "url": "https://www.sarkarijobs.com/news/indian-air-force-agniveervayu-musician-admit-card-2026-released-for-intake-01-2027-rally-from-august-31/",
+          "first_seen": "2026-08-18T04:24:13.859020+00:00",
+          "eligibility": "unknown"
+        },
+        "b55ab90282ca6615": {
+          "title": "Haryana Court Clerk Admit Card 2026 Released for 1,265 Posts, CBT From August 24",
+          "url": "https://www.sarkarijobs.com/news/haryana-court-clerk-admit-card-2026-released-for-1265-posts-cbt-from-august-24/",
+          "first_seen": "2026-08-18T04:24:13.859028+00:00",
+          "eligibility": "unknown"
+        },
+        "8781c5074cbb0ee8": {
+          "title": "UGC NET June 2026 Re-Exam Announced for English, Commerce and Sociology, Check Exam Dates",
+          "url": "https://www.sarkarijobs.com/news/ugc-net-june-2026-re-exam-announced-for-english-commerce-and-sociology-check-exam-dates/",
+          "first_seen": "2026-08-18T04:24:13.859034+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "acf829c9ced9e916",
+      "last_page_hash": "9c4d01db9e497bf7",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1570,8 +1618,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 206,
-  "total_alerts": 32,
-  "last_new_job_ts": "2026-08-17T15:03:39.181710+00:00",
+  "total_checks": 207,
+  "total_alerts": 33,
+  "last_new_job_ts": "2026-08-18T04:24:14.775468+00:00",
   "last_heartbeat_key": "2026-08-18-9"
 }
