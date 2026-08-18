@@ -1676,16 +1676,22 @@
           "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-online-form-2026/",
           "first_seen": "2026-08-18T09:00:50.166917+00:00",
           "eligibility": "unknown"
+        },
+        "0864b7db863eac0d": {
+          "title": "MPESB Group 3 Sub Engineer & Other Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
+          "first_seen": "2026-08-18T09:43:03.870049+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b0385cdc0203c33f",
+      "last_page_hash": "a89d0e58eedee563",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 215,
-  "total_alerts": 40,
-  "last_new_job_ts": "2026-08-18T09:00:50.816729+00:00",
+  "total_checks": 216,
+  "total_alerts": 41,
+  "last_new_job_ts": "2026-08-18T09:43:04.433500+00:00",
   "last_heartbeat_key": "2026-08-18-13"
 }
