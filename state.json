@@ -1628,16 +1628,28 @@
           "url": "https://www.sarkariexam.com/upsrtc-conductor-2026-2/",
           "first_seen": "2026-08-18T04:59:17.527126+00:00",
           "eligibility": "unknown"
+        },
+        "2f7db80048108ab7": {
+          "title": "KVS NVS Teaching & Non-Teaching Tier-II Result 2026",
+          "url": "https://www.sarkariexam.com/kvs-nvs-teaching-non-teaching-2026/",
+          "first_seen": "2026-08-18T05:27:07.751631+00:00",
+          "eligibility": "unknown"
+        },
+        "2dafc22b225de711": {
+          "title": "SSC 10+2 CHSL FRTA Result 2026",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2025/",
+          "first_seen": "2026-08-18T05:27:07.751652+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "e4b4a5990c8fc43b",
+      "last_page_hash": "51c9259b2b4a90d6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 208,
-  "total_alerts": 34,
-  "last_new_job_ts": "2026-08-18T04:59:18.132277+00:00",
+  "total_checks": 209,
+  "total_alerts": 35,
+  "last_new_job_ts": "2026-08-18T05:27:08.456925+00:00",
   "last_heartbeat_key": "2026-08-18-9"
 }
