@@ -1724,16 +1724,28 @@
           "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
           "first_seen": "2026-08-18T09:43:03.870049+00:00",
           "eligibility": "unknown"
+        },
+        "97af59ce4e76413f": {
+          "title": "SBI Clerk Online Form (9124 Posts)",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
+          "first_seen": "2026-08-18T10:39:50.070346+00:00",
+          "eligibility": "unknown"
+        },
+        "1c7dd595389125f2": {
+          "title": "MPESB Primary & Middle School Teacher Online Form 2026",
+          "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
+          "first_seen": "2026-08-18T10:39:50.070402+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a89d0e58eedee563",
+      "last_page_hash": "d710e15308b83f4a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 217,
-  "total_alerts": 42,
-  "last_new_job_ts": "2026-08-18T10:04:27.227272+00:00",
+  "total_checks": 218,
+  "total_alerts": 43,
+  "last_new_job_ts": "2026-08-18T10:39:50.731244+00:00",
   "last_heartbeat_key": "2026-08-18-13"
 }
