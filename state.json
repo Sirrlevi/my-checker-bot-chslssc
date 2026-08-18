@@ -830,9 +830,51 @@
           "url": "https://www.sarkarijobs.com/bank-of-baroda-lbo-recruitment-2026-2482-local-bank-officer-vacancies-announced/",
           "first_seen": "2026-08-18T06:22:41.676935+00:00",
           "eligibility": "unknown"
+        },
+        "12a3495cb95efb18": {
+          "title": "BHEL Recruitment 2026 Notice Out for 10 Safety Supervisor Posts, Apply Online by September 7",
+          "url": "https://www.sarkarijobs.com/bhel-recruitment-2026-notice-out-for-10-safety-supervisor-posts-apply-online-by-september-7/",
+          "first_seen": "2026-08-18T10:04:26.535929+00:00",
+          "eligibility": "unknown"
+        },
+        "6e15619b374b7da7": {
+          "title": "BEML Recruitment 2026 Notice Out for 10 Diploma Electronics Non-Executive Posts",
+          "url": "https://www.sarkarijobs.com/beml-non-executive-recruitment-2026-10-diploma-electronics-vacancies-announced/",
+          "first_seen": "2026-08-18T10:04:26.535950+00:00",
+          "eligibility": "unknown"
+        },
+        "400cf6bbd1c3aa03": {
+          "title": "MPESB Patwari Recruitment 2026: 2,106 Special Recruitment Vacancies, Apply Online by August 18",
+          "url": "https://www.sarkarijobs.com/mpesb-patwari-recruitment-2026-2106-special-recruitment-vacancies-apply-online-by-august-18/",
+          "first_seen": "2026-08-18T10:04:26.535954+00:00",
+          "eligibility": "unknown"
+        },
+        "d76d1f1bafe3eb20": {
+          "title": "Haryana Police SPO Recruitment 2026: 400 Special Police Officer Vacancies, District-Wise Schedule Released",
+          "url": "https://www.sarkarijobs.com/haryana-police-spo-recruitment-2026-400-special-police-officer-vacancies-district-wise-schedule-released/",
+          "first_seen": "2026-08-18T10:04:26.535958+00:00",
+          "eligibility": "unknown"
+        },
+        "36432b302faabc10": {
+          "title": "CSIR Technician Recruitment 2026: 43 Technician Vacancies, Apply Online by September 17",
+          "url": "https://www.sarkarijobs.com/csir-technician-recruitment-2026-43-technician-vacancies-apply-online-by-september-17/",
+          "first_seen": "2026-08-18T10:04:26.535964+00:00",
+          "eligibility": "unknown"
+        },
+        "34173c6e240d4233": {
+          "title": "HKRN Recruitment 2026: Overseas and Private-Sector Vacancies Open, Apply Online",
+          "url": "https://www.sarkarijobs.com/hkrn-recruitment-2026-overseas-and-private-sector-vacancies-open-apply-online/",
+          "first_seen": "2026-08-18T10:04:26.535967+00:00",
+          "eligibility": "unknown"
+        },
+        "5980a747f38552cf": {
+          "title": "AIIMS Jammu Recruitment 2026: 40 Senior Resident and Demonstrator Vacancies, Apply by August 27",
+          "url": "https://www.sarkarijobs.com/aiims-jammu-recruitment-2026-40-senior-resident-and-demonstrator-vacancies-apply-by-august-27/",
+          "first_seen": "2026-08-18T10:04:26.535971+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "10a07a15027a3c23",
+      "last_page_hash": "a10b73de2c4c4370",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1690,8 +1732,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 216,
-  "total_alerts": 41,
-  "last_new_job_ts": "2026-08-18T09:43:04.433500+00:00",
+  "total_checks": 217,
+  "total_alerts": 42,
+  "last_new_job_ts": "2026-08-18T10:04:27.227272+00:00",
   "last_heartbeat_key": "2026-08-18-13"
 }
