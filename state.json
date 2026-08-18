@@ -824,9 +824,15 @@
           "url": "https://www.sarkarijobs.com/news/ugc-net-june-2026-re-exam-announced-for-english-commerce-and-sociology-check-exam-dates/",
           "first_seen": "2026-08-18T04:24:13.859034+00:00",
           "eligibility": "unknown"
+        },
+        "3d50eb83ab75e2b4": {
+          "title": "Bank of Baroda LBO Recruitment 2026 Notice Out: 2,482 Local Bank Officer Vacancies Announced",
+          "url": "https://www.sarkarijobs.com/bank-of-baroda-lbo-recruitment-2026-2482-local-bank-officer-vacancies-announced/",
+          "first_seen": "2026-08-18T06:22:41.676935+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9c4d01db9e497bf7",
+      "last_page_hash": "95fedcaa53dd3b40",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1652,16 +1658,22 @@
           "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
           "first_seen": "2026-08-18T05:53:05.397559+00:00",
           "eligibility": "unknown"
+        },
+        "9fead2f9ff801570": {
+          "title": "Bihar Vidhan Parishad Security Guard 03/2023 Final Result / Score Card",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-2023/",
+          "first_seen": "2026-08-18T06:22:42.128730+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9b00a4f81cf528c5",
+      "last_page_hash": "95259cfa6ee66695",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 210,
-  "total_alerts": 36,
-  "last_new_job_ts": "2026-08-18T05:53:06.194835+00:00",
+  "total_checks": 211,
+  "total_alerts": 38,
+  "last_new_job_ts": "2026-08-18T06:22:44.630484+00:00",
   "last_heartbeat_key": "2026-08-18-9"
 }
