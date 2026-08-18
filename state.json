@@ -1736,16 +1736,28 @@
           "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
           "first_seen": "2026-08-18T10:39:50.070402+00:00",
           "eligibility": "unknown"
+        },
+        "18fe25002629627b": {
+          "title": "NBEMS Group A, B & C Various Post Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/nbems-group-a-b-c-various-post-2026/",
+          "first_seen": "2026-08-18T13:03:13.142984+00:00",
+          "eligibility": "unknown"
+        },
+        "538362717ce717ff": {
+          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Online Form 2026 – Date Extended",
+          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
+          "first_seen": "2026-08-18T13:03:13.143024+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6f6a40dfebff5a0a",
+      "last_page_hash": "d2da7a99942ca6e9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 222,
-  "total_alerts": 43,
-  "last_new_job_ts": "2026-08-18T10:39:50.731244+00:00",
+  "total_checks": 223,
+  "total_alerts": 44,
+  "last_new_job_ts": "2026-08-18T13:03:13.696967+00:00",
   "last_heartbeat_key": "2026-08-18-17"
 }
