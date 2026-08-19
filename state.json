@@ -1784,16 +1784,22 @@
           "url": "https://www.sarkariexam.com/igcar-trade-apprentice-2026/",
           "first_seen": "2026-08-19T05:31:22.833709+00:00",
           "eligibility": "unknown"
+        },
+        "9a4710194a98f71c": {
+          "title": "BSF HCM & ASI Steno Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
+          "first_seen": "2026-08-19T08:22:54.309534+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "be1402e52d61c261",
+      "last_page_hash": "3bf1eb8b94f045c7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 258,
-  "total_alerts": 46,
-  "last_new_job_ts": "2026-08-19T05:31:23.460893+00:00",
+  "total_checks": 259,
+  "total_alerts": 47,
+  "last_new_job_ts": "2026-08-19T08:22:54.849635+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
