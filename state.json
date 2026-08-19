@@ -1790,16 +1790,22 @@
           "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
           "first_seen": "2026-08-19T08:22:54.309534+00:00",
           "eligibility": "eligible"
+        },
+        "1a41901594199f6d": {
+          "title": "CCI Various Post Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
+          "first_seen": "2026-08-19T09:02:00.333509+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3bf1eb8b94f045c7",
+      "last_page_hash": "c0433f32b9c00a14",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 259,
-  "total_alerts": 47,
-  "last_new_job_ts": "2026-08-19T08:22:54.849635+00:00",
+  "total_checks": 260,
+  "total_alerts": 48,
+  "last_new_job_ts": "2026-08-19T09:02:00.873285+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
