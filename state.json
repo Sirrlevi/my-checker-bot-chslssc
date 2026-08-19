@@ -932,9 +932,27 @@
           "url": "https://www.sarkarijobs.com/sjvn-recruitment/",
           "first_seen": "2026-08-19T10:05:04.071944+00:00",
           "eligibility": "unknown"
+        },
+        "02116458f2cf0c92": {
+          "title": "UPSC EPFO APFC Recruitment 2026 Announced: Apply Online to 80 Assistant Provident Fund Commissioner Vacancies from August 22",
+          "url": "https://www.sarkarijobs.com/upsc-epfo-apfc-recruitment-2026-announced-apply-online-to-80-assistant-provident-fund-commissioner-vacancies/",
+          "first_seen": "2026-08-19T10:39:09.459853+00:00",
+          "eligibility": "unknown"
+        },
+        "90ecb8f120b8dd29": {
+          "title": "Cochin Shipyard Recruitment 2026: 60 Ship Draftsman Trainee Vacancies, Apply Online by September 4",
+          "url": "https://www.sarkarijobs.com/cochin-shipyard-recruitment-2026-60-ship-draftsman-trainee-vacancies-apply-online-by-september-4/",
+          "first_seen": "2026-08-19T10:39:09.459872+00:00",
+          "eligibility": "unknown"
+        },
+        "bebfe844921dff65": {
+          "title": "RRC NCR Apprentice Recruitment 2026: 1,853 Railway Apprentice Slots, Apply Online by August 31",
+          "url": "https://www.sarkarijobs.com/rrc-ncr-apprentice-recruitment-2026-1853-railway-apprentice-slots-apply-online-by-august-31/",
+          "first_seen": "2026-08-19T10:39:09.459878+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3c267880c78f4326",
+      "last_page_hash": "c2c710ed09c28e36",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1858,8 +1876,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 262,
-  "total_alerts": 50,
-  "last_new_job_ts": "2026-08-19T10:05:05.017946+00:00",
+  "total_checks": 263,
+  "total_alerts": 51,
+  "last_new_job_ts": "2026-08-19T10:39:10.230144+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
