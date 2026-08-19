@@ -1900,7 +1900,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 282,
+  "total_checks": 283,
   "total_alerts": 54,
   "last_new_job_ts": "2026-08-19T13:03:59.334923+00:00",
   "last_heartbeat_key": "2026-08-19-21"
