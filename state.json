@@ -890,9 +890,51 @@
           "url": "https://www.sarkarijobs.com/aiims-bibinagar-recruitment-2026-latest-notice-released-for-16-posts/",
           "first_seen": "2026-08-19T03:54:42.650426+00:00",
           "eligibility": "unknown"
+        },
+        "de2dbaac8bde98d4": {
+          "title": "BEML Apprentice Notification Released, Apply Online to 1,346 Graduate, Diploma and ITI Training Slots",
+          "url": "https://www.sarkarijobs.com/beml-apprentice-notification-released-apply-online-to-1346-graduate-diploma-and-iti-training-slots/",
+          "first_seen": "2026-08-19T10:05:04.071908+00:00",
+          "eligibility": "unknown"
+        },
+        "9ce32daa2bdab278": {
+          "title": "NGEL Advt No.04/26 Recruitment 2026 Notice Released for 147 Engineer and Executive Vacancies, Download Full Notification Available",
+          "url": "https://www.sarkarijobs.com/ngel-advt-no-04-26-recruitment-2026-notice-released-for-147-engineer-and-executive-vacancies/",
+          "first_seen": "2026-08-19T10:05:04.071924+00:00",
+          "eligibility": "unknown"
+        },
+        "eafc179c0f1b724c": {
+          "title": "Sahitya Akademi Recruitment 2026: 29 Clerk, MTS, Stenographer and Other Vacancies, Apply by September 21",
+          "url": "https://www.sarkarijobs.com/sahitya-akademi-recruitment-2026-29-clerk-mts-stenographer-and-other-vacancies-apply-by-september-21/",
+          "first_seen": "2026-08-19T10:05:04.071929+00:00",
+          "eligibility": "eligible"
+        },
+        "bb6906413221c7c9": {
+          "title": "AIIMS Nagpur Non-Faculty Recruitment 2026: 9 Group-A Vacancies, Apply Online by September 7",
+          "url": "https://www.sarkarijobs.com/aiims-nagpur-non-faculty-recruitment-2026-9-group-a-vacancies-apply-online-by-september-7/",
+          "first_seen": "2026-08-19T10:05:04.071932+00:00",
+          "eligibility": "unknown"
+        },
+        "30aaa494953bc2ed": {
+          "title": "HURL Recruitment 2026 for 75+ Executive, Non-Executive & Other Posts",
+          "url": "https://www.sarkarijobs.com/hurl-recruitment/",
+          "first_seen": "2026-08-19T10:05:04.071936+00:00",
+          "eligibility": "unknown"
+        },
+        "ac37a4183d5e9d52": {
+          "title": "Rail Wheel Factory Recruitment 2026 for 30+ Sportsperson, Sports Quota / Group C and Other Posts",
+          "url": "https://www.sarkarijobs.com/rail-wheel-factory-recruitment/",
+          "first_seen": "2026-08-19T10:05:04.071940+00:00",
+          "eligibility": "unknown"
+        },
+        "d3adc3a93251c28a": {
+          "title": "SJVN Recruitment 2026 for Engineers, Deputy Managers, CGM and Other Vacancies",
+          "url": "https://www.sarkarijobs.com/sjvn-recruitment/",
+          "first_seen": "2026-08-19T10:05:04.071944+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "528cd1562e8cd681",
+      "last_page_hash": "3c267880c78f4326",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1816,8 +1858,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 261,
-  "total_alerts": 49,
-  "last_new_job_ts": "2026-08-19T09:43:40.838030+00:00",
+  "total_checks": 262,
+  "total_alerts": 50,
+  "last_new_job_ts": "2026-08-19T10:05:05.017946+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
