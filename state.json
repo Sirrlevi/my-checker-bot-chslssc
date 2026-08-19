@@ -872,9 +872,27 @@
           "url": "https://www.sarkarijobs.com/aiims-jammu-recruitment-2026-40-senior-resident-and-demonstrator-vacancies-apply-by-august-27/",
           "first_seen": "2026-08-18T10:04:26.535971+00:00",
           "eligibility": "unknown"
+        },
+        "cc73be945e44d6c4": {
+          "title": "NTPC EET Recruitment 2027 Through GATE: Advance Notification Out for Engineering Executive Trainee Posts",
+          "url": "https://www.sarkarijobs.com/ntpc-eet-recruitment-2027-through-gate-advance-notification-out-for-engineering-executive-trainee-posts/",
+          "first_seen": "2026-08-19T03:54:42.650402+00:00",
+          "eligibility": "unknown"
+        },
+        "764fdc026c22b80a": {
+          "title": "SBI Clerk Recruitment 2026 Notice Out: Check 9,766 Junior Associate Vacancies, Exam Pattern, Selection Process & PDF Download",
+          "url": "https://www.sarkarijobs.com/sbi-clerk-recruitment-2026-notice-out-check-9766-junior-associate-vacancies/",
+          "first_seen": "2026-08-19T03:54:42.650420+00:00",
+          "eligibility": "unknown"
+        },
+        "281ddd14296c43b5": {
+          "title": "AIIMS Bibinagar Recruitment 2026 Latest Notice Released for Medical Superintendent, Advisor, Nursing Superintendent, Technician and UDC Vacancies",
+          "url": "https://www.sarkarijobs.com/aiims-bibinagar-recruitment-2026-latest-notice-released-for-16-posts/",
+          "first_seen": "2026-08-19T03:54:42.650426+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a10b73de2c4c4370",
+      "last_page_hash": "528cd1562e8cd681",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1756,8 +1774,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 250,
-  "total_alerts": 44,
-  "last_new_job_ts": "2026-08-18T13:03:13.696967+00:00",
-  "last_heartbeat_key": "2026-08-18-21"
+  "total_checks": 251,
+  "total_alerts": 45,
+  "last_new_job_ts": "2026-08-19T03:54:43.305854+00:00",
+  "last_heartbeat_key": "2026-08-19-9"
 }
