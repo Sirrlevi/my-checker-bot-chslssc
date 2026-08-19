@@ -1880,16 +1880,28 @@
           "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
           "first_seen": "2026-08-19T11:23:50.439824+00:00",
           "eligibility": "unknown"
+        },
+        "5f58e0ba9cd4a90b": {
+          "title": "Rajasthan Safai Karamchari Online Form 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
+          "first_seen": "2026-08-19T13:03:58.465294+00:00",
+          "eligibility": "unknown"
+        },
+        "668d733f92addfc2": {
+          "title": "Bank Of Baroda LBO Online Form 2026",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
+          "first_seen": "2026-08-19T13:03:58.465335+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8c420d40e090ed24",
+      "last_page_hash": "1b242189e7c3ff5e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 267,
-  "total_alerts": 53,
-  "last_new_job_ts": "2026-08-19T11:23:51.218591+00:00",
+  "total_checks": 268,
+  "total_alerts": 54,
+  "last_new_job_ts": "2026-08-19T13:03:59.334923+00:00",
   "last_heartbeat_key": "2026-08-19-17"
 }
