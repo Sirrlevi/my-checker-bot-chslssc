@@ -1874,16 +1874,22 @@
           "url": "https://www.sarkariexam.com/iit-jam-2027/",
           "first_seen": "2026-08-19T10:59:33.729390+00:00",
           "eligibility": "unknown"
+        },
+        "c9c528cfce7d5a6e": {
+          "title": "UPSC EPFO APFC Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
+          "first_seen": "2026-08-19T11:23:50.439824+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9a541b0017687bd2",
+      "last_page_hash": "8c420d40e090ed24",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 264,
-  "total_alerts": 52,
-  "last_new_job_ts": "2026-08-19T10:59:34.491242+00:00",
+  "total_checks": 265,
+  "total_alerts": 53,
+  "last_new_job_ts": "2026-08-19T11:23:51.218591+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
