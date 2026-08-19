@@ -1868,16 +1868,22 @@
           "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
           "first_seen": "2026-08-19T09:43:40.249768+00:00",
           "eligibility": "unknown"
+        },
+        "3c1b65614f027e35": {
+          "title": "IIT JAM Online Form 2027",
+          "url": "https://www.sarkariexam.com/iit-jam-2027/",
+          "first_seen": "2026-08-19T10:59:33.729390+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "190ac10ef7c94738",
+      "last_page_hash": "9a541b0017687bd2",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 263,
-  "total_alerts": 51,
-  "last_new_job_ts": "2026-08-19T10:39:10.230144+00:00",
+  "total_checks": 264,
+  "total_alerts": 52,
+  "last_new_job_ts": "2026-08-19T10:59:34.491242+00:00",
   "last_heartbeat_key": "2026-08-19-13"
 }
