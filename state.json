@@ -1766,16 +1766,34 @@
           "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
           "first_seen": "2026-08-18T13:03:13.143024+00:00",
           "eligibility": "unknown"
+        },
+        "4a209ed4eb237874": {
+          "title": "NTA AIAPGET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
+          "first_seen": "2026-08-19T05:31:22.833679+00:00",
+          "eligibility": "unknown"
+        },
+        "1534363370e8aeaf": {
+          "title": "Railway NFR Apprentice Online Form 2026 (6777 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/railway-nfr-apprentice-2026/",
+          "first_seen": "2026-08-19T05:31:22.833706+00:00",
+          "eligibility": "unknown"
+        },
+        "f4ee1b0e54378027": {
+          "title": "IGCAR Trade Apprentice Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/igcar-trade-apprentice-2026/",
+          "first_seen": "2026-08-19T05:31:22.833709+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d2da7a99942ca6e9",
+      "last_page_hash": "7f18e4d65322ccc9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 253,
-  "total_alerts": 45,
-  "last_new_job_ts": "2026-08-19T03:54:43.305854+00:00",
+  "total_checks": 254,
+  "total_alerts": 46,
+  "last_new_job_ts": "2026-08-19T05:31:23.460893+00:00",
   "last_heartbeat_key": "2026-08-19-9"
 }
