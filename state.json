@@ -1022,9 +1022,21 @@
           "url": "https://www.sarkarijobs.com/esic-hyderabad-announces-67-faculty-and-senior-resident-vacancies-walk-in-interviews-scheduled/",
           "first_seen": "2026-08-20T09:56:49.292480+00:00",
           "eligibility": "unknown"
+        },
+        "1cb3f7c1f686a004": {
+          "title": "Cochin Shipyard Recruitment for 26 Production & Commissioning Posts Announced, Apply by September 4",
+          "url": "https://www.sarkarijobs.com/cochin-shipyard-recruitment-for-26-production-commissioning-posts-announced-apply-by-september-4/",
+          "first_seen": "2026-08-20T11:44:38.760803+00:00",
+          "eligibility": "unknown"
+        },
+        "48b89e53dfd02385": {
+          "title": "ESIC Kollam Walk-In Recruitment 2026: 27 Super Specialist, Specialist and Senior Resident Vacancies",
+          "url": "https://www.sarkarijobs.com/esic-kollam-walk-in-recruitment-2026-27-super-specialist-specialist-and-senior-resident-vacancies/",
+          "first_seen": "2026-08-20T11:44:38.760820+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ccc8642399e501e8",
+      "last_page_hash": "7261a55072ea28b3",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1994,16 +2006,22 @@
           "url": "https://www.sarkariexam.com/ssc-mts-havaldar-2026/",
           "first_seen": "2026-08-20T11:16:12.147399+00:00",
           "eligibility": "eligible"
+        },
+        "b0add89067d542da": {
+          "title": "NICL Assistant Admit Card 2026",
+          "url": "https://www.sarkariexam.com/national-insurance-nicl-assistant-2026/",
+          "first_seen": "2026-08-20T11:44:39.217390+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "fe0d84303e450a29",
+      "last_page_hash": "e8cfb6e5411e4305",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 309,
-  "total_alerts": 61,
-  "last_new_job_ts": "2026-08-20T11:16:12.778538+00:00",
-  "last_heartbeat_key": "2026-08-20-13"
+  "total_checks": 310,
+  "total_alerts": 63,
+  "last_new_job_ts": "2026-08-20T11:44:42.211819+00:00",
+  "last_heartbeat_key": "2026-08-20-17"
 }
