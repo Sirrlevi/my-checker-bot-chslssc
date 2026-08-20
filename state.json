@@ -2036,16 +2036,22 @@
           "url": "https://www.sarkariexam.com/upsrtc-gonda-bahraich-balrampur-bus-conductor-2026/",
           "first_seen": "2026-08-20T12:03:08.366050+00:00",
           "eligibility": "unknown"
+        },
+        "08dfb8d795976af2": {
+          "title": "AIBE 22nd Online Form 2026",
+          "url": "https://www.sarkariexam.com/aibe-22nd-2026/",
+          "first_seen": "2026-08-20T13:05:56.954648+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "259fd67dccaee40f",
+      "last_page_hash": "554c648718064088",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 311,
-  "total_alerts": 65,
-  "last_new_job_ts": "2026-08-20T12:03:11.029732+00:00",
+  "total_checks": 312,
+  "total_alerts": 66,
+  "last_new_job_ts": "2026-08-20T13:05:57.653616+00:00",
   "last_heartbeat_key": "2026-08-20-17"
 }
