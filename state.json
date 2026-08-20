@@ -950,9 +950,45 @@
           "url": "https://www.sarkarijobs.com/rrc-ncr-apprentice-recruitment-2026-1853-railway-apprentice-slots-apply-online-by-august-31/",
           "first_seen": "2026-08-19T10:39:09.459878+00:00",
           "eligibility": "unknown"
+        },
+        "9d5560ac530d59ad": {
+          "title": "StockHolding Announces 2026 Recruitment Notice for 67 Executive and CISO Vacancies, Online Applications Open",
+          "url": "https://www.sarkarijobs.com/stockholding-announces-2026-recruitment-notice-for-67-executive-and-ciso-vacancies-online-applications-open/",
+          "first_seen": "2026-08-20T08:05:17.918637+00:00",
+          "eligibility": "unknown"
+        },
+        "18e28712d797bcc5": {
+          "title": "Haryana Police SPO Recruitment Drive 2026 Notice Released: 400 Special Police Officer Vacancies Open Until August 27",
+          "url": "https://www.sarkarijobs.com/haryana-police-spo-recruitment-drive-2026-notice-released-400-special-police-officer-vacancies-open-until-august-27/",
+          "first_seen": "2026-08-20T08:05:17.918649+00:00",
+          "eligibility": "unknown"
+        },
+        "1efca4d6052173b4": {
+          "title": "SBC Visakhapatnam Announces Recruitment for 9 Group C Vacancies Including Fitter, Electrician and Driver Posts",
+          "url": "https://www.sarkarijobs.com/sbc-visakhapatnam-announces-recruitment-for-9-group-c-vacancies-including-fitter-electrician-and-driver-posts/",
+          "first_seen": "2026-08-20T08:05:17.918655+00:00",
+          "eligibility": "eligible"
+        },
+        "2d9005567579abe7": {
+          "title": "PSSSB Craft Instructor Recruitment 2026 Notice Released: Application Reopens for 681 Posts",
+          "url": "https://www.sarkarijobs.com/psssb-craft-instructor-recruitment-2026-notice-released-application-reopens-for-681-posts/",
+          "first_seen": "2026-08-20T08:05:17.918659+00:00",
+          "eligibility": "unknown"
+        },
+        "24561bc6f219f4e6": {
+          "title": "AIIMS Gorakhpur Announces 24 Junior Resident Vacancies, Walk-in Interview on September 1",
+          "url": "https://www.sarkarijobs.com/aiims-gorakhpur-announces-24-junior-resident-vacancies-walk-in-interview-on-september-1/",
+          "first_seen": "2026-08-20T08:05:17.918665+00:00",
+          "eligibility": "unknown"
+        },
+        "21c7ae8b3f392562": {
+          "title": "North Central Railway NCR Recruitment 2026 for Cultural Quota and Other Posts",
+          "url": "https://www.sarkarijobs.com/north-central-railway-ncr-recruitment/",
+          "first_seen": "2026-08-20T08:05:17.918669+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "c2c710ed09c28e36",
+      "last_page_hash": "97688ee50cd5e0fd",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1912,8 +1948,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 302,
-  "total_alerts": 56,
-  "last_new_job_ts": "2026-08-20T05:32:41.040030+00:00",
-  "last_heartbeat_key": "2026-08-20-9"
+  "total_checks": 303,
+  "total_alerts": 57,
+  "last_new_job_ts": "2026-08-20T08:05:19.109294+00:00",
+  "last_heartbeat_key": "2026-08-20-13"
 }
