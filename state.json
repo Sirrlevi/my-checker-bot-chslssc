@@ -1898,16 +1898,22 @@
           "url": "https://www.sarkariexam.com/indian-army-ncc-125th-special-entry-april-2027-course/",
           "first_seen": "2026-08-20T05:00:44.151589+00:00",
           "eligibility": "unknown"
+        },
+        "c0f19036679184ff": {
+          "title": "ISRO Assistant, UDC, JPA, Stenographer Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-08-20T05:32:40.482531+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "ae9919d884a787cd",
+      "last_page_hash": "a65d6f524d5a0549",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 298,
-  "total_alerts": 55,
-  "last_new_job_ts": "2026-08-20T05:00:44.778226+00:00",
+  "total_checks": 299,
+  "total_alerts": 56,
+  "last_new_job_ts": "2026-08-20T05:32:41.040030+00:00",
   "last_heartbeat_key": "2026-08-20-9"
 }
