@@ -1892,16 +1892,22 @@
           "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
           "first_seen": "2026-08-19T13:03:58.465335+00:00",
           "eligibility": "unknown"
+        },
+        "f437761393c3437b": {
+          "title": "Army NCC 125th Special Entry Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/indian-army-ncc-125th-special-entry-april-2027-course/",
+          "first_seen": "2026-08-20T05:00:44.151589+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1b242189e7c3ff5e",
+      "last_page_hash": "ae9919d884a787cd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 297,
-  "total_alerts": 54,
-  "last_new_job_ts": "2026-08-19T13:03:59.334923+00:00",
+  "total_checks": 298,
+  "total_alerts": 55,
+  "last_new_job_ts": "2026-08-20T05:00:44.778226+00:00",
   "last_heartbeat_key": "2026-08-20-9"
 }
