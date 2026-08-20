@@ -986,9 +986,45 @@
           "url": "https://www.sarkarijobs.com/north-central-railway-ncr-recruitment/",
           "first_seen": "2026-08-20T08:05:17.918669+00:00",
           "eligibility": "unknown"
+        },
+        "8fbe865c30705b44": {
+          "title": "NHAI Announces Recruitment for 5 Young Professional Legal Vacancies for Law Graduates, Apply by September 8",
+          "url": "https://www.sarkarijobs.com/nhai-announces-recruitment-for-5-young-professional-legal-vacancies-for-law-graduates-apply-by-september-8/",
+          "first_seen": "2026-08-20T09:56:49.292448+00:00",
+          "eligibility": "unknown"
+        },
+        "e3dbd1dc89cca0cd": {
+          "title": "KEA Recruitment 2026: 233 Pharmacy and Nursing Officer Vacancies, Apply by August 30",
+          "url": "https://www.sarkarijobs.com/kea-recruitment-2026-233-pharmacy-and-nursing-officer-vacancies-apply-by-august-30/",
+          "first_seen": "2026-08-20T09:56:49.292466+00:00",
+          "eligibility": "unknown"
+        },
+        "0bae2a027d63b1c8": {
+          "title": "South Indian Bank Hiring Junior Officers for Business Promotion Role, Apply Online by August 31",
+          "url": "https://www.sarkarijobs.com/south-indian-bank-hiring-junior-officers-for-business-promotion-role-apply-online-by-august-31/",
+          "first_seen": "2026-08-20T09:56:49.292469+00:00",
+          "eligibility": "unknown"
+        },
+        "f631c0364518252e": {
+          "title": "NSPCL Recruitment 2026: 17 Senior Assistant Officer and Engineer Vacancies, Apply Online from September 7",
+          "url": "https://www.sarkarijobs.com/nspcl-recruitment-2026-17-senior-assistant-officer-and-engineer-vacancies-apply-online-from-september-7/",
+          "first_seen": "2026-08-20T09:56:49.292472+00:00",
+          "eligibility": "unknown"
+        },
+        "2f3e1be445c71ab9": {
+          "title": "NPSC Stenographer Recruitment 2026: 27 Grade-III Vacancies, Apply Online by September 3",
+          "url": "https://www.sarkarijobs.com/npsc-stenographer-recruitment-2026-27-grade-iii-vacancies-apply-online-by-september-3/",
+          "first_seen": "2026-08-20T09:56:49.292477+00:00",
+          "eligibility": "eligible"
+        },
+        "5cd46b1400b319d5": {
+          "title": "ESIC Hyderabad Announces 67 Faculty and Senior Resident Vacancies, Walk-In Interviews Scheduled",
+          "url": "https://www.sarkarijobs.com/esic-hyderabad-announces-67-faculty-and-senior-resident-vacancies-walk-in-interviews-scheduled/",
+          "first_seen": "2026-08-20T09:56:49.292480+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "97688ee50cd5e0fd",
+      "last_page_hash": "ccc8642399e501e8",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -1946,16 +1982,22 @@
           "url": "https://www.sarkariexam.com/nta-swayam-2026/",
           "first_seen": "2026-08-20T08:51:23.492192+00:00",
           "eligibility": "unknown"
+        },
+        "075b75bdfed8d75e": {
+          "title": "BSNL JTO Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
+          "first_seen": "2026-08-20T09:56:49.899095+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2dc154a120d60374",
+      "last_page_hash": "f9bb6d97d4c907db",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 305,
-  "total_alerts": 58,
-  "last_new_job_ts": "2026-08-20T08:51:24.268193+00:00",
+  "total_checks": 306,
+  "total_alerts": 60,
+  "last_new_job_ts": "2026-08-20T09:56:52.602564+00:00",
   "last_heartbeat_key": "2026-08-20-13"
 }
