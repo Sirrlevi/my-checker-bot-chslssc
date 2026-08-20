@@ -1988,16 +1988,22 @@
           "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
           "first_seen": "2026-08-20T09:56:49.899095+00:00",
           "eligibility": "unknown"
+        },
+        "8a06304d6d857d63": {
+          "title": "SSC MTS PET/PST Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-mts-havaldar-2026/",
+          "first_seen": "2026-08-20T11:16:12.147399+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "8d3072f56985805f",
+      "last_page_hash": "fe0d84303e450a29",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 308,
-  "total_alerts": 60,
-  "last_new_job_ts": "2026-08-20T09:56:52.602564+00:00",
+  "total_checks": 309,
+  "total_alerts": 61,
+  "last_new_job_ts": "2026-08-20T11:16:12.778538+00:00",
   "last_heartbeat_key": "2026-08-20-13"
 }
