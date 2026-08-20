@@ -2042,16 +2042,34 @@
           "url": "https://www.sarkariexam.com/aibe-22nd-2026/",
           "first_seen": "2026-08-20T13:05:56.954648+00:00",
           "eligibility": "unknown"
+        },
+        "0641c89a728547d6": {
+          "title": "UPSSSC Pharmacist Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pharmacist-2026/",
+          "first_seen": "2026-08-20T16:47:16.234816+00:00",
+          "eligibility": "unknown"
+        },
+        "87a755bf92f8f9b3": {
+          "title": "UPSSSC UP Pollution Control Board Various Post Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-up-pollution-control-board-various-post-2026/",
+          "first_seen": "2026-08-20T16:47:16.234841+00:00",
+          "eligibility": "unknown"
+        },
+        "1b1a1bc3e3667d83": {
+          "title": "UPSSSC BCG Technician Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-bcg-technician-2024/",
+          "first_seen": "2026-08-20T16:47:16.234848+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "554c648718064088",
+      "last_page_hash": "79826c08cfcbe5ef",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 317,
-  "total_alerts": 66,
-  "last_new_job_ts": "2026-08-20T13:05:57.653616+00:00",
+  "total_checks": 318,
+  "total_alerts": 67,
+  "last_new_job_ts": "2026-08-20T16:47:16.829220+00:00",
   "last_heartbeat_key": "2026-08-20-21"
 }
