@@ -1034,9 +1034,27 @@
           "url": "https://www.sarkarijobs.com/esic-kollam-walk-in-recruitment-2026-27-super-specialist-specialist-and-senior-resident-vacancies/",
           "first_seen": "2026-08-20T11:44:38.760820+00:00",
           "eligibility": "unknown"
+        },
+        "75b22d2823bc9259": {
+          "title": "NHAI Announces Recruitment for 60 Deputy General Manager and Manager Vacancies, Apply by September 21",
+          "url": "https://www.sarkarijobs.com/nhai-announces-recruitment-for-60-deputy-general-manager-and-manager-vacancies-apply-by-september-21/",
+          "first_seen": "2026-08-20T12:03:07.874425+00:00",
+          "eligibility": "unknown"
+        },
+        "0420d588080e3b37": {
+          "title": "MHA CEPI Recruitment 2026 Short Notice Out: 38 Consultant, Surveyor and Other Vacancies Announced",
+          "url": "https://www.sarkarijobs.com/mha-cepi-recruitment-2026-short-notice-out-38-consultant-surveyor-and-other-vacancies-announced/",
+          "first_seen": "2026-08-20T12:03:07.874438+00:00",
+          "eligibility": "unknown"
+        },
+        "16395a46547d9ce1": {
+          "title": "NITTTR Bhopal Faculty Recruitment 2026: Walk-in Interviews Announced for 22 Posts from August 26",
+          "url": "https://www.sarkarijobs.com/nitttr-bhopal-faculty-recruitment-2026-walk-in-interviews-announced-for-22-posts-from-august-26/",
+          "first_seen": "2026-08-20T12:03:07.874442+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7261a55072ea28b3",
+      "last_page_hash": "bbf7b3cbba7bfaa2",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2012,16 +2030,22 @@
           "url": "https://www.sarkariexam.com/national-insurance-nicl-assistant-2026/",
           "first_seen": "2026-08-20T11:44:39.217390+00:00",
           "eligibility": "unknown"
+        },
+        "82fc2fa6da8874f5": {
+          "title": "UPSRTC Gonda, Bahraich, Balrampur Bus Conductor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsrtc-gonda-bahraich-balrampur-bus-conductor-2026/",
+          "first_seen": "2026-08-20T12:03:08.366050+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e8cfb6e5411e4305",
+      "last_page_hash": "259fd67dccaee40f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 310,
-  "total_alerts": 63,
-  "last_new_job_ts": "2026-08-20T11:44:42.211819+00:00",
+  "total_checks": 311,
+  "total_alerts": 65,
+  "last_new_job_ts": "2026-08-20T12:03:11.029732+00:00",
   "last_heartbeat_key": "2026-08-20-17"
 }
