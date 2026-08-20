@@ -1940,16 +1940,22 @@
           "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
           "first_seen": "2026-08-20T05:32:40.482531+00:00",
           "eligibility": "eligible"
+        },
+        "93c4d523d33e7dd1": {
+          "title": "NTA SWAYAM Result/Score Card 2026",
+          "url": "https://www.sarkariexam.com/nta-swayam-2026/",
+          "first_seen": "2026-08-20T08:51:23.492192+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a65d6f524d5a0549",
+      "last_page_hash": "2dc154a120d60374",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 303,
-  "total_alerts": 57,
-  "last_new_job_ts": "2026-08-20T08:05:19.109294+00:00",
+  "total_checks": 304,
+  "total_alerts": 58,
+  "last_new_job_ts": "2026-08-20T08:51:24.268193+00:00",
   "last_heartbeat_key": "2026-08-20-13"
 }
