@@ -2072,16 +2072,34 @@
           "url": "https://www.sarkariexam.com/nta-neet-ug-2026/",
           "first_seen": "2026-08-21T06:05:38.357564+00:00",
           "eligibility": "unknown"
+        },
+        "c1e13cd0a973b2bc": {
+          "title": "UPSSSC Junior Assistant 09/2022 Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-typing-test-2025/",
+          "first_seen": "2026-08-21T13:05:09.643206+00:00",
+          "eligibility": "unknown"
+        },
+        "95fe872b3fa11ba5": {
+          "title": "CCI Various Post Admit Card 2026",
+          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
+          "first_seen": "2026-08-21T13:05:09.643253+00:00",
+          "eligibility": "unknown"
+        },
+        "1bffbb825d26a704": {
+          "title": "NTPC NGEL Engineer and Executive Online Form 2026",
+          "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
+          "first_seen": "2026-08-21T13:05:09.643290+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3e8c1891ac45dced",
+      "last_page_hash": "c806e95417ef79ed",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 351,
-  "total_alerts": 69,
-  "last_new_job_ts": "2026-08-21T06:05:40.757048+00:00",
+  "total_checks": 352,
+  "total_alerts": 70,
+  "last_new_job_ts": "2026-08-21T13:05:10.220997+00:00",
   "last_heartbeat_key": "2026-08-21-17"
 }
