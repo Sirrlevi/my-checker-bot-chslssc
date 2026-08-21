@@ -2090,16 +2090,40 @@
           "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
           "first_seen": "2026-08-21T13:05:09.643290+00:00",
           "eligibility": "unknown"
+        },
+        "1bc3fe5d9556121c": {
+          "title": "UP DELEd 2026 Allotment Result",
+          "url": "https://www.sarkariexam.com/up-deled-admission-2026/",
+          "first_seen": "2026-08-21T15:00:15.454968+00:00",
+          "eligibility": "unknown"
+        },
+        "e7408ba329d30a88": {
+          "title": "Delhi DSSSB Various Post Result Date 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-result-2026/",
+          "first_seen": "2026-08-21T15:00:15.454990+00:00",
+          "eligibility": "unknown"
+        },
+        "a7ef926ac0ff5e74": {
+          "title": "SSC Selection Post 14th Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
+          "first_seen": "2026-08-21T15:00:15.455024+00:00",
+          "eligibility": "unknown"
+        },
+        "f3824c71359dda57": {
+          "title": "UPSSSC Stenographer 09/2023 Skill Test Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsssc-stenographer-2023/",
+          "first_seen": "2026-08-21T15:00:15.455031+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "c806e95417ef79ed",
+      "last_page_hash": "fec3c0c0a7206020",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 354,
-  "total_alerts": 70,
-  "last_new_job_ts": "2026-08-21T13:05:10.220997+00:00",
+  "total_checks": 355,
+  "total_alerts": 71,
+  "last_new_job_ts": "2026-08-21T15:00:16.110309+00:00",
   "last_heartbeat_key": "2026-08-21-17"
 }
