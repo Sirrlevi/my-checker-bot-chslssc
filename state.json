@@ -2060,16 +2060,22 @@
           "url": "https://www.sarkariexam.com/upsssc-bcg-technician-2024/",
           "first_seen": "2026-08-20T16:47:16.234848+00:00",
           "eligibility": "unknown"
+        },
+        "c769d437349ea8fc": {
+          "title": "IBPS Clerk CSA 16th Online Form 2026 (11403 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-08-21T05:00:57.121753+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "79826c08cfcbe5ef",
+      "last_page_hash": "3543f92e649d8597",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 338,
-  "total_alerts": 67,
-  "last_new_job_ts": "2026-08-20T16:47:16.829220+00:00",
+  "total_checks": 339,
+  "total_alerts": 68,
+  "last_new_job_ts": "2026-08-21T05:00:59.296931+00:00",
   "last_heartbeat_key": "2026-08-21-9"
 }
