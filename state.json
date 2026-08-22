@@ -2132,16 +2132,28 @@
           "url": "https://www.sarkariexam.com/idbi-bank-jam-assistant-manager-2026/",
           "first_seen": "2026-08-22T06:55:14.385244+00:00",
           "eligibility": "unknown"
+        },
+        "620ee08d60c9c392": {
+          "title": "Haryana HTET Score Card / Certificate 2026",
+          "url": "https://www.sarkariexam.com/haryana-htet-2026/",
+          "first_seen": "2026-08-22T07:22:22.023804+00:00",
+          "eligibility": "unknown"
+        },
+        "dcd6c1fb87dcf75b": {
+          "title": "UPSC CDS-II Marks 2026",
+          "url": "https://www.sarkariexam.com/upsc-cds-ii-2025/",
+          "first_seen": "2026-08-22T07:22:22.023823+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7b1ffef3d05d03f",
+      "last_page_hash": "c19752c977d9b3ef",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 385,
-  "total_alerts": 73,
-  "last_new_job_ts": "2026-08-22T06:55:14.982606+00:00",
+  "total_checks": 386,
+  "total_alerts": 74,
+  "last_new_job_ts": "2026-08-22T07:22:22.656053+00:00",
   "last_heartbeat_key": "2026-08-22-9"
 }
