@@ -2126,16 +2126,22 @@
           "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
           "first_seen": "2026-08-22T05:45:53.364462+00:00",
           "eligibility": "unknown"
+        },
+        "ecf25e90c4b852f4": {
+          "title": "IDBI Bank JAM Final Result 2026",
+          "url": "https://www.sarkariexam.com/idbi-bank-jam-assistant-manager-2026/",
+          "first_seen": "2026-08-22T06:55:14.385244+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f02deeb3f9856921",
+      "last_page_hash": "e7b1ffef3d05d03f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 384,
-  "total_alerts": 72,
-  "last_new_job_ts": "2026-08-22T05:45:54.133151+00:00",
+  "total_checks": 385,
+  "total_alerts": 73,
+  "last_new_job_ts": "2026-08-22T06:55:14.982606+00:00",
   "last_heartbeat_key": "2026-08-22-9"
 }
