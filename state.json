@@ -2144,16 +2144,22 @@
           "url": "https://www.sarkariexam.com/upsc-cds-ii-2025/",
           "first_seen": "2026-08-22T07:22:22.023823+00:00",
           "eligibility": "unknown"
+        },
+        "987c116e42f1c4d9": {
+          "title": "SSC Delhi Police HC Ministerial PE & MT Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-delhi-police-hcm-2025/",
+          "first_seen": "2026-08-22T07:52:06.764485+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "c19752c977d9b3ef",
+      "last_page_hash": "aa4c696dc39eda60",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 386,
-  "total_alerts": 74,
-  "last_new_job_ts": "2026-08-22T07:22:22.656053+00:00",
-  "last_heartbeat_key": "2026-08-22-9"
+  "total_checks": 387,
+  "total_alerts": 75,
+  "last_new_job_ts": "2026-08-22T07:52:07.254464+00:00",
+  "last_heartbeat_key": "2026-08-22-13"
 }
