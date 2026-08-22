@@ -2150,16 +2150,22 @@
           "url": "https://www.sarkariexam.com/ssc-delhi-police-hcm-2025/",
           "first_seen": "2026-08-22T07:52:06.764485+00:00",
           "eligibility": "unknown"
+        },
+        "53d234add5bed969": {
+          "title": "RBI Officer Grade B Phase-II Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/rbi-grade-b-2026/",
+          "first_seen": "2026-08-22T08:48:54.730121+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "aa4c696dc39eda60",
+      "last_page_hash": "9d55d08931113629",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 388,
-  "total_alerts": 75,
-  "last_new_job_ts": "2026-08-22T07:52:07.254464+00:00",
+  "total_checks": 389,
+  "total_alerts": 76,
+  "last_new_job_ts": "2026-08-22T08:48:55.347629+00:00",
   "last_heartbeat_key": "2026-08-22-13"
 }
