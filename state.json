@@ -2338,8 +2338,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 497,
+  "total_checks": 498,
   "total_alerts": 81,
   "last_new_job_ts": "2026-08-24T11:28:53.550803+00:00",
-  "last_heartbeat_key": "2026-08-24-13"
+  "last_heartbeat_key": "2026-08-24-17"
 }
