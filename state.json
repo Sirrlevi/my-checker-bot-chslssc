@@ -2324,16 +2324,22 @@
           "url": "https://www.sarkariexam.com/indian-overseas-bank-lbo-2026/",
           "first_seen": "2026-08-24T11:01:03.841374+00:00",
           "eligibility": "unknown"
+        },
+        "348fb40f9d370b0f": {
+          "title": "NTPC NGEL DGM, AE Online Form 2026",
+          "url": "https://www.sarkariexam.com/ntpc-ngel-dgm-ae-online-form-2026/",
+          "first_seen": "2026-08-24T11:28:52.774303+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d31fd38bebef53e1",
+      "last_page_hash": "070eb775480fb957",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 496,
-  "total_alerts": 80,
-  "last_new_job_ts": "2026-08-24T11:01:04.458078+00:00",
+  "total_checks": 497,
+  "total_alerts": 81,
+  "last_new_job_ts": "2026-08-24T11:28:53.550803+00:00",
   "last_heartbeat_key": "2026-08-24-13"
 }
