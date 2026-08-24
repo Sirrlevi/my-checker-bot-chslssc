@@ -2330,16 +2330,34 @@
           "url": "https://www.sarkariexam.com/ntpc-ngel-dgm-ae-online-form-2026/",
           "first_seen": "2026-08-24T11:28:52.774303+00:00",
           "eligibility": "unknown"
+        },
+        "0a19c434483c6272": {
+          "title": "Railway RRC ECoR Apprentice Online Form 2026 (1599 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrc-ecor-apprentices-2026/",
+          "first_seen": "2026-08-24T12:23:22.083761+00:00",
+          "eligibility": "unknown"
+        },
+        "666b55b608d4647b": {
+          "title": "NTPC NSPCL Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/ntpc-nspcl-various-post-2026/",
+          "first_seen": "2026-08-24T12:23:22.083780+00:00",
+          "eligibility": "unknown"
+        },
+        "255746b5cafb3810": {
+          "title": "NTPC NGEL DGM, AE Online Form 2026",
+          "url": "https://www.sarkariexam.com/ntpc-ngel-dgm-ae-2026/",
+          "first_seen": "2026-08-24T12:23:22.083789+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "070eb775480fb957",
+      "last_page_hash": "3b8eaf8d4bba9095",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 498,
-  "total_alerts": 81,
-  "last_new_job_ts": "2026-08-24T11:28:53.550803+00:00",
+  "total_checks": 499,
+  "total_alerts": 82,
+  "last_new_job_ts": "2026-08-24T12:23:22.813468+00:00",
   "last_heartbeat_key": "2026-08-24-17"
 }
