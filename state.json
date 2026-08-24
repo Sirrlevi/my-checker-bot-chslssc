@@ -2294,16 +2294,22 @@
           "url": "https://www.sarkariexam.com/rbi-grade-b-2026/",
           "first_seen": "2026-08-24T07:15:53.829318+00:00",
           "eligibility": "unknown"
+        },
+        "053df663fd62b192": {
+          "title": "ONGC Geologists and Engineers E1 Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ongc-geologists-and-engineers-e1-2026/",
+          "first_seen": "2026-08-24T08:05:33.129997+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b730ee41d84a9f4b",
+      "last_page_hash": "6fe00e2c1abe214e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 491,
-  "total_alerts": 78,
-  "last_new_job_ts": "2026-08-24T07:15:54.360843+00:00",
-  "last_heartbeat_key": "2026-08-24-9"
+  "total_checks": 492,
+  "total_alerts": 79,
+  "last_new_job_ts": "2026-08-24T08:05:33.895043+00:00",
+  "last_heartbeat_key": "2026-08-24-13"
 }
