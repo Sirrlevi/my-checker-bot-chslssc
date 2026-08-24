@@ -2380,7 +2380,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 509,
+  "total_checks": 510,
   "total_alerts": 84,
   "last_new_job_ts": "2026-08-24T16:05:43.129336+00:00",
   "last_heartbeat_key": "2026-08-24-21"
