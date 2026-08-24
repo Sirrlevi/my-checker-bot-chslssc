@@ -2348,16 +2348,22 @@
           "url": "https://www.sarkariexam.com/ntpc-ngel-dgm-ae-2026/",
           "first_seen": "2026-08-24T12:23:22.083789+00:00",
           "eligibility": "unknown"
+        },
+        "e8920301e15a3430": {
+          "title": "RRB NTPC 10+2 UG CBT-I Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-08-24T15:30:51.952002+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "4a73ed4e1865d073",
+      "last_page_hash": "7fc27ee20608f3ce",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 502,
-  "total_alerts": 82,
-  "last_new_job_ts": "2026-08-24T12:23:22.813468+00:00",
-  "last_heartbeat_key": "2026-08-24-17"
+  "total_checks": 503,
+  "total_alerts": 83,
+  "last_new_job_ts": "2026-08-24T15:30:52.473192+00:00",
+  "last_heartbeat_key": "2026-08-24-21"
 }
