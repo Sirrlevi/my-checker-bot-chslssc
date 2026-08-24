@@ -2354,16 +2354,34 @@
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
           "first_seen": "2026-08-24T15:30:51.952002+00:00",
           "eligibility": "eligible"
+        },
+        "88efc36e4b5b44f8": {
+          "title": "Patliputra University UG 4th Merit List 2026",
+          "url": "https://www.sarkariexam.com/patliputra-university-ppup-ug-2026-30/",
+          "first_seen": "2026-08-24T16:05:42.552024+00:00",
+          "eligibility": "unknown"
+        },
+        "57d996e45c3c7aa6": {
+          "title": "UPSSSC Female Health Worker Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-female-health-worker-2026/",
+          "first_seen": "2026-08-24T16:05:42.552041+00:00",
+          "eligibility": "unknown"
+        },
+        "43e071f1cce4bb07": {
+          "title": "UPSSSC Lower PCS Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-lower-pcs-2026/",
+          "first_seen": "2026-08-24T16:05:42.552046+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7fc27ee20608f3ce",
+      "last_page_hash": "34edec74ce8fe232",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 503,
-  "total_alerts": 83,
-  "last_new_job_ts": "2026-08-24T15:30:52.473192+00:00",
+  "total_checks": 504,
+  "total_alerts": 84,
+  "last_new_job_ts": "2026-08-24T16:05:43.129336+00:00",
   "last_heartbeat_key": "2026-08-24-21"
 }
