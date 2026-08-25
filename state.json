@@ -2630,16 +2630,28 @@
           "url": "https://www.sarkariexam.com/bihar-bceceb-senior-resident-tutor-2026-2/",
           "first_seen": "2026-08-25T11:52:02.032172+00:00",
           "eligibility": "unknown"
+        },
+        "4303c888921bb083": {
+          "title": "Bihar BCECEB BSFC Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-bceceb-bsfc-various-post-2026/",
+          "first_seen": "2026-08-25T12:23:41.975923+00:00",
+          "eligibility": "unknown"
+        },
+        "04b2234652efa6db": {
+          "title": "Bihar BCECEB Senior Resident/ Tutor Online Form 2026",
+          "url": "https://www.sarkariexam.com/bceceb-bihar-senior-resident-tutor-2026/",
+          "first_seen": "2026-08-25T12:23:41.975938+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ca627b913e99ae53",
+      "last_page_hash": "e7616f7096ae1d89",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 538,
-  "total_alerts": 97,
-  "last_new_job_ts": "2026-08-25T11:52:02.563495+00:00",
+  "total_checks": 539,
+  "total_alerts": 98,
+  "last_new_job_ts": "2026-08-25T12:23:42.488181+00:00",
   "last_heartbeat_key": "2026-08-25-17"
 }
