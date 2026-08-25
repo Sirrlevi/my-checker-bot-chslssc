@@ -2444,16 +2444,28 @@
           "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
           "first_seen": "2026-08-25T06:25:17.808473+00:00",
           "eligibility": "unknown"
+        },
+        "ab1d40ef1af40f8f": {
+          "title": "UPCISB UP Cooperative Bank Various Post Exam Date 2026",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-08-25T07:17:47.179466+00:00",
+          "eligibility": "unknown"
+        },
+        "da91e20b55a7cd8a": {
+          "title": "MPESB Group 3 Sub Engineer & Other Post Online Form 2026 – Canceled",
+          "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
+          "first_seen": "2026-08-25T07:17:47.179542+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "15f03d65448d19b8",
+      "last_page_hash": "50c88e9144f73cb5",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 529,
-  "total_alerts": 88,
-  "last_new_job_ts": "2026-08-25T06:25:20.399542+00:00",
+  "total_checks": 530,
+  "total_alerts": 89,
+  "last_new_job_ts": "2026-08-25T07:17:47.926323+00:00",
   "last_heartbeat_key": "2026-08-25-9"
 }
