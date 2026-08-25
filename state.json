@@ -1190,9 +1190,63 @@
           "url": "https://www.sarkarijobs.com/sindhudurg-bank-peon-recruitment-2026-notice-out-for-12th-pass-candidates/",
           "first_seen": "2026-08-25T01:47:59.459591+00:00",
           "eligibility": "eligible"
+        },
+        "b77a09577104d2ca": {
+          "title": "DHSGSU Guest Faculty Walk-In 2026 Notice Out: Business Management Interview on August 31",
+          "url": "https://www.sarkarijobs.com/dhsgsu-guest-faculty-walk-in-2026-notice-out-business-management-interview-on-august-31/",
+          "first_seen": "2026-08-25T06:25:17.423688+00:00",
+          "eligibility": "unknown"
+        },
+        "db0edc298b583136": {
+          "title": "NEHU Seeks Guest Faculty for 107 Vacancies Across Shillong and Tura with August 31 Deadline",
+          "url": "https://www.sarkarijobs.com/nehu-seeks-guest-faculty-for-107-vacancies-across-shillong-and-tura-with-august-31-deadline/",
+          "first_seen": "2026-08-25T06:25:17.423704+00:00",
+          "eligibility": "unknown"
+        },
+        "c20fa483109972f0": {
+          "title": "SGTPS Birsinghpur Opens 95 Apprentice Vacancies for ITI Candidates, Apply by September 21",
+          "url": "https://www.sarkarijobs.com/sgtps-birsinghpur-opens-95-apprentice-vacancies-for-iti-candidates-apply-by-september-21/",
+          "first_seen": "2026-08-25T06:25:17.423709+00:00",
+          "eligibility": "unknown"
+        },
+        "724e15a6b8bedcbb": {
+          "title": "Uttarakhand Ayurved University Announces 50 Deputation Vacancies, Applications Due September 6",
+          "url": "https://www.sarkarijobs.com/uttarakhand-ayurved-university-announces-50-deputation-vacancies-applications-due-september-6/",
+          "first_seen": "2026-08-25T06:25:17.423712+00:00",
+          "eligibility": "unknown"
+        },
+        "4c7f3028be4e348c": {
+          "title": "Delhi Transco Recruitment 2026: Apply Online for 65 Assistant Manager Trainee Posts by September 2",
+          "url": "https://www.sarkarijobs.com/delhi-transco-recruitment-2026-apply-online-for-65-assistant-manager-trainee-posts-by-september-2/",
+          "first_seen": "2026-08-25T06:25:17.423717+00:00",
+          "eligibility": "unknown"
+        },
+        "fedbc5966e84ef47": {
+          "title": "Boudh Guest Teacher Recruitment 2026: 61 TGT, Hindi and PET Vacancies, Apply by August 28",
+          "url": "https://www.sarkarijobs.com/boudh-guest-teacher-recruitment-2026-61-tgt-hindi-and-pet-vacancies-apply-by-august-28/",
+          "first_seen": "2026-08-25T06:25:17.423720+00:00",
+          "eligibility": "unknown"
+        },
+        "85d14dbf394b0076": {
+          "title": "DEI Recruitment 2026: Around 128 Teaching and Non-Teaching Vacancies, Apply Online by August 27",
+          "url": "https://www.sarkarijobs.com/dei-recruitment-2026-around-128-teaching-and-non-teaching-vacancies-apply-online-by-august-27/",
+          "first_seen": "2026-08-25T06:25:17.423723+00:00",
+          "eligibility": "unknown"
+        },
+        "83aeec211b61e115": {
+          "title": "DRDO DIBT Apprentice Recruitment 2026: Apply Online for 6 Graduate Apprentice Posts by September 15",
+          "url": "https://www.sarkarijobs.com/drdo-dibt-apprentice-recruitment-2026-apply-online-for-6-graduate-apprentice-posts-by-september-15/",
+          "first_seen": "2026-08-25T06:25:17.423726+00:00",
+          "eligibility": "unknown"
+        },
+        "435ac63cc5a530c8": {
+          "title": "DPCC Environmental Engineer Recruitment 2026: 17 Group A Vacancies Announced in Delhi",
+          "url": "https://www.sarkarijobs.com/dpcc-environmental-engineer-recruitment-2026-17-group-a-vacancies-announced-in-delhi/",
+          "first_seen": "2026-08-25T06:25:17.423729+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e9c68bd852c4455a",
+      "last_page_hash": "dcfd119549d3b7d9",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2384,16 +2438,22 @@
           "url": "https://www.sarkariexam.com/dsssb-various-post-result-2026/",
           "first_seen": "2026-08-25T05:54:56.980049+00:00",
           "eligibility": "unknown"
+        },
+        "8540664f66ec81db": {
+          "title": "DSSSB Various Posts Exam Date 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
+          "first_seen": "2026-08-25T06:25:17.808473+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "76ca163d1cabbb5b",
+      "last_page_hash": "15f03d65448d19b8",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 528,
-  "total_alerts": 86,
-  "last_new_job_ts": "2026-08-25T05:54:57.706256+00:00",
+  "total_checks": 529,
+  "total_alerts": 88,
+  "last_new_job_ts": "2026-08-25T06:25:20.399542+00:00",
   "last_heartbeat_key": "2026-08-25-9"
 }
