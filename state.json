@@ -2642,16 +2642,22 @@
           "url": "https://www.sarkariexam.com/bceceb-bihar-senior-resident-tutor-2026/",
           "first_seen": "2026-08-25T12:23:41.975938+00:00",
           "eligibility": "unknown"
+        },
+        "054113feb7c55c6c": {
+          "title": "SSC Stenographer Group C, D 2025 Final Result",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-2025/",
+          "first_seen": "2026-08-25T13:26:20.198640+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "e7616f7096ae1d89",
+      "last_page_hash": "f3c6a27d26ebce46",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 539,
-  "total_alerts": 98,
-  "last_new_job_ts": "2026-08-25T12:23:42.488181+00:00",
+  "total_checks": 540,
+  "total_alerts": 99,
+  "last_new_job_ts": "2026-08-25T13:26:20.695433+00:00",
   "last_heartbeat_key": "2026-08-25-17"
 }
