@@ -2378,16 +2378,22 @@
           "url": "https://www.sarkariexam.com/upsssc-lower-pcs-2026/",
           "first_seen": "2026-08-24T16:05:42.552046+00:00",
           "eligibility": "unknown"
+        },
+        "f6cbf328eb53c6b3": {
+          "title": "Delhi DSSSB Various Post Result 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-result-2026/",
+          "first_seen": "2026-08-25T05:54:56.980049+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7c6642a12ce0680c",
+      "last_page_hash": "76ca163d1cabbb5b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 527,
-  "total_alerts": 85,
-  "last_new_job_ts": "2026-08-25T01:48:01.400117+00:00",
+  "total_checks": 528,
+  "total_alerts": 86,
+  "last_new_job_ts": "2026-08-25T05:54:57.706256+00:00",
   "last_heartbeat_key": "2026-08-25-9"
 }
