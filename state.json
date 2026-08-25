@@ -2624,16 +2624,22 @@
           "url": "https://www.sarkariexam.com/up-chitrakoot-ecce-educator-2026/",
           "first_seen": "2026-08-25T11:25:18.362189+00:00",
           "eligibility": "unknown"
+        },
+        "99301914171cc997": {
+          "title": "Bihar BCECEB Senior Resident/ Tutor Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-bceceb-senior-resident-tutor-2026-2/",
+          "first_seen": "2026-08-25T11:52:02.032172+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e76dc3bc6a266164",
+      "last_page_hash": "ca627b913e99ae53",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 537,
-  "total_alerts": 96,
-  "last_new_job_ts": "2026-08-25T11:25:19.113130+00:00",
-  "last_heartbeat_key": "2026-08-25-13"
+  "total_checks": 538,
+  "total_alerts": 97,
+  "last_new_job_ts": "2026-08-25T11:52:02.563495+00:00",
+  "last_heartbeat_key": "2026-08-25-17"
 }
