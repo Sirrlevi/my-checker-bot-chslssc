@@ -2600,16 +2600,28 @@
           "url": "https://www.sarkariexam.com/upsssc-excise-constable-2026/",
           "first_seen": "2026-08-25T10:28:42.347359+00:00",
           "eligibility": "unknown"
+        },
+        "01d87023c4aba471": {
+          "title": "UPSSSC Pharmacist Ayurvedic Mains Exam Fees Payment 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
+          "first_seen": "2026-08-25T10:59:53.127498+00:00",
+          "eligibility": "unknown"
+        },
+        "736697aff4e6f408": {
+          "title": "UP Ambedkar Nagar ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-ambedkar-nagar-ecce-educator-2026/",
+          "first_seen": "2026-08-25T10:59:53.127677+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "c094a8145e3777f2",
+      "last_page_hash": "b1d414dce149128e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 535,
-  "total_alerts": 94,
-  "last_new_job_ts": "2026-08-25T10:28:43.100980+00:00",
+  "total_checks": 536,
+  "total_alerts": 95,
+  "last_new_job_ts": "2026-08-25T10:59:53.644578+00:00",
   "last_heartbeat_key": "2026-08-25-13"
 }
