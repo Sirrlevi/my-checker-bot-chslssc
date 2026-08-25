@@ -1298,9 +1298,81 @@
           "url": "https://www.sarkarijobs.com/aiims-awantipora-senior-resident-recruitment-2026-apply-online-for-40-posts-by-august-27/",
           "first_seen": "2026-08-25T08:01:32.850297+00:00",
           "eligibility": "unknown"
+        },
+        "1fcaa9fa666963e3": {
+          "title": "CCRS Recruitment 2026 Notice Out for 13 Vacancies Including Clerks, Consultants, Research Associate and Other Posts",
+          "url": "https://www.sarkarijobs.com/ccrs-recruitment-2026-notice-out-for-13-vacancies-including-clerks-consultants-research-associate-and-other-posts/",
+          "first_seen": "2026-08-25T08:54:24.945359+00:00",
+          "eligibility": "unknown"
+        },
+        "54e6bbd0e628dda2": {
+          "title": "PGCIL Apprentice Recruitment 2026 Notice Out: Online Form Available for 270 ITI, Diploma and Graduate Vacancies",
+          "url": "https://www.sarkarijobs.com/pgcil-apprentice-recruitment-2026-notice-out-online-form-available-for-270-iti-diploma-and-graduate-vacancies/",
+          "first_seen": "2026-08-25T08:54:24.945378+00:00",
+          "eligibility": "unknown"
+        },
+        "87452971477b442b": {
+          "title": "AVNL MTPF Apprentice Recruitment 2026 Notification Out: 162 Non-ITI and Ex-ITI Vacancies, Apply Offline",
+          "url": "https://www.sarkarijobs.com/avnl-mtpf-apprentice-recruitment-2026-notification-out-162-non-iti-and-ex-iti-vacancies-apply-offline/",
+          "first_seen": "2026-08-25T08:54:24.945384+00:00",
+          "eligibility": "unknown"
+        },
+        "22c4ff6995f0d37f": {
+          "title": "RRC ECOR Apprentice Recruitment 2026 Notice out: Apply to 1,599 East Coast Railway Vacancies Through Online Form",
+          "url": "https://www.sarkarijobs.com/rrc-ecor-apprentice-recruitment-2026-notice-out-apply-to-1599-east-coast-railway-vacancies-through-online-form/",
+          "first_seen": "2026-08-25T08:54:24.945388+00:00",
+          "eligibility": "unknown"
+        },
+        "b72acc6c521ceda5": {
+          "title": "KRCL Apprentice Recruitment 2026 Notification Released: 134 Graduate and Diploma Vacancies, Document Verification From August 24",
+          "url": "https://www.sarkarijobs.com/krcl-apprentice-recruitment-2026-notification-released-134-graduate-and-diploma-vacancies-document-verification-from-august-24/",
+          "first_seen": "2026-08-25T08:54:24.945394+00:00",
+          "eligibility": "unknown"
+        },
+        "1b88655d5619b607": {
+          "title": "UPSSSC FSL Recruitment 2026 Notice Out: Apply Online for 208 Scientific and Lab Assistant Posts by August 24",
+          "url": "https://www.sarkarijobs.com/upsssc-fsl-recruitment-2026-notice-out-apply-online-for-208-scientific-and-lab-assistant-posts-by-august-24/",
+          "first_seen": "2026-08-25T08:54:24.945398+00:00",
+          "eligibility": "unknown"
+        },
+        "09e4e0b3d2c901fe": {
+          "title": "MAHATRANSCO Apprentice Recruitment 2026 Notification Released for 68 Electrician Trade Vacancies",
+          "url": "https://www.sarkarijobs.com/mahatransco-apprentice-recruitment-2026-notification-released-for-68-electrician-trade-vacancies/",
+          "first_seen": "2026-08-25T08:54:24.945402+00:00",
+          "eligibility": "unknown"
+        },
+        "66b21bf3da542298": {
+          "title": "Punjab PSSSB Group D Recruitment 2026 Reopens: Apply Online for 1,401 Sevadar, Chowkidar Posts from August 25",
+          "url": "https://www.sarkarijobs.com/punjab-psssb-group-d-recruitment-2026-reopens-apply-online-for-1401-sevadar-chowkidar-posts-from-august-25/",
+          "first_seen": "2026-08-25T08:54:24.945405+00:00",
+          "eligibility": "eligible"
+        },
+        "33733b882e62e02e": {
+          "title": "AVNL MTPF Apprentice Recruitment 2026 Notice out: Apply Offline to 48 Graduate and Diploma Vacancies by September 4",
+          "url": "https://www.sarkarijobs.com/avnl-mtpf-apprentice-recruitment-2026-notice-out-apply-offline-to-48-graduate-and-diploma-vacancies-by-september-4/",
+          "first_seen": "2026-08-25T08:54:24.945410+00:00",
+          "eligibility": "unknown"
+        },
+        "f5a49fc954470d44": {
+          "title": "NMRC Issues Notice for 34 Senior Section Engineer Vacancies Under Railway Jobs",
+          "url": "https://www.sarkarijobs.com/nmrc-issues-notice-for-34-senior-section-engineer-vacancies-under-railway-jobs/",
+          "first_seen": "2026-08-25T08:54:24.945420+00:00",
+          "eligibility": "unknown"
+        },
+        "6e4f09aefb44e898": {
+          "title": "MRPL Assistant Engineer Recruitment 2026 Through GATE: Apply Online for 23 E2 Grade Vacancies",
+          "url": "https://www.sarkarijobs.com/mrpl-assistant-engineer-recruitment-2026-through-gate-apply-online-for-23-e2-grade-vacancies/",
+          "first_seen": "2026-08-25T08:54:24.945425+00:00",
+          "eligibility": "unknown"
+        },
+        "ce4471afcc8060a8": {
+          "title": "Punjab PSSSB Clerk Recruitment 2026 Reopens for 531 Posts; Apply Online From August 25",
+          "url": "https://www.sarkarijobs.com/punjab-psssb-clerk-recruitment-2026-reopens-for-531-posts-apply-online-from-august-25/",
+          "first_seen": "2026-08-25T08:54:24.945432+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6007458e9a5b6d8b",
+      "last_page_hash": "2017f87a4c8e2093",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2510,16 +2582,22 @@
           "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
           "first_seen": "2026-08-25T07:17:47.179542+00:00",
           "eligibility": "unknown"
+        },
+        "e3f540b3623f22c2": {
+          "title": "SBI Apprentice Result 2026",
+          "url": "https://www.sarkariexam.com/sbi-apprentice-2026/",
+          "first_seen": "2026-08-25T08:54:25.154636+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "50c88e9144f73cb5",
+      "last_page_hash": "dd7ce885ea5eee0d",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 531,
-  "total_alerts": 90,
-  "last_new_job_ts": "2026-08-25T08:01:33.747742+00:00",
+  "total_checks": 532,
+  "total_alerts": 92,
+  "last_new_job_ts": "2026-08-25T08:54:27.868318+00:00",
   "last_heartbeat_key": "2026-08-25-13"
 }
