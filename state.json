@@ -2588,16 +2588,22 @@
           "url": "https://www.sarkariexam.com/sbi-apprentice-2026/",
           "first_seen": "2026-08-25T08:54:25.154636+00:00",
           "eligibility": "unknown"
+        },
+        "139bd3c1cf08ed1e": {
+          "title": "CTET September Online Form 2026",
+          "url": "https://www.sarkariexam.com/ctet-september-2026/",
+          "first_seen": "2026-08-25T09:58:44.368771+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "dd7ce885ea5eee0d",
+      "last_page_hash": "1707f520779698c6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 533,
-  "total_alerts": 92,
-  "last_new_job_ts": "2026-08-25T08:54:27.868318+00:00",
+  "total_checks": 534,
+  "total_alerts": 93,
+  "last_new_job_ts": "2026-08-25T09:58:44.949627+00:00",
   "last_heartbeat_key": "2026-08-25-13"
 }
