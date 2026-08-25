@@ -1184,9 +1184,15 @@
           "url": "https://www.sarkarijobs.com/news/nbems-exam-city-slip-2026-out-for-53-group-a-b-and-c-posts-exams-on-september-5-6/",
           "first_seen": "2026-08-24T04:57:19.207357+00:00",
           "eligibility": "unknown"
+        },
+        "4cf8df1b55295063": {
+          "title": "Sindhudurg Bank Peon Recruitment 2026 Notice Out for 12th Pass Candidates: Apply Online for 32 Shipai Posts by August 30",
+          "url": "https://www.sarkarijobs.com/sindhudurg-bank-peon-recruitment-2026-notice-out-for-12th-pass-candidates/",
+          "first_seen": "2026-08-25T01:47:59.459591+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "210bde8bf9cee3a1",
+      "last_page_hash": "e9c68bd852c4455a",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2380,8 +2386,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 521,
-  "total_alerts": 84,
-  "last_new_job_ts": "2026-08-24T16:05:43.129336+00:00",
+  "total_checks": 522,
+  "total_alerts": 85,
+  "last_new_job_ts": "2026-08-25T01:48:01.400117+00:00",
   "last_heartbeat_key": "2026-08-24-21"
 }
