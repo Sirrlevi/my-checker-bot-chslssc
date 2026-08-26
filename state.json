@@ -2840,16 +2840,22 @@
           "url": "https://www.sarkariexam.com/upsssc-stenographer-2024/",
           "first_seen": "2026-08-26T06:32:04.905171+00:00",
           "eligibility": "eligible"
+        },
+        "08e088c9894b7b76": {
+          "title": "UPSSSC Stenographer 09/2023 Skill Test Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-stenographer-2023/",
+          "first_seen": "2026-08-26T07:29:19.723272+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "6ba9de731e1a36a0",
+      "last_page_hash": "0ec951999f655659",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 568,
-  "total_alerts": 103,
-  "last_new_job_ts": "2026-08-26T06:32:05.534453+00:00",
+  "total_checks": 569,
+  "total_alerts": 104,
+  "last_new_job_ts": "2026-08-26T07:29:20.496064+00:00",
   "last_heartbeat_key": "2026-08-26-9"
 }
