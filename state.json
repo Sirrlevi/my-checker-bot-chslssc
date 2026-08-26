@@ -2834,16 +2834,22 @@
           "url": "https://www.sarkariexam.com/sjvn-various-post-2026/",
           "first_seen": "2026-08-26T04:51:50.226711+00:00",
           "eligibility": "unknown"
+        },
+        "53893d7ffd52abca": {
+          "title": "UPSSSC Stenographer 13/2024 Skill Test Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-stenographer-2024/",
+          "first_seen": "2026-08-26T06:32:04.905171+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "ecdf8cd46b1c9796",
+      "last_page_hash": "6ba9de731e1a36a0",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 567,
-  "total_alerts": 102,
-  "last_new_job_ts": "2026-08-26T04:51:50.863107+00:00",
+  "total_checks": 568,
+  "total_alerts": 103,
+  "last_new_job_ts": "2026-08-26T06:32:05.534453+00:00",
   "last_heartbeat_key": "2026-08-26-9"
 }
