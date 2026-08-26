@@ -2942,16 +2942,22 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-08-26T10:49:26.080257+00:00",
           "eligibility": "unknown"
+        },
+        "1f929571e6f59181": {
+          "title": "UP Jalaun ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-jalaun-ecce-educator-2026/",
+          "first_seen": "2026-08-26T12:05:12.023706+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "846e751371f542ae",
+      "last_page_hash": "eb9f4e303c0912dc",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 576,
-  "total_alerts": 108,
-  "last_new_job_ts": "2026-08-26T10:49:26.696702+00:00",
+  "total_checks": 577,
+  "total_alerts": 109,
+  "last_new_job_ts": "2026-08-26T12:05:12.708448+00:00",
   "last_heartbeat_key": "2026-08-26-17"
 }
