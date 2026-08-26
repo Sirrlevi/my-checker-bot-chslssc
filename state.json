@@ -2966,16 +2966,28 @@
           "url": "https://www.sarkariexam.com/upbocw-computer-operator-2026/",
           "first_seen": "2026-08-26T13:12:10.597041+00:00",
           "eligibility": "unknown"
+        },
+        "8c91861e19b7ee25": {
+          "title": "RRB NTPC 10+2 UG CBT-I Result / Score Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-08-26T14:56:37.016783+00:00",
+          "eligibility": "eligible"
+        },
+        "a1f7edd96266f21f": {
+          "title": "Railway RRC ECoR Apprentice Online Form 2026 (1599 Posts) – Start",
+          "url": "https://www.sarkariexam.com/railway-rrc-ecor-apprentices-2026/",
+          "first_seen": "2026-08-26T14:56:37.016898+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7e284c935d2745a1",
+      "last_page_hash": "1d6cd6a60293e51f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 579,
-  "total_alerts": 110,
-  "last_new_job_ts": "2026-08-26T13:12:11.250005+00:00",
+  "total_checks": 580,
+  "total_alerts": 111,
+  "last_new_job_ts": "2026-08-26T14:56:37.610036+00:00",
   "last_heartbeat_key": "2026-08-26-17"
 }
