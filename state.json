@@ -2948,16 +2948,34 @@
           "url": "https://www.sarkariexam.com/up-jalaun-ecce-educator-2026/",
           "first_seen": "2026-08-26T12:05:12.023706+00:00",
           "eligibility": "unknown"
+        },
+        "09b17ab4fe433d6d": {
+          "title": "UP TGT 2022 Final Revised Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/up-tgt-2022/",
+          "first_seen": "2026-08-26T13:12:10.596884+00:00",
+          "eligibility": "unknown"
+        },
+        "92bdde2b1a50e5df": {
+          "title": "UPBOCW Peon Online Form 2026",
+          "url": "https://www.sarkariexam.com/upbocw-peon-2026/",
+          "first_seen": "2026-08-26T13:12:10.597036+00:00",
+          "eligibility": "eligible"
+        },
+        "501b210653e85232": {
+          "title": "UPBOCW Computer Operator Online Form 2026",
+          "url": "https://www.sarkariexam.com/upbocw-computer-operator-2026/",
+          "first_seen": "2026-08-26T13:12:10.597041+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "eb9f4e303c0912dc",
+      "last_page_hash": "7e284c935d2745a1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 577,
-  "total_alerts": 109,
-  "last_new_job_ts": "2026-08-26T12:05:12.708448+00:00",
+  "total_checks": 578,
+  "total_alerts": 110,
+  "last_new_job_ts": "2026-08-26T13:12:11.250005+00:00",
   "last_heartbeat_key": "2026-08-26-17"
 }
