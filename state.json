@@ -1616,9 +1616,15 @@
           "url": "https://www.sarkarijobs.com/rites-engineer-recruitment-2026-notice-out-apply-online-for-8-mechanical-engineering-posts-starting-today/",
           "first_seen": "2026-08-26T09:36:23.559544+00:00",
           "eligibility": "unknown"
+        },
+        "ea3aeb7961b4d8b8": {
+          "title": "Prime Minister Internship Scheme 2026 Notice Out: Apply to 227 Internship Seats for 10th, ITI, Diploma and Graduates",
+          "url": "https://www.sarkarijobs.com/prime-minister-internship-scheme-2026-notice-out-apply-to-227-internship-seats-for-10th-iti-diploma-and-graduates/",
+          "first_seen": "2026-08-26T10:10:22.803738+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7f72597366eca2a",
+      "last_page_hash": "6ab7265cb57722c6",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2926,14 +2932,14 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "89006673578dd3f3",
+      "last_page_hash": "88604152f913c242",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 572,
-  "total_alerts": 106,
-  "last_new_job_ts": "2026-08-26T09:36:24.615016+00:00",
+  "total_checks": 573,
+  "total_alerts": 107,
+  "last_new_job_ts": "2026-08-26T10:10:24.016501+00:00",
   "last_heartbeat_key": "2026-08-26-13"
 }
