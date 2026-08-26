@@ -2828,16 +2828,22 @@
           "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
           "first_seen": "2026-08-25T15:06:36.394437+00:00",
           "eligibility": "unknown"
+        },
+        "61181568147c0799": {
+          "title": "SJVN Various Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/sjvn-various-post-2026/",
+          "first_seen": "2026-08-26T04:51:50.226711+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b78e02c130f0dc4c",
+      "last_page_hash": "60d07e704d205c5e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 564,
-  "total_alerts": 101,
-  "last_new_job_ts": "2026-08-26T03:19:51.954966+00:00",
+  "total_checks": 565,
+  "total_alerts": 102,
+  "last_new_job_ts": "2026-08-26T04:51:50.863107+00:00",
   "last_heartbeat_key": "2026-08-26-9"
 }
