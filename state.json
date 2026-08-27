@@ -1634,9 +1634,15 @@
           "url": "https://www.sarkarijobs.com/drrmlims-recruitment-2026-74-stenographer-hospital-attendant-programmer-and-other-vacancies-announced/",
           "first_seen": "2026-08-27T10:43:28.902314+00:00",
           "eligibility": "eligible"
+        },
+        "23eef543aad1ea67": {
+          "title": "India Post GDS Recruitment 2026 Notice Out: Apply to 25,000+ BPM, ABPM and Dak Sevak Vacancies by September 21",
+          "url": "https://www.sarkarijobs.com/india-post-gds-recruitment-2026-25000-bpm-abpm-and-dak-sevak-vacancies-apply-online-by-september-21/",
+          "first_seen": "2026-08-27T20:47:10.125809+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "a032db3894652f8d",
+      "last_page_hash": "ee537a71acaf35c9",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -3032,16 +3038,52 @@
           "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
           "first_seen": "2026-08-27T10:43:29.466464+00:00",
           "eligibility": "unknown"
+        },
+        "a53a4e6c1a5d461f": {
+          "title": "UPSSSC Forest Guard/ Wild Life Guard Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
+          "first_seen": "2026-08-27T20:47:10.331867+00:00",
+          "eligibility": "unknown"
+        },
+        "14ac11fab5398b6c": {
+          "title": "UPSSSC Forensic Science Laboratory Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
+          "first_seen": "2026-08-27T20:47:10.331882+00:00",
+          "eligibility": "unknown"
+        },
+        "4d59e2aa6821bbd2": {
+          "title": "Bihar BTSC Staff Nurse Result / Cutoff 2026",
+          "url": "https://www.sarkariexam.com/bihar-btsc-staff-nurse-2025/",
+          "first_seen": "2026-08-27T20:47:10.331887+00:00",
+          "eligibility": "unknown"
+        },
+        "4e524ceec2a1ea4d": {
+          "title": "UP Chakbandi Vibhag MTS Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-mts-2026/",
+          "first_seen": "2026-08-27T20:47:10.332041+00:00",
+          "eligibility": "eligible"
+        },
+        "18da5e7ed5db16fe": {
+          "title": "UP Chakbandi Vibhag Driver Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-driver-2026/",
+          "first_seen": "2026-08-27T20:47:10.332049+00:00",
+          "eligibility": "eligible"
+        },
+        "0f3a7cd9406fbea5": {
+          "title": "UP Chakbandi Vibhag Computer Operator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-computer-operator-2026/",
+          "first_seen": "2026-08-27T20:47:10.332056+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "41b5a726926f18f4",
+      "last_page_hash": "a204bb88b5daa51b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 586,
-  "total_alerts": 114,
-  "last_new_job_ts": "2026-08-27T10:43:32.806614+00:00",
+  "total_checks": 587,
+  "total_alerts": 116,
+  "last_new_job_ts": "2026-08-27T20:47:13.241268+00:00",
   "last_heartbeat_key": "2026-08-26-21"
 }
