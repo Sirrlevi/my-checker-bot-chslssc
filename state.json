@@ -1622,9 +1622,21 @@
           "url": "https://www.sarkarijobs.com/prime-minister-internship-scheme-2026-notice-out-apply-to-227-internship-seats-for-10th-iti-diploma-and-graduates/",
           "first_seen": "2026-08-26T10:10:22.803738+00:00",
           "eligibility": "unknown"
+        },
+        "aa8a16dede8296f1": {
+          "title": "Cochin Shipyard Internship 2026: 227 Vacancies for ITI, 10th, Diploma and Graduate Candidates",
+          "url": "https://www.sarkarijobs.com/cochin-shipyard-internship-2026-227-vacancies-for-iti-10th-diploma-and-graduate-candidates/",
+          "first_seen": "2026-08-27T10:43:28.902299+00:00",
+          "eligibility": "unknown"
+        },
+        "d2eea7a6e2661b03": {
+          "title": "DRRMLIMS Recruitment 2026: 74 Stenographer, Hospital Attendant, Programmer and Other Vacancies Announced",
+          "url": "https://www.sarkarijobs.com/drrmlims-recruitment-2026-74-stenographer-hospital-attendant-programmer-and-other-vacancies-announced/",
+          "first_seen": "2026-08-27T10:43:28.902314+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "6ab7265cb57722c6",
+      "last_page_hash": "a032db3894652f8d",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -2984,16 +2996,52 @@
           "url": "https://www.sarkariexam.com/uptet-2026/",
           "first_seen": "2026-08-26T16:08:38.313034+00:00",
           "eligibility": "unknown"
+        },
+        "845692276a16541e": {
+          "title": "UP SCVTUP ITI First Allotment Result 2026",
+          "url": "https://www.sarkariexam.com/up-scvtup-iti-admissions-2026/",
+          "first_seen": "2026-08-27T10:43:29.466373+00:00",
+          "eligibility": "unknown"
+        },
+        "4d74fe11b31bb3a4": {
+          "title": "DSSSB 01-20 September Exam Admit Card 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
+          "first_seen": "2026-08-27T10:43:29.466411+00:00",
+          "eligibility": "unknown"
+        },
+        "54abfaec9c8fd707": {
+          "title": "India Post Office GDS Online Form 2026 (25000+ Posts)",
+          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
+          "first_seen": "2026-08-27T10:43:29.466441+00:00",
+          "eligibility": "eligible"
+        },
+        "7c1dae3c027b3780": {
+          "title": "BHU Non Teaching Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/bhu-non-teaching-various-post-2026/",
+          "first_seen": "2026-08-27T10:43:29.466451+00:00",
+          "eligibility": "unknown"
+        },
+        "281e5d6005228fc1": {
+          "title": "SBI Junior Associates Clerk Backlog Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-08-27T10:43:29.466457+00:00",
+          "eligibility": "unknown"
+        },
+        "9b56395a2648bfe2": {
+          "title": "Patna High Court Assistant Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
+          "first_seen": "2026-08-27T10:43:29.466464+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1f6bbcd24b56a3b3",
+      "last_page_hash": "41b5a726926f18f4",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 585,
-  "total_alerts": 112,
-  "last_new_job_ts": "2026-08-26T16:08:38.825416+00:00",
+  "total_checks": 586,
+  "total_alerts": 114,
+  "last_new_job_ts": "2026-08-27T10:43:32.806614+00:00",
   "last_heartbeat_key": "2026-08-26-21"
 }
