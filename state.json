@@ -3074,16 +3074,28 @@
           "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-computer-operator-2026/",
           "first_seen": "2026-08-27T20:47:10.332056+00:00",
           "eligibility": "unknown"
+        },
+        "b632b11c079219c9": {
+          "title": "NTA UGC NET June Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
+          "first_seen": "2026-08-28T16:53:50.968659+00:00",
+          "eligibility": "unknown"
+        },
+        "b4bdb9dc70b65542": {
+          "title": "Punjab National Bank PNB LBO Admit Card 2026",
+          "url": "https://www.sarkariexam.com/punjab-national-bank-pnb-lbo-2026/",
+          "first_seen": "2026-08-28T16:53:50.968705+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "63e0fc4ccee875cb",
+      "last_page_hash": "0b0c9f1b30dff255",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 588,
-  "total_alerts": 116,
-  "last_new_job_ts": "2026-08-27T20:47:13.241268+00:00",
+  "total_checks": 589,
+  "total_alerts": 117,
+  "last_new_job_ts": "2026-08-28T16:53:51.538133+00:00",
   "last_heartbeat_key": "2026-08-26-21"
 }
