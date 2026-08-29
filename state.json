@@ -3086,16 +3086,52 @@
           "url": "https://www.sarkariexam.com/punjab-national-bank-pnb-lbo-2026/",
           "first_seen": "2026-08-28T16:53:50.968705+00:00",
           "eligibility": "unknown"
+        },
+        "a6036c6e3df0aaac": {
+          "title": "NTA UGC NET June Result / Cutoff 2026 – Out",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
+          "first_seen": "2026-08-29T07:26:51.843136+00:00",
+          "eligibility": "unknown"
+        },
+        "0ac598cfefd0afaf": {
+          "title": "UPTET Result 2026",
+          "url": "https://www.sarkariexam.com/uptet-2026/",
+          "first_seen": "2026-08-29T07:26:51.843155+00:00",
+          "eligibility": "unknown"
+        },
+        "e96eeaafab071ebc": {
+          "title": "RRB NTPC 10+2 UG CBT-I Result / Score Card 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-08-29T07:26:51.843162+00:00",
+          "eligibility": "eligible"
+        },
+        "71f918a2a01d2d82": {
+          "title": "UP TGT 2022 Final Revised Result 2026",
+          "url": "https://www.sarkariexam.com/up-tgt-2022/",
+          "first_seen": "2026-08-29T07:26:51.843165+00:00",
+          "eligibility": "unknown"
+        },
+        "de98510294208858": {
+          "title": "India Post Office GDS Online Form 2026 (23757 Posts)",
+          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
+          "first_seen": "2026-08-29T07:26:51.843216+00:00",
+          "eligibility": "eligible"
+        },
+        "83b2f94e24dff6e9": {
+          "title": "Rajasthan Safai Karamchari Online Form 2026 (24752 Posts)",
+          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
+          "first_seen": "2026-08-29T07:26:51.843229+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0b0c9f1b30dff255",
+      "last_page_hash": "e6708e14c09e0997",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 590,
-  "total_alerts": 117,
-  "last_new_job_ts": "2026-08-28T16:53:51.538133+00:00",
+  "total_checks": 591,
+  "total_alerts": 118,
+  "last_new_job_ts": "2026-08-29T07:26:52.496284+00:00",
   "last_heartbeat_key": "2026-08-26-21"
 }
