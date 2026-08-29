@@ -3122,16 +3122,28 @@
           "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
           "first_seen": "2026-08-29T07:26:51.843229+00:00",
           "eligibility": "unknown"
+        },
+        "b63ffeaced84a06b": {
+          "title": "NTA CSIR UGC NET June Result 2026 -Out",
+          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
+          "first_seen": "2026-08-29T13:15:25.292602+00:00",
+          "eligibility": "unknown"
+        },
+        "cc4cd76a0d522d1e": {
+          "title": "UPSSSC Female Health Worker DV Document Upload 2026",
+          "url": "https://www.sarkariexam.com/upsssc-female-health-worker-2026/",
+          "first_seen": "2026-08-29T13:15:25.292661+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e6708e14c09e0997",
+      "last_page_hash": "ad4bda664e0b6efa",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 591,
-  "total_alerts": 118,
-  "last_new_job_ts": "2026-08-29T07:26:52.496284+00:00",
+  "total_checks": 592,
+  "total_alerts": 119,
+  "last_new_job_ts": "2026-08-29T13:15:25.824664+00:00",
   "last_heartbeat_key": "2026-08-26-21"
 }
