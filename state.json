@@ -3148,7 +3148,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 594,
+  "total_checks": 595,
   "total_alerts": 120,
   "last_new_job_ts": "2026-08-29T17:09:03.310226+00:00",
   "last_heartbeat_key": "2026-08-26-21"
