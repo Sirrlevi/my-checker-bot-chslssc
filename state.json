@@ -3374,16 +3374,40 @@
           "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
           "first_seen": "2026-08-31T14:11:55.977735+00:00",
           "eligibility": "unknown"
+        },
+        "015e7dbcd7e672c8": {
+          "title": "MPESB Group 2 Sub Group 3 Result 2026",
+          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-3-2026/",
+          "first_seen": "2026-08-31T20:06:24.730466+00:00",
+          "eligibility": "unknown"
+        },
+        "d6a415ac3942843c": {
+          "title": "UPCISB UP Cooperative Bank Various Post Exam City / Admit Card Notice 2026",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-08-31T20:06:24.730536+00:00",
+          "eligibility": "unknown"
+        },
+        "fcc10b0857116ca4": {
+          "title": "SSC Stenographer Grade C & D Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
+          "first_seen": "2026-08-31T20:06:24.730545+00:00",
+          "eligibility": "eligible"
+        },
+        "d9a5379be2da51c3": {
+          "title": "SSC JHT Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
+          "first_seen": "2026-08-31T20:06:24.730552+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b42e566387d71bad",
+      "last_page_hash": "cb19d6038afd7a2a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 605,
-  "total_alerts": 124,
-  "last_new_job_ts": "2026-08-31T14:11:58.535730+00:00",
+  "total_checks": 606,
+  "total_alerts": 125,
+  "last_new_job_ts": "2026-08-31T20:06:25.440499+00:00",
   "last_heartbeat_key": "2026-08-30-13"
 }
