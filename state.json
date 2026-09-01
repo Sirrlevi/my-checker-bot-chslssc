@@ -3596,16 +3596,34 @@
           "url": "https://www.sarkariexam.com/uksssc-group-c-various-posts-2026/",
           "first_seen": "2026-09-01T12:46:15.616319+00:00",
           "eligibility": "unknown"
+        },
+        "db300d3807f78d48": {
+          "title": "IBPS RRB 15th Form (13706 Posts)",
+          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
+          "first_seen": "2026-09-01T16:57:09.905430+00:00",
+          "eligibility": "unknown"
+        },
+        "d3184b5762b6a6e3": {
+          "title": "UPSC Combined Medical Services CMS Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsc-cms-2026/",
+          "first_seen": "2026-09-01T16:57:09.905452+00:00",
+          "eligibility": "unknown"
+        },
+        "95979a143a0233b5": {
+          "title": "UP Home Guard PET Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/up-home-guard-2025/",
+          "first_seen": "2026-09-01T16:57:09.905498+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b6d3c5ca20b2a32e",
+      "last_page_hash": "53f62cfbe7df9a20",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 610,
-  "total_alerts": 129,
-  "last_new_job_ts": "2026-09-01T12:46:18.336929+00:00",
+  "total_checks": 611,
+  "total_alerts": 130,
+  "last_new_job_ts": "2026-09-01T16:57:10.454857+00:00",
   "last_heartbeat_key": "2026-09-01-13"
 }
