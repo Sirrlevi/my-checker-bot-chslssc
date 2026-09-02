@@ -2036,9 +2036,15 @@
           "url": "https://www.sarkarijobs.com/apsp-prakasam-recruitment-2026-37-record-assistant-cook-sweeper-and-other-vacancies-apply-by-september-11/",
           "first_seen": "2026-09-02T12:59:54.373271+00:00",
           "eligibility": "eligible"
+        },
+        "6590518e27a96fdd": {
+          "title": "DRDO VRDE JRF Recruitment 2026 Notice Out for 5 Mechanical Engineering Vacancies, Walk-In Selection on October 6",
+          "url": "https://www.sarkarijobs.com/drdo-vrde-jrf-recruitment-2026-notice-out-for-5-mechanical-engineering-vacancies-walk-in-selection-on-october-6/",
+          "first_seen": "2026-09-02T17:01:22.230876+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b054dd57502915b6",
+      "last_page_hash": "9a8bc64b931f1013",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -3716,16 +3722,22 @@
           "url": "https://www.sarkariexam.com/nvs-class-11-admissions-2027/",
           "first_seen": "2026-09-02T12:59:54.667893+00:00",
           "eligibility": "unknown"
+        },
+        "77bae5d504f817af": {
+          "title": "Delhi High Court Higher Judicial Service HJS Mains Exam Date 2026 – Out",
+          "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
+          "first_seen": "2026-09-02T17:01:22.409283+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "06a6ef036340efd2",
+      "last_page_hash": "1349d42418611492",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 617,
-  "total_alerts": 134,
-  "last_new_job_ts": "2026-09-02T12:59:57.406026+00:00",
+  "total_checks": 618,
+  "total_alerts": 136,
+  "last_new_job_ts": "2026-09-02T17:01:24.981578+00:00",
   "last_heartbeat_key": "2026-09-02-9"
 }
