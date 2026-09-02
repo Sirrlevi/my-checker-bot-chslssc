@@ -1958,9 +1958,33 @@
           "url": "https://www.sarkarijobs.com/news/up-cooperative-bank-exam-city-2026-released-for-manager-assistant-and-other-posts-exam-from-september-7/",
           "first_seen": "2026-09-01T12:46:15.127176+00:00",
           "eligibility": "unknown"
+        },
+        "70467bd9ab35c23d": {
+          "title": "IOCL Recruitment 2026: Apply for 920+ Managers, Sr Managers, Executives, Technicians, Diploma Engineers and Other Posts",
+          "url": "https://www.sarkarijobs.com/iocl-recruitment/",
+          "first_seen": "2026-09-02T08:50:09.897883+00:00",
+          "eligibility": "unknown"
+        },
+        "b12afd5155c0b4ef": {
+          "title": "WCD Haryana Female Supervisor Recruitment 2026 Notification Released: Apply Offline to 108 Vacancies by September 2",
+          "url": "https://www.sarkarijobs.com/wcd-haryana-female-supervisor-recruitment-2026-notification-released-apply-offline-to-108-vacancies-by-september-2/",
+          "first_seen": "2026-09-02T08:50:09.897897+00:00",
+          "eligibility": "unknown"
+        },
+        "b20332bc46681979": {
+          "title": "Bihar STET 2026 Last Date Extended: Apply Online for Secondary Teacher Eligibility Test Paper I & II",
+          "url": "https://www.sarkarijobs.com/bihar-stet-2026-notification-out-apply-online-for-secondary-teacher-eligibility-test-paper-i-ii/",
+          "first_seen": "2026-09-02T08:50:09.897902+00:00",
+          "eligibility": "unknown"
+        },
+        "563c54aa8697cc3f": {
+          "title": "UPSSSC PET 2026 Deadline Extended; Candidates Can Apply Online Until September 7",
+          "url": "https://www.sarkarijobs.com/upsssc-pet-2026-deadline-extended-candidates-can-apply-online-until-september-7/",
+          "first_seen": "2026-09-02T08:50:09.897913+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e1d6e1386ebf83bb",
+      "last_page_hash": "098fcc178f933c38",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -3614,16 +3638,28 @@
           "url": "https://www.sarkariexam.com/up-home-guard-2025/",
           "first_seen": "2026-09-01T16:57:09.905498+00:00",
           "eligibility": "unknown"
+        },
+        "86d5a420f922a979": {
+          "title": "CONCOR MT, Assistant Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/concor-mt-assistant-officer-2026/",
+          "first_seen": "2026-09-02T08:50:10.143430+00:00",
+          "eligibility": "unknown"
+        },
+        "d95289098776a360": {
+          "title": "NIC Scientific / Technical Assistant Online Form 2026",
+          "url": "https://www.sarkariexam.com/nic-scientific-technical-assistant-2026/",
+          "first_seen": "2026-09-02T08:50:10.143447+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "53f62cfbe7df9a20",
+      "last_page_hash": "bc74254d3403fa0c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 615,
-  "total_alerts": 130,
-  "last_new_job_ts": "2026-09-01T16:57:10.454857+00:00",
+  "total_checks": 616,
+  "total_alerts": 132,
+  "last_new_job_ts": "2026-09-02T08:50:12.895000+00:00",
   "last_heartbeat_key": "2026-09-02-9"
 }
