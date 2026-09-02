@@ -1982,9 +1982,63 @@
           "url": "https://www.sarkarijobs.com/upsssc-pet-2026-deadline-extended-candidates-can-apply-online-until-september-7/",
           "first_seen": "2026-09-02T08:50:09.897913+00:00",
           "eligibility": "unknown"
+        },
+        "03a96f4068fda5de": {
+          "title": "EdCIL KVS Recruitment Opens for 13 Technical Posts Under PMU; Applications Close September 15",
+          "url": "https://www.sarkarijobs.com/edcil-kvs-recruitment-opens-for-13-technical-posts-under-pmu-applications-close-september-15/",
+          "first_seen": "2026-09-02T12:59:54.373217+00:00",
+          "eligibility": "unknown"
+        },
+        "35418fc726290144": {
+          "title": "DCPU Kaimur Support Person Recruitment 2026 Announced for 25 Contractual Vacancies, Apply Offline by September 26",
+          "url": "https://www.sarkarijobs.com/dcpu-kaimur-support-person-recruitment-2026-announced-for-25-contractual-vacancies-apply-offline-by-september-26/",
+          "first_seen": "2026-09-02T12:59:54.373237+00:00",
+          "eligibility": "unknown"
+        },
+        "c62cb5cbcb02004b": {
+          "title": "MSETCL Wireman Apprentice Recruitment 2026 Begins: Apply Online to 24 ITI Vacancies by September 6",
+          "url": "https://www.sarkarijobs.com/msetcl-wireman-apprentice-recruitment-2026-begins-apply-online-to-24-iti-vacancies-by-september-6/",
+          "first_seen": "2026-09-02T12:59:54.373243+00:00",
+          "eligibility": "unknown"
+        },
+        "04301798c2be2868": {
+          "title": "South Eastern Railway Scouts & Guides Recruitment 2026 Notice Out for 10 Level-1 and Level-2 Vacancies, Apply Online by October 6",
+          "url": "https://www.sarkarijobs.com/south-eastern-railway-scouts-guides-recruitment-2026-notice-out-for-10-level-1-and-level-2-vacancies-apply-online-by-october-6/",
+          "first_seen": "2026-09-02T12:59:54.373248+00:00",
+          "eligibility": "unknown"
+        },
+        "ec10bb87817c16da": {
+          "title": "ICAR IGFRI Young Professional Recruitment 2026: Walk-In for 5 YP-II Posts on September 15",
+          "url": "https://www.sarkarijobs.com/icar-igfri-young-professional-recruitment-2026-walk-in-for-5-yp-ii-posts-on-september-15/",
+          "first_seen": "2026-09-02T12:59:54.373254+00:00",
+          "eligibility": "unknown"
+        },
+        "dead23d0c2d79b1e": {
+          "title": "PGIMER Recruitment 2026: 60 Group A, B and C Vacancies, Apply Online From September 3",
+          "url": "https://www.sarkarijobs.com/pgimer-recruitment-2026-60-group-a-b-and-c-vacancies-apply-online-from-september-3/",
+          "first_seen": "2026-09-02T12:59:54.373258+00:00",
+          "eligibility": "unknown"
+        },
+        "a18e3887b719b3aa": {
+          "title": "HLL Lifecare Recruitment Drive for 16 VP, CFO, Manager and Other Senior Posts Announced; September 23 Deadline",
+          "url": "https://www.sarkarijobs.com/hll-lifecare-recruitment-drive-for-16-vp-cfo-manager-and-other-senior-posts-announced-september-23-deadline/",
+          "first_seen": "2026-09-02T12:59:54.373263+00:00",
+          "eligibility": "unknown"
+        },
+        "852a45d68c48e1fc": {
+          "title": "ANIIMS Recruitment Notice Out for 43 Non-Teaching Vacancies; Applications Close September 25",
+          "url": "https://www.sarkarijobs.com/aniims-recruitment-notice-out-for-43-non-teaching-vacancies-applications-close-september-25/",
+          "first_seen": "2026-09-02T12:59:54.373267+00:00",
+          "eligibility": "unknown"
+        },
+        "7d2cfd680ffc0d92": {
+          "title": "APSP Prakasam Recruitment 2026 Announced: 37 Record Assistant, Cook, Sweeper and Other Vacancies, Apply by September 11",
+          "url": "https://www.sarkarijobs.com/apsp-prakasam-recruitment-2026-37-record-assistant-cook-sweeper-and-other-vacancies-apply-by-september-11/",
+          "first_seen": "2026-09-02T12:59:54.373271+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "098fcc178f933c38",
+      "last_page_hash": "b054dd57502915b6",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -3650,16 +3704,28 @@
           "url": "https://www.sarkariexam.com/nic-scientific-technical-assistant-2026/",
           "first_seen": "2026-09-02T08:50:10.143447+00:00",
           "eligibility": "unknown"
+        },
+        "8cbbbcc0740b19dd": {
+          "title": "NVS Class 9th Online Form 2027",
+          "url": "https://www.sarkariexam.com/nvs-class-9th-2026/",
+          "first_seen": "2026-09-02T12:59:54.667869+00:00",
+          "eligibility": "unknown"
+        },
+        "1ff1ab76b2b900d9": {
+          "title": "NVS Class 11 Admissions Online Form 2027",
+          "url": "https://www.sarkariexam.com/nvs-class-11-admissions-2027/",
+          "first_seen": "2026-09-02T12:59:54.667893+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "bc74254d3403fa0c",
+      "last_page_hash": "06a6ef036340efd2",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 616,
-  "total_alerts": 132,
-  "last_new_job_ts": "2026-09-02T08:50:12.895000+00:00",
+  "total_checks": 617,
+  "total_alerts": 134,
+  "last_new_job_ts": "2026-09-02T12:59:57.406026+00:00",
   "last_heartbeat_key": "2026-09-02-9"
 }
