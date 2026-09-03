@@ -2042,9 +2042,27 @@
           "url": "https://www.sarkarijobs.com/drdo-vrde-jrf-recruitment-2026-notice-out-for-5-mechanical-engineering-vacancies-walk-in-selection-on-october-6/",
           "first_seen": "2026-09-02T17:01:22.230876+00:00",
           "eligibility": "unknown"
+        },
+        "c83b6567facaa991": {
+          "title": "MECL Recruitment Notice Out for 94 Non-Executive Posts; Online Applications Open September 12",
+          "url": "https://www.sarkarijobs.com/mecl-recruitment-notice-out-for-94-non-executive-posts-online-applications-open-september-12/",
+          "first_seen": "2026-09-03T06:31:27.605063+00:00",
+          "eligibility": "unknown"
+        },
+        "272bd53b73e354d8": {
+          "title": "PRSC Recruitment Opens for 6 Clerk, Lab Attendant, Lab Executive and Other Posts; Offline Applications Close October 5",
+          "url": "https://www.sarkarijobs.com/prsc-recruitment-opens-for-6-clerk-lab-attendant-lab-executive-and-other-posts-offline-applications-close-october-5/",
+          "first_seen": "2026-09-03T06:31:27.605079+00:00",
+          "eligibility": "unknown"
+        },
+        "0df3f1a8b41ec61e": {
+          "title": "RITES Recruitment 2026 Online Form Announced: Apply to 7 NX Design Engineer, GM, JGM and DGM Vacancies",
+          "url": "https://www.sarkarijobs.com/rites-recruitment-2026-online-form-announced-apply-to-7-nx-design-engineer-gm-jgm-and-dgm-vacancies/",
+          "first_seen": "2026-09-03T06:31:27.605085+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9a8bc64b931f1013",
+      "last_page_hash": "7fb6e95c50883e46",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -3730,14 +3748,14 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1349d42418611492",
+      "last_page_hash": "07f38dc035faff45",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 622,
-  "total_alerts": 136,
-  "last_new_job_ts": "2026-09-02T17:01:24.981578+00:00",
+  "total_checks": 623,
+  "total_alerts": 137,
+  "last_new_job_ts": "2026-09-03T06:31:28.832176+00:00",
   "last_heartbeat_key": "2026-09-02-9"
 }
