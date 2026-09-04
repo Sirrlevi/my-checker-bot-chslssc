@@ -3818,16 +3818,52 @@
           "url": "https://www.sarkariexam.com/up-special-tet-2026/",
           "first_seen": "2026-09-03T18:35:43.799320+00:00",
           "eligibility": "unknown"
+        },
+        "93887e5c72ba9e96": {
+          "title": "MPESB Primary & Middle School Teacher Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
+          "first_seen": "2026-09-04T09:57:46.877834+00:00",
+          "eligibility": "unknown"
+        },
+        "ea9c08a9dd76af67": {
+          "title": "IBPS Clerk CSA 16th Correction Form 2026",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-09-04T09:57:46.877870+00:00",
+          "eligibility": "unknown"
+        },
+        "40fa44b820422750": {
+          "title": "PFRDA Assistant Manager Online Form 2026",
+          "url": "https://www.sarkariexam.com/pfrda-assistant-manager-2026/",
+          "first_seen": "2026-09-04T09:57:46.877878+00:00",
+          "eligibility": "unknown"
+        },
+        "82d52b4028eeedbf": {
+          "title": "Bank of Baroda SO Online Form 2026 (1100 Posts)",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-so-2026/",
+          "first_seen": "2026-09-04T09:57:46.877883+00:00",
+          "eligibility": "unknown"
+        },
+        "fb9c3b2e99a04ef0": {
+          "title": "NTA AIAPGET Answer Key 2026",
+          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
+          "first_seen": "2026-09-04T09:57:46.877898+00:00",
+          "eligibility": "unknown"
+        },
+        "3fc4a8ef409b7d18": {
+          "title": "UP Banda ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-banda-ecce-educator-online-form-2026/",
+          "first_seen": "2026-09-04T09:57:46.877970+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "5ad0ad955d6fcdca",
+      "last_page_hash": "32a460b4b1cd03b7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 630,
-  "total_alerts": 140,
-  "last_new_job_ts": "2026-09-03T18:35:44.447229+00:00",
+  "total_checks": 631,
+  "total_alerts": 141,
+  "last_new_job_ts": "2026-09-04T09:57:48.388257+00:00",
   "last_heartbeat_key": "2026-09-03-17"
 }
