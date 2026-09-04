@@ -3854,16 +3854,22 @@
           "url": "https://www.sarkariexam.com/up-banda-ecce-educator-online-form-2026/",
           "first_seen": "2026-09-04T09:57:46.877970+00:00",
           "eligibility": "unknown"
+        },
+        "f390c17a6afa2ab0": {
+          "title": "NTA UGC NET June Re-Exam Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
+          "first_seen": "2026-09-04T17:16:00.763545+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "32a460b4b1cd03b7",
+      "last_page_hash": "ee1dc500e483946b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 632,
-  "total_alerts": 141,
-  "last_new_job_ts": "2026-09-04T09:57:48.388257+00:00",
+  "total_checks": 633,
+  "total_alerts": 142,
+  "last_new_job_ts": "2026-09-04T17:16:01.762903+00:00",
   "last_heartbeat_key": "2026-09-03-17"
 }
