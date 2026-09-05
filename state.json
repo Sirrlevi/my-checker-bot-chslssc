@@ -3956,16 +3956,58 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-09-04T17:16:00.763545+00:00",
           "eligibility": "unknown"
+        },
+        "afc4b54c41a79393": {
+          "title": "UPCISB UP Cooperative Bank Various Post Admit Card 2026",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-09-05T09:24:07.420591+00:00",
+          "eligibility": "unknown"
+        },
+        "7aae4dd87e18def3": {
+          "title": "Delhi High Court SPA & PA Online Form 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
+          "first_seen": "2026-09-05T09:24:07.420655+00:00",
+          "eligibility": "unknown"
+        },
+        "ece42b4400c496bd": {
+          "title": "MPESB Primary & Middle School Teacher Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
+          "first_seen": "2026-09-05T09:24:07.420665+00:00",
+          "eligibility": "unknown"
+        },
+        "aafe669cf39af5ee": {
+          "title": "UP Mirzapur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-mirzapur-ecce-educator-2026/",
+          "first_seen": "2026-09-05T09:24:07.420775+00:00",
+          "eligibility": "unknown"
+        },
+        "271999c9a54d3cf4": {
+          "title": "UP Azamgarh ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-azamgarh-ecce-educator-2026/",
+          "first_seen": "2026-09-05T09:24:07.420785+00:00",
+          "eligibility": "unknown"
+        },
+        "91be7f7b3840e89c": {
+          "title": "UP Moradabad ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-moradabad-ecce-educator-job-2026/",
+          "first_seen": "2026-09-05T09:24:07.420793+00:00",
+          "eligibility": "unknown"
+        },
+        "d2c1b02f386e9e25": {
+          "title": "UP Moradabad ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-moradabad-ecce-educator-2026/",
+          "first_seen": "2026-09-05T09:24:07.420799+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1b3d77df9544cba0",
+      "last_page_hash": "80a76f5b81c89ade",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 638,
-  "total_alerts": 143,
-  "last_new_job_ts": "2026-09-05T05:40:41.615146+00:00",
+  "total_checks": 639,
+  "total_alerts": 144,
+  "last_new_job_ts": "2026-09-05T09:24:07.926566+00:00",
   "last_heartbeat_key": "2026-09-03-17"
 }
