@@ -2384,9 +2384,33 @@
           "url": "https://www.sarkarijobs.com/goa-gssc-recruitment-2026-215-ldc-junior-assistant-deo-and-dtp-operator-vacancies-apply-online-by-october-2/",
           "first_seen": "2026-09-07T06:36:57.691043+00:00",
           "eligibility": "unknown"
+        },
+        "dccd0da06e00778a": {
+          "title": "DRDO CVRDE Apprentice Recruitment 2026 Notice Out: Walk-Ins for 93 ITI Trainee Vacancies on September 8 and 9",
+          "url": "https://www.sarkarijobs.com/drdo-cvrde-apprentice-recruitment-2026-notice-out-walk-ins-for-93-iti-trainee-vacancies-on-september-8-and-9/",
+          "first_seen": "2026-09-07T12:58:56.039675+00:00",
+          "eligibility": "unknown"
+        },
+        "4bdaf36f233bac69": {
+          "title": "Gliders India Recruitment 2026: 8 DGM, Senior Manager and Manager Vacancies, Apply by September 20",
+          "url": "https://www.sarkarijobs.com/gliders-india-recruitment-2026-8-dgm-senior-manager-and-manager-vacancies-apply-by-september-20/",
+          "first_seen": "2026-09-07T12:58:56.039695+00:00",
+          "eligibility": "unknown"
+        },
+        "be4c118f58da6840": {
+          "title": "HIL India Recruitment 2026 Notification Released: Offline Form for 10 AGM and Manager Vacancies Till October 5",
+          "url": "https://www.sarkarijobs.com/hil-india-recruitment-2026-notification-released-offline-form-for-10-agm-and-manager-vacancies-till-october-5/",
+          "first_seen": "2026-09-07T12:58:56.039705+00:00",
+          "eligibility": "unknown"
+        },
+        "1a9b7cf68f3405d6": {
+          "title": "IIT Tirupati Recruitment 2026 Announced for 13 Non-Teaching Group A, B and C Vacancies, Apply Online by September 30",
+          "url": "https://www.sarkarijobs.com/iit-tirupati-recruitment-2026-announced-for-13-non-teaching-group-a-b-and-c-vacancies-apply-online-by-september-30/",
+          "first_seen": "2026-09-07T12:58:56.039712+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "99421915473357c5",
+      "last_page_hash": "2742159d036d7b00",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4256,16 +4280,70 @@
           "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
           "first_seen": "2026-09-07T06:36:57.847150+00:00",
           "eligibility": "unknown"
+        },
+        "e42bb979477ca57f": {
+          "title": "EMRS Teaching & Non-Teaching Tier-II Result 2026 – Updated",
+          "url": "https://www.sarkariexam.com/emrs-teaching-non-teaching-2025/",
+          "first_seen": "2026-09-07T12:58:56.203536+00:00",
+          "eligibility": "unknown"
+        },
+        "989f49e8201c3fec": {
+          "title": "BCECE Admission Mop-up Allotment Result 2026",
+          "url": "https://www.sarkariexam.com/bcece-admission-2026/",
+          "first_seen": "2026-09-07T12:58:56.203553+00:00",
+          "eligibility": "unknown"
+        },
+        "9703829681d8a532": {
+          "title": "UPCISB Cooperative Bank Various Posts Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upcisb-cooperative-bank-various-post-2026/",
+          "first_seen": "2026-09-07T12:58:56.203592+00:00",
+          "eligibility": "unknown"
+        },
+        "0a38660903b0692d": {
+          "title": "Rajasthan State Eligibility Test SET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-2026/",
+          "first_seen": "2026-09-07T12:58:56.203601+00:00",
+          "eligibility": "unknown"
+        },
+        "feb5d2e1c14bc85d": {
+          "title": "RRB NTPC 10+2 UG Mock Test Link 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-09-07T12:58:56.203607+00:00",
+          "eligibility": "eligible"
+        },
+        "969378a0ede314a3": {
+          "title": "Bank Of Baroda LBO Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
+          "first_seen": "2026-09-07T12:58:56.203648+00:00",
+          "eligibility": "unknown"
+        },
+        "13cdf96bb6b4fb1e": {
+          "title": "CSIR NGRI Technician Online Form 2026",
+          "url": "https://www.sarkariexam.com/csir-ngri-technician-2026/",
+          "first_seen": "2026-09-07T12:58:56.203654+00:00",
+          "eligibility": "unknown"
+        },
+        "acbd1eb5b273dd5b": {
+          "title": "RCFL Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/rcfl-apprentice-2026/",
+          "first_seen": "2026-09-07T12:58:56.203666+00:00",
+          "eligibility": "unknown"
+        },
+        "a802cd24dbbad1f9": {
+          "title": "UIIC Administrative Officers AO Online Form 2026",
+          "url": "https://www.sarkariexam.com/uiic-ao-2026/",
+          "first_seen": "2026-09-07T12:58:56.203673+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6552563ea4bd4af3",
+      "last_page_hash": "5bb357a8d6e0a582",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 656,
-  "total_alerts": 147,
-  "last_new_job_ts": "2026-09-07T06:37:00.401707+00:00",
+  "total_checks": 657,
+  "total_alerts": 149,
+  "last_new_job_ts": "2026-09-07T12:58:58.783066+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
