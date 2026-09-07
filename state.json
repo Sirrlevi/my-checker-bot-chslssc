@@ -4334,16 +4334,22 @@
           "url": "https://www.sarkariexam.com/uiic-ao-2026/",
           "first_seen": "2026-09-07T12:58:56.203673+00:00",
           "eligibility": "unknown"
+        },
+        "d1b59839597f6804": {
+          "title": "Railway RRB Group D Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
+          "first_seen": "2026-09-07T18:05:46.020311+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "5bb357a8d6e0a582",
+      "last_page_hash": "270036a6e43eadd1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 657,
-  "total_alerts": 149,
-  "last_new_job_ts": "2026-09-07T12:58:58.783066+00:00",
+  "total_checks": 658,
+  "total_alerts": 150,
+  "last_new_job_ts": "2026-09-07T18:05:46.697536+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
