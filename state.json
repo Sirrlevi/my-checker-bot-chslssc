@@ -2492,9 +2492,21 @@
           "url": "https://www.sarkarijobs.com/news/rajasthan-set-admit-card-2026-released-state-eligibility-test-on-september-13/",
           "first_seen": "2026-09-08T06:04:58.809918+00:00",
           "eligibility": "unknown"
+        },
+        "c7ad148d827ef4b7": {
+          "title": "RRB Paramedical Recruitment 2026 Short Notice Out: 560 Vacancies Under CEN 05/2026, Apply Online From September 15",
+          "url": "https://www.sarkarijobs.com/rrb-paramedical-recruitment-2026-notice-out-560-vacancies-under-cen-05-2026-apply-online-from-september-15/",
+          "first_seen": "2026-09-08T11:09:04.731650+00:00",
+          "eligibility": "unknown"
+        },
+        "d20c0888b9cd1b93": {
+          "title": "GIMS Recruitment 2026 for 100+ Staff Nurse and Other Posts (Last Date Extended Till 7th October 2026)",
+          "url": "https://www.sarkarijobs.com/gims-recruitment/",
+          "first_seen": "2026-09-08T11:09:04.731666+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "418c50e01c07ca76",
+      "last_page_hash": "4bb9fe670902cd5f",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4460,16 +4472,34 @@
           "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
           "first_seen": "2026-09-08T06:04:59.040641+00:00",
           "eligibility": "unknown"
+        },
+        "9f9f1cba1144e980": {
+          "title": "SSC Stenographer Grade C & D Tier-I Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
+          "first_seen": "2026-09-08T11:09:04.867005+00:00",
+          "eligibility": "eligible"
+        },
+        "6adfc2958e6b41de": {
+          "title": "SSC JHT Tier-I Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
+          "first_seen": "2026-09-08T11:09:04.867020+00:00",
+          "eligibility": "unknown"
+        },
+        "3ede7bf6202c6fda": {
+          "title": "Railway RRB Paramedical CEN 05/2026 Online Form 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
+          "first_seen": "2026-09-08T11:09:04.867060+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8cafded887c9c372",
+      "last_page_hash": "5c828a10d2f8e481",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 662,
-  "total_alerts": 152,
-  "last_new_job_ts": "2026-09-08T06:05:02.102299+00:00",
+  "total_checks": 663,
+  "total_alerts": 154,
+  "last_new_job_ts": "2026-09-08T11:09:07.441430+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
