@@ -2504,9 +2504,33 @@
           "url": "https://www.sarkarijobs.com/gims-recruitment/",
           "first_seen": "2026-09-08T11:09:04.731666+00:00",
           "eligibility": "unknown"
+        },
+        "835b199f3cb25cfc": {
+          "title": "Prasar Bharati Marketing Executive Recruitment 2026 Notification Released for 20 Vacancies, Apply Online by September 22",
+          "url": "https://www.sarkarijobs.com/prasar-bharati-marketing-executive-recruitment-2026-notification-released-for-20-vacancies-apply-online-by-september-22/",
+          "first_seen": "2026-09-08T15:04:04.995114+00:00",
+          "eligibility": "unknown"
+        },
+        "d9bb9e09f908dfc1": {
+          "title": "TIFR Apprentice Recruitment 2026 Announced with Walk-ins for 10 ITI Trade Apprentice Vacancies on September 30",
+          "url": "https://www.sarkarijobs.com/tifr-apprentice-recruitment-2026-announced-with-walk-ins-for-10-iti-trade-apprentice-vacancies-on-september-30/",
+          "first_seen": "2026-09-08T15:04:04.995138+00:00",
+          "eligibility": "unknown"
+        },
+        "ceb94b5a6f4b40bf": {
+          "title": "NSPCL Engineering Executive Trainee Recruitment 2027 Through GATE: Mechanical, Electrical, Electronics and Instrumentation Engineers Eligible",
+          "url": "https://www.sarkarijobs.com/nspcl-engineering-executive-trainee-recruitment-2027-through-gate-mechanical-electrical-electronics-and-instrumentation-engineers-eligible/",
+          "first_seen": "2026-09-08T15:04:04.995154+00:00",
+          "eligibility": "unknown"
+        },
+        "d295376b055ca8fd": {
+          "title": "MRPL Assistant Engineer Recruitment 2026 Through GATE: Apply Online for 26 E2 Grade Vacancies",
+          "url": "https://www.sarkarijobs.com/mrpl-assistant-engineer-recruitment-2026-through-gate-apply-online-for-23-e2-grade-vacancies/",
+          "first_seen": "2026-09-08T15:04:04.995158+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4bb9fe670902cd5f",
+      "last_page_hash": "2b34a92e6e0f3a72",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4490,16 +4514,46 @@
           "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
           "first_seen": "2026-09-08T11:09:04.867060+00:00",
           "eligibility": "unknown"
+        },
+        "703a4bb01dd12ebd": {
+          "title": "UPSC CAPF AC Name Wise Result 2026",
+          "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
+          "first_seen": "2026-09-08T15:04:05.238561+00:00",
+          "eligibility": "unknown"
+        },
+        "a3b06f9e50d8c4b1": {
+          "title": "UPSSSC Draftsman, Cartographer Mains Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-draftsman-cartographer-2023/",
+          "first_seen": "2026-09-08T15:04:05.238583+00:00",
+          "eligibility": "unknown"
+        },
+        "edc5477a5dddf344": {
+          "title": "SSC Selection Post 14th Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
+          "first_seen": "2026-09-08T15:04:05.238607+00:00",
+          "eligibility": "unknown"
+        },
+        "8120be7256b82e92": {
+          "title": "Patna High Court Assistant Exam Date 2026",
+          "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
+          "first_seen": "2026-09-08T15:04:05.238611+00:00",
+          "eligibility": "unknown"
+        },
+        "f7019ea8cdc6bb67": {
+          "title": "Delhi High Court JJA Main Exam Date 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-jja-2026/",
+          "first_seen": "2026-09-08T15:04:05.238615+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "5c828a10d2f8e481",
+      "last_page_hash": "8dbc6c18ca8c4b72",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 663,
-  "total_alerts": 154,
-  "last_new_job_ts": "2026-09-08T11:09:07.441430+00:00",
+  "total_checks": 664,
+  "total_alerts": 156,
+  "last_new_job_ts": "2026-09-08T15:04:08.092467+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
