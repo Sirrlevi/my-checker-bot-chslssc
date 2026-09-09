@@ -2528,9 +2528,57 @@
           "url": "https://www.sarkarijobs.com/mrpl-assistant-engineer-recruitment-2026-through-gate-apply-online-for-23-e2-grade-vacancies/",
           "first_seen": "2026-09-08T15:04:04.995158+00:00",
           "eligibility": "unknown"
+        },
+        "9bafe7d72ea61f42": {
+          "title": "C-DAC Recruitment 2026 Notice Out for 59 Project Associate, Engineer and Manager Vacancies, Online registration Closes September 22",
+          "url": "https://www.sarkarijobs.com/c-dac-recruitment-2026-notice-out-for-59-project-associate-engineer-and-manager-vacancies-online-registration-closes-september-22/",
+          "first_seen": "2026-09-09T01:22:03.116650+00:00",
+          "eligibility": "unknown"
+        },
+        "6d9b91827b40155e": {
+          "title": "AWEIL Recruitment 2026 Offline Form Download for 40 Technical Vacancies at GSF Kashipur, Apply by October 7",
+          "url": "https://www.sarkarijobs.com/aweil-recruitment-2026-offline-form-download-for-40-technical-vacancies-at-gsf-kashipur-apply-by-october-7/",
+          "first_seen": "2026-09-09T01:22:03.116672+00:00",
+          "eligibility": "unknown"
+        },
+        "a3737c8739ba1b9c": {
+          "title": "BECIL Recruitment 2026 Online Form for 41 Paramedical and Technical Vacancies Available Now, Apply by September 21",
+          "url": "https://www.sarkarijobs.com/becil-recruitment-2026-online-form-for-41-paramedical-and-technical-vacancies-available-now-apply-by-september-21/",
+          "first_seen": "2026-09-09T01:22:03.116676+00:00",
+          "eligibility": "unknown"
+        },
+        "67b461aa6a8e8ca4": {
+          "title": "Central University of Punjab Recruitment 2026 Notification Issued: Apply to 15 Faculty and Non-Teaching Vacancies by September 15",
+          "url": "https://www.sarkarijobs.com/central-university-of-punjab-recruitment-2026-notification-issued-apply-to-15-faculty-and-non-teaching-vacancies-by-september-15/",
+          "first_seen": "2026-09-09T01:22:03.116681+00:00",
+          "eligibility": "unknown"
+        },
+        "920e37f54d80e15b": {
+          "title": "EIL Recruitment 2026 Notification Released: Apply to 61 Engineer, Deputy Manager, Manager and Senior Manager Vacancies by September 25",
+          "url": "https://www.sarkarijobs.com/eil-recruitment-2026-notification-released-apply-to-61-engineer-deputy-manager-manager-and-senior-manager-vacancies-by-september-25/",
+          "first_seen": "2026-09-09T01:22:03.116686+00:00",
+          "eligibility": "unknown"
+        },
+        "3e2eac89f5f3b2cf": {
+          "title": "ESIC Indore Recruitment 2026 Announced with Walk-ins for 89 Faculty and Senior Resident Vacancies on September 18",
+          "url": "https://www.sarkarijobs.com/esic-indore-recruitment-2026-announced-with-walk-ins-for-89-faculty-and-senior-resident-vacancies-on-september-18/",
+          "first_seen": "2026-09-09T01:22:03.116690+00:00",
+          "eligibility": "unknown"
+        },
+        "fd8a6de6fb98194c": {
+          "title": "UKSSSC Recruitment 2026 Notice Out for 101 Personal Assistant and Stenographer Vacancies, Apply Online by October 14",
+          "url": "https://www.sarkarijobs.com/uksssc-recruitment-2026-notice-out-for-101-personal-assistant-and-stenographer-vacancies-apply-online-by-october-14/",
+          "first_seen": "2026-09-09T01:22:03.116694+00:00",
+          "eligibility": "eligible"
+        },
+        "034b008261b2b057": {
+          "title": "NHM Jharkhand Recruitment 2026 Notification Released for 51 Accounts and Management Vacancies, Apply Online by September 13",
+          "url": "https://www.sarkarijobs.com/nhm-jharkhand-recruitment-2026-notification-released-for-51-accounts-and-management-vacancies-apply-online-by-september-13/",
+          "first_seen": "2026-09-09T01:22:03.116697+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2b34a92e6e0f3a72",
+      "last_page_hash": "582d1b356282651f",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4552,8 +4600,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 667,
-  "total_alerts": 156,
-  "last_new_job_ts": "2026-09-08T15:04:08.092467+00:00",
+  "total_checks": 668,
+  "total_alerts": 157,
+  "last_new_job_ts": "2026-09-09T01:22:04.021015+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
