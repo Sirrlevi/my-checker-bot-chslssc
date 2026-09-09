@@ -2630,9 +2630,45 @@
           "url": "https://www.sarkarijobs.com/news/patna-high-court-assistant-exam-date-2026-out-for-68-posts-written-exam-on-september-18/",
           "first_seen": "2026-09-09T06:09:16.159385+00:00",
           "eligibility": "unknown"
+        },
+        "cd8f57ac80d56abf": {
+          "title": "BCPL Non Executive Recruitment 2026 Notice Out: 21 Foreman, Operator and Technician Vacancies, Apply Online by October 9",
+          "url": "https://www.sarkarijobs.com/bcpl-non-executive-recruitment-2026-notice-out-21-foreman-operator-and-technician-vacancies-apply-online-by-october-9/",
+          "first_seen": "2026-09-09T11:15:50.128078+00:00",
+          "eligibility": "unknown"
+        },
+        "a19ca0a13003a151": {
+          "title": "BEL Ghaziabad Diploma Apprentice Recruitment 2026 Announced: Online Form for 38 Vacancies Available, ₹12,500 Monthly Stipend",
+          "url": "https://www.sarkarijobs.com/bel-ghaziabad-diploma-apprentice-recruitment-2026-announced-online-form-for-38-vacancies-available-%e2%82%b912500-monthly-stipend/",
+          "first_seen": "2026-09-09T11:15:50.128104+00:00",
+          "eligibility": "unknown"
+        },
+        "2dc4501a9ba936a4": {
+          "title": "BEL Senior Engineer Recruitment 2026 Notice Out: Apply to 12 Computer Science and Electronics Vacancies by September 29",
+          "url": "https://www.sarkarijobs.com/bel-senior-engineer-recruitment-2026-notice-out-apply-to-12-computer-science-and-electronics-vacancies-by-september-29/",
+          "first_seen": "2026-09-09T11:15:50.128112+00:00",
+          "eligibility": "unknown"
+        },
+        "99d60db3b5aa62c7": {
+          "title": "Exim Bank Special Recruitment Drive 2026 Announced for 8 Deputy Manager and Manager Vacancies, Apply Online by October 10",
+          "url": "https://www.sarkarijobs.com/exim-bank-special-recruitment-drive-2026-announced-for-8-deputy-manager-and-manager-vacancies-apply-online-by-october-10/",
+          "first_seen": "2026-09-09T11:15:50.128119+00:00",
+          "eligibility": "unknown"
+        },
+        "0604f59f06807f05": {
+          "title": "AFCAT Result 2026 Out for 379 Vacancies, Check AFCAT 02/2026 Written Exam Result",
+          "url": "https://www.sarkarijobs.com/news/afcat-result-2026-out-for-379-vacancies-check-afcat-02-2026-written-exam-result/",
+          "first_seen": "2026-09-09T11:15:50.128166+00:00",
+          "eligibility": "unknown"
+        },
+        "146e7c57444173b6": {
+          "title": "AIIMS NORCET 11 Admit Card 2026 Out for 2,216 Nursing Officer Posts, Exam on September 12",
+          "url": "https://www.sarkarijobs.com/news/aiims-norcet-11-admit-card-2026-out-for-2216-nursing-officer-posts-exam-on-september-12/",
+          "first_seen": "2026-09-09T11:15:50.128203+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "543f24dba215917d",
+      "last_page_hash": "8f8943364867980b",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4676,16 +4712,28 @@
           "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
           "first_seen": "2026-09-09T06:09:16.390439+00:00",
           "eligibility": "unknown"
+        },
+        "ea2530531203a05c": {
+          "title": "AFCAT 02/2026 Result – Out",
+          "url": "https://www.sarkariexam.com/afcat-02-2026/",
+          "first_seen": "2026-09-09T11:15:50.371708+00:00",
+          "eligibility": "unknown"
+        },
+        "8b69e1af19e37273": {
+          "title": "SSC JHT Option Cum Preference Form 2026",
+          "url": "https://www.sarkariexam.com/ssc-jht-2025/",
+          "first_seen": "2026-09-09T11:15:50.371808+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "899338f5836b9517",
+      "last_page_hash": "569763fbaa0d2857",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 669,
-  "total_alerts": 159,
-  "last_new_job_ts": "2026-09-09T06:09:18.973828+00:00",
+  "total_checks": 670,
+  "total_alerts": 161,
+  "last_new_job_ts": "2026-09-09T11:15:53.201219+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
