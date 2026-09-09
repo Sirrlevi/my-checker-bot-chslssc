@@ -4724,16 +4724,40 @@
           "url": "https://www.sarkariexam.com/ssc-jht-2025/",
           "first_seen": "2026-09-09T11:15:50.371808+00:00",
           "eligibility": "unknown"
+        },
+        "232c10644152cb13": {
+          "title": "SSC CHSL Online Form (2536 Posts)",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
+          "first_seen": "2026-09-09T15:08:07.376801+00:00",
+          "eligibility": "eligible"
+        },
+        "cbb2d9ec600cae46": {
+          "title": "UPSSSC Junior Assistant, Clerk Grade II 2023 Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-2025/",
+          "first_seen": "2026-09-09T15:08:07.376844+00:00",
+          "eligibility": "unknown"
+        },
+        "fd4ceafb3570b514": {
+          "title": "UPSSSC PET Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-09-09T15:08:07.376878+00:00",
+          "eligibility": "unknown"
+        },
+        "397a2d9107b61953": {
+          "title": "SBI Clerk JA Backlog Pre Admit Card 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-09-09T15:08:07.376883+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "569763fbaa0d2857",
+      "last_page_hash": "089e8166e8b57356",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 670,
-  "total_alerts": 161,
-  "last_new_job_ts": "2026-09-09T11:15:53.201219+00:00",
+  "total_checks": 671,
+  "total_alerts": 162,
+  "last_new_job_ts": "2026-09-09T15:08:08.138120+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
