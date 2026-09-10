@@ -2666,9 +2666,63 @@
           "url": "https://www.sarkarijobs.com/news/aiims-norcet-11-admit-card-2026-out-for-2216-nursing-officer-posts-exam-on-september-12/",
           "first_seen": "2026-09-09T11:15:50.128203+00:00",
           "eligibility": "unknown"
+        },
+        "5c553f6f9ffadca3": {
+          "title": "PGIMER Announces Nursing Officer Recruitment for 2026-27: Apply Online for 243 Group B Vacancies in Chandigarh",
+          "url": "https://www.sarkarijobs.com/pgimer-announces-nursing-officer-recruitment-for-2026-27-apply-online-for-243-group-b-vacancies-in-chandigarh/",
+          "first_seen": "2026-09-10T05:52:32.908506+00:00",
+          "eligibility": "unknown"
+        },
+        "3f02f7330d26c7b5": {
+          "title": "Balmer Lawrie Recruitment 2026 Announced for 38 Unit Head, Manager, Officer and Junior Officer Vacancies for Indian Nationals",
+          "url": "https://www.sarkarijobs.com/balmer-lawrie-recruitment-2026-announced-for-38-unit-head-manager-officer-and-junior-officer-vacancies-for-indian-nationals/",
+          "first_seen": "2026-09-10T05:52:32.908521+00:00",
+          "eligibility": "unknown"
+        },
+        "0285dc8e0e1cdd2b": {
+          "title": "ITPO Consultant Recruitment 2026 Announced for 28 Consultant and Trade Vacancies, Apply by Email by September 24",
+          "url": "https://www.sarkarijobs.com/itpo-consultant-recruitment-2026-28-consultant-and-trade-vacancies-apply-by-email-by-september-24/",
+          "first_seen": "2026-09-10T05:52:32.908526+00:00",
+          "eligibility": "unknown"
+        },
+        "c949f92a6a7eadb2": {
+          "title": "UPSSSC Livestock Extension Officer Recruitment 2026 Announced: Applications Open for 1,251 Vacancies",
+          "url": "https://www.sarkarijobs.com/upsssc-livestock-extension-officer-recruitment-2026-applications-open-for-1251-vacancies/",
+          "first_seen": "2026-09-10T05:52:32.908530+00:00",
+          "eligibility": "unknown"
+        },
+        "24a4bc555f701ddf": {
+          "title": "AI Living Labs Foundation Recruitment 2026 Announced for 12 Contract Vacancies in Amaravati, Last Date to Apply September 20",
+          "url": "https://www.sarkarijobs.com/ai-living-labs-foundation-recruitment-2026-announced-for-12-contract-vacancies-in-amaravati-last-date-to-apply-september-20/",
+          "first_seen": "2026-09-10T05:52:32.908536+00:00",
+          "eligibility": "unknown"
+        },
+        "69c40630f953231f": {
+          "title": "EIL Associate Engineer Recruitment 2026 Notification Released for 15 Grade II and III Vacancies, Apply Online by September 29",
+          "url": "https://www.sarkarijobs.com/eil-associate-engineer-recruitment-2026-15-grade-ii-and-iii-vacancies-apply-online-by-september-29/",
+          "first_seen": "2026-09-10T05:52:32.908540+00:00",
+          "eligibility": "unknown"
+        },
+        "07d7d2f6986767f7": {
+          "title": "GJUST Part Time Teacher Recruitment 2026: Walk-in for 33 Teaching Vacancies on September 12, 14 and 15",
+          "url": "https://www.sarkarijobs.com/gjust-part-time-teacher-recruitment-2026-walk-in-for-33-teaching-vacancies-on-september-12-14-and-15/",
+          "first_seen": "2026-09-10T05:52:32.908544+00:00",
+          "eligibility": "unknown"
+        },
+        "72b59143ee613ea3": {
+          "title": "ULB Haryana Recruitment 2026: 195 Taxation and Sanitation Vacancies, Apply Online by September 30",
+          "url": "https://www.sarkarijobs.com/ulb-haryana-recruitment-2026-195-taxation-and-sanitation-vacancies-apply-online-by-september-30/",
+          "first_seen": "2026-09-10T05:52:32.908548+00:00",
+          "eligibility": "unknown"
+        },
+        "2308f301982c7e53": {
+          "title": "TNPL Manager Recruitment 2026: 5 Marketing and Secretarial Vacancies, Apply Offline by September 23",
+          "url": "https://www.sarkarijobs.com/tnpl-manager-recruitment-2026-5-marketing-and-secretarial-vacancies-apply-offline-by-september-23/",
+          "first_seen": "2026-09-10T05:52:32.908551+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8f8943364867980b",
+      "last_page_hash": "3f55851f2246973e",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4750,14 +4804,14 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "089e8166e8b57356",
+      "last_page_hash": "dd336494894f0ba5",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 675,
-  "total_alerts": 162,
-  "last_new_job_ts": "2026-09-09T15:08:08.138120+00:00",
+  "total_checks": 676,
+  "total_alerts": 163,
+  "last_new_job_ts": "2026-09-10T05:52:33.974320+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
