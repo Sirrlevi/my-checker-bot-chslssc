@@ -2720,9 +2720,15 @@
           "url": "https://www.sarkarijobs.com/tnpl-manager-recruitment-2026-5-marketing-and-secretarial-vacancies-apply-offline-by-september-23/",
           "first_seen": "2026-09-10T05:52:32.908551+00:00",
           "eligibility": "unknown"
+        },
+        "bab4e45220596f7a": {
+          "title": "SSC CPO Recruitment 2026 Notice Out for 1,871 SI Vacancies in Delhi Police, CAPFs and CISF, Apply Online by September 30",
+          "url": "https://www.sarkarijobs.com/ssc-cpo-recruitment-2026-1871-si-vacancies-in-delhi-police-capfs-and-cisf-apply-online-by-september-30/",
+          "first_seen": "2026-09-10T10:10:32.607201+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3f55851f2246973e",
+      "last_page_hash": "0c91261b831653ed",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4802,16 +4808,40 @@
           "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
           "first_seen": "2026-09-09T15:08:07.376883+00:00",
           "eligibility": "unknown"
+        },
+        "9bd1b454d377910e": {
+          "title": "UP TGT 2022 College Allotment Result",
+          "url": "https://www.sarkariexam.com/up-tgt-2022/",
+          "first_seen": "2026-09-10T10:10:32.762783+00:00",
+          "eligibility": "unknown"
+        },
+        "d43a6eda76f1b200": {
+          "title": "BSF HCM & ASI Steno Answer Key 2026",
+          "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
+          "first_seen": "2026-09-10T10:10:32.762799+00:00",
+          "eligibility": "eligible"
+        },
+        "8cbcde4c376c6f77": {
+          "title": "SSC CPO SI CAPF Online Form 2026 (1871 Posts)",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-09-10T10:10:32.762848+00:00",
+          "eligibility": "unknown"
+        },
+        "4baf8adc3b94d91e": {
+          "title": "SSC CHSL 10+2 Online Form 2026 (2536 Posts)",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
+          "first_seen": "2026-09-10T10:10:32.762853+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "dd336494894f0ba5",
+      "last_page_hash": "654a6f2a33223b84",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 676,
-  "total_alerts": 163,
-  "last_new_job_ts": "2026-09-10T05:52:33.974320+00:00",
+  "total_checks": 677,
+  "total_alerts": 165,
+  "last_new_job_ts": "2026-09-10T10:10:35.290481+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
