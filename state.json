@@ -4850,16 +4850,28 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-09-10T17:45:41.780441+00:00",
           "eligibility": "unknown"
+        },
+        "e1dcda9da335bac9": {
+          "title": "Railway RRB Technician CEN 02/2026 Application Status 2026",
+          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
+          "first_seen": "2026-09-10T20:03:04.210675+00:00",
+          "eligibility": "unknown"
+        },
+        "6c75afb3e1486e77": {
+          "title": "MPESB Krashi Vistar Adhikari Admit Card 2026",
+          "url": "https://www.sarkariexam.com/mpesb-krashi-vistar-adhikari-2026/",
+          "first_seen": "2026-09-10T20:03:04.210698+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "938eb0d0e8e26908",
+      "last_page_hash": "ed9de81e7553f69a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 679,
-  "total_alerts": 168,
-  "last_new_job_ts": "2026-09-10T17:45:42.398442+00:00",
+  "total_checks": 680,
+  "total_alerts": 169,
+  "last_new_job_ts": "2026-09-10T20:03:04.747481+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
