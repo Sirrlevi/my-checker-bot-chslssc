@@ -2726,9 +2726,15 @@
           "url": "https://www.sarkarijobs.com/ssc-cpo-recruitment-2026-1871-si-vacancies-in-delhi-police-capfs-and-cisf-apply-online-by-september-30/",
           "first_seen": "2026-09-10T10:10:32.607201+00:00",
           "eligibility": "unknown"
+        },
+        "1c740b13e2fe03f6": {
+          "title": "Bank of India SO Recruitment 2026 Notice Out: Apply Online Activated for 205 Officer, Manager and Chief Manager Vacancies Till September 25",
+          "url": "https://www.sarkarijobs.com/bank-of-india-so-recruitment-2026-notice-out-online-form-for-205-officer-manager-and-chief-manager-vacancies-till-september-25/",
+          "first_seen": "2026-09-10T14:23:46.949186+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0c91261b831653ed",
+      "last_page_hash": "05247415cab98e59",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4832,16 +4838,22 @@
           "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
           "first_seen": "2026-09-10T10:10:32.762853+00:00",
           "eligibility": "eligible"
+        },
+        "84c0fb8aa2153db9": {
+          "title": "ISRO Assistant, UDC, JPA, Stenographer Admit Card 2026",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-09-10T14:23:47.353121+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "654a6f2a33223b84",
+      "last_page_hash": "eeec119af1758d8c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 677,
-  "total_alerts": 165,
-  "last_new_job_ts": "2026-09-10T10:10:35.290481+00:00",
+  "total_checks": 678,
+  "total_alerts": 167,
+  "last_new_job_ts": "2026-09-10T14:23:50.295239+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
