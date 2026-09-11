@@ -4946,16 +4946,34 @@
           "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
           "first_seen": "2026-09-11T17:09:28.185226+00:00",
           "eligibility": "unknown"
+        },
+        "0fcefa7e235a8832": {
+          "title": "UP Home Guard PET New Exam Date / Admit Card Date 2026",
+          "url": "https://www.sarkariexam.com/up-home-guard-2025/",
+          "first_seen": "2026-09-11T19:38:57.597437+00:00",
+          "eligibility": "unknown"
+        },
+        "8cb099a650a3325b": {
+          "title": "UPSSSC Excise Constable Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-excise-constable-2026/",
+          "first_seen": "2026-09-11T19:38:57.597449+00:00",
+          "eligibility": "unknown"
+        },
+        "7e9063b0766d37c6": {
+          "title": "UPSC EPFO APFC Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
+          "first_seen": "2026-09-11T19:38:57.597467+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3618c30b2ac22e3a",
+      "last_page_hash": "b7bad8231d8a744b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 686,
-  "total_alerts": 173,
-  "last_new_job_ts": "2026-09-11T17:09:28.928752+00:00",
+  "total_checks": 687,
+  "total_alerts": 174,
+  "last_new_job_ts": "2026-09-11T19:38:58.529310+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
