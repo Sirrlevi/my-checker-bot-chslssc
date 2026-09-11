@@ -2732,9 +2732,21 @@
           "url": "https://www.sarkarijobs.com/bank-of-india-so-recruitment-2026-notice-out-online-form-for-205-officer-manager-and-chief-manager-vacancies-till-september-25/",
           "first_seen": "2026-09-10T14:23:46.949186+00:00",
           "eligibility": "unknown"
+        },
+        "9d503e2e0b5773e2": {
+          "title": "NCRTC Recruitment 2026 for 67 Supervisor-I and Junior Maintainer Vacancies Announced Under 32/2026 Notification",
+          "url": "https://www.sarkarijobs.com/ncrtc-recruitment-2026-for-67-supervisor-i-and-junior-maintainer-vacancies-announced-under-32-2026-notification/",
+          "first_seen": "2026-09-11T09:10:48.970915+00:00",
+          "eligibility": "unknown"
+        },
+        "48e0d9099c0e9fc8": {
+          "title": "UPSSSC Senior Instructor Recruitment 2026 Announced for 132 Vacancies, Selection through PET-based Shortlisting & Exam",
+          "url": "https://www.sarkarijobs.com/upsssc-senior-instructor-recruitment-2026-announced-for-132-vacancies-selection-through-pet-based-shortlisting-exam/",
+          "first_seen": "2026-09-11T09:10:48.970932+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "05247415cab98e59",
+      "last_page_hash": "5a924c834aa05d4b",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -4862,16 +4874,34 @@
           "url": "https://www.sarkariexam.com/mpesb-krashi-vistar-adhikari-2026/",
           "first_seen": "2026-09-10T20:03:04.210698+00:00",
           "eligibility": "unknown"
+        },
+        "6e243261d04e5771": {
+          "title": "NTA CSIR UGC NET June Score Card 2026",
+          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
+          "first_seen": "2026-09-11T09:10:49.130827+00:00",
+          "eligibility": "unknown"
+        },
+        "e3903184cf8cda1e": {
+          "title": "Indian Airforce Agniveer Vayu Intake 02/2027 Exam City / Admit Card",
+          "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-intake-02-2027/",
+          "first_seen": "2026-09-11T09:10:49.130880+00:00",
+          "eligibility": "unknown"
+        },
+        "8c51e1bbbe2e9804": {
+          "title": "Indian Airforce Airmen Group Y Medical Assistant 02/2027 Exam City / Admit Card",
+          "url": "https://www.sarkariexam.com/indian-airforce-group-y-medical-assistant-airmen-02-2027/",
+          "first_seen": "2026-09-11T09:10:49.130887+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ed9de81e7553f69a",
+      "last_page_hash": "25552e8417b94586",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 683,
-  "total_alerts": 169,
-  "last_new_job_ts": "2026-09-10T20:03:04.747481+00:00",
+  "total_checks": 684,
+  "total_alerts": 171,
+  "last_new_job_ts": "2026-09-11T09:10:51.795544+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
