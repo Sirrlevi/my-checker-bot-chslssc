@@ -4892,16 +4892,58 @@
           "url": "https://www.sarkariexam.com/indian-airforce-group-y-medical-assistant-airmen-02-2027/",
           "first_seen": "2026-09-11T09:10:49.130887+00:00",
           "eligibility": "unknown"
+        },
+        "4aed30c017904d81": {
+          "title": "Railway RRB Section Controller Exam Date 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-09-11T13:35:25.915303+00:00",
+          "eligibility": "unknown"
+        },
+        "3de3a1899b8d00de": {
+          "title": "Indian Navy 10+2 B.Tech Cadet Entry January 2027 Admit Card",
+          "url": "https://www.sarkariexam.com/indian-navy-102-b-tech-cadet-entry-january-2027/",
+          "first_seen": "2026-09-11T13:35:25.915331+00:00",
+          "eligibility": "eligible"
+        },
+        "93eefcc6d9162c2a": {
+          "title": "NBEMS Group A, B & C Various Post Admit Card 2026",
+          "url": "https://www.sarkariexam.com/nbems-group-a-b-c-various-post-2026/",
+          "first_seen": "2026-09-11T13:35:25.915360+00:00",
+          "eligibility": "unknown"
+        },
+        "0585d849774f87ab": {
+          "title": "Uttarakhand TET UTET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/uttarakhand-tet-utet-2026/",
+          "first_seen": "2026-09-11T13:35:25.915367+00:00",
+          "eligibility": "unknown"
+        },
+        "e343e31e5a829783": {
+          "title": "UPSC EPFO APFC Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
+          "first_seen": "2026-09-11T13:35:25.915391+00:00",
+          "eligibility": "unknown"
+        },
+        "36d84778487a3f79": {
+          "title": "UPSC Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsc-various-post-2026/",
+          "first_seen": "2026-09-11T13:35:25.915405+00:00",
+          "eligibility": "unknown"
+        },
+        "5d3b6fc387f65c83": {
+          "title": "UPSSSC Senior Instructor Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-senior-instructor-2026/",
+          "first_seen": "2026-09-11T13:35:25.915411+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "25552e8417b94586",
+      "last_page_hash": "30ed0d51725db7d9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 684,
-  "total_alerts": 171,
-  "last_new_job_ts": "2026-09-11T09:10:51.795544+00:00",
+  "total_checks": 685,
+  "total_alerts": 172,
+  "last_new_job_ts": "2026-09-11T13:35:26.479468+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
