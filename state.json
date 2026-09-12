@@ -4964,16 +4964,34 @@
           "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
           "first_seen": "2026-09-11T19:38:57.597467+00:00",
           "eligibility": "unknown"
+        },
+        "5561a6142bcb1d96": {
+          "title": "Bihar BSEB DElEd 3rd Merit List 2026",
+          "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
+          "first_seen": "2026-09-12T06:26:05.919083+00:00",
+          "eligibility": "unknown"
+        },
+        "a446be0e5ee55c4f": {
+          "title": "MPESB Group 3 Sub Engineer & Other Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
+          "first_seen": "2026-09-12T06:26:05.919137+00:00",
+          "eligibility": "unknown"
+        },
+        "660e0c10424717c0": {
+          "title": "UP Azamgarh ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-azamgarh-ecce-educator-2026-2/",
+          "first_seen": "2026-09-12T06:26:05.919216+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b7bad8231d8a744b",
+      "last_page_hash": "2b517ea188c22c80",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 690,
-  "total_alerts": 174,
-  "last_new_job_ts": "2026-09-11T19:38:58.529310+00:00",
+  "total_checks": 691,
+  "total_alerts": 175,
+  "last_new_job_ts": "2026-09-12T06:26:06.561479+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
