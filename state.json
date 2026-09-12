@@ -4982,16 +4982,76 @@
           "url": "https://www.sarkariexam.com/up-azamgarh-ecce-educator-2026-2/",
           "first_seen": "2026-09-12T06:26:05.919216+00:00",
           "eligibility": "unknown"
+        },
+        "f3bf42f0cbefc219": {
+          "title": "Patna High Court Assistant Admit Card 2026",
+          "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
+          "first_seen": "2026-09-12T11:00:05.457202+00:00",
+          "eligibility": "unknown"
+        },
+        "9d3ef86cd6156780": {
+          "title": "UPSSSC Teacher Cadre JTC Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-teacher-cadre-jtc-2026/",
+          "first_seen": "2026-09-12T11:00:05.457281+00:00",
+          "eligibility": "unknown"
+        },
+        "1f3ba014c4aeaa46": {
+          "title": "UPSSSC Assistant Boring Technician Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-assistant-boring-technician-2026/",
+          "first_seen": "2026-09-12T11:00:05.457287+00:00",
+          "eligibility": "unknown"
+        },
+        "abd8a25b1c51899f": {
+          "title": "UP Madhyamik Shiksha Vibhag Watch Man Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-madhyamik-shiksha-vibhag-watch-man-2026/",
+          "first_seen": "2026-09-12T11:00:05.457353+00:00",
+          "eligibility": "unknown"
+        },
+        "65aefe533b418777": {
+          "title": "UP Madhyamik Shiksha Vibhag Sweeper Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-madhyamik-shiksha-vibhag-sweeper-2026/",
+          "first_seen": "2026-09-12T11:00:05.457358+00:00",
+          "eligibility": "unknown"
+        },
+        "6d31162a9f34e95c": {
+          "title": "UP Madhyamik Shiksha Vibhag Peon Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-madhyamik-shiksha-vibhag-peon-2026/",
+          "first_seen": "2026-09-12T11:00:05.457364+00:00",
+          "eligibility": "eligible"
+        },
+        "8fd9f2e091fa3710": {
+          "title": "UP Dairy Development DEO Data Entry Operator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-dairy-development-deo-data-entry-operator-2026/",
+          "first_seen": "2026-09-12T11:00:05.457368+00:00",
+          "eligibility": "unknown"
+        },
+        "b665d29a8dadb95f": {
+          "title": "UP Kaushal Vikas Mission Block Program Manager Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-kaushal-vikas-mission-block-program-manager-2026/",
+          "first_seen": "2026-09-12T11:00:05.457374+00:00",
+          "eligibility": "unknown"
+        },
+        "5b2caf9726139e67": {
+          "title": "UP Etah ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-etah-ecce-educator-2026/",
+          "first_seen": "2026-09-12T11:00:05.457382+00:00",
+          "eligibility": "unknown"
+        },
+        "039bf257e3039578": {
+          "title": "UP Siddharth Nagar ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-siddharth-nagar-ecce-educator-2026-2/",
+          "first_seen": "2026-09-12T11:00:05.457387+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2b517ea188c22c80",
+      "last_page_hash": "ec13ade40c9ff033",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 691,
-  "total_alerts": 175,
-  "last_new_job_ts": "2026-09-12T06:26:06.561479+00:00",
+  "total_checks": 692,
+  "total_alerts": 176,
+  "last_new_job_ts": "2026-09-12T11:00:06.070449+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
