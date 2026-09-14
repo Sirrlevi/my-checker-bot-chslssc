@@ -5048,16 +5048,22 @@
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
           "first_seen": "2026-09-13T17:26:47.953543+00:00",
           "eligibility": "eligible"
+        },
+        "fcf0e3a5bd778fe7": {
+          "title": "RRB NTPC 10+2 UG CBT-II Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-09-14T06:25:38.799316+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "a89a84a8a77a2b62",
+      "last_page_hash": "026b2afa73ccc2ea",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 706,
-  "total_alerts": 177,
-  "last_new_job_ts": "2026-09-13T17:26:48.534547+00:00",
+  "total_checks": 707,
+  "total_alerts": 178,
+  "last_new_job_ts": "2026-09-14T06:25:39.697132+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
