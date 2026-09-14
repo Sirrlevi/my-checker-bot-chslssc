@@ -5054,16 +5054,34 @@
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
           "first_seen": "2026-09-14T06:25:38.799316+00:00",
           "eligibility": "eligible"
+        },
+        "8e4004be66e8663b": {
+          "title": "CTET September Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ctet-september-2026/",
+          "first_seen": "2026-09-14T13:05:45.677890+00:00",
+          "eligibility": "unknown"
+        },
+        "318d5d57b9f8c171": {
+          "title": "SSC Selection Post 14th Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
+          "first_seen": "2026-09-14T13:05:45.677905+00:00",
+          "eligibility": "unknown"
+        },
+        "1000b95205ddcfcf": {
+          "title": "Indian Army Dental Corps Online Form 2026",
+          "url": "https://www.sarkariexam.com/indian-army-dental-corps-2026/",
+          "first_seen": "2026-09-14T13:05:45.677951+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "026b2afa73ccc2ea",
+      "last_page_hash": "e65c0a74f2deb183",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 707,
-  "total_alerts": 178,
-  "last_new_job_ts": "2026-09-14T06:25:39.697132+00:00",
+  "total_checks": 708,
+  "total_alerts": 179,
+  "last_new_job_ts": "2026-09-14T13:05:46.241322+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
