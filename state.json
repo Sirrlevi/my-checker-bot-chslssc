@@ -5072,16 +5072,22 @@
           "url": "https://www.sarkariexam.com/indian-army-dental-corps-2026/",
           "first_seen": "2026-09-14T13:05:45.677951+00:00",
           "eligibility": "unknown"
+        },
+        "183138a683d682a7": {
+          "title": "Bihar Vidhan Parishad LDC, DEO Final Result 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
+          "first_seen": "2026-09-14T18:33:02.284807+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e65c0a74f2deb183",
+      "last_page_hash": "bbf5f32b13d451bd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 708,
-  "total_alerts": 179,
-  "last_new_job_ts": "2026-09-14T13:05:46.241322+00:00",
+  "total_checks": 709,
+  "total_alerts": 180,
+  "last_new_job_ts": "2026-09-14T18:33:03.012193+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
