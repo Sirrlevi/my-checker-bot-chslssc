@@ -5150,16 +5150,40 @@
           "url": "https://www.sarkariexam.com/upsssc-junior-assistant-advt-12-2024/",
           "first_seen": "2026-09-15T18:23:35.369482+00:00",
           "eligibility": "unknown"
+        },
+        "22f237f8ca151005": {
+          "title": "Indian Overseas Bank IOB Apprentice Result 2026",
+          "url": "https://www.sarkariexam.com/indian-overseas-bank-iob-apprentice-2026/",
+          "first_seen": "2026-09-15T21:33:07.446175+00:00",
+          "eligibility": "unknown"
+        },
+        "16cce2982d0521ca": {
+          "title": "UPSSSC Lekhpal Mains Document Upload 2026",
+          "url": "https://www.sarkariexam.com/upsssc-up-lekhpal-2026/",
+          "first_seen": "2026-09-15T21:33:07.446195+00:00",
+          "eligibility": "unknown"
+        },
+        "084a49c4fc0bc115": {
+          "title": "UPESSC PGT Teacher Online Form 2026",
+          "url": "https://www.sarkariexam.com/upessc-pgt-teacher-2026/",
+          "first_seen": "2026-09-15T21:33:07.446251+00:00",
+          "eligibility": "unknown"
+        },
+        "dbaefcfd22265c26": {
+          "title": "UPESSC PRT Assistant Teacher Online Form 2026 (12405 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-09-15T21:33:07.446256+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "cfe7279a5b74be86",
+      "last_page_hash": "0893a8e42eb32b59",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 715,
-  "total_alerts": 183,
-  "last_new_job_ts": "2026-09-15T18:23:35.888615+00:00",
+  "total_checks": 716,
+  "total_alerts": 184,
+  "last_new_job_ts": "2026-09-15T21:33:08.058744+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
