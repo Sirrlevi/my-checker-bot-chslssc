@@ -5078,16 +5078,46 @@
           "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
           "first_seen": "2026-09-14T18:33:02.284807+00:00",
           "eligibility": "unknown"
+        },
+        "3bedb5098358d38f": {
+          "title": "UPESSC Principal Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-2026/",
+          "first_seen": "2026-09-15T09:49:15.302702+00:00",
+          "eligibility": "unknown"
+        },
+        "e0b746e6a82f1769": {
+          "title": "MP High Court Assistant Grade III Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-online-form-2026/",
+          "first_seen": "2026-09-15T09:49:15.302743+00:00",
+          "eligibility": "unknown"
+        },
+        "7d8df1bfc0c221a7": {
+          "title": "Bihar STET Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
+          "first_seen": "2026-09-15T09:49:15.302748+00:00",
+          "eligibility": "unknown"
+        },
+        "66593a5d992c2bf6": {
+          "title": "Railway RRC ECoR Apprentice Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/railway-rrc-ecor-apprentices-2026/",
+          "first_seen": "2026-09-15T09:49:15.302752+00:00",
+          "eligibility": "unknown"
+        },
+        "9b43d5baba5b3a19": {
+          "title": "IIM CAT Admission Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/iim-cat-admission-2026/",
+          "first_seen": "2026-09-15T09:49:15.302775+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "bbf5f32b13d451bd",
+      "last_page_hash": "e2364bcd44424e18",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 712,
-  "total_alerts": 180,
-  "last_new_job_ts": "2026-09-14T18:33:03.012193+00:00",
+  "total_checks": 713,
+  "total_alerts": 181,
+  "last_new_job_ts": "2026-09-15T09:49:15.895294+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
