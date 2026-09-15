@@ -5144,16 +5144,22 @@
           "url": "https://www.sarkariexam.com/iim-cat-admission-2026/",
           "first_seen": "2026-09-15T14:30:15.440664+00:00",
           "eligibility": "unknown"
+        },
+        "effc68635aeaefdb": {
+          "title": "UPSSSC Junior Assistant 12/2024 Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-advt-12-2024/",
+          "first_seen": "2026-09-15T18:23:35.369482+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "55aec21e3fbee13e",
+      "last_page_hash": "cfe7279a5b74be86",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 714,
-  "total_alerts": 182,
-  "last_new_job_ts": "2026-09-15T14:30:16.393756+00:00",
+  "total_checks": 715,
+  "total_alerts": 183,
+  "last_new_job_ts": "2026-09-15T18:23:35.888615+00:00",
   "last_heartbeat_key": "2026-09-06-21"
 }
