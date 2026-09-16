@@ -5222,16 +5222,40 @@
           "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
           "first_seen": "2026-09-16T16:45:41.312596+00:00",
           "eligibility": "unknown"
+        },
+        "83752be38a56b0fc": {
+          "title": "UPTET 2026 Result New Notice",
+          "url": "https://www.sarkariexam.com/uptet-2026/",
+          "first_seen": "2026-09-16T19:43:21.765248+00:00",
+          "eligibility": "unknown"
+        },
+        "590e5e1cc73fdb89": {
+          "title": "UPSSSC Junior Assistant 12/2024 Typing Test Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-advt-12-2024/",
+          "first_seen": "2026-09-16T19:43:21.765290+00:00",
+          "eligibility": "unknown"
+        },
+        "a8c4d67ef4eb2063": {
+          "title": "MPESB Forest Guard & Jail Prahari PET Exam Date 2026",
+          "url": "https://www.sarkariexam.com/mpesb-forest-guard-jail-prahari-2026/",
+          "first_seen": "2026-09-16T19:43:21.765295+00:00",
+          "eligibility": "unknown"
+        },
+        "33349a6e8f8ca24d": {
+          "title": "UPSC Engineering Services Pre Online Form 2027",
+          "url": "https://www.sarkariexam.com/upsc-engineering-services-pre-2027/",
+          "first_seen": "2026-09-16T19:43:21.765316+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "629882688e016890",
+      "last_page_hash": "9be49da439e710fe",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 721,
-  "total_alerts": 186,
-  "last_new_job_ts": "2026-09-16T16:45:41.922885+00:00",
+  "total_checks": 722,
+  "total_alerts": 187,
+  "last_new_job_ts": "2026-09-16T19:43:22.278577+00:00",
   "last_heartbeat_key": "2026-09-16-17"
 }
