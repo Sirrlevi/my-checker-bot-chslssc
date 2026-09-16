@@ -5174,16 +5174,52 @@
           "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
           "first_seen": "2026-09-15T21:33:07.446256+00:00",
           "eligibility": "unknown"
+        },
+        "010f848a39d4470d": {
+          "title": "UPESSC PRT Online Form (12405 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-09-16T12:06:15.692192+00:00",
+          "eligibility": "unknown"
+        },
+        "1372635d0f8528ff": {
+          "title": "UPSSSC Excise Constable Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-excise-constable-2026/",
+          "first_seen": "2026-09-16T12:06:15.692232+00:00",
+          "eligibility": "unknown"
+        },
+        "cd59bce29605571a": {
+          "title": "UPSSSC Pharmacist Ayurvedic Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
+          "first_seen": "2026-09-16T12:06:15.692237+00:00",
+          "eligibility": "unknown"
+        },
+        "1f68db9ac497e1f5": {
+          "title": "Railway RRB Section Controller Application Status 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-09-16T12:06:15.692241+00:00",
+          "eligibility": "unknown"
+        },
+        "f13e6a940cc0522c": {
+          "title": "UKSSSC Group C Scaler Online Form 2026",
+          "url": "https://www.sarkariexam.com/uksssc-group-c-scaler-2026/",
+          "first_seen": "2026-09-16T12:06:15.692282+00:00",
+          "eligibility": "unknown"
+        },
+        "5041cb074725046e": {
+          "title": "Railway RRC NFR Apprentice Online Form 2024 (5,647 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrc-nfr-apprentice-recruitment-2024-sarkari-result-chk/",
+          "first_seen": "2026-09-16T12:06:15.692386+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "fe934cbd24801aab",
+      "last_page_hash": "f0112d231da14e5d",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 719,
-  "total_alerts": 184,
-  "last_new_job_ts": "2026-09-15T21:33:08.058744+00:00",
-  "last_heartbeat_key": "2026-09-06-21"
+  "total_checks": 720,
+  "total_alerts": 185,
+  "last_new_job_ts": "2026-09-16T12:06:16.235904+00:00",
+  "last_heartbeat_key": "2026-09-16-17"
 }
