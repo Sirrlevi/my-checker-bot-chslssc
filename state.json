@@ -5318,16 +5318,22 @@
           "url": "https://www.sarkariexam.com/iocl-executive-2026/",
           "first_seen": "2026-09-17T18:57:21.548607+00:00",
           "eligibility": "unknown"
+        },
+        "f07c9e509d7ca205": {
+          "title": "NTA UGC NET June Re-Exam Result 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
+          "first_seen": "2026-09-17T21:51:43.709732+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "610804e432ff5453",
+      "last_page_hash": "5753f4787a1483b3",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 728,
-  "total_alerts": 190,
-  "last_new_job_ts": "2026-09-17T18:57:22.114193+00:00",
+  "total_checks": 729,
+  "total_alerts": 191,
+  "last_new_job_ts": "2026-09-17T21:51:44.390618+00:00",
   "last_heartbeat_key": "2026-09-16-17"
 }
