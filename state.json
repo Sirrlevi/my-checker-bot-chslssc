@@ -5276,16 +5276,52 @@
           "url": "https://www.sarkariexam.com/up-mainpuri-ecce-educator-2026/",
           "first_seen": "2026-09-17T10:12:20.232542+00:00",
           "eligibility": "unknown"
+        },
+        "e6c8e4aae4f332b4": {
+          "title": "HPSC Civil Service Mains Result 2026",
+          "url": "https://www.sarkariexam.com/hpsc-haryana-civil-service-hsc-2026/",
+          "first_seen": "2026-09-17T15:00:48.346337+00:00",
+          "eligibility": "unknown"
+        },
+        "41f5c09c53cab20c": {
+          "title": "Indian Navy Agniveer MR Musician 02/2026 Batch Result",
+          "url": "https://www.sarkariexam.com/indian-navy-agniveer-mr-musician-02-2026/",
+          "first_seen": "2026-09-17T15:00:48.346354+00:00",
+          "eligibility": "unknown"
+        },
+        "00cdaf8d8ec3eca8": {
+          "title": "Indian Navy Agniveer SSR Medical Assistant Result 2026",
+          "url": "https://www.sarkariexam.com/indian-navy-agniveer-ssr-medical-assistant-2026/",
+          "first_seen": "2026-09-17T15:00:48.346358+00:00",
+          "eligibility": "unknown"
+        },
+        "eaefc8b7ecd09c03": {
+          "title": "Indian Navy Agniveer SSR/ MR Result 2026",
+          "url": "https://www.sarkariexam.com/indian-navy-agniveer-ssr-mr-2026/",
+          "first_seen": "2026-09-17T15:00:48.346362+00:00",
+          "eligibility": "unknown"
+        },
+        "a8331fcaf32a331d": {
+          "title": "UPSC IFS Mains Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsc-civil-services-ias-ifs-2026/",
+          "first_seen": "2026-09-17T15:00:48.346389+00:00",
+          "eligibility": "unknown"
+        },
+        "630111af59dfb429": {
+          "title": "MPESB Subedar Steno, ASI Online Form 2026",
+          "url": "https://www.sarkariexam.com/mpesb-subedar-steno-asi-2026/",
+          "first_seen": "2026-09-17T15:00:48.346417+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "1c0f3cc9b407483b",
+      "last_page_hash": "0c3143f1096e9cc7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 726,
-  "total_alerts": 188,
-  "last_new_job_ts": "2026-09-17T10:12:20.785448+00:00",
+  "total_checks": 727,
+  "total_alerts": 189,
+  "last_new_job_ts": "2026-09-17T15:00:49.020679+00:00",
   "last_heartbeat_key": "2026-09-16-17"
 }
