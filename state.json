@@ -5246,16 +5246,46 @@
           "url": "https://www.sarkariexam.com/upsc-engineering-services-pre-2027/",
           "first_seen": "2026-09-16T19:43:21.765316+00:00",
           "eligibility": "unknown"
+        },
+        "0795f0a9cdb2bcb7": {
+          "title": "SBI Junior Associates Clerk Exam Date 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
+          "first_seen": "2026-09-17T10:12:20.232417+00:00",
+          "eligibility": "unknown"
+        },
+        "cf45a159d90e0017": {
+          "title": "SSC Delhi Police HC Ministerial Physical Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-delhi-police-hcm-2025/",
+          "first_seen": "2026-09-17T10:12:20.232436+00:00",
+          "eligibility": "unknown"
+        },
+        "42a9d736461a53cb": {
+          "title": "NTA Exam Calendar 2027",
+          "url": "https://www.sarkariexam.com/nta-exam-calendar-2027/",
+          "first_seen": "2026-09-17T10:12:20.232441+00:00",
+          "eligibility": "unknown"
+        },
+        "e881bcd661ed3c8f": {
+          "title": "SBI SCO Wealth & Other Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/sbi-sco-wealth-other-post-2026/",
+          "first_seen": "2026-09-17T10:12:20.232481+00:00",
+          "eligibility": "unknown"
+        },
+        "7821bbae74e2cfda": {
+          "title": "UP Mainpuri ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-mainpuri-ecce-educator-2026/",
+          "first_seen": "2026-09-17T10:12:20.232542+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e15a152686a40098",
+      "last_page_hash": "1c0f3cc9b407483b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 725,
-  "total_alerts": 187,
-  "last_new_job_ts": "2026-09-16T19:43:22.278577+00:00",
+  "total_checks": 726,
+  "total_alerts": 188,
+  "last_new_job_ts": "2026-09-17T10:12:20.785448+00:00",
   "last_heartbeat_key": "2026-09-16-17"
 }
