@@ -5378,16 +5378,28 @@
           "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
           "first_seen": "2026-09-18T15:10:20.321183+00:00",
           "eligibility": "unknown"
+        },
+        "33276c18599654b5": {
+          "title": "AIIMS NORCET 11th Stage-I Result 2026",
+          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
+          "first_seen": "2026-09-18T18:24:21.275393+00:00",
+          "eligibility": "unknown"
+        },
+        "d53aaebce054ec3a": {
+          "title": "NTA AIAPGET Final Answer Key / Result 2026",
+          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
+          "first_seen": "2026-09-18T18:24:21.275409+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f5b9966c76ef3922",
+      "last_page_hash": "5009027374f7933f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 734,
-  "total_alerts": 193,
-  "last_new_job_ts": "2026-09-18T15:10:20.881858+00:00",
+  "total_checks": 735,
+  "total_alerts": 194,
+  "last_new_job_ts": "2026-09-18T18:24:21.921495+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
