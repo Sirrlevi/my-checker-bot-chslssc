@@ -5324,16 +5324,40 @@
           "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
           "first_seen": "2026-09-17T21:51:43.709732+00:00",
           "eligibility": "unknown"
+        },
+        "9715c7aa63aa4440": {
+          "title": "UP DGMHUP ANM Training Selected Candidate List / Merit List 2026",
+          "url": "https://www.sarkariexam.com/up-dgmhup-anm-training-2026/",
+          "first_seen": "2026-09-18T11:43:24.840042+00:00",
+          "eligibility": "unknown"
+        },
+        "b9a388281b2bc3c3": {
+          "title": "Indian Overseas Bank LBO Admit Card 2026",
+          "url": "https://www.sarkariexam.com/indian-overseas-bank-lbo-2026/",
+          "first_seen": "2026-09-18T11:43:24.840084+00:00",
+          "eligibility": "unknown"
+        },
+        "919d58ff225647c9": {
+          "title": "Indian Navy Agniveer SSR/ MR Stage II Admit Card 2026",
+          "url": "https://www.sarkariexam.com/indian-navy-agniveer-ssr-mr-2026/",
+          "first_seen": "2026-09-18T11:43:24.840088+00:00",
+          "eligibility": "unknown"
+        },
+        "0823220bb500107d": {
+          "title": "RSSB Computer Instructor Answer Key 2026",
+          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
+          "first_seen": "2026-09-18T11:43:24.840154+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "5753f4787a1483b3",
+      "last_page_hash": "8fb4e11a94e21d17",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 732,
-  "total_alerts": 191,
-  "last_new_job_ts": "2026-09-17T21:51:44.390618+00:00",
-  "last_heartbeat_key": "2026-09-16-17"
+  "total_checks": 733,
+  "total_alerts": 192,
+  "last_new_job_ts": "2026-09-18T11:43:25.384787+00:00",
+  "last_heartbeat_key": "2026-09-18-17"
 }
