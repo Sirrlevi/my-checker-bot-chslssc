@@ -5348,16 +5348,46 @@
           "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
           "first_seen": "2026-09-18T11:43:24.840154+00:00",
           "eligibility": "unknown"
+        },
+        "f9c8a8e4a739c7af": {
+          "title": "AIIMS NORCET 11th Stage-I Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
+          "first_seen": "2026-09-18T15:10:20.321128+00:00",
+          "eligibility": "unknown"
+        },
+        "7a15c19de19821cc": {
+          "title": "NTA AIAPGET Final Answer Key / Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
+          "first_seen": "2026-09-18T15:10:20.321148+00:00",
+          "eligibility": "unknown"
+        },
+        "d316a7923423e0e3": {
+          "title": "UPSSSC Forest Guard/ Wild Life Guard Mains Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
+          "first_seen": "2026-09-18T15:10:20.321176+00:00",
+          "eligibility": "unknown"
+        },
+        "564b9e841f503e0f": {
+          "title": "UPSSSC Forensic Science Laboratory Mains Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
+          "first_seen": "2026-09-18T15:10:20.321180+00:00",
+          "eligibility": "unknown"
+        },
+        "75a8bc7e943dc676": {
+          "title": "DSSSB September Exam Admit Card 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
+          "first_seen": "2026-09-18T15:10:20.321183+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8fb4e11a94e21d17",
+      "last_page_hash": "f5b9966c76ef3922",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 733,
-  "total_alerts": 192,
-  "last_new_job_ts": "2026-09-18T11:43:25.384787+00:00",
+  "total_checks": 734,
+  "total_alerts": 193,
+  "last_new_job_ts": "2026-09-18T15:10:20.881858+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
