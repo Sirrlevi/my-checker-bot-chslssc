@@ -5444,16 +5444,22 @@
           "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-intake-02-2027/",
           "first_seen": "2026-09-19T16:45:47.843960+00:00",
           "eligibility": "unknown"
+        },
+        "b18587d475b02352": {
+          "title": "Indian Airforce Airmen Group Y Medical Assistant 02/2027 Admit Card",
+          "url": "https://www.sarkariexam.com/indian-airforce-group-y-medical-assistant-airmen-02-2027/",
+          "first_seen": "2026-09-19T18:57:04.229496+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7d19c9919c83661d",
+      "last_page_hash": "c4d27d5b97011634",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 742,
-  "total_alerts": 197,
-  "last_new_job_ts": "2026-09-19T16:45:48.537672+00:00",
+  "total_checks": 743,
+  "total_alerts": 198,
+  "last_new_job_ts": "2026-09-19T18:57:04.726450+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
