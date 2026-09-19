@@ -5390,16 +5390,28 @@
           "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
           "first_seen": "2026-09-18T18:24:21.275409+00:00",
           "eligibility": "unknown"
+        },
+        "7a68358afcdf94fd": {
+          "title": "UPESSC PGT Teacher Online Form 2026 (2607 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-pgt-teacher-2026/",
+          "first_seen": "2026-09-19T05:54:28.201240+00:00",
+          "eligibility": "unknown"
+        },
+        "77db42fcc9cd1e2e": {
+          "title": "India Post Office GDS Online Form 2026 (23757 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
+          "first_seen": "2026-09-19T05:54:28.201262+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "5009027374f7933f",
+      "last_page_hash": "f57399d8eb2b8fd8",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 738,
-  "total_alerts": 194,
-  "last_new_job_ts": "2026-09-18T18:24:21.921495+00:00",
+  "total_checks": 739,
+  "total_alerts": 195,
+  "last_new_job_ts": "2026-09-19T05:54:28.722293+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
