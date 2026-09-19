@@ -5438,16 +5438,22 @@
           "url": "https://www.sarkariexam.com/up-agra-ecce-educator-2026/",
           "first_seen": "2026-09-19T09:51:42.134771+00:00",
           "eligibility": "unknown"
+        },
+        "609a53c2785a136b": {
+          "title": "Indian Airforce Agniveer Vayu Intake 02/2027 Admit Card",
+          "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-intake-02-2027/",
+          "first_seen": "2026-09-19T16:45:47.843960+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d3f0b3134a78553a",
+      "last_page_hash": "7d19c9919c83661d",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 741,
-  "total_alerts": 196,
-  "last_new_job_ts": "2026-09-19T09:51:42.810130+00:00",
+  "total_checks": 742,
+  "total_alerts": 197,
+  "last_new_job_ts": "2026-09-19T16:45:48.537672+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
