@@ -5402,16 +5402,52 @@
           "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
           "first_seen": "2026-09-19T05:54:28.201262+00:00",
           "eligibility": "eligible"
+        },
+        "dd56d9c8aa31fc68": {
+          "title": "Bihar Vidhan Parishad Office Attendant Score Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-driver-office-attendant-2025/",
+          "first_seen": "2026-09-19T09:51:42.134591+00:00",
+          "eligibility": "eligible"
+        },
+        "60c8b7bd37e55125": {
+          "title": "Bihar Vidhan Parishad PA Score Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
+          "first_seen": "2026-09-19T09:51:42.134612+00:00",
+          "eligibility": "unknown"
+        },
+        "6ac9269aeed96034": {
+          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Admit Card 2026",
+          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
+          "first_seen": "2026-09-19T09:51:42.134642+00:00",
+          "eligibility": "unknown"
+        },
+        "d54e65ad971f5474": {
+          "title": "HPSC Food Safety Officer (FSO) Online Form 2026",
+          "url": "https://www.sarkariexam.com/hpsc-food-safety-officer-fso-2026/",
+          "first_seen": "2026-09-19T09:51:42.134678+00:00",
+          "eligibility": "unknown"
+        },
+        "bf3c7553ea2b896c": {
+          "title": "UP Madhyamik Shiksha Vibhag Special Educator Recruitment 2026",
+          "url": "https://www.sarkariexam.com/up-madhyamik-shiksha-vibhag-special-educator-2026/",
+          "first_seen": "2026-09-19T09:51:42.134767+00:00",
+          "eligibility": "unknown"
+        },
+        "b9b31b8ee2b51c29": {
+          "title": "UP Agra ECCE Educator Recruitment 2026",
+          "url": "https://www.sarkariexam.com/up-agra-ecce-educator-2026/",
+          "first_seen": "2026-09-19T09:51:42.134771+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f57399d8eb2b8fd8",
+      "last_page_hash": "d3f0b3134a78553a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 739,
-  "total_alerts": 195,
-  "last_new_job_ts": "2026-09-19T05:54:28.722293+00:00",
+  "total_checks": 740,
+  "total_alerts": 196,
+  "last_new_job_ts": "2026-09-19T09:51:42.810130+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
