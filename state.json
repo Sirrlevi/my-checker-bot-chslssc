@@ -5570,16 +5570,28 @@
           "url": "https://www.sarkariexam.com/indian-airforce-group-y-medical-assistant-airmen-02-2027/",
           "first_seen": "2026-09-19T18:57:04.229496+00:00",
           "eligibility": "unknown"
+        },
+        "bd42e534ba0de526": {
+          "title": "SBI Bank Trade Finance Officer TFO Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/sbi-bank-tfo-2026/",
+          "first_seen": "2026-09-20T11:12:58.406446+00:00",
+          "eligibility": "unknown"
+        },
+        "eb721b5f256fee0c": {
+          "title": "RCFL Apprentice Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/rcfl-apprentice-2026/",
+          "first_seen": "2026-09-20T11:12:58.406464+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "c4d27d5b97011634",
+      "last_page_hash": "5a615ed9806ab8f6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 747,
-  "total_alerts": 199,
-  "last_new_job_ts": "2026-09-20T01:01:28.399042+00:00",
+  "total_checks": 748,
+  "total_alerts": 200,
+  "last_new_job_ts": "2026-09-20T11:12:59.086488+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
