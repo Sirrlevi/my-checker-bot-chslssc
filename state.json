@@ -5672,16 +5672,52 @@
           "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
           "first_seen": "2026-09-21T07:06:31.126289+00:00",
           "eligibility": "unknown"
+        },
+        "d3b6822eda55ef07": {
+          "title": "RRB ALP CEN 01/2026 Exam Date 2026",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-09-21T13:58:35.185004+00:00",
+          "eligibility": "unknown"
+        },
+        "02a9ebc2936df4a3": {
+          "title": "SBI Junior Associates Clerk Admit Card 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
+          "first_seen": "2026-09-21T13:58:35.185021+00:00",
+          "eligibility": "unknown"
+        },
+        "4f831ed10c5bbc38": {
+          "title": "ITBP Head Constable (Motor Mechanic) Online Form 2026",
+          "url": "https://www.sarkariexam.com/itbp-head-constable-motor-mechanic-2026/",
+          "first_seen": "2026-09-21T13:58:35.185055+00:00",
+          "eligibility": "unknown"
+        },
+        "79ab43680f7f4508": {
+          "title": "NTPC Assistant Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/ntpc-assistant-officer-2026/",
+          "first_seen": "2026-09-21T13:58:35.185060+00:00",
+          "eligibility": "unknown"
+        },
+        "1cd7dd69e44ab0a0": {
+          "title": "MECL Non Executive Online Form 2026",
+          "url": "https://www.sarkariexam.com/mecl-non-executive-2026/",
+          "first_seen": "2026-09-21T13:58:35.185068+00:00",
+          "eligibility": "unknown"
+        },
+        "1456f967fbb6b718": {
+          "title": "MPESB Krashi Vistar Adhikari Answer Key 2026",
+          "url": "https://www.sarkariexam.com/mpesb-krashi-vistar-adhikari-2026/",
+          "first_seen": "2026-09-21T13:58:35.185088+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4ec385cbc5436ac5",
+      "last_page_hash": "7ad2c25cc62de3d1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 755,
-  "total_alerts": 202,
-  "last_new_job_ts": "2026-09-21T07:06:33.992415+00:00",
+  "total_checks": 756,
+  "total_alerts": 203,
+  "last_new_job_ts": "2026-09-21T13:58:35.741382+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
