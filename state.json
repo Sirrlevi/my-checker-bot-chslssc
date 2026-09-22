@@ -5708,16 +5708,40 @@
           "url": "https://www.sarkariexam.com/mpesb-krashi-vistar-adhikari-2026/",
           "first_seen": "2026-09-21T13:58:35.185088+00:00",
           "eligibility": "unknown"
+        },
+        "89b704b35994b86b": {
+          "title": "RRB NTPC 10+2 UG Level 07/2026 Online Form 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
+          "first_seen": "2026-09-22T11:30:34.605997+00:00",
+          "eligibility": "eligible"
+        },
+        "a98f58332e65135c": {
+          "title": "NTPC NSPCL Various Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/ntpc-nspcl-various-post-2026/",
+          "first_seen": "2026-09-22T11:30:34.606014+00:00",
+          "eligibility": "unknown"
+        },
+        "189e973e1e1d29cb": {
+          "title": "IBPS RRB XV 15th Scale-I, II, III Online Form 2026 (13706 Posts) – Extend",
+          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
+          "first_seen": "2026-09-22T11:30:34.606020+00:00",
+          "eligibility": "unknown"
+        },
+        "0c15938a814d750f": {
+          "title": "SSC JHT Tier-I Answer Key 2026",
+          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
+          "first_seen": "2026-09-22T11:30:34.606056+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7ad2c25cc62de3d1",
+      "last_page_hash": "3f7ffff6061cad1b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 760,
-  "total_alerts": 203,
-  "last_new_job_ts": "2026-09-21T13:58:35.741382+00:00",
+  "total_checks": 761,
+  "total_alerts": 204,
+  "last_new_job_ts": "2026-09-22T11:30:35.378717+00:00",
   "last_heartbeat_key": "2026-09-18-17"
 }
