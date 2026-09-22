@@ -5732,16 +5732,34 @@
           "url": "https://www.sarkariexam.com/ssc-jht-2026/",
           "first_seen": "2026-09-22T11:30:34.606056+00:00",
           "eligibility": "unknown"
+        },
+        "c31017cf1de37a34": {
+          "title": "Indian Army TGC 145 Online Form 2026",
+          "url": "https://www.sarkariexam.com/indian-army-tgc-145-2026/",
+          "first_seen": "2026-09-22T15:37:57.327192+00:00",
+          "eligibility": "unknown"
+        },
+        "fdf361aed4f1918c": {
+          "title": "UPSSSC Pharmacist Ayurvedic Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
+          "first_seen": "2026-09-22T15:37:57.327215+00:00",
+          "eligibility": "unknown"
+        },
+        "4a7b8cac8b445f32": {
+          "title": "UPSSSC Excise Constable Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-excise-constable-2026/",
+          "first_seen": "2026-09-22T15:37:57.327219+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3f7ffff6061cad1b",
+      "last_page_hash": "1a79b5288a0abff6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 761,
-  "total_alerts": 204,
-  "last_new_job_ts": "2026-09-22T11:30:35.378717+00:00",
-  "last_heartbeat_key": "2026-09-18-17"
+  "total_checks": 762,
+  "total_alerts": 205,
+  "last_new_job_ts": "2026-09-22T15:37:58.080417+00:00",
+  "last_heartbeat_key": "2026-09-22-21"
 }
