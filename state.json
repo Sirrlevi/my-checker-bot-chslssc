@@ -5894,16 +5894,46 @@
           "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
           "first_seen": "2026-09-23T09:33:49.890858+00:00",
           "eligibility": "eligible"
+        },
+        "b8e2b863de243ba9": {
+          "title": "UPSSSC Forest Guard/ Wild Life Guard Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
+          "first_seen": "2026-09-23T14:23:12.697521+00:00",
+          "eligibility": "unknown"
+        },
+        "f08f1ff42ee9e7dc": {
+          "title": "UPSSSC Forensic Science Laboratory Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
+          "first_seen": "2026-09-23T14:23:12.697537+00:00",
+          "eligibility": "unknown"
+        },
+        "cc6d94aa3d699c27": {
+          "title": "AAI Junior Executive & Manager Exam Date 2026",
+          "url": "https://www.sarkariexam.com/aai-junior-executive-manager-2026/",
+          "first_seen": "2026-09-23T14:23:12.697546+00:00",
+          "eligibility": "unknown"
+        },
+        "fde17f5b18cf8d77": {
+          "title": "Delhi High Court JJA Mains Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-jja-2026/",
+          "first_seen": "2026-09-23T14:23:12.697554+00:00",
+          "eligibility": "unknown"
+        },
+        "f115bb47ce43b5c1": {
+          "title": "IBPS Hindi Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/ibps-hindi-officer-2026/",
+          "first_seen": "2026-09-23T14:23:12.697599+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "299d68a53a762459",
+      "last_page_hash": "6d8525cced6cb234",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 767,
-  "total_alerts": 208,
-  "last_new_job_ts": "2026-09-23T09:33:52.888623+00:00",
+  "total_checks": 768,
+  "total_alerts": 209,
+  "last_new_job_ts": "2026-09-23T14:23:13.496140+00:00",
   "last_heartbeat_key": "2026-09-22-21"
 }
