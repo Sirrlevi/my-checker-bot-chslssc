@@ -5924,16 +5924,34 @@
           "url": "https://www.sarkariexam.com/ibps-hindi-officer-2026/",
           "first_seen": "2026-09-23T14:23:12.697599+00:00",
           "eligibility": "unknown"
+        },
+        "48f6d9784e07c25b": {
+          "title": "SSC Stenographer Grade C & D Tier-I Answer Key 2026",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
+          "first_seen": "2026-09-23T18:26:54.372591+00:00",
+          "eligibility": "eligible"
+        },
+        "5b9457c7e6f0dabc": {
+          "title": "IBPS CRP PO/ MT 16th Pre Result 2026",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-09-23T18:26:54.372609+00:00",
+          "eligibility": "unknown"
+        },
+        "eedd4335a9441bb7": {
+          "title": "RRB NTPC 10+2 UG CBT-II Answer Key 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-09-23T18:26:54.372726+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "6d8525cced6cb234",
+      "last_page_hash": "356f926ce810e828",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 768,
-  "total_alerts": 209,
-  "last_new_job_ts": "2026-09-23T14:23:13.496140+00:00",
+  "total_checks": 769,
+  "total_alerts": 210,
+  "last_new_job_ts": "2026-09-23T18:26:54.882760+00:00",
   "last_heartbeat_key": "2026-09-22-21"
 }
