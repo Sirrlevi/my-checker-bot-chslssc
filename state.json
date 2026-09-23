@@ -2948,9 +2948,39 @@
           "url": "https://www.sarkarijobs.com/ordnance-factory-dehu-road-recruitment-notice-for-10-project-engineer-posts-applications-accepted-until-september-23/",
           "first_seen": "2026-09-21T07:06:30.343794+00:00",
           "eligibility": "unknown"
+        },
+        "cc926ae99e219aaf": {
+          "title": "NIC STA Recruitment Notice NIC/STA/2026/2 Out: Apply to 376 Scientific/Technical Assistant Vacancies by 30th September",
+          "url": "https://www.sarkarijobs.com/nic-sta-recruitment-notice-nic-sta-2026-2-out-apply-to-376-scientific-technical-assistant-vacancies/",
+          "first_seen": "2026-09-23T04:40:17.923921+00:00",
+          "eligibility": "unknown"
+        },
+        "ef71b90617e5dee0": {
+          "title": "IBPS RRB CRP XV Recruitment 2026 Detailed Notice Out for 13742+ Officer Scale I, II, III and Office Assistant Posts, Last Date Extended",
+          "url": "https://www.sarkarijobs.com/ibps-rrb-crp-xv-recruitment-2026-notice-out-applications-open-for-officer-scale-i-ii-iii-and-office-assistant-posts-on-september-1/",
+          "first_seen": "2026-09-23T04:40:17.923942+00:00",
+          "eligibility": "unknown"
+        },
+        "581a7f7ed97441e6": {
+          "title": "NIT Recruitment 2026 for 100+ Teaching Faculty, Non-Teaching and Other Posts",
+          "url": "https://www.sarkarijobs.com/nit-recruitment/",
+          "first_seen": "2026-09-23T04:40:17.923947+00:00",
+          "eligibility": "unknown"
+        },
+        "88e3e2ff6d021ef6": {
+          "title": "ESIC Recruitment 2026 for 240+ Sr Residents, Super Specialists, Teaching Faculty & Other Posts @ esic.nic.in",
+          "url": "https://www.sarkarijobs.com/esic-recruitment/",
+          "first_seen": "2026-09-23T04:40:17.923952+00:00",
+          "eligibility": "unknown"
+        },
+        "a9621dd440ab2332": {
+          "title": "UKSSSC Recruitment Notice Out for 553 Junior Assistant, Computer Operator and Other Posts; Applications Open Till 7th October",
+          "url": "https://www.sarkarijobs.com/uksssc-recruitment-notice-out-for-553-junior-assistant-computer-operator-and-other-posts-applications-open-september-8/",
+          "first_seen": "2026-09-23T04:40:17.923958+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "60e107c6598e882d",
+      "last_page_hash": "eeca2cdd56ef05f4",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -5758,8 +5788,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 765,
-  "total_alerts": 205,
-  "last_new_job_ts": "2026-09-22T15:37:58.080417+00:00",
+  "total_checks": 766,
+  "total_alerts": 206,
+  "last_new_job_ts": "2026-09-23T04:40:18.547302+00:00",
   "last_heartbeat_key": "2026-09-22-21"
 }
