@@ -6008,16 +6008,34 @@
           "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
           "first_seen": "2026-09-24T12:55:46.716553+00:00",
           "eligibility": "unknown"
+        },
+        "34aacc9a4b5aa91b": {
+          "title": "RRB NTPC 10+2 UG CBT-II Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-09-24T17:40:39.500589+00:00",
+          "eligibility": "eligible"
+        },
+        "a8f111d92fbf6b7c": {
+          "title": "RBI Assistant Mains Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/rbi-assistant-2026/",
+          "first_seen": "2026-09-24T17:40:39.500605+00:00",
+          "eligibility": "unknown"
+        },
+        "e16f8374def4018c": {
+          "title": "IBPS CRP PO/ MT 16th Mains Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-09-24T17:40:39.500633+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4b7c305b01fb83ae",
+      "last_page_hash": "cce0f1284a5529fd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 774,
-  "total_alerts": 211,
-  "last_new_job_ts": "2026-09-24T12:55:47.393842+00:00",
+  "total_checks": 775,
+  "total_alerts": 212,
+  "last_new_job_ts": "2026-09-24T17:40:40.094207+00:00",
   "last_heartbeat_key": "2026-09-24-13"
 }
