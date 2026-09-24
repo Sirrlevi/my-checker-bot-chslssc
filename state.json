@@ -5942,16 +5942,82 @@
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
           "first_seen": "2026-09-23T18:26:54.372726+00:00",
           "eligibility": "eligible"
+        },
+        "94800d1613e4b6b4": {
+          "title": "RRB NTPC UG Level Form (1688 Posts)",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
+          "first_seen": "2026-09-24T12:55:46.716417+00:00",
+          "eligibility": "eligible"
+        },
+        "e4da988553f4a674": {
+          "title": "NTA UGC NET June Certificate 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
+          "first_seen": "2026-09-24T12:55:46.716440+00:00",
+          "eligibility": "unknown"
+        },
+        "c965b3b4afdc2e04": {
+          "title": "NEET PG Result 2026",
+          "url": "https://www.sarkariexam.com/neet-pg-2026/",
+          "first_seen": "2026-09-24T12:55:46.716446+00:00",
+          "eligibility": "unknown"
+        },
+        "689dd08a32237d84": {
+          "title": "Bank Of Baroda LBO Exam Date 2026",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
+          "first_seen": "2026-09-24T12:55:46.716479+00:00",
+          "eligibility": "unknown"
+        },
+        "eb805b396320918a": {
+          "title": "Bihar STET Dummy Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
+          "first_seen": "2026-09-24T12:55:46.716483+00:00",
+          "eligibility": "unknown"
+        },
+        "6c127b517d83c5f4": {
+          "title": "India Post Office GDS Correction Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
+          "first_seen": "2026-09-24T12:55:46.716502+00:00",
+          "eligibility": "eligible"
+        },
+        "d3dd30c14541c09e": {
+          "title": "Bank of Baroda SO Online Form 2026 (1100 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-so-2026/",
+          "first_seen": "2026-09-24T12:55:46.716506+00:00",
+          "eligibility": "unknown"
+        },
+        "700e379a6dd21796": {
+          "title": "PFRDA Assistant Manager Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/pfrda-assistant-manager-2026/",
+          "first_seen": "2026-09-24T12:55:46.716511+00:00",
+          "eligibility": "unknown"
+        },
+        "3045d1d5d55defc7": {
+          "title": "Bihar BCECEB BSFC Various Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-bceceb-bsfc-various-post-2026/",
+          "first_seen": "2026-09-24T12:55:46.716515+00:00",
+          "eligibility": "unknown"
+        },
+        "e16e7cf1fe4dda47": {
+          "title": "BHU Non Teaching Various Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bhu-non-teaching-various-post-2026/",
+          "first_seen": "2026-09-24T12:55:46.716520+00:00",
+          "eligibility": "unknown"
+        },
+        "f6fba382c2f8b386": {
+          "title": "Patna High Court Assistant Answer Key 2026",
+          "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
+          "first_seen": "2026-09-24T12:55:46.716553+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "95e1a0a53b01cf79",
+      "last_page_hash": "4b7c305b01fb83ae",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 773,
-  "total_alerts": 210,
-  "last_new_job_ts": "2026-09-23T18:26:54.882760+00:00",
+  "total_checks": 774,
+  "total_alerts": 211,
+  "last_new_job_ts": "2026-09-24T12:55:47.393842+00:00",
   "last_heartbeat_key": "2026-09-24-13"
 }
