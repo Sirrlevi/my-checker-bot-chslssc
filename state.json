@@ -6026,16 +6026,46 @@
           "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
           "first_seen": "2026-09-24T17:40:39.500633+00:00",
           "eligibility": "unknown"
+        },
+        "5c22fb60dca00355": {
+          "title": "Rajasthan Safai Karamchari Online Form",
+          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
+          "first_seen": "2026-09-25T06:42:26.839300+00:00",
+          "eligibility": "unknown"
+        },
+        "9e731d11db086d56": {
+          "title": "SBI SCO Wealth & Other Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/sbi-sco-wealth-other-post-2026/",
+          "first_seen": "2026-09-25T06:42:26.839367+00:00",
+          "eligibility": "unknown"
+        },
+        "e8e252d7c0d99c80": {
+          "title": "MPESB Subedar Steno, ASI Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/mpesb-subedar-steno-asi-2026/",
+          "first_seen": "2026-09-25T06:42:26.839373+00:00",
+          "eligibility": "eligible"
+        },
+        "5d8f54e6af871f7f": {
+          "title": "Bank of Baroda SO Online Form 2026 (1100 Posts) – Extend",
+          "url": "https://www.sarkariexam.com/bank-of-baroda-so-2026/",
+          "first_seen": "2026-09-25T06:42:26.839377+00:00",
+          "eligibility": "unknown"
+        },
+        "7c201114161c9410": {
+          "title": "BHU Non Teaching Various Post Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/bhu-non-teaching-various-post-2026/",
+          "first_seen": "2026-09-25T06:42:26.839382+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "cce0f1284a5529fd",
+      "last_page_hash": "952c14ff671bef77",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 778,
-  "total_alerts": 212,
-  "last_new_job_ts": "2026-09-24T17:40:40.094207+00:00",
+  "total_checks": 779,
+  "total_alerts": 213,
+  "last_new_job_ts": "2026-09-25T06:42:27.325671+00:00",
   "last_heartbeat_key": "2026-09-24-13"
 }
