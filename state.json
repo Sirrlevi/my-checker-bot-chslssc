@@ -6056,16 +6056,58 @@
           "url": "https://www.sarkariexam.com/bhu-non-teaching-various-post-2026/",
           "first_seen": "2026-09-25T06:42:26.839382+00:00",
           "eligibility": "unknown"
+        },
+        "66442be622d6157a": {
+          "title": "RBI Assistant Mains Result 2026",
+          "url": "https://www.sarkariexam.com/rbi-assistant-2026/",
+          "first_seen": "2026-09-25T12:13:42.136056+00:00",
+          "eligibility": "unknown"
+        },
+        "7f0c51f709c182df": {
+          "title": "UPSSSC PET Revised Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-09-25T12:13:42.136108+00:00",
+          "eligibility": "unknown"
+        },
+        "15fd5e9ea4a8164b": {
+          "title": "Bihar BTSC Touring Veterinary Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-btsc-touring-veterinary-officer-2026/",
+          "first_seen": "2026-09-25T12:13:42.136157+00:00",
+          "eligibility": "unknown"
+        },
+        "8bddcafb78da474a": {
+          "title": "Bihar BTSC Fishery Extension Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-btsc-fishery-extension-officer-2026/",
+          "first_seen": "2026-09-25T12:13:42.136163+00:00",
+          "eligibility": "unknown"
+        },
+        "e38aee906804311a": {
+          "title": "ISRO ICRB Assistant, UDC, JPA, Stenographer Answer Key 2026",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-09-25T12:13:42.136180+00:00",
+          "eligibility": "eligible"
+        },
+        "a7f3a2f1aa2114ee": {
+          "title": "UP Bareilly ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-bareilly-ecce-educator-online-form-2026/",
+          "first_seen": "2026-09-25T12:13:42.136250+00:00",
+          "eligibility": "unknown"
+        },
+        "7205baba693a6364": {
+          "title": "UP Rampur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-rampur-ecce-educator-2026/",
+          "first_seen": "2026-09-25T12:13:42.136258+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "952c14ff671bef77",
+      "last_page_hash": "5b29b3ae7cc70399",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 779,
-  "total_alerts": 213,
-  "last_new_job_ts": "2026-09-25T06:42:27.325671+00:00",
-  "last_heartbeat_key": "2026-09-24-13"
+  "total_checks": 780,
+  "total_alerts": 214,
+  "last_new_job_ts": "2026-09-25T12:13:43.206607+00:00",
+  "last_heartbeat_key": "2026-09-25-17"
 }
