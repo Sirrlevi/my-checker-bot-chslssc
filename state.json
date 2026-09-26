@@ -6110,16 +6110,22 @@
           "url": "https://www.sarkariexam.com/upsssc-junior-assistant-advt-12-2024/",
           "first_seen": "2026-09-25T17:09:43.541886+00:00",
           "eligibility": "unknown"
+        },
+        "f2db9b54568df0b6": {
+          "title": "SBI SCO Wealth & Other Post Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/sbi-sco-wealth-other-post-2026/",
+          "first_seen": "2026-09-26T06:38:48.927257+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9a962d32d1243f28",
+      "last_page_hash": "4aaf2f5fb3fc0472",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 784,
-  "total_alerts": 215,
-  "last_new_job_ts": "2026-09-25T17:09:44.103418+00:00",
+  "total_checks": 785,
+  "total_alerts": 216,
+  "last_new_job_ts": "2026-09-26T06:38:49.615540+00:00",
   "last_heartbeat_key": "2026-09-25-17"
 }
