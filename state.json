@@ -6116,16 +6116,52 @@
           "url": "https://www.sarkariexam.com/sbi-sco-wealth-other-post-2026/",
           "first_seen": "2026-09-26T06:38:48.927257+00:00",
           "eligibility": "unknown"
+        },
+        "a9771faab9fe3332": {
+          "title": "NTA CSIR UGC NET June E Certificate 2026",
+          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
+          "first_seen": "2026-09-26T11:44:27.619691+00:00",
+          "eligibility": "unknown"
+        },
+        "64bf43cfe1c10d40": {
+          "title": "UPTET 2026 Certificate Correction",
+          "url": "https://www.sarkariexam.com/uptet-2026/",
+          "first_seen": "2026-09-26T11:44:27.619711+00:00",
+          "eligibility": "unknown"
+        },
+        "26ae2d1a76a80c57": {
+          "title": "AIIMS NORCET 11th Stage-II Admit Card 2026",
+          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
+          "first_seen": "2026-09-26T11:44:27.619756+00:00",
+          "eligibility": "unknown"
+        },
+        "005449bd7e858358": {
+          "title": "SSC Delhi Police Driver Physical Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-delhi-police-driver-2026/",
+          "first_seen": "2026-09-26T11:44:27.619762+00:00",
+          "eligibility": "eligible"
+        },
+        "751227f20b9a5df0": {
+          "title": "Indian Airforce Airmen Group Y Medical Assistant 02/2027 Answer Key",
+          "url": "https://www.sarkariexam.com/indian-airforce-group-y-medical-assistant-airmen-02-2027/",
+          "first_seen": "2026-09-26T11:44:27.619818+00:00",
+          "eligibility": "unknown"
+        },
+        "75a61f8d5e7df3b2": {
+          "title": "Indian Airforce Agniveer Vayu Intake 02/2027 Answer Key",
+          "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-intake-02-2027/",
+          "first_seen": "2026-09-26T11:44:27.619823+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4aaf2f5fb3fc0472",
+      "last_page_hash": "6694e0f46acac497",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 785,
-  "total_alerts": 216,
-  "last_new_job_ts": "2026-09-26T06:38:49.615540+00:00",
-  "last_heartbeat_key": "2026-09-25-17"
+  "total_checks": 786,
+  "total_alerts": 217,
+  "last_new_job_ts": "2026-09-26T11:44:28.242858+00:00",
+  "last_heartbeat_key": "2026-09-26-17"
 }
