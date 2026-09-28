@@ -3200,9 +3200,15 @@
           "url": "https://www.sarkarijobs.com/madras-high-court-recruitment-2026-online-form-for-115-data-entry-operator-vacancies-apply-by-september-29/",
           "first_seen": "2026-09-28T01:33:55.724017+00:00",
           "eligibility": "unknown"
+        },
+        "c31ddcd9df1721d2": {
+          "title": "POWERGRID Announces Engineer Trainee Recruitment 2027 Through GATE: Electrical, Civil, CS and Electronics Posts",
+          "url": "https://www.sarkarijobs.com/powergrid-announces-engineer-trainee-recruitment-2027-through-gate-electrical-civil-cs-and-electronics-posts/",
+          "first_seen": "2026-09-28T07:32:04.496464+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b918e2ba940d9cc5",
+      "last_page_hash": "2116a83fe5cb3487",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -6280,14 +6286,14 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "429c929b8271786f",
+      "last_page_hash": "aff8cb4367f1ad6b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 797,
-  "total_alerts": 219,
-  "last_new_job_ts": "2026-09-28T01:33:56.373916+00:00",
-  "last_heartbeat_key": "2026-09-26-17"
+  "total_checks": 798,
+  "total_alerts": 220,
+  "last_new_job_ts": "2026-09-28T07:32:05.205156+00:00",
+  "last_heartbeat_key": "2026-09-28-13"
 }
