@@ -6284,16 +6284,64 @@
           "url": "https://www.sarkariexam.com/railway-rrc-sr-apprentice-2026/",
           "first_seen": "2026-09-27T12:58:38.118175+00:00",
           "eligibility": "unknown"
+        },
+        "8df8a6d491f0a6cb": {
+          "title": "UPESSC PGT Teacher Form (2607 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-pgt-teacher-2026/",
+          "first_seen": "2026-09-28T15:52:13.351335+00:00",
+          "eligibility": "unknown"
+        },
+        "ac96dd1cc466d8a4": {
+          "title": "Chhattisgarh State Eligibility Test SET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-026/",
+          "first_seen": "2026-09-28T15:52:13.351383+00:00",
+          "eligibility": "unknown"
+        },
+        "cc1f9954edb60cc8": {
+          "title": "Assam Rifles Technical/ Tradesman Online Form 2026",
+          "url": "https://www.sarkariexam.com/assam-rifles-technical-tradesman-2026/",
+          "first_seen": "2026-09-28T15:52:13.351420+00:00",
+          "eligibility": "eligible"
+        },
+        "38d0a8e1ca522300": {
+          "title": "Canara Bank Apprentices Online Form 2026 (3500 Posts)",
+          "url": "https://www.sarkariexam.com/canara-bank-apprentices-2026/",
+          "first_seen": "2026-09-28T15:52:13.351424+00:00",
+          "eligibility": "unknown"
+        },
+        "2153cfe6b01b2835": {
+          "title": "ITBP Head Constable (Education & Stress Counsellor) Online Form 2026",
+          "url": "https://www.sarkariexam.com/itbp-head-constable-education-stress-counsellor-2026/",
+          "first_seen": "2026-09-28T15:52:13.351427+00:00",
+          "eligibility": "unknown"
+        },
+        "34a0fc45654bf666": {
+          "title": "SBI Bank Trade Finance Officer TFO Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/sbi-bank-tfo-2026/",
+          "first_seen": "2026-09-28T15:52:13.351436+00:00",
+          "eligibility": "unknown"
+        },
+        "efc27bc91e43ffd8": {
+          "title": "UPSSSC Computer Operator Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsssc-computer-operator-2026/",
+          "first_seen": "2026-09-28T15:52:13.351442+00:00",
+          "eligibility": "unknown"
+        },
+        "a76e957d5c50235f": {
+          "title": "UIIC Administrative Officers AO Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/uiic-ao-2026/",
+          "first_seen": "2026-09-28T15:52:13.351447+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "aff8cb4367f1ad6b",
+      "last_page_hash": "3feada256c010b95",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 798,
-  "total_alerts": 220,
-  "last_new_job_ts": "2026-09-28T07:32:05.205156+00:00",
-  "last_heartbeat_key": "2026-09-28-13"
+  "total_checks": 799,
+  "total_alerts": 221,
+  "last_new_job_ts": "2026-09-28T15:52:14.017329+00:00",
+  "last_heartbeat_key": "2026-09-28-21"
 }
