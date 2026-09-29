@@ -6332,16 +6332,28 @@
           "url": "https://www.sarkariexam.com/uiic-ao-2026/",
           "first_seen": "2026-09-28T15:52:13.351447+00:00",
           "eligibility": "unknown"
+        },
+        "2a5a1f2f895e7025": {
+          "title": "RSSB LDC Clerk Gr-II/ Junior Assistant Result 2026",
+          "url": "https://www.sarkariexam.com/rssb-rajasthan-clerk-gr-ii-junior-assistant-2026/",
+          "first_seen": "2026-09-29T06:49:23.242068+00:00",
+          "eligibility": "unknown"
+        },
+        "437235b04b86a12f": {
+          "title": "UIIC Administrative Officers AO Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/uiic-ao-2026/",
+          "first_seen": "2026-09-29T06:49:23.242161+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3feada256c010b95",
+      "last_page_hash": "6c21dace687751c3",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 801,
-  "total_alerts": 221,
-  "last_new_job_ts": "2026-09-28T15:52:14.017329+00:00",
+  "total_checks": 802,
+  "total_alerts": 222,
+  "last_new_job_ts": "2026-09-29T06:49:23.851781+00:00",
   "last_heartbeat_key": "2026-09-28-21"
 }
