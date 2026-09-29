@@ -6398,16 +6398,22 @@
           "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
           "first_seen": "2026-09-29T13:23:20.394554+00:00",
           "eligibility": "unknown"
+        },
+        "a67abdfed31dc4d7": {
+          "title": "Jharkhand Teacher Eligibility Test JHTET Admit Card Date 2026",
+          "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
+          "first_seen": "2026-09-29T18:44:28.525856+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "404712303fab6c5c",
+      "last_page_hash": "38b141566f8ed6db",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 803,
-  "total_alerts": 223,
-  "last_new_job_ts": "2026-09-29T13:23:21.028147+00:00",
+  "total_checks": 804,
+  "total_alerts": 224,
+  "last_new_job_ts": "2026-09-29T18:44:29.174211+00:00",
   "last_heartbeat_key": "2026-09-28-21"
 }
