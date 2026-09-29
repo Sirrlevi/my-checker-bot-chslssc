@@ -6344,16 +6344,70 @@
           "url": "https://www.sarkariexam.com/uiic-ao-2026/",
           "first_seen": "2026-09-29T06:49:23.242161+00:00",
           "eligibility": "unknown"
+        },
+        "399a1f4a4faa079e": {
+          "title": "AIIMS CRE 5th Group B & C Re-Exam Result 2026",
+          "url": "https://www.sarkariexam.com/aiims-cre-group-b-c-2026/",
+          "first_seen": "2026-09-29T13:23:20.394363+00:00",
+          "eligibility": "unknown"
+        },
+        "2afc7916bafe1ca2": {
+          "title": "BELTRON DEO Provisional Merit List 2026",
+          "url": "https://www.sarkariexam.com/beltron-deo-2025/",
+          "first_seen": "2026-09-29T13:23:20.394379+00:00",
+          "eligibility": "unknown"
+        },
+        "3b9fc82cea447ead": {
+          "title": "Bihar BSEB DElEd Face to Face Course Result 2026",
+          "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
+          "first_seen": "2026-09-29T13:23:20.394385+00:00",
+          "eligibility": "unknown"
+        },
+        "34d8da41625d8440": {
+          "title": "IBPS Clerk CSA 16th PET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-09-29T13:23:20.394429+00:00",
+          "eligibility": "unknown"
+        },
+        "49614fb833589d5c": {
+          "title": "IBPS CRP PO/ MT 16th Mains Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-09-29T13:23:20.394437+00:00",
+          "eligibility": "unknown"
+        },
+        "d8fcc7fd2b235bdd": {
+          "title": "Delhi High Court JJA Mains Admit Card 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-jja-2026/",
+          "first_seen": "2026-09-29T13:23:20.394444+00:00",
+          "eligibility": "unknown"
+        },
+        "0b07066c454a20fc": {
+          "title": "RSSB Exam Calendar 2026",
+          "url": "https://www.sarkariexam.com/rssb-exam-calendar-2026/",
+          "first_seen": "2026-09-29T13:23:20.394451+00:00",
+          "eligibility": "unknown"
+        },
+        "4dde575455fd7ab9": {
+          "title": "UPSSSC Forensic Science Laboratory Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
+          "first_seen": "2026-09-29T13:23:20.394543+00:00",
+          "eligibility": "unknown"
+        },
+        "e54257b01747d418": {
+          "title": "UPSSSC Forest Guard/ Wild Life Guard Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
+          "first_seen": "2026-09-29T13:23:20.394554+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6c21dace687751c3",
+      "last_page_hash": "404712303fab6c5c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 802,
-  "total_alerts": 222,
-  "last_new_job_ts": "2026-09-29T06:49:23.851781+00:00",
+  "total_checks": 803,
+  "total_alerts": 223,
+  "last_new_job_ts": "2026-09-29T13:23:21.028147+00:00",
   "last_heartbeat_key": "2026-09-28-21"
 }
