@@ -3206,9 +3206,45 @@
           "url": "https://www.sarkarijobs.com/powergrid-announces-engineer-trainee-recruitment-2027-through-gate-electrical-civil-cs-and-electronics-posts/",
           "first_seen": "2026-09-28T07:32:04.496464+00:00",
           "eligibility": "unknown"
+        },
+        "55330a13db2ba3ad": {
+          "title": "RRB Paramedical Recruitment 2026 Detailed Notice Available: 560 Vacancies Under CEN 05/2026, Apply Online From September 15",
+          "url": "https://www.sarkarijobs.com/rrb-paramedical-recruitment-2026-notice-out-560-vacancies-under-cen-05-2026-apply-online-from-september-15/",
+          "first_seen": "2026-09-30T07:19:42.607519+00:00",
+          "eligibility": "unknown"
+        },
+        "b7656c786286ea74": {
+          "title": "NTPC Recruitment 2026 for 100+ Deputy Manager, Assistant Manager, Engineer, Assistant Officers, Diploma Trainee, EET / Engineering Executive Trainees and Other @ ntpc.co.in",
+          "url": "https://www.sarkarijobs.com/ntpc-recruitment/",
+          "first_seen": "2026-09-30T07:19:42.607539+00:00",
+          "eligibility": "unknown"
+        },
+        "a4b12b2cb5d3c62b": {
+          "title": "ITBP Head Constable Recruitment 2026 Detailed Notice Out: Apply to 37 Motor Mechanic and Education & Stress Counsellor Vacancies by October 27",
+          "url": "https://www.sarkarijobs.com/itbp-head-constable-recruitment-2026-notice-out-apply-to-37-motor-mechanic-and-education-stress-counsellor-vacancies-by-october-27/",
+          "first_seen": "2026-09-30T07:19:42.607549+00:00",
+          "eligibility": "eligible"
+        },
+        "64243c318d539a3f": {
+          "title": "Income Tax Pune 2026 Sports Quota Recruitment Drive Announced: 85 Stenographer, Tax Assistant and MTS Vacancies, Last Date Extended Till 30th September",
+          "url": "https://www.sarkarijobs.com/income-tax-pune-2026-sports-quota-recruitment-drive-announced-85-stenographer-tax-assistant-and-mts-vacancies/",
+          "first_seen": "2026-09-30T07:19:42.607561+00:00",
+          "eligibility": "eligible"
+        },
+        "000ced2697566bc8": {
+          "title": "Delhi Transco Recruitment 2026: Apply Online for 65 Assistant Manager Trainee Posts by September 30",
+          "url": "https://www.sarkarijobs.com/delhi-transco-recruitment-2026-apply-online-for-65-assistant-manager-trainee-posts-by-september-2/",
+          "first_seen": "2026-09-30T07:19:42.607567+00:00",
+          "eligibility": "unknown"
+        },
+        "d99cdeb39c9430d7": {
+          "title": "RCFL Recruitment 2026 for Assistant Officers and Other Posts",
+          "url": "https://www.sarkarijobs.com/rcfl-recruitment/",
+          "first_seen": "2026-09-30T07:19:42.607574+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2116a83fe5cb3487",
+      "last_page_hash": "0b8acea1c69bf1a6",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -6404,16 +6440,28 @@
           "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
           "first_seen": "2026-09-29T18:44:28.525856+00:00",
           "eligibility": "unknown"
+        },
+        "13aa578c8fe23139": {
+          "title": "SSC CPO SI CAPF Online Form 2026 (1871 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-09-30T07:19:42.852757+00:00",
+          "eligibility": "unknown"
+        },
+        "4159d94127ae9977": {
+          "title": "MP High Court Assistant Grade III Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-online-form-2026/",
+          "first_seen": "2026-09-30T07:19:42.852774+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "38b141566f8ed6db",
+      "last_page_hash": "3c42bed70c8a44e1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 806,
-  "total_alerts": 224,
-  "last_new_job_ts": "2026-09-29T18:44:29.174211+00:00",
+  "total_checks": 807,
+  "total_alerts": 226,
+  "last_new_job_ts": "2026-09-30T07:19:45.645078+00:00",
   "last_heartbeat_key": "2026-09-28-21"
 }
