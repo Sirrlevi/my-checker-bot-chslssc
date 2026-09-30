@@ -6472,7 +6472,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 808,
+  "total_checks": 809,
   "total_alerts": 227,
   "last_new_job_ts": "2026-09-30T13:51:57.948720+00:00",
   "last_heartbeat_key": "2026-09-28-21"
