@@ -6452,16 +6452,28 @@
           "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-online-form-2026/",
           "first_seen": "2026-09-30T07:19:42.852774+00:00",
           "eligibility": "unknown"
+        },
+        "a26533c7901f0e06": {
+          "title": "Haryana HTET Revised Result 2026",
+          "url": "https://www.sarkariexam.com/haryana-htet-2026/",
+          "first_seen": "2026-09-30T13:51:57.258982+00:00",
+          "eligibility": "unknown"
+        },
+        "b36fad07483ea603": {
+          "title": "UPSC CAPF AC Physical Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
+          "first_seen": "2026-09-30T13:51:57.259033+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3c42bed70c8a44e1",
+      "last_page_hash": "7bdf9112641616ab",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 807,
-  "total_alerts": 226,
-  "last_new_job_ts": "2026-09-30T07:19:45.645078+00:00",
+  "total_checks": 808,
+  "total_alerts": 227,
+  "last_new_job_ts": "2026-09-30T13:51:57.948720+00:00",
   "last_heartbeat_key": "2026-09-28-21"
 }
