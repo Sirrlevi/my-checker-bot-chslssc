@@ -6464,16 +6464,58 @@
           "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
           "first_seen": "2026-09-30T13:51:57.259033+00:00",
           "eligibility": "unknown"
+        },
+        "2850dbe089bd312a": {
+          "title": "UPSSSC Enforcement Constable 2023 Final Result",
+          "url": "https://www.sarkariexam.com/upsssc-enforcement-constable-2023/",
+          "first_seen": "2026-10-01T07:34:15.884677+00:00",
+          "eligibility": "unknown"
+        },
+        "e50aae12a7fb7a30": {
+          "title": "UPSSSC Platoon Commander / Block Organizer Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
+          "first_seen": "2026-10-01T07:34:15.884692+00:00",
+          "eligibility": "unknown"
+        },
+        "7af4970f78dc26b6": {
+          "title": "UPSSSC Havildar Instructor Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-havildar-instructor-2026/",
+          "first_seen": "2026-10-01T07:34:15.884697+00:00",
+          "eligibility": "eligible"
+        },
+        "f85a61d9c0d51aae": {
+          "title": "DSSSB Delhi High Court Attendant Result 2026",
+          "url": "https://www.sarkariexam.com/dsssb-delhi-high-court-attendant-2025/",
+          "first_seen": "2026-10-01T07:34:15.884702+00:00",
+          "eligibility": "unknown"
+        },
+        "e2270d6bb4e106d9": {
+          "title": "Bihar STET 2nd Dummy Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
+          "first_seen": "2026-10-01T07:34:15.884728+00:00",
+          "eligibility": "unknown"
+        },
+        "a9166eba85b219fa": {
+          "title": "NVS Class 11 Admissions Online Form 2027 – Extend",
+          "url": "https://www.sarkariexam.com/nvs-class-11-admissions-2027/",
+          "first_seen": "2026-10-01T07:34:15.884824+00:00",
+          "eligibility": "unknown"
+        },
+        "1191bf00759cb113": {
+          "title": "NVS Class 9th Online Form 2027 – Extend",
+          "url": "https://www.sarkariexam.com/nvs-class-9th-2026/",
+          "first_seen": "2026-10-01T07:34:15.884833+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7bdf9112641616ab",
+      "last_page_hash": "a3f2052207d3b241",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 811,
-  "total_alerts": 227,
-  "last_new_job_ts": "2026-09-30T13:51:57.948720+00:00",
-  "last_heartbeat_key": "2026-09-28-21"
+  "total_checks": 812,
+  "total_alerts": 228,
+  "last_new_job_ts": "2026-10-01T07:34:16.380952+00:00",
+  "last_heartbeat_key": "2026-10-01-13"
 }
