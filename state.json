@@ -6506,16 +6506,70 @@
           "url": "https://www.sarkariexam.com/nvs-class-9th-2026/",
           "first_seen": "2026-10-01T07:34:15.884833+00:00",
           "eligibility": "unknown"
+        },
+        "335abb414d736a3a": {
+          "title": "Railway RRB ALP CEN 01/2025 CBT-II Result 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-alp-advt-01-2025/",
+          "first_seen": "2026-10-01T14:44:26.822114+00:00",
+          "eligibility": "unknown"
+        },
+        "2aeaf570eb78cf66": {
+          "title": "SSC CHSL 10+2 Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
+          "first_seen": "2026-10-01T14:44:26.822157+00:00",
+          "eligibility": "eligible"
+        },
+        "78a36644de180b79": {
+          "title": "SSC CPO SI CAPF Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-10-01T14:44:26.822163+00:00",
+          "eligibility": "unknown"
+        },
+        "aa7fe69f41ebb0aa": {
+          "title": "Railway RRC NWR Apprentice Online Form 2026 ( 2008 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrc-nwr-apprentice-2026/",
+          "first_seen": "2026-10-01T14:44:26.822186+00:00",
+          "eligibility": "unknown"
+        },
+        "b5cb846fc496aabf": {
+          "title": "DSSSB Delhi District Court Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/dsssb-delhi-district-court-various-post-2026/",
+          "first_seen": "2026-10-01T14:44:26.822190+00:00",
+          "eligibility": "unknown"
+        },
+        "59d52512ae61f2fe": {
+          "title": "Supreme Court SCI Junior Court Assistant Online Form 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-sci-junior-court-assistant-2026/",
+          "first_seen": "2026-10-01T14:44:26.822194+00:00",
+          "eligibility": "unknown"
+        },
+        "f7cc291c5a89c28a": {
+          "title": "UPSSSC Regional Youth Welfare Officer Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-regional-youth-welfare-officer-2026/",
+          "first_seen": "2026-10-01T14:44:26.822197+00:00",
+          "eligibility": "unknown"
+        },
+        "37927dcc57758bed": {
+          "title": "UPSSSC Sports Directorate Online Form 2026",
+          "url": "https://www.sarkariexam.com/upsssc-sports-directorate-2026/",
+          "first_seen": "2026-10-01T14:44:26.822201+00:00",
+          "eligibility": "unknown"
+        },
+        "dac31e33626adf2e": {
+          "title": "Bihar Library Eligibility Test BLET Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
+          "first_seen": "2026-10-01T14:44:26.822205+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a3f2052207d3b241",
+      "last_page_hash": "834218faf20f6b3e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 812,
-  "total_alerts": 228,
-  "last_new_job_ts": "2026-10-01T07:34:16.380952+00:00",
+  "total_checks": 813,
+  "total_alerts": 229,
+  "last_new_job_ts": "2026-10-01T14:44:27.434675+00:00",
   "last_heartbeat_key": "2026-10-01-13"
 }
