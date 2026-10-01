@@ -6560,16 +6560,34 @@
           "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
           "first_seen": "2026-10-01T14:44:26.822205+00:00",
           "eligibility": "unknown"
+        },
+        "fd9861e77a3b729e": {
+          "title": "IBPS Clerk CSA 16th Pre Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-10-01T19:50:45.655146+00:00",
+          "eligibility": "unknown"
+        },
+        "8b40ab3c4e4ee164": {
+          "title": "MPESB Group 3 Sub Engineer & Other Post Online Form 2026 – Re-Open",
+          "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
+          "first_seen": "2026-10-01T19:50:45.655213+00:00",
+          "eligibility": "unknown"
+        },
+        "364defc6446e1d86": {
+          "title": "NBEMS Group A, B & C Various Post Answer Key Notice 2026",
+          "url": "https://www.sarkariexam.com/nbems-group-a-b-c-various-post-2026/",
+          "first_seen": "2026-10-01T19:50:45.655252+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "834218faf20f6b3e",
+      "last_page_hash": "51ba40d2c0b2f3da",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 813,
-  "total_alerts": 229,
-  "last_new_job_ts": "2026-10-01T14:44:27.434675+00:00",
+  "total_checks": 814,
+  "total_alerts": 230,
+  "last_new_job_ts": "2026-10-01T19:50:46.421821+00:00",
   "last_heartbeat_key": "2026-10-01-13"
 }
