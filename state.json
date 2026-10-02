@@ -6578,16 +6578,22 @@
           "url": "https://www.sarkariexam.com/nbems-group-a-b-c-various-post-2026/",
           "first_seen": "2026-10-01T19:50:45.655252+00:00",
           "eligibility": "unknown"
+        },
+        "44961cbe3c58ba89": {
+          "title": "IBPS Clerk CSA 16th Pre Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
+          "first_seen": "2026-10-02T08:56:14.971407+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "51ba40d2c0b2f3da",
+      "last_page_hash": "ca4a978dc83f3fdd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 816,
-  "total_alerts": 230,
-  "last_new_job_ts": "2026-10-01T19:50:46.421821+00:00",
+  "total_checks": 817,
+  "total_alerts": 231,
+  "last_new_job_ts": "2026-10-02T08:56:15.516777+00:00",
   "last_heartbeat_key": "2026-10-01-13"
 }
