@@ -6608,16 +6608,22 @@
           "url": "https://www.sarkariexam.com/up-ghaziabad-ecce-educator-2026/",
           "first_seen": "2026-10-02T15:11:34.066786+00:00",
           "eligibility": "unknown"
+        },
+        "73525fac79b90cd1": {
+          "title": "Railway RRB Section Controller Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-10-02T19:57:40.028804+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2c134dbb95929a69",
+      "last_page_hash": "9691aada7224f623",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 818,
-  "total_alerts": 232,
-  "last_new_job_ts": "2026-10-02T15:11:34.650178+00:00",
+  "total_checks": 819,
+  "total_alerts": 233,
+  "last_new_job_ts": "2026-10-02T19:57:40.591896+00:00",
   "last_heartbeat_key": "2026-10-01-13"
 }
