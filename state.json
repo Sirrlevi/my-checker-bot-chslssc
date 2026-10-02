@@ -6584,16 +6584,40 @@
           "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
           "first_seen": "2026-10-02T08:56:14.971407+00:00",
           "eligibility": "unknown"
+        },
+        "83515305ea34a1fe": {
+          "title": "NBEMS Group A, B & C Various Post Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/nbems-group-a-b-c-various-post-2026/",
+          "first_seen": "2026-10-02T15:11:34.066672+00:00",
+          "eligibility": "unknown"
+        },
+        "994250fd21385045": {
+          "title": "UP Basic Shiksha Vibhag Assistant Accountant Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-basic-shiksha-vibhag-assistant-accountant-2026/",
+          "first_seen": "2026-10-02T15:11:34.066769+00:00",
+          "eligibility": "unknown"
+        },
+        "6cf0dce2c618bc09": {
+          "title": "UP Basic Shiksha Vibhag Computer Operator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-basic-shiksha-vibhag-computer-operator-2026/",
+          "first_seen": "2026-10-02T15:11:34.066780+00:00",
+          "eligibility": "unknown"
+        },
+        "6dc028c3c6c50978": {
+          "title": "UP Ghaziabad ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-ghaziabad-ecce-educator-2026/",
+          "first_seen": "2026-10-02T15:11:34.066786+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ca4a978dc83f3fdd",
+      "last_page_hash": "2c134dbb95929a69",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 817,
-  "total_alerts": 231,
-  "last_new_job_ts": "2026-10-02T08:56:15.516777+00:00",
+  "total_checks": 818,
+  "total_alerts": 232,
+  "last_new_job_ts": "2026-10-02T15:11:34.650178+00:00",
   "last_heartbeat_key": "2026-10-01-13"
 }
