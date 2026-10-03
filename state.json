@@ -6614,16 +6614,28 @@
           "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
           "first_seen": "2026-10-02T19:57:40.028804+00:00",
           "eligibility": "unknown"
+        },
+        "c8121cc7a6b37c1e": {
+          "title": "UP Home Guard Final Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/up-home-guard-2025/",
+          "first_seen": "2026-10-03T17:19:37.751390+00:00",
+          "eligibility": "unknown"
+        },
+        "a3bd6c5054400d9b": {
+          "title": "Railway RRB Technician CEN 02/2026 Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
+          "first_seen": "2026-10-03T17:19:37.751464+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9691aada7224f623",
+      "last_page_hash": "55fe61d9cda6b1ab",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 823,
-  "total_alerts": 233,
-  "last_new_job_ts": "2026-10-02T19:57:40.591896+00:00",
+  "total_checks": 824,
+  "total_alerts": 234,
+  "last_new_job_ts": "2026-10-03T17:19:38.323245+00:00",
   "last_heartbeat_key": "2026-10-03-13"
 }
