@@ -6626,16 +6626,22 @@
           "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
           "first_seen": "2026-10-03T17:19:37.751464+00:00",
           "eligibility": "unknown"
+        },
+        "1d485480bcf39771": {
+          "title": "UP Special TET Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/up-special-tet-2026/",
+          "first_seen": "2026-10-04T07:45:23.803945+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "55fe61d9cda6b1ab",
+      "last_page_hash": "1c399c9cfdb5fa81",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 827,
-  "total_alerts": 234,
-  "last_new_job_ts": "2026-10-03T17:19:38.323245+00:00",
-  "last_heartbeat_key": "2026-10-03-13"
+  "total_checks": 828,
+  "total_alerts": 235,
+  "last_new_job_ts": "2026-10-04T07:45:24.520856+00:00",
+  "last_heartbeat_key": "2026-10-04-13"
 }
