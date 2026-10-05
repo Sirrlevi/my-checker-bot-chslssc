@@ -6632,16 +6632,64 @@
           "url": "https://www.sarkariexam.com/up-special-tet-2026/",
           "first_seen": "2026-10-04T07:45:23.803945+00:00",
           "eligibility": "unknown"
+        },
+        "50ed2aa6f66123d4": {
+          "title": "Bihar BSEB DElEd Private College Merit List 2026",
+          "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
+          "first_seen": "2026-10-05T09:06:17.041597+00:00",
+          "eligibility": "unknown"
+        },
+        "04fb28b5e56ca0e6": {
+          "title": "UPSSSC Forest/ WildLife Guard 2023 PMT Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-guard-2023/",
+          "first_seen": "2026-10-05T09:06:17.041612+00:00",
+          "eligibility": "unknown"
+        },
+        "f337b5fc55a7faa8": {
+          "title": "Delhi High Court Higher Judicial Service HJS Mains Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
+          "first_seen": "2026-10-05T09:06:17.041646+00:00",
+          "eligibility": "unknown"
+        },
+        "18a5727820f4f8ea": {
+          "title": "SSC CHSL 10+2 Online Form 2026 – Reminder",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
+          "first_seen": "2026-10-05T09:06:17.041674+00:00",
+          "eligibility": "eligible"
+        },
+        "0672aefe5a23565e": {
+          "title": "Delhi High Court SPA & PA Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
+          "first_seen": "2026-10-05T09:06:17.041681+00:00",
+          "eligibility": "unknown"
+        },
+        "23c73f5cde9e67fe": {
+          "title": "UPSSSC Senior Instructor Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsssc-senior-instructor-2026/",
+          "first_seen": "2026-10-05T09:06:17.041686+00:00",
+          "eligibility": "unknown"
+        },
+        "32dfb9eb67aae1ee": {
+          "title": "UPSSSC Veterinary Pharmacist Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upsssc-veterinary-pharmacist-2026/",
+          "first_seen": "2026-10-05T09:06:17.041690+00:00",
+          "eligibility": "unknown"
+        },
+        "ec1c0dd2fe8f83f5": {
+          "title": "NTPC Assistant Officer Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/ntpc-assistant-officer-2026/",
+          "first_seen": "2026-10-05T09:06:17.041695+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1c399c9cfdb5fa81",
+      "last_page_hash": "e90cf291b2fab506",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 833,
-  "total_alerts": 235,
-  "last_new_job_ts": "2026-10-04T07:45:24.520856+00:00",
+  "total_checks": 834,
+  "total_alerts": 236,
+  "last_new_job_ts": "2026-10-05T09:06:18.225623+00:00",
   "last_heartbeat_key": "2026-10-04-13"
 }
