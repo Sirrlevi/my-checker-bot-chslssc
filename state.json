@@ -6680,16 +6680,64 @@
           "url": "https://www.sarkariexam.com/ntpc-assistant-officer-2026/",
           "first_seen": "2026-10-05T09:06:17.041695+00:00",
           "eligibility": "unknown"
+        },
+        "41b00c32fa703ee7": {
+          "title": "IB MTS Final Result 2026",
+          "url": "https://www.sarkariexam.com/intelligence-bureau-ib-mts-2026/",
+          "first_seen": "2026-10-05T18:20:16.907176+00:00",
+          "eligibility": "eligible"
+        },
+        "12b70a47baebb4a0": {
+          "title": "Rajasthan State Eligibility Test SET Answer Key 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-2026/",
+          "first_seen": "2026-10-05T18:20:16.907199+00:00",
+          "eligibility": "unknown"
+        },
+        "09715e90ef960798": {
+          "title": "RRB Ministerial & Isolated Category CEN 08/2025 Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-isolated-categories-2026/",
+          "first_seen": "2026-10-05T18:20:16.907204+00:00",
+          "eligibility": "unknown"
+        },
+        "bb1a59af975d701e": {
+          "title": "Railway RRB Technician CEN 02/2026 Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
+          "first_seen": "2026-10-05T18:20:16.907229+00:00",
+          "eligibility": "unknown"
+        },
+        "3c4cd25a330df345": {
+          "title": "Delhi High Court Higher Judicial Service HJS Mains Admit Card 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
+          "first_seen": "2026-10-05T18:20:16.907234+00:00",
+          "eligibility": "unknown"
+        },
+        "6d8a4ac7f6d627b3": {
+          "title": "IOCL Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/iocl-apprentice-2026/",
+          "first_seen": "2026-10-05T18:20:16.907264+00:00",
+          "eligibility": "unknown"
+        },
+        "ff1c594500ff440d": {
+          "title": "Uttarakhand TET UTET Answer Key 2026",
+          "url": "https://www.sarkariexam.com/uttarakhand-tet-utet-2026/",
+          "first_seen": "2026-10-05T18:20:16.907278+00:00",
+          "eligibility": "unknown"
+        },
+        "c60230e281301b8e": {
+          "title": "CSJMU Kanpur Teaching Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/csjmu-kanpur-teaching-post-2026/",
+          "first_seen": "2026-10-05T18:20:16.907322+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e90cf291b2fab506",
+      "last_page_hash": "dc23c2800d09824e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 834,
-  "total_alerts": 236,
-  "last_new_job_ts": "2026-10-05T09:06:18.225623+00:00",
+  "total_checks": 835,
+  "total_alerts": 237,
+  "last_new_job_ts": "2026-10-05T18:20:17.549772+00:00",
   "last_heartbeat_key": "2026-10-04-13"
 }
