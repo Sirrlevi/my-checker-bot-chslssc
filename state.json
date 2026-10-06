@@ -6734,16 +6734,34 @@
           "url": "https://www.sarkariexam.com/upsc-engineering-services-pre-2027/",
           "first_seen": "2026-10-06T06:13:12.511609+00:00",
           "eligibility": "unknown"
+        },
+        "d08baef2b66b24fe": {
+          "title": "MP High Court Stenographer Gr-II, III & AG Gr-III Online Form 2026",
+          "url": "https://www.sarkariexam.com/stenographer-gr-ii-iii-ag-gr-iii-2026/",
+          "first_seen": "2026-10-06T13:20:00.302863+00:00",
+          "eligibility": "eligible"
+        },
+        "1b8ec6ae9054928c": {
+          "title": "Indian Coast Guard CGEPT 01/2027 & 02/2027 Online Form",
+          "url": "https://www.sarkariexam.com/indian-coast-guard-cgept-01-2027-02-2027/",
+          "first_seen": "2026-10-06T13:20:00.302884+00:00",
+          "eligibility": "unknown"
+        },
+        "bf93e3178a39de7c": {
+          "title": "IBPS RRB XV 15th Scale-I, II, III Correction Form 2026",
+          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
+          "first_seen": "2026-10-06T13:20:00.302894+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "211c73db3356a954",
+      "last_page_hash": "9734cd1ec2638587",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 837,
-  "total_alerts": 238,
-  "last_new_job_ts": "2026-10-06T06:13:13.254373+00:00",
+  "total_checks": 838,
+  "total_alerts": 239,
+  "last_new_job_ts": "2026-10-06T13:20:00.868926+00:00",
   "last_heartbeat_key": "2026-10-04-13"
 }
