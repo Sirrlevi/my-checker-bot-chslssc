@@ -6752,16 +6752,34 @@
           "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
           "first_seen": "2026-10-06T13:20:00.302894+00:00",
           "eligibility": "unknown"
+        },
+        "1559f9aed7aab67a": {
+          "title": "MPESB Forest Guard & Jail Prahari PET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/mpesb-forest-guard-jail-prahari-2026/",
+          "first_seen": "2026-10-06T18:56:43.330593+00:00",
+          "eligibility": "unknown"
+        },
+        "8fb9fa1ff1260a82": {
+          "title": "Indian Army 10+2 TES 57th Entry Online Form 2026",
+          "url": "https://www.sarkariexam.com/indian-army-102-tes-57th-entry-2026/",
+          "first_seen": "2026-10-06T18:56:43.330622+00:00",
+          "eligibility": "eligible"
+        },
+        "2850b140ac2b38a2": {
+          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Answer Key 2026",
+          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
+          "first_seen": "2026-10-06T18:56:43.330652+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9734cd1ec2638587",
+      "last_page_hash": "e7c55eebdcc40eea",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 838,
-  "total_alerts": 239,
-  "last_new_job_ts": "2026-10-06T13:20:00.868926+00:00",
+  "total_checks": 839,
+  "total_alerts": 240,
+  "last_new_job_ts": "2026-10-06T18:56:44.146247+00:00",
   "last_heartbeat_key": "2026-10-04-13"
 }
