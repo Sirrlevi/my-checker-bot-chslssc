@@ -6728,16 +6728,22 @@
           "url": "https://www.sarkariexam.com/csjmu-kanpur-teaching-post-2026/",
           "first_seen": "2026-10-05T18:20:16.907322+00:00",
           "eligibility": "unknown"
+        },
+        "c94a9c3b049ec11c": {
+          "title": "UPSC Engineering Services Pre Online Form 2027 – Last Date",
+          "url": "https://www.sarkariexam.com/upsc-engineering-services-pre-2027/",
+          "first_seen": "2026-10-06T06:13:12.511609+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "dc23c2800d09824e",
+      "last_page_hash": "211c73db3356a954",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 836,
-  "total_alerts": 237,
-  "last_new_job_ts": "2026-10-05T18:20:17.549772+00:00",
+  "total_checks": 837,
+  "total_alerts": 238,
+  "last_new_job_ts": "2026-10-06T06:13:13.254373+00:00",
   "last_heartbeat_key": "2026-10-04-13"
 }
