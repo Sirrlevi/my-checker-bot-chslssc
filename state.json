@@ -6782,16 +6782,46 @@
           "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
           "first_seen": "2026-10-07T07:50:17.336916+00:00",
           "eligibility": "eligible"
+        },
+        "0864c35bb041fd04": {
+          "title": "SSC MTS Final Result 2026",
+          "url": "https://www.sarkariexam.com/ssc-mts-havaldar-2026/",
+          "first_seen": "2026-10-07T14:47:03.670170+00:00",
+          "eligibility": "eligible"
+        },
+        "168b34b333aeeb0c": {
+          "title": "SAV Bihar Class 6 Pre Admit Card Date 2027-28",
+          "url": "https://www.sarkariexam.com/sav-bihar-class-6-admission-2027-28/",
+          "first_seen": "2026-10-07T14:47:03.670206+00:00",
+          "eligibility": "unknown"
+        },
+        "b62f7b5f19bfbb10": {
+          "title": "UP Shahjahanpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-shahjahanpur-ecce-educator-2026/",
+          "first_seen": "2026-10-07T14:47:03.670351+00:00",
+          "eligibility": "unknown"
+        },
+        "61286e399f1970fa": {
+          "title": "UP Ayodhya ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-ayodhya-ecce-educator-2026/",
+          "first_seen": "2026-10-07T14:47:03.670361+00:00",
+          "eligibility": "unknown"
+        },
+        "efcc0eefe1995f33": {
+          "title": "UP Mathura ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-ayodhya-ecce-educator-2026-2/",
+          "first_seen": "2026-10-07T14:47:03.670368+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8357ef42c08d7b89",
+      "last_page_hash": "3ab4858eae92b0e7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 842,
-  "total_alerts": 241,
-  "last_new_job_ts": "2026-10-07T07:50:18.035352+00:00",
+  "total_checks": 843,
+  "total_alerts": 242,
+  "last_new_job_ts": "2026-10-07T14:47:04.257219+00:00",
   "last_heartbeat_key": "2026-10-07-13"
 }
