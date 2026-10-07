@@ -6812,16 +6812,28 @@
           "url": "https://www.sarkariexam.com/up-ayodhya-ecce-educator-2026-2/",
           "first_seen": "2026-10-07T14:47:03.670368+00:00",
           "eligibility": "unknown"
+        },
+        "7269dd5ed9b8bc89": {
+          "title": "SSC Stenographer Group C, D 2025 Marks",
+          "url": "https://www.sarkariexam.com/ssc-stenographer-2025/",
+          "first_seen": "2026-10-07T20:12:10.065150+00:00",
+          "eligibility": "eligible"
+        },
+        "465088046f66885a": {
+          "title": "SSC 10+2 CHSL Final Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2025/",
+          "first_seen": "2026-10-07T20:12:10.065168+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "3ab4858eae92b0e7",
+      "last_page_hash": "e8bc77470361e715",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 843,
-  "total_alerts": 242,
-  "last_new_job_ts": "2026-10-07T14:47:04.257219+00:00",
+  "total_checks": 844,
+  "total_alerts": 243,
+  "last_new_job_ts": "2026-10-07T20:12:10.731794+00:00",
   "last_heartbeat_key": "2026-10-07-13"
 }
