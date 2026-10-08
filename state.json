@@ -3249,6 +3249,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "dba405f347436daa": {
+          "title": "Railway RRB Section Controller Admit Card 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-10-08T19:18:43.361335+00:00",
+          "eligibility": "unknown"
+        },
+        "8a9c400d26ba6771": {
+          "title": "Top Online Form",
+          "url": "https://www.sarkariexam.com/category/top-online-form/",
+          "first_seen": "2026-10-08T19:18:43.361256+00:00",
+          "eligibility": "unknown"
+        },
         "8e71782de34078fc": {
           "title": "NTA CSIR UGC NET December Online Form 2026",
           "url": "https://www.sarkariexam.com/nta-csir-ugc-net-december-2026/",
@@ -6836,28 +6848,16 @@
           "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
           "first_seen": "2026-08-13T10:07:00.432345+00:00",
           "eligibility": "eligible"
-        },
-        "761b89812425dcdc": {
-          "title": "Railway RRB Technician Grade I & III Online Form 2026 (6565 Posts) – Apply Here",
-          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
-          "first_seen": "2026-08-13T10:07:00.432340+00:00",
-          "eligibility": "unknown"
-        },
-        "794db45468aa22c3": {
-          "title": "Sarkari Result",
-          "url": "https://sarkariresult.com.cm/",
-          "first_seen": "2026-08-13T10:07:00.432330+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ba11dbaa8da3ede9",
+      "last_page_hash": "ddca0735ec24f323",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 847,
-  "total_alerts": 244,
-  "last_new_job_ts": "2026-10-08T13:19:11.216328+00:00",
+  "total_checks": 848,
+  "total_alerts": 245,
+  "last_new_job_ts": "2026-10-08T19:18:43.896923+00:00",
   "last_heartbeat_key": "2026-10-07-13"
 }
