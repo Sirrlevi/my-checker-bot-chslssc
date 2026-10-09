@@ -3249,6 +3249,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "870a9b526ab16897": {
+          "title": "NTA UGC NET JRF December Online Form 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
+          "first_seen": "2026-10-09T17:05:38.576150+00:00",
+          "eligibility": "unknown"
+        },
+        "6c60d256738acba7": {
+          "title": "NTA SWAYAM July Online Form 2026",
+          "url": "https://www.sarkariexam.com/nta-swayam-2026-2/",
+          "first_seen": "2026-10-09T17:05:38.576140+00:00",
+          "eligibility": "unknown"
+        },
+        "6741890cb83024dc": {
+          "title": "SSC Selection Post Phase-XIV Answer Key 2026",
+          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
+          "first_seen": "2026-10-09T17:05:38.576006+00:00",
+          "eligibility": "unknown"
+        },
+        "aae602068dbec694": {
+          "title": "UPSC NDA/ NA-II Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
+          "first_seen": "2026-10-09T17:05:38.575992+00:00",
+          "eligibility": "unknown"
+        },
         "e8d0cc5f7d389b24": {
           "title": "MP High Court Assistant Grade III Exam Date 2026",
           "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-2026/",
@@ -6824,40 +6848,16 @@
           "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
           "first_seen": "2026-08-13T10:07:00.432381+00:00",
           "eligibility": "unknown"
-        },
-        "c4137aa964877bd8": {
-          "title": "UPSC CAPF AC Final Result / Marks 2026",
-          "url": "https://www.sarkariexam.com/upsc-capf-ac-2025/",
-          "first_seen": "2026-08-13T10:07:00.432376+00:00",
-          "eligibility": "unknown"
-        },
-        "9e2d01a954d5be95": {
-          "title": "UPSSSC Assistant Accountant 2024 Final Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-assistant-accountant-mains-result-2025/",
-          "first_seen": "2026-08-13T10:07:00.432372+00:00",
-          "eligibility": "unknown"
-        },
-        "46802c2752622d54": {
-          "title": "RSSB Aayush Officer Final Result 2026",
-          "url": "https://www.sarkariexam.com/rssb-aayush-officer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432367+00:00",
-          "eligibility": "unknown"
-        },
-        "d84b10005f356dac": {
-          "title": "RSSB Junior Technical Assistant JTA Final Result 2026",
-          "url": "https://www.sarkariexam.com/rssb-junior-technical-assistant-jta-result-2025/",
-          "first_seen": "2026-08-13T10:07:00.432362+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a00458fadf036e7f",
+      "last_page_hash": "791d7efcf0bb9666",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 851,
-  "total_alerts": 246,
-  "last_new_job_ts": "2026-10-09T10:24:03.807654+00:00",
+  "total_checks": 852,
+  "total_alerts": 247,
+  "last_new_job_ts": "2026-10-09T17:05:39.148734+00:00",
   "last_heartbeat_key": "2026-10-07-13"
 }
