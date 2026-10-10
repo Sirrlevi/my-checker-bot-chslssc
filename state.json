@@ -3249,6 +3249,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "85d9b278099dd91f": {
+          "title": "DSSSB Sweeper & Chowkidar Online Form 2026",
+          "url": "https://www.sarkariexam.com/dsssb-sweeper-chowkidar-2026/",
+          "first_seen": "2026-10-10T13:36:08.780661+00:00",
+          "eligibility": "eligible"
+        },
+        "1ddff703e23e39e5": {
+          "title": "AIIMS NORCET 11th Stage-II Result 2026",
+          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
+          "first_seen": "2026-10-10T13:36:08.780540+00:00",
+          "eligibility": "unknown"
+        },
         "870a9b526ab16897": {
           "title": "NTA UGC NET JRF December Online Form 2026",
           "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
@@ -6836,28 +6848,16 @@
           "url": "https://www.sarkariexam.com/hpsc-pgt-computer-science-2026/",
           "first_seen": "2026-08-13T10:07:00.432392+00:00",
           "eligibility": "unknown"
-        },
-        "6b9ce3bdd33f4448": {
-          "title": "CBSE Board Class 12th Compartment Result 2026",
-          "url": "https://www.sarkariexam.com/cbse-board-class-10th-supplementary-result-2025/",
-          "first_seen": "2026-08-13T10:07:00.432387+00:00",
-          "eligibility": "eligible"
-        },
-        "b035e5f4bf1f7a33": {
-          "title": "Bihar Vidhan Parishad PA / LDC Pre Result 2026",
-          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-pa-deo-ldc-stenographer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432381+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "791d7efcf0bb9666",
+      "last_page_hash": "b135249f4700c2fa",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 855,
-  "total_alerts": 247,
-  "last_new_job_ts": "2026-10-09T17:05:39.148734+00:00",
+  "total_checks": 856,
+  "total_alerts": 248,
+  "last_new_job_ts": "2026-10-10T13:36:09.405710+00:00",
   "last_heartbeat_key": "2026-10-07-13"
 }
