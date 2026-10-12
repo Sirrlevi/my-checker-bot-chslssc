@@ -3249,6 +3249,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "c889d4cd7aca4355": {
+          "title": "Indian Overseas Bank Security Guard Admit Card 2026",
+          "url": "https://www.sarkariexam.com/indian-overseas-bank-security-guard-2026/",
+          "first_seen": "2026-10-12T19:59:20.417996+00:00",
+          "eligibility": "unknown"
+        },
+        "6517f5653daa352e": {
+          "title": "Rajasthan High Court Stenographer Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-high-court-stenographer-2026/",
+          "first_seen": "2026-10-12T19:59:20.417989+00:00",
+          "eligibility": "eligible"
+        },
+        "994a10acba381372": {
+          "title": "UPSSSC PET Exam City Details 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-10-12T19:59:20.417978+00:00",
+          "eligibility": "unknown"
+        },
+        "f13173c62fa1b8b0": {
+          "title": "UPSSSC Moharir 2022 Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-moharir-recruitment/",
+          "first_seen": "2026-10-12T19:59:20.417937+00:00",
+          "eligibility": "unknown"
+        },
+        "006c9e90a8523547": {
+          "title": "UPSSSC Cane Supervisor Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-cane-supervisor-2026/",
+          "first_seen": "2026-10-12T19:59:20.417931+00:00",
+          "eligibility": "unknown"
+        },
+        "82e1febedb9c4d40": {
+          "title": "India Post Office GDS 1st Merit List 2026 – Out",
+          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
+          "first_seen": "2026-10-12T19:59:20.417923+00:00",
+          "eligibility": "eligible"
+        },
+        "1a0f0dd083e7fb0d": {
+          "title": "SSC GD Constable Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssc-gd-constable-2025/",
+          "first_seen": "2026-10-12T19:59:20.417901+00:00",
+          "eligibility": "eligible"
+        },
         "85d9b278099dd91f": {
           "title": "DSSSB Sweeper & Chowkidar Online Form 2026",
           "url": "https://www.sarkariexam.com/dsssb-sweeper-chowkidar-2026/",
@@ -6806,58 +6848,16 @@
           "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-2023/",
           "first_seen": "2026-08-13T10:07:00.432424+00:00",
           "eligibility": "unknown"
-        },
-        "0ce6a9d2c4ec68a6": {
-          "title": "Bihar CET B.Ed 5th Round Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/bihar-cet-b-ed-2026/",
-          "first_seen": "2026-08-13T10:07:00.432421+00:00",
-          "eligibility": "unknown"
-        },
-        "2b091cae198eaa03": {
-          "title": "UP DELEd 2026 Online Counselling / Rank Card",
-          "url": "https://www.sarkariexam.com/up-deled-admission-2026/",
-          "first_seen": "2026-08-13T10:07:00.432418+00:00",
-          "eligibility": "unknown"
-        },
-        "f87ddbd867728903": {
-          "title": "BCECE Admission 2nd Round Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/bcece-admission-2026/",
-          "first_seen": "2026-08-13T10:07:00.432415+00:00",
-          "eligibility": "unknown"
-        },
-        "d892c08d939d1a7d": {
-          "title": "AFCAT 02/2026 Answer Key – Out",
-          "url": "https://www.sarkariexam.com/afcat-02-2026/",
-          "first_seen": "2026-08-13T10:07:00.432411+00:00",
-          "eligibility": "unknown"
-        },
-        "adb262924557b2fb": {
-          "title": "Bihar DCECE Polytechnic PM/PMM 1st Round Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/dcece-bihar-polytechnic-2026/",
-          "first_seen": "2026-08-13T10:07:00.432404+00:00",
-          "eligibility": "unknown"
-        },
-        "f0ddc022e2f71789": {
-          "title": "AIIMS CRE 5th Group B & C Result 2026 – Out",
-          "url": "https://www.sarkariexam.com/aiims-cre-group-b-c-2026/",
-          "first_seen": "2026-08-13T10:07:00.432399+00:00",
-          "eligibility": "unknown"
-        },
-        "5e9f5f9628e3b5ab": {
-          "title": "HPSC PGT Computer Science Final Result 2026",
-          "url": "https://www.sarkariexam.com/hpsc-pgt-computer-science-2026/",
-          "first_seen": "2026-08-13T10:07:00.432392+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e05ecd473ee27a46",
+      "last_page_hash": "37e7966cc80fa310",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 866,
-  "total_alerts": 248,
-  "last_new_job_ts": "2026-10-10T13:36:09.405710+00:00",
+  "total_checks": 867,
+  "total_alerts": 249,
+  "last_new_job_ts": "2026-10-12T19:59:20.928997+00:00",
   "last_heartbeat_key": "2026-10-11-17"
 }
