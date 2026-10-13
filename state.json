@@ -3249,6 +3249,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "b64258b23644947b": {
+          "title": "Supreme Court SPA Online Form 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-spa-2026/",
+          "first_seen": "2026-10-13T16:22:36.386377+00:00",
+          "eligibility": "unknown"
+        },
+        "a6981439845c0fa4": {
+          "title": "Supreme Court SCI Court Assistant Online Form 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-sci-court-assistant-2026/",
+          "first_seen": "2026-10-13T16:22:36.386360+00:00",
+          "eligibility": "unknown"
+        },
+        "c05eac0768f997d1": {
+          "title": "WCL Mining Sirdar, Assistant Foreman Admit Card 2026",
+          "url": "https://www.sarkariexam.com/wcl-mining-sirdar-assistant-foreman-2026/",
+          "first_seen": "2026-10-13T16:22:36.386327+00:00",
+          "eligibility": "unknown"
+        },
+        "d5ddae6fd282c8d1": {
+          "title": "UPESSC Principal Result 2026",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-2026/",
+          "first_seen": "2026-10-13T16:22:36.386284+00:00",
+          "eligibility": "unknown"
+        },
+        "4e57c8f5ab7fb02a": {
+          "title": "UPSC CPF Assistant Commandant 2024 Reserve List & Marks",
+          "url": "https://www.sarkariexam.com/upsc-cpf-assistant-commandant-2024/",
+          "first_seen": "2026-10-13T16:22:36.386271+00:00",
+          "eligibility": "unknown"
+        },
+        "dd75056e9997ee15": {
+          "title": "UPSC NDA/ NA-II Result 2026 (Name Wise)",
+          "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
+          "first_seen": "2026-10-13T16:22:36.386265+00:00",
+          "eligibility": "unknown"
+        },
+        "11dbbc9060ac6f5b": {
+          "title": "DSSSB Assistant Teacher (Primary) Result 2026",
+          "url": "https://www.sarkariexam.com/dsssb-assistant-teacher-primary-2025/",
+          "first_seen": "2026-10-13T16:22:36.386249+00:00",
+          "eligibility": "unknown"
+        },
         "d27e5932217c10d4": {
           "title": "UP Board Class 10th & 12th Time-Table 2027",
           "url": "https://www.sarkariexam.com/up-board-class-10th-12th-time-table-2027/",
@@ -6806,58 +6848,16 @@
           "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
           "first_seen": "2026-08-13T10:07:00.432451+00:00",
           "eligibility": "eligible"
-        },
-        "b1fb5d57c262ae8b": {
-          "title": "NEET PG Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/neet-pg-2026/",
-          "first_seen": "2026-08-13T10:07:00.432447+00:00",
-          "eligibility": "unknown"
-        },
-        "49164c7b33c360ca": {
-          "title": "BSNL JTO Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
-          "first_seen": "2026-08-13T10:07:00.432443+00:00",
-          "eligibility": "unknown"
-        },
-        "335518d7f2e0f9a1": {
-          "title": "RSSB Computer Instructor Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
-          "first_seen": "2026-08-13T10:07:00.432440+00:00",
-          "eligibility": "unknown"
-        },
-        "27c526438d32241b": {
-          "title": "SSC Stenographer Grade C & D Exam Date 2026",
-          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
-          "first_seen": "2026-08-13T10:07:00.432437+00:00",
-          "eligibility": "eligible"
-        },
-        "61845a7e4f4c89ac": {
-          "title": "SSC JHT Exam Date 2026",
-          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
-          "first_seen": "2026-08-13T10:07:00.432434+00:00",
-          "eligibility": "unknown"
-        },
-        "48a56b69ba3783f0": {
-          "title": "UPSC NDA/ NA-II Exam Date 2026",
-          "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
-          "first_seen": "2026-08-13T10:07:00.432431+00:00",
-          "eligibility": "unknown"
-        },
-        "8a1170c8506a14fa": {
-          "title": "UPSC CDS-II Exam Date 2026",
-          "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
-          "first_seen": "2026-08-13T10:07:00.432428+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ed2d9b6d7f6e5eed",
+      "last_page_hash": "b2b393d06ac823eb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 869,
-  "total_alerts": 250,
-  "last_new_job_ts": "2026-10-13T08:31:54.163237+00:00",
-  "last_heartbeat_key": "2026-10-11-17"
+  "total_checks": 870,
+  "total_alerts": 251,
+  "last_new_job_ts": "2026-10-13T16:22:36.918700+00:00",
+  "last_heartbeat_key": "2026-10-13-21"
 }
