@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "d27e5932217c10d4": {
+          "title": "UP Board Class 10th & 12th Time-Table 2027",
+          "url": "https://www.sarkariexam.com/up-board-class-10th-12th-time-table-2027/",
+          "first_seen": "2026-10-13T08:31:53.655010+00:00",
+          "eligibility": "unknown"
+        },
         "c889d4cd7aca4355": {
           "title": "Indian Overseas Bank Security Guard Admit Card 2026",
           "url": "https://www.sarkariexam.com/indian-overseas-bank-security-guard-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
           "first_seen": "2026-08-13T10:07:00.432428+00:00",
           "eligibility": "unknown"
-        },
-        "70121e93764c66b7": {
-          "title": "Bihar Vidhan Parishad Security Guard 03/2023 Final Result",
-          "url": "https://www.sarkariexam.com/bihar-vidhan-parishad-2023/",
-          "first_seen": "2026-08-13T10:07:00.432424+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "37e7966cc80fa310",
+      "last_page_hash": "ed2d9b6d7f6e5eed",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 868,
-  "total_alerts": 249,
-  "last_new_job_ts": "2026-10-12T19:59:20.928997+00:00",
+  "total_checks": 869,
+  "total_alerts": 250,
+  "last_new_job_ts": "2026-10-13T08:31:54.163237+00:00",
   "last_heartbeat_key": "2026-10-11-17"
 }
