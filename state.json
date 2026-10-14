@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "6d3e2a9ccb0465bf": {
+          "title": "Railway RRB Paramedical CEN 05/2026 Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
+          "first_seen": "2026-10-14T05:06:54.121488+00:00",
+          "eligibility": "unknown"
+        },
         "b64258b23644947b": {
           "title": "Supreme Court SPA Online Form 2026",
           "url": "https://www.sarkariexam.com/supreme-court-spa-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
           "first_seen": "2026-08-13T10:07:00.432455+00:00",
           "eligibility": "unknown"
-        },
-        "3740aa33d1053447": {
-          "title": "Railway RRB Group D Exam City / Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
-          "first_seen": "2026-08-13T10:07:00.432451+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "4b1b403787041ddf",
+      "last_page_hash": "98d4b75a14fde300",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 872,
-  "total_alerts": 251,
-  "last_new_job_ts": "2026-10-13T16:22:36.918700+00:00",
+  "total_checks": 873,
+  "total_alerts": 252,
+  "last_new_job_ts": "2026-10-14T05:06:54.745894+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
