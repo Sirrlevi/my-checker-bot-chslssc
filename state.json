@@ -3249,6 +3249,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "84e9a313e12f3433": {
+          "title": "UCO Bank Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/uco-bank-apprentice-2026/",
+          "first_seen": "2026-10-14T10:05:14.552933+00:00",
+          "eligibility": "unknown"
+        },
+        "85580b5faf0fc769": {
+          "title": "AAI Junior Executive & Manager Admit Card 2026",
+          "url": "https://www.sarkariexam.com/aai-junior-executive-manager-2026/",
+          "first_seen": "2026-10-14T10:05:14.552912+00:00",
+          "eligibility": "unknown"
+        },
+        "1b5c178a7817be52": {
+          "title": "RRB ALP CEN 01/2026 Revised Application Status 2026",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-10-14T10:05:14.552906+00:00",
+          "eligibility": "unknown"
+        },
+        "10d53a2b39dd778b": {
+          "title": "SSB Head Constable Ministerial Result 2026",
+          "url": "https://www.sarkariexam.com/ssb-head-constable-ministerial-2021/",
+          "first_seen": "2026-10-14T10:05:14.552870+00:00",
+          "eligibility": "unknown"
+        },
         "6d3e2a9ccb0465bf": {
           "title": "Railway RRB Paramedical CEN 05/2026 Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
@@ -6824,40 +6848,16 @@
           "url": "https://www.sarkariexam.com/ssb-head-constable-medical-cader-2026/",
           "first_seen": "2026-08-13T10:07:00.432472+00:00",
           "eligibility": "unknown"
-        },
-        "29b56c7cb2335df3": {
-          "title": "SSB Head Constable (Non-GD) PET PST Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ssb-head-constable-non-gd-2026/",
-          "first_seen": "2026-08-13T10:07:00.432466+00:00",
-          "eligibility": "unknown"
-        },
-        "1788a2d8bc9cc977": {
-          "title": "SSB Constable Tradesman PET PST Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ssb-constable-tradesman-2026/",
-          "first_seen": "2026-08-13T10:07:00.432462+00:00",
-          "eligibility": "eligible"
-        },
-        "7d652388c7f735d2": {
-          "title": "SSC Delhi Police Constable Executive PE & MT Admit Card 2026",
-          "url": "https://www.sarkariexam.com/ssc-delhi-police-constable-executive-2026/",
-          "first_seen": "2026-08-13T10:07:00.432458+00:00",
-          "eligibility": "eligible"
-        },
-        "f737c0a1286275f6": {
-          "title": "IBPS CRP PO/ MT 16th PET Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
-          "first_seen": "2026-08-13T10:07:00.432455+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "98d4b75a14fde300",
+      "last_page_hash": "7e12931585b68252",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 873,
-  "total_alerts": 252,
-  "last_new_job_ts": "2026-10-14T05:06:54.745894+00:00",
+  "total_checks": 874,
+  "total_alerts": 253,
+  "last_new_job_ts": "2026-10-14T10:05:15.214195+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
