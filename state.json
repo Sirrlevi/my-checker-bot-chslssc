@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "67bef75e14fe62a8": {
+          "title": "Railway RRB Technician CEN 02/2026 Answer Key 2026",
+          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
+          "first_seen": "2026-10-15T09:47:42.945138+00:00",
+          "eligibility": "unknown"
+        },
         "6887fd1bf47c6bd6": {
           "title": "UPESSC PRT Assistant Teacher Online Form 2026 (12405 Posts) – Last Date",
           "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/ssb-si-non-gd-2026/",
           "first_seen": "2026-08-13T10:07:00.432489+00:00",
           "eligibility": "unknown"
-        },
-        "b7203f29f819dd5c": {
-          "title": "SSB ASI Non-GD PET PST Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ssb-si-asi-non-gd-2026/",
-          "first_seen": "2026-08-13T10:07:00.432482+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4343cea6c996ccd4",
+      "last_page_hash": "6b56518f44ad5800",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 879,
-  "total_alerts": 254,
-  "last_new_job_ts": "2026-10-15T05:05:50.123482+00:00",
+  "total_checks": 880,
+  "total_alerts": 255,
+  "last_new_job_ts": "2026-10-15T09:47:43.572438+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
