@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "6887fd1bf47c6bd6": {
+          "title": "UPESSC PRT Assistant Teacher Online Form 2026 (12405 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-10-15T05:05:49.449870+00:00",
+          "eligibility": "unknown"
+        },
         "84e9a313e12f3433": {
           "title": "UCO Bank Apprentice Online Form 2026",
           "url": "https://www.sarkariexam.com/uco-bank-apprentice-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/ssb-si-asi-non-gd-2026/",
           "first_seen": "2026-08-13T10:07:00.432482+00:00",
           "eligibility": "unknown"
-        },
-        "1f45a6ac9fb836e1": {
-          "title": "SSB Head Constable (Medical Cader) PET PST Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ssb-head-constable-medical-cader-2026/",
-          "first_seen": "2026-08-13T10:07:00.432472+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3badaaf5fdf2450d",
+      "last_page_hash": "4343cea6c996ccd4",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 878,
-  "total_alerts": 253,
-  "last_new_job_ts": "2026-10-14T10:05:15.214195+00:00",
+  "total_checks": 879,
+  "total_alerts": 254,
+  "last_new_job_ts": "2026-10-15T05:05:50.123482+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
