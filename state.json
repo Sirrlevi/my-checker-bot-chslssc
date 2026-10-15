@@ -3249,6 +3249,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "f848bb50b7dd701a": {
+          "title": "Railway RRB Section Controller Answer Key Notice 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-10-15T14:26:23.690553+00:00",
+          "eligibility": "unknown"
+        },
+        "52c4d8ee515b31dd": {
+          "title": "UPESSC PRT Assistant Teacher Online Form 2026 (12405 Posts) – Extend",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-10-15T14:26:23.690520+00:00",
+          "eligibility": "unknown"
+        },
+        "d616914c076e988a": {
+          "title": "Jharkhand Teacher Eligibility Test JHTET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
+          "first_seen": "2026-10-15T14:26:23.690502+00:00",
+          "eligibility": "unknown"
+        },
+        "619a967d9ad1c38e": {
+          "title": "UPSC IES/ ISS Interview Date 2026",
+          "url": "https://www.sarkariexam.com/upsc-ies-iss-2026/",
+          "first_seen": "2026-10-15T14:26:23.690482+00:00",
+          "eligibility": "unknown"
+        },
         "67bef75e14fe62a8": {
           "title": "Railway RRB Technician CEN 02/2026 Answer Key 2026",
           "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
@@ -6824,40 +6848,16 @@
           "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
           "first_seen": "2026-08-13T10:07:00.432513+00:00",
           "eligibility": "eligible"
-        },
-        "c6f49ce26860259f": {
-          "title": "AIIMS NORCET 11th Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
-          "first_seen": "2026-08-13T10:07:00.432505+00:00",
-          "eligibility": "unknown"
-        },
-        "a60e87812981551b": {
-          "title": "Bihar STET Online Form 2026",
-          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
-          "first_seen": "2026-08-13T10:07:00.432499+00:00",
-          "eligibility": "unknown"
-        },
-        "e357b9e37bf532a0": {
-          "title": "Bank of India Credit Officer Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/bank-of-india-credit-officer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432495+00:00",
-          "eligibility": "unknown"
-        },
-        "c97b8b2301c1a011": {
-          "title": "SSB SI (Non-GD) PET PST Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ssb-si-non-gd-2026/",
-          "first_seen": "2026-08-13T10:07:00.432489+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6b56518f44ad5800",
+      "last_page_hash": "3eead0a7b8520648",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 880,
-  "total_alerts": 255,
-  "last_new_job_ts": "2026-10-15T09:47:43.572438+00:00",
+  "total_checks": 881,
+  "total_alerts": 256,
+  "last_new_job_ts": "2026-10-15T14:26:24.430503+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
