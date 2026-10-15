@@ -3249,6 +3249,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "28d2ba4d2d35b994": {
+          "title": "Railway RRB Section Controller Answer Key 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-10-15T18:26:28.975413+00:00",
+          "eligibility": "unknown"
+        },
+        "55d89150c7272949": {
+          "title": "Supreme Court Junior Court Attendant Online Form 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-junior-court-attendant-2026/",
+          "first_seen": "2026-10-15T18:26:28.975390+00:00",
+          "eligibility": "unknown"
+        },
+        "446fb705444d8012": {
+          "title": "UIICL Administrative Officers AO Phase-I Admit Card 2026",
+          "url": "https://www.sarkariexam.com/uiic-ao-2026/",
+          "first_seen": "2026-10-15T18:26:28.975369+00:00",
+          "eligibility": "unknown"
+        },
+        "cfb06de2888ba236": {
+          "title": "RBI Officer Grade B Final Result 2026",
+          "url": "https://www.sarkariexam.com/rbi-grade-b-2026/",
+          "first_seen": "2026-10-15T18:26:28.975327+00:00",
+          "eligibility": "unknown"
+        },
         "f848bb50b7dd701a": {
           "title": "Railway RRB Section Controller Answer Key Notice 2026",
           "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
@@ -6824,40 +6848,16 @@
           "url": "https://www.sarkariexam.com/upsssc-livestock-extension-officer-2026/",
           "first_seen": "2026-08-13T10:07:00.432527+00:00",
           "eligibility": "unknown"
-        },
-        "f28f3e997ee1a2d9": {
-          "title": "Railway ICF Trade Apprentice Online Form 2026",
-          "url": "https://www.sarkariexam.com/railway-icf-trade-apprentice-2026/",
-          "first_seen": "2026-08-13T10:07:00.432523+00:00",
-          "eligibility": "unknown"
-        },
-        "ba1c6367bbe2e804": {
-          "title": "GIMS Noida Staff Nurse Online Form 2026",
-          "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
-          "first_seen": "2026-08-13T10:07:00.432520+00:00",
-          "eligibility": "unknown"
-        },
-        "b6a18d20d83c4f00": {
-          "title": "SBI Junior Associates Clerk Online Form 2026 (9124 Posts)",
-          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
-          "first_seen": "2026-08-13T10:07:00.432517+00:00",
-          "eligibility": "unknown"
-        },
-        "af90b861d9e53006": {
-          "title": "ISRO Assistant, UDC, JPA, Stenographer Online Form 2026 – Extended",
-          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432513+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "3eead0a7b8520648",
+      "last_page_hash": "2d53deeab7ee74e7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 881,
-  "total_alerts": 256,
-  "last_new_job_ts": "2026-10-15T14:26:24.430503+00:00",
+  "total_checks": 882,
+  "total_alerts": 257,
+  "last_new_job_ts": "2026-10-15T18:26:29.487001+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
