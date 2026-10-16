@@ -3249,6 +3249,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "511baad5e10cb554": {
+          "title": "UPSSSC Inter Level Online Form 2026 (1784 Posts)",
+          "url": "https://www.sarkariexam.com/upsssc-inter-level-2026/",
+          "first_seen": "2026-10-16T11:41:31.223952+00:00",
+          "eligibility": "unknown"
+        },
+        "94dfb21fc2025cdd": {
+          "title": "UPSC Principal, Vice Principal Exam Date 2026",
+          "url": "https://www.sarkariexam.com/upsc-principal-vice-principal-2026/",
+          "first_seen": "2026-10-16T11:41:31.223905+00:00",
+          "eligibility": "unknown"
+        },
+        "4f7b6eeb418ddd04": {
+          "title": "Railway RRB Section Controller Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
+          "first_seen": "2026-10-16T11:41:31.223865+00:00",
+          "eligibility": "unknown"
+        },
         "f28f3e997ee1a2d9": {
           "title": "Railway ICF Trade Apprentice Online Form 2026",
           "url": "https://www.sarkariexam.com/railway-icf-trade-apprentice-2026/",
@@ -6830,34 +6848,16 @@
           "url": "https://www.sarkariexam.com/upsrtc-bus-conductor-kausambi-2026/",
           "first_seen": "2026-08-13T10:07:00.432542+00:00",
           "eligibility": "unknown"
-        },
-        "293ca335ba98a8e3": {
-          "title": "IOCL Marketing Division NR Apprentices Online Form 2026",
-          "url": "https://www.sarkariexam.com/iocl-marketing-division-nr-apprentices-2026/",
-          "first_seen": "2026-08-13T10:07:00.432539+00:00",
-          "eligibility": "unknown"
-        },
-        "10b724050fab99d7": {
-          "title": "Himachal Pradesh High Court Various Post Online Form 2026",
-          "url": "https://www.sarkariexam.com/himachal-pradesh-high-court-various-post-2026/",
-          "first_seen": "2026-08-13T10:07:00.432535+00:00",
-          "eligibility": "unknown"
-        },
-        "1252271935de5641": {
-          "title": "RCF Kapurthala Apprentice Online Form 2026",
-          "url": "https://www.sarkariexam.com/rcf-kapurthala-apprentice-2026/",
-          "first_seen": "2026-08-13T10:07:00.432531+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d5636637c130cfb6",
+      "last_page_hash": "e6441f096d2a06bb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 886,
-  "total_alerts": 258,
-  "last_new_job_ts": "2026-10-16T06:25:31.783597+00:00",
-  "last_heartbeat_key": "2026-10-13-21"
+  "total_checks": 887,
+  "total_alerts": 259,
+  "last_new_job_ts": "2026-10-16T11:41:31.734697+00:00",
+  "last_heartbeat_key": "2026-10-16-17"
 }
