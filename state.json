@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "f28f3e997ee1a2d9": {
+          "title": "Railway ICF Trade Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/railway-icf-trade-apprentice-2026/",
+          "first_seen": "2026-10-16T06:25:31.174907+00:00",
+          "eligibility": "unknown"
+        },
         "28d2ba4d2d35b994": {
           "title": "Railway RRB Section Controller Answer Key 2026",
           "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/rcf-kapurthala-apprentice-2026/",
           "first_seen": "2026-08-13T10:07:00.432531+00:00",
           "eligibility": "unknown"
-        },
-        "fb29c70cd239ad3d": {
-          "title": "UPSSSC Livestock Extension Officer Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-livestock-extension-officer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432527+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2d53deeab7ee74e7",
+      "last_page_hash": "d5636637c130cfb6",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 885,
-  "total_alerts": 257,
-  "last_new_job_ts": "2026-10-15T18:26:29.487001+00:00",
+  "total_checks": 886,
+  "total_alerts": 258,
+  "last_new_job_ts": "2026-10-16T06:25:31.783597+00:00",
   "last_heartbeat_key": "2026-10-13-21"
 }
