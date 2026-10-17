@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "c50f2764723bf0e3": {
+          "title": "SBI Clerk JA Backlog Pre Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-10-17T15:45:48.376488+00:00",
+          "eligibility": "unknown"
+        },
         "9939888d634337b7": {
           "title": "NTA NIFT Online Form 2027",
           "url": "https://www.sarkariexam.com/nta-nift-2027/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
           "first_seen": "2026-08-13T10:07:00.432603+00:00",
           "eligibility": "unknown"
-        },
-        "9d304b2c5d163ffe": {
-          "title": "UPSSSC Cane Supervisor Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-cane-supervisor-2026/",
-          "first_seen": "2026-08-13T10:07:00.432599+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "407039cb781ee58c",
+      "last_page_hash": "f73e9d317d3b59fd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 894,
-  "total_alerts": 261,
-  "last_new_job_ts": "2026-10-17T08:34:29.699609+00:00",
-  "last_heartbeat_key": "2026-10-17-17"
+  "total_checks": 895,
+  "total_alerts": 262,
+  "last_new_job_ts": "2026-10-17T15:45:49.001327+00:00",
+  "last_heartbeat_key": "2026-10-17-21"
 }
