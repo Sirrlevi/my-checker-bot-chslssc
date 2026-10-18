@@ -3249,6 +3249,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "351ff2a092fcad3e": {
+          "title": "Railway RRB Paramedical CEN 05/2026 Exam Date 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
+          "first_seen": "2026-10-18T06:20:42.515154+00:00",
+          "eligibility": "unknown"
+        },
+        "5635ee89ad08d578": {
+          "title": "UPSSSC Inter Level Form (1784 Posts)",
+          "url": "https://www.sarkariexam.com/upsssc-inter-level-2026/",
+          "first_seen": "2026-10-18T06:20:42.515113+00:00",
+          "eligibility": "unknown"
+        },
         "c50f2764723bf0e3": {
           "title": "SBI Clerk JA Backlog Pre Result 2026 – Out",
           "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
@@ -6836,28 +6848,16 @@
           "url": "https://www.sarkariexam.com/sav-bihar-class-6-pre-admission-2027-28/",
           "first_seen": "2026-08-13T10:07:00.432614+00:00",
           "eligibility": "unknown"
-        },
-        "d3144bf7764001fa": {
-          "title": "NTA NEET UG Online Counselling 2026",
-          "url": "https://www.sarkariexam.com/nta-neet-ug-2026/",
-          "first_seen": "2026-08-13T10:07:00.432608+00:00",
-          "eligibility": "unknown"
-        },
-        "b448303bf040302d": {
-          "title": "BSEB Bihar D.El.Ed Common Application Form 2026",
-          "url": "https://www.sarkariexam.com/bseb-bihar-d-el-ed-2026-28/",
-          "first_seen": "2026-08-13T10:07:00.432603+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f73e9d317d3b59fd",
+      "last_page_hash": "15b00a9665cffd72",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 900,
-  "total_alerts": 262,
-  "last_new_job_ts": "2026-10-17T15:45:49.001327+00:00",
+  "total_checks": 901,
+  "total_alerts": 263,
+  "last_new_job_ts": "2026-10-18T06:20:43.239617+00:00",
   "last_heartbeat_key": "2026-10-17-21"
 }
