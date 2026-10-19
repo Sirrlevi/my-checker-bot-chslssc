@@ -3249,6 +3249,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "0caf570814724910": {
+          "title": "UPSC CDS-II Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
+          "first_seen": "2026-10-19T19:50:39.570361+00:00",
+          "eligibility": "unknown"
+        },
         "630a35f761b18d29": {
           "title": "SBI Clerk JA Backlog Mains Admit Card 2026",
           "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
@@ -6842,22 +6848,16 @@
           "url": "https://www.sarkariexam.com/allahabad-high-court-ro-aro-ca-2026/",
           "first_seen": "2026-08-13T10:07:00.432640+00:00",
           "eligibility": "unknown"
-        },
-        "34af56f3432324ee": {
-          "title": "Jharkhand Teacher Eligibility Test JHTET Online Form 2026 – Extended",
-          "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
-          "first_seen": "2026-08-13T10:07:00.432635+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e2b490e196b395a1",
+      "last_page_hash": "97cffb760b640650",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 910,
-  "total_alerts": 265,
-  "last_new_job_ts": "2026-10-19T14:08:26.287376+00:00",
+  "total_checks": 911,
+  "total_alerts": 266,
+  "last_new_job_ts": "2026-10-19T19:50:40.250218+00:00",
   "last_heartbeat_key": "2026-10-17-21"
 }
