@@ -3249,6 +3249,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "630a35f761b18d29": {
+          "title": "SBI Clerk JA Backlog Mains Admit Card 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-10-19T14:08:25.471614+00:00",
+          "eligibility": "unknown"
+        },
+        "b3b8abb1dea13d59": {
+          "title": "BSF Head Constable RO / RM Admit Card Date 2026",
+          "url": "https://www.sarkariexam.com/bsf-head-constable-ro-rm-2025/",
+          "first_seen": "2026-10-19T14:08:25.471585+00:00",
+          "eligibility": "unknown"
+        },
         "412e35687e866a82": {
           "title": "HPSC Food Safety Officer (FSO) Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/hpsc-food-safety-officer-fso-2026/",
@@ -6836,28 +6848,16 @@
           "url": "https://www.sarkariexam.com/jharkhand-jhtet-2026/",
           "first_seen": "2026-08-13T10:07:00.432635+00:00",
           "eligibility": "unknown"
-        },
-        "5d843e8014b33593": {
-          "title": "UPSSSC Vidhan Bhawan Guard/ Fire Guard Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-vidhan-bhawan-guard-fire-guard-2026/",
-          "first_seen": "2026-08-13T10:07:00.432629+00:00",
-          "eligibility": "unknown"
-        },
-        "57794cac54cacfef": {
-          "title": "UPSSSC Platoon Commander / Block Organizer Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
-          "first_seen": "2026-08-13T10:07:00.432624+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "509637a39226eaeb",
+      "last_page_hash": "e2b490e196b395a1",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 909,
-  "total_alerts": 264,
-  "last_new_job_ts": "2026-10-19T06:53:30.899283+00:00",
+  "total_checks": 910,
+  "total_alerts": 265,
+  "last_new_job_ts": "2026-10-19T14:08:26.287376+00:00",
   "last_heartbeat_key": "2026-10-17-21"
 }
