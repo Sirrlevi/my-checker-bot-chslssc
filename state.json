@@ -3249,6 +3249,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "412e35687e866a82": {
+          "title": "HPSC Food Safety Officer (FSO) Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/hpsc-food-safety-officer-fso-2026/",
+          "first_seen": "2026-10-19T06:53:29.676777+00:00",
+          "eligibility": "unknown"
+        },
+        "74b7e4456cca4cca": {
+          "title": "Bihar STET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-stet-2026/",
+          "first_seen": "2026-10-19T06:53:29.676727+00:00",
+          "eligibility": "unknown"
+        },
         "351ff2a092fcad3e": {
           "title": "Railway RRB Paramedical CEN 05/2026 Exam Date 2026",
           "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
@@ -6836,28 +6848,16 @@
           "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
           "first_seen": "2026-08-13T10:07:00.432624+00:00",
           "eligibility": "unknown"
-        },
-        "b7701c8073fa199b": {
-          "title": "IIM CAT Admission Online Form 2026",
-          "url": "https://www.sarkariexam.com/iim-cat-admission-2026/",
-          "first_seen": "2026-08-13T10:07:00.432618+00:00",
-          "eligibility": "unknown"
-        },
-        "b7caf67c8e49b70a": {
-          "title": "SAV Bihar Class 6 Pre Online Form 2027-28",
-          "url": "https://www.sarkariexam.com/sav-bihar-class-6-pre-admission-2027-28/",
-          "first_seen": "2026-08-13T10:07:00.432614+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "15b00a9665cffd72",
+      "last_page_hash": "509637a39226eaeb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 908,
-  "total_alerts": 263,
-  "last_new_job_ts": "2026-10-18T06:20:43.239617+00:00",
+  "total_checks": 909,
+  "total_alerts": 264,
+  "last_new_job_ts": "2026-10-19T06:53:30.899283+00:00",
   "last_heartbeat_key": "2026-10-17-21"
 }
