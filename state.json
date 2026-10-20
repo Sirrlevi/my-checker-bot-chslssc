@@ -3345,6 +3345,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "b92f30a0abaea5c4": {
+          "title": "UPESSC PGT Teacher Correction / Edit Form 2026",
+          "url": "https://www.sarkariexam.com/upessc-pgt-teacher-2026/",
+          "first_seen": "2026-10-20T12:06:39.000532+00:00",
+          "eligibility": "unknown"
+        },
         "0caf570814724910": {
           "title": "UPSC CDS-II Result 2026 – Out",
           "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
@@ -6938,22 +6944,16 @@
           "url": "https://www.sarkariexam.com/bsf-constable-tradesman-2025/",
           "first_seen": "2026-08-13T10:07:00.432646+00:00",
           "eligibility": "eligible"
-        },
-        "22b0e947dd55dcc0": {
-          "title": "Allahabad High Court RO, ARO & CA Online Form 2026",
-          "url": "https://www.sarkariexam.com/allahabad-high-court-ro-aro-ca-2026/",
-          "first_seen": "2026-08-13T10:07:00.432640+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "97cffb760b640650",
+      "last_page_hash": "0926a24db0e4a187",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 914,
-  "total_alerts": 267,
-  "last_new_job_ts": "2026-10-20T06:39:20.837290+00:00",
-  "last_heartbeat_key": "2026-10-17-21"
+  "total_checks": 915,
+  "total_alerts": 268,
+  "last_new_job_ts": "2026-10-20T12:06:39.624454+00:00",
+  "last_heartbeat_key": "2026-10-20-17"
 }
