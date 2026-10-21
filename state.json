@@ -3338,9 +3338,57 @@
           "url": "https://www.sarkarijobs.com/aiesl-security-recruitment-2026-apply-for-11-regional-security-officer-and-assistant-supervisor-posts-by-november-3/",
           "first_seen": "2026-10-20T06:39:19.948791+00:00",
           "eligibility": "unknown"
+        },
+        "58abb13e2ca8630b": {
+          "title": "RRB Station Master Recruitment 2026–27 Short Notice Out with Over 1,200 Vacancies Expected, Single CBT and Revised Syllabus Introduced",
+          "url": "https://www.sarkarijobs.com/rrb-station-master-recruitment-2026-27-short-notice-out-with-over-1200-vacancies-expected-single-cbt-and-revised-syllabus-introduced/",
+          "first_seen": "2026-10-21T17:16:02.660469+00:00",
+          "eligibility": "unknown"
+        },
+        "6d4be6534ce86c90": {
+          "title": "IREL Tradesman Trainee Recruitment 2026 Notice Out: Apply Online for 131 Posts by November 9",
+          "url": "https://www.sarkarijobs.com/irel-tradesman-trainee-recruitment-2026-notice-out-apply-online-for-131-posts-by-november-9/",
+          "first_seen": "2026-10-21T17:16:02.660487+00:00",
+          "eligibility": "eligible"
+        },
+        "26508c43f45673a2": {
+          "title": "ISRO SDSC SHAR Recruitment 2026 Notice Out: Apply Online for 97 MTS, Technician, Driver and Other Posts by November 9",
+          "url": "https://www.sarkarijobs.com/isro-sdsc-shar-recruitment-2026-notice-out-apply-online-for-97-mts-technician-driver-and-other-posts-by-november-9/",
+          "first_seen": "2026-10-21T17:16:02.660491+00:00",
+          "eligibility": "eligible"
+        },
+        "bbbcf496a220286f": {
+          "title": "NWR RRC Jaipur Recruitment 2026 Announced: Apply Online for 2,008 Apprentice Slots in Rajasthan by November 6",
+          "url": "https://www.sarkarijobs.com/nwr-rrc-jaipur-recruitment-2026-announced-apply-online-for-2008-apprentice-slots-in-rajasthan-by-november-6/",
+          "first_seen": "2026-10-21T17:16:02.660494+00:00",
+          "eligibility": "unknown"
+        },
+        "879e12ffce7f1275": {
+          "title": "CWC Recruitment 2026 Notification Released: Apply Online for 327 Assistant Manager and Junior Executive Posts by November 15",
+          "url": "https://www.sarkarijobs.com/cwc-recruitment-2026-notification-released-apply-online-for-327-assistant-manager-and-junior-executive-posts-by-november-15/",
+          "first_seen": "2026-10-21T17:16:02.660498+00:00",
+          "eligibility": "unknown"
+        },
+        "e4c2e743c8b6d366": {
+          "title": "NABARD Specialist Recruitment 2026 Notice Out: Apply for 16 IT and Cyber Security Posts by October 26",
+          "url": "https://www.sarkarijobs.com/nabard-specialist-recruitment-2026-notice-out-apply-for-16-it-and-cyber-security-posts-by-october-26/",
+          "first_seen": "2026-10-21T17:16:02.660501+00:00",
+          "eligibility": "unknown"
+        },
+        "7e6b75af888e7a53": {
+          "title": "RITES Recruitment 2026 Notification Released for 27 Consultant Posts in Patna, Bihar, Apply by November 8",
+          "url": "https://www.sarkarijobs.com/rites-recruitment-2026-notification-released-for-27-consultant-posts-in-patna-bihar-apply-by-november-8/",
+          "first_seen": "2026-10-21T17:16:02.660503+00:00",
+          "eligibility": "unknown"
+        },
+        "5c970ed5a5742e72": {
+          "title": "AIIMS Recruitment 2026 for 1000+ Group A/B/C, Medical Staff, Teaching, Non-Teaching and Other Posts",
+          "url": "https://www.sarkarijobs.com/aiims-recruitment/",
+          "first_seen": "2026-10-21T17:16:02.660506+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2a31740877f320c8",
+      "last_page_hash": "55fa6bc4c6a60397",
       "baseline_done": true
     },
     "sarkariexam_home": {
@@ -6952,8 +7000,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 921,
-  "total_alerts": 271,
-  "last_new_job_ts": "2026-10-21T12:17:24.781134+00:00",
+  "total_checks": 922,
+  "total_alerts": 272,
+  "last_new_job_ts": "2026-10-21T17:16:03.786184+00:00",
   "last_heartbeat_key": "2026-10-21-17"
 }
