@@ -3393,6 +3393,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "cf0a78fd7c3c803e": {
+          "title": "Aadhar Card PVC Download, Correction, Status 2026",
+          "url": "https://www.sarkariexam.com/aadhar-card-print-verification-correction-form/",
+          "first_seen": "2026-10-22T06:37:39.518862+00:00",
+          "eligibility": "unknown"
+        },
+        "5983c5600a9b539b": {
+          "title": "Delhi Laxmi Yojana Form 2026",
+          "url": "https://www.sarkariexam.com/delhi-laxmi-yojana-2026/",
+          "first_seen": "2026-10-22T06:37:39.518854+00:00",
+          "eligibility": "unknown"
+        },
+        "baabcd8fc7c7ee4c": {
+          "title": "Bihar Library Eligibility Test BLET Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
+          "first_seen": "2026-10-22T06:37:39.518784+00:00",
+          "eligibility": "unknown"
+        },
         "8bba0ad4b5c39a03": {
           "title": "ISRO SDSC SHAR Various Post Online Form 2026",
           "url": "https://www.sarkariexam.com/isro-sdsc-shar-various-post-2026/",
@@ -6974,34 +6992,16 @@
           "url": "https://www.sarkariexam.com/railway-rrb-technician-exam-date-admit-card-2024/",
           "first_seen": "2026-08-13T10:07:00.432696+00:00",
           "eligibility": "unknown"
-        },
-        "a434ff9c0b45fde4": {
-          "title": "UP Caste, Niwas, Income Certificate Online Verification 2026",
-          "url": "https://www.sarkariexam.com/up-caste-niwas-income-certificate-online-verification/",
-          "first_seen": "2026-08-13T10:07:00.432690+00:00",
-          "eligibility": "unknown"
-        },
-        "78fc291c446937b8": {
-          "title": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026",
-          "url": "https://www.sarkariexam.com/bihar-caste-income-residence-certificate-online-form/",
-          "first_seen": "2026-08-13T10:07:00.432685+00:00",
-          "eligibility": "unknown"
-        },
-        "b32e8bc4573915d9": {
-          "title": "PAN Card Registration, Correction & Other Service 2026",
-          "url": "https://www.sarkariexam.com/pan-card-registration-correction-other-service-2026/",
-          "first_seen": "2026-08-13T10:07:00.432679+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "705f2d5b41095de8",
+      "last_page_hash": "9b2d1abdab1298e9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 925,
-  "total_alerts": 272,
-  "last_new_job_ts": "2026-10-21T17:16:03.786184+00:00",
+  "total_checks": 926,
+  "total_alerts": 273,
+  "last_new_job_ts": "2026-10-22T06:37:40.162152+00:00",
   "last_heartbeat_key": "2026-10-21-17"
 }
