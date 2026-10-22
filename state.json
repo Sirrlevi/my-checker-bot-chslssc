@@ -3393,6 +3393,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "a434ff9c0b45fde4": {
+          "title": "UP Caste, Niwas, Income Certificate Online Verification 2026",
+          "url": "https://www.sarkariexam.com/up-caste-niwas-income-certificate-online-verification/",
+          "first_seen": "2026-10-22T12:20:41.440846+00:00",
+          "eligibility": "unknown"
+        },
+        "78fc291c446937b8": {
+          "title": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026",
+          "url": "https://www.sarkariexam.com/bihar-caste-income-residence-certificate-online-form/",
+          "first_seen": "2026-10-22T12:20:41.440842+00:00",
+          "eligibility": "unknown"
+        },
+        "b32e8bc4573915d9": {
+          "title": "PAN Card Registration, Correction & Other Service 2026",
+          "url": "https://www.sarkariexam.com/pan-card-registration-correction-other-service-2026/",
+          "first_seen": "2026-10-22T12:20:41.440825+00:00",
+          "eligibility": "unknown"
+        },
+        "c518e3cd842b5101": {
+          "title": "BHEL Artisan Various Trade Online Form 2026",
+          "url": "https://www.sarkariexam.com/bhel-artisan-various-trade-2026/",
+          "first_seen": "2026-10-22T12:20:41.440776+00:00",
+          "eligibility": "unknown"
+        },
         "cf0a78fd7c3c803e": {
           "title": "Aadhar Card PVC Download, Correction, Status 2026",
           "url": "https://www.sarkariexam.com/aadhar-card-print-verification-correction-form/",
@@ -6968,40 +6992,16 @@
           "url": "https://www.sarkariexam.com/air-force-group-c-civilian-offline-form-2026/",
           "first_seen": "2026-08-13T10:07:00.432718+00:00",
           "eligibility": "unknown"
-        },
-        "ce361a145b61b069": {
-          "title": "Sewadar Chowkidar Recruitment 2024: 8वीं पास के लिए मौका, वेतन 18 हजार महिना",
-          "url": "https://www.sarkariexam.com/sewadar-chowkidar-recruitment-2024/",
-          "first_seen": "2026-08-13T10:07:00.432713+00:00",
-          "eligibility": "eligible"
-        },
-        "7257453ea0c65d70": {
-          "title": "RRB NTPC Vacancy 2024: रेलवे एनटीपीसी भर्ती सूचना जारी, डायरेक्ट लिंक से करें आवेदन",
-          "url": "https://www.sarkariexam.com/rrb-ntpc-vacancy-2024/",
-          "first_seen": "2026-08-13T10:07:00.432707+00:00",
-          "eligibility": "unknown"
-        },
-        "b0ae4d85ac637169": {
-          "title": "Government Jobs 2024: Latest Government Jobs, 61,521 Vacancies For 10th, 12th Pass",
-          "url": "https://www.sarkariexam.com/live-government-jobs-2024/",
-          "first_seen": "2026-08-13T10:07:00.432701+00:00",
-          "eligibility": "eligible"
-        },
-        "ceb45d576fb4e324": {
-          "title": "Railway RRB Technician Application Status Link 2024 – Out",
-          "url": "https://www.sarkariexam.com/railway-rrb-technician-exam-date-admit-card-2024/",
-          "first_seen": "2026-08-13T10:07:00.432696+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9b2d1abdab1298e9",
+      "last_page_hash": "faec54f6f2dc2a3e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 926,
-  "total_alerts": 273,
-  "last_new_job_ts": "2026-10-22T06:37:40.162152+00:00",
-  "last_heartbeat_key": "2026-10-21-17"
+  "total_checks": 927,
+  "total_alerts": 274,
+  "last_new_job_ts": "2026-10-22T12:20:42.047615+00:00",
+  "last_heartbeat_key": "2026-10-22-17"
 }
