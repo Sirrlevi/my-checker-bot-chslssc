@@ -3393,6 +3393,36 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "5a881e4f5766b733": {
+          "title": "Air Force Airmen Group ‘Y’ Bharti Rally 2025",
+          "url": "https://www.sarkariexam.com/air-force-airmen-group-y-recruitment-2025/",
+          "first_seen": "2026-10-23T16:58:09.130300+00:00",
+          "eligibility": "unknown"
+        },
+        "b605bf2d02f675fa": {
+          "title": "MPESB Group 4 Stenographer Online Form 2025",
+          "url": "https://www.sarkariexam.com/mpesb-group-4-stenographer-recruitment-2025/",
+          "first_seen": "2026-10-23T16:58:09.130297+00:00",
+          "eligibility": "eligible"
+        },
+        "4cb1bcc7ffdfa0df": {
+          "title": "KGMU Non Teaching Various Post Online Form 2025",
+          "url": "https://www.sarkariexam.com/kgmu-non-teaching-recruitment-2025-extended/",
+          "first_seen": "2026-10-23T16:58:09.130288+00:00",
+          "eligibility": "unknown"
+        },
+        "7cf667d116f03937": {
+          "title": "RRB ALP CEN 01/2026 Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-10-23T16:58:09.130218+00:00",
+          "eligibility": "unknown"
+        },
+        "bf8a41893c33c275": {
+          "title": "CCI Various Post Result 2026",
+          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
+          "first_seen": "2026-10-23T16:58:09.130174+00:00",
+          "eligibility": "unknown"
+        },
         "148f5534de21aabb": {
           "title": "Bihar Dakhil Kharij, Registration Online 2026",
           "url": "https://www.sarkariexam.com/bihar-jamin-dakhil-kharij-online-apply-2026/",
@@ -6962,46 +6992,16 @@
           "url": "https://www.sarkariexam.com/",
           "first_seen": "2026-08-13T10:07:00.432836+00:00",
           "eligibility": "unknown"
-        },
-        "03f8f87156ce4728": {
-          "title": "UP Bijnor ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-bijnor-ecce-educator-2026/",
-          "first_seen": "2026-08-13T10:07:00.432831+00:00",
-          "eligibility": "unknown"
-        },
-        "51415ec03e935971": {
-          "title": "UP Siddharth Nagar ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-siddharth-nagar-ecce-educator-2026/",
-          "first_seen": "2026-08-13T10:07:00.432826+00:00",
-          "eligibility": "unknown"
-        },
-        "4aaf481303ea69e4": {
-          "title": "UPSRTC Bus Conductor Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsrtc-gorakhpur-bus-conductor-2026/",
-          "first_seen": "2026-08-13T10:07:00.432821+00:00",
-          "eligibility": "unknown"
-        },
-        "2b4097f4104ba059": {
-          "title": "UP Dairy Development Manager, DEO Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-dairy-development-deo-2026/",
-          "first_seen": "2026-08-13T10:07:00.432816+00:00",
-          "eligibility": "unknown"
-        },
-        "e6cb48c8c8a92bc2": {
-          "title": "UPSRTC Meerut Conductor Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsrtc-meerut-conductor-2026/",
-          "first_seen": "2026-08-13T10:07:00.432811+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6cf7be7d8a66f813",
+      "last_page_hash": "963b9ead02ee1442",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 933,
-  "total_alerts": 276,
-  "last_new_job_ts": "2026-10-23T12:04:16.328264+00:00",
+  "total_checks": 934,
+  "total_alerts": 277,
+  "last_new_job_ts": "2026-10-23T16:58:09.809543+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
