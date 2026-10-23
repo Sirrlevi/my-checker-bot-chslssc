@@ -3393,6 +3393,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "ce361a145b61b069": {
+          "title": "Sewadar Chowkidar Recruitment 2024: 8वीं पास के लिए मौका, वेतन 18 हजार महिना",
+          "url": "https://www.sarkariexam.com/sewadar-chowkidar-recruitment-2024/",
+          "first_seen": "2026-10-23T06:39:59.214939+00:00",
+          "eligibility": "eligible"
+        },
+        "7257453ea0c65d70": {
+          "title": "RRB NTPC Vacancy 2024: रेलवे एनटीपीसी भर्ती सूचना जारी, डायरेक्ट लिंक से करें आवेदन",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-vacancy-2024/",
+          "first_seen": "2026-10-23T06:39:59.214932+00:00",
+          "eligibility": "unknown"
+        },
+        "b0ae4d85ac637169": {
+          "title": "Government Jobs 2024: Latest Government Jobs, 61,521 Vacancies For 10th, 12th Pass",
+          "url": "https://www.sarkariexam.com/live-government-jobs-2024/",
+          "first_seen": "2026-10-23T06:39:59.214922+00:00",
+          "eligibility": "eligible"
+        },
+        "ceb45d576fb4e324": {
+          "title": "Railway RRB Technician Application Status Link 2024 – Out",
+          "url": "https://www.sarkariexam.com/railway-rrb-technician-exam-date-admit-card-2024/",
+          "first_seen": "2026-10-23T06:39:59.214914+00:00",
+          "eligibility": "unknown"
+        },
+        "a3f6e626690c8467": {
+          "title": "Bihar BTSC Touring Veterinary Officer Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-btsc-touring-veterinary-officer-2026/",
+          "first_seen": "2026-10-23T06:39:59.214849+00:00",
+          "eligibility": "unknown"
+        },
+        "7ac929b19cb883c5": {
+          "title": "Bihar BTSC Fishery Extension Officer Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-btsc-fishery-extension-officer-2026/",
+          "first_seen": "2026-10-23T06:39:59.214844+00:00",
+          "eligibility": "unknown"
+        },
+        "d8aba4bdea8620aa": {
+          "title": "NICL Assistant Mains Admit Card 2026",
+          "url": "https://www.sarkariexam.com/national-insurance-nicl-assistant-2026/",
+          "first_seen": "2026-10-23T06:39:59.214810+00:00",
+          "eligibility": "unknown"
+        },
         "a434ff9c0b45fde4": {
           "title": "UP Caste, Niwas, Income Certificate Online Verification 2026",
           "url": "https://www.sarkariexam.com/up-caste-niwas-income-certificate-online-verification/",
@@ -6950,58 +6992,16 @@
           "url": "https://www.sarkariexam.com/rajasthan-scholarship-scooty-yojana-2025-26-start/",
           "first_seen": "2026-08-13T10:07:00.432777+00:00",
           "eligibility": "unknown"
-        },
-        "e8428edc2c60b811": {
-          "title": "UP Scholarship Online Form 2025-26",
-          "url": "https://www.sarkariexam.com/up-scholarship-online-form-2025-26/",
-          "first_seen": "2026-08-13T10:07:00.432767+00:00",
-          "eligibility": "unknown"
-        },
-        "148f5534de21aabb": {
-          "title": "Bihar Dakhil Kharij, Registration Online 2026",
-          "url": "https://www.sarkariexam.com/bihar-jamin-dakhil-kharij-online-apply-2026/",
-          "first_seen": "2026-08-13T10:07:00.432742+00:00",
-          "eligibility": "unknown"
-        },
-        "5b11d418c7987001": {
-          "title": "UP Dakhil Kharij, Registration Online 2026",
-          "url": "https://www.sarkariexam.com/up-khasra-khatauni-online-form/",
-          "first_seen": "2026-08-13T10:07:00.432737+00:00",
-          "eligibility": "unknown"
-        },
-        "1a2a346223456f97": {
-          "title": "Voter ID Registration & Other Voter Service 2026",
-          "url": "https://www.sarkariexam.com/voter-id-registration-other-voter-service-2026/",
-          "first_seen": "2026-08-13T10:07:00.432732+00:00",
-          "eligibility": "unknown"
-        },
-        "34522846740b7665": {
-          "title": "Rail Wheel Factory RWF Apprentices Online Form 2025",
-          "url": "https://www.sarkariexam.com/rail-wheel-factory-rwf-apprentices-recruitment-2025/",
-          "first_seen": "2026-08-13T10:07:00.432727+00:00",
-          "eligibility": "unknown"
-        },
-        "9064f308da0da3f5": {
-          "title": "CIPET Admit Card 2025",
-          "url": "https://www.sarkariexam.com/cipet-admit-card-2025/",
-          "first_seen": "2026-08-13T10:07:00.432723+00:00",
-          "eligibility": "unknown"
-        },
-        "eb9df5c582ab82b9": {
-          "title": "Air Force Group C Civilian Offline Form 2026",
-          "url": "https://www.sarkariexam.com/air-force-group-c-civilian-offline-form-2026/",
-          "first_seen": "2026-08-13T10:07:00.432718+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "faec54f6f2dc2a3e",
+      "last_page_hash": "168a6254d6dd7066",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 931,
-  "total_alerts": 274,
-  "last_new_job_ts": "2026-10-22T12:20:42.047615+00:00",
+  "total_checks": 932,
+  "total_alerts": 275,
+  "last_new_job_ts": "2026-10-23T06:39:59.748246+00:00",
   "last_heartbeat_key": "2026-10-22-17"
 }
