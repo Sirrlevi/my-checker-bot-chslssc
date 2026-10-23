@@ -3393,6 +3393,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "148f5534de21aabb": {
+          "title": "Bihar Dakhil Kharij, Registration Online 2026",
+          "url": "https://www.sarkariexam.com/bihar-jamin-dakhil-kharij-online-apply-2026/",
+          "first_seen": "2026-10-23T12:04:15.751154+00:00",
+          "eligibility": "unknown"
+        },
+        "5b11d418c7987001": {
+          "title": "UP Dakhil Kharij, Registration Online 2026",
+          "url": "https://www.sarkariexam.com/up-khasra-khatauni-online-form/",
+          "first_seen": "2026-10-23T12:04:15.751149+00:00",
+          "eligibility": "unknown"
+        },
+        "1a2a346223456f97": {
+          "title": "Voter ID Registration & Other Voter Service 2026",
+          "url": "https://www.sarkariexam.com/voter-id-registration-other-voter-service-2026/",
+          "first_seen": "2026-10-23T12:04:15.751142+00:00",
+          "eligibility": "unknown"
+        },
+        "34522846740b7665": {
+          "title": "Rail Wheel Factory RWF Apprentices Online Form 2025",
+          "url": "https://www.sarkariexam.com/rail-wheel-factory-rwf-apprentices-recruitment-2025/",
+          "first_seen": "2026-10-23T12:04:15.751128+00:00",
+          "eligibility": "unknown"
+        },
+        "9064f308da0da3f5": {
+          "title": "CIPET Admit Card 2025",
+          "url": "https://www.sarkariexam.com/cipet-admit-card-2025/",
+          "first_seen": "2026-10-23T12:04:15.751122+00:00",
+          "eligibility": "unknown"
+        },
+        "eb9df5c582ab82b9": {
+          "title": "Air Force Group C Civilian Offline Form 2026",
+          "url": "https://www.sarkariexam.com/air-force-group-c-civilian-offline-form-2026/",
+          "first_seen": "2026-10-23T12:04:15.751111+00:00",
+          "eligibility": "unknown"
+        },
+        "b2c9b32ac35cc54b": {
+          "title": "SSC GD Constable Revised Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/ssc-gd-constable-2025/",
+          "first_seen": "2026-10-23T12:04:15.750979+00:00",
+          "eligibility": "eligible"
+        },
         "ce361a145b61b069": {
           "title": "Sewadar Chowkidar Recruitment 2024: 8वीं पास के लिए मौका, वेतन 18 हजार महिना",
           "url": "https://www.sarkariexam.com/sewadar-chowkidar-recruitment-2024/",
@@ -6950,58 +6992,16 @@
           "url": "https://www.sarkariexam.com/upsrtc-meerut-conductor-2026/",
           "first_seen": "2026-08-13T10:07:00.432811+00:00",
           "eligibility": "unknown"
-        },
-        "bc2207f8d52ef189": {
-          "title": "UP Ghazipur ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-ghazipur-ecce-educator-2026/",
-          "first_seen": "2026-08-13T10:07:00.432806+00:00",
-          "eligibility": "unknown"
-        },
-        "980ecaa491c03989": {
-          "title": "UP Unnao ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-unnao-ecce-educator-2026/",
-          "first_seen": "2026-08-13T10:07:00.432801+00:00",
-          "eligibility": "unknown"
-        },
-        "9e2469b26a04601e": {
-          "title": "UP Bahraich ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-bahraich-ecce-educator-2026/",
-          "first_seen": "2026-08-13T10:07:00.432797+00:00",
-          "eligibility": "unknown"
-        },
-        "5a881e4f5766b733": {
-          "title": "Air Force Airmen Group ‘Y’ Bharti Rally 2025",
-          "url": "https://www.sarkariexam.com/air-force-airmen-group-y-recruitment-2025/",
-          "first_seen": "2026-08-13T10:07:00.432792+00:00",
-          "eligibility": "unknown"
-        },
-        "b605bf2d02f675fa": {
-          "title": "MPESB Group 4 Stenographer Online Form 2025",
-          "url": "https://www.sarkariexam.com/mpesb-group-4-stenographer-recruitment-2025/",
-          "first_seen": "2026-08-13T10:07:00.432786+00:00",
-          "eligibility": "eligible"
-        },
-        "4cb1bcc7ffdfa0df": {
-          "title": "KGMU Non Teaching Various Post Online Form 2025",
-          "url": "https://www.sarkariexam.com/kgmu-non-teaching-recruitment-2025-extended/",
-          "first_seen": "2026-08-13T10:07:00.432781+00:00",
-          "eligibility": "unknown"
-        },
-        "24a5fe2fa32e37d9": {
-          "title": "Rajasthan Scholarship & Scooty Yojana 2025-26 – Start",
-          "url": "https://www.sarkariexam.com/rajasthan-scholarship-scooty-yojana-2025-26-start/",
-          "first_seen": "2026-08-13T10:07:00.432777+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "168a6254d6dd7066",
+      "last_page_hash": "6cf7be7d8a66f813",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 932,
-  "total_alerts": 275,
-  "last_new_job_ts": "2026-10-23T06:39:59.748246+00:00",
-  "last_heartbeat_key": "2026-10-22-17"
+  "total_checks": 933,
+  "total_alerts": 276,
+  "last_new_job_ts": "2026-10-23T12:04:16.328264+00:00",
+  "last_heartbeat_key": "2026-10-23-17"
 }
