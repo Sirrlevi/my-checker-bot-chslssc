@@ -3393,6 +3393,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "5c1a3d74d7767053": {
+          "title": "UPESSC UP Headmaster Online Form 2026 (1172 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
+          "first_seen": "2026-10-23T20:11:19.634657+00:00",
+          "eligibility": "unknown"
+        },
+        "d6ea4e87082e171e": {
+          "title": "UPESSC UP Principal Inter Level Online Form 2026 (1475 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-inter-level-2026/",
+          "first_seen": "2026-10-23T20:11:19.634652+00:00",
+          "eligibility": "unknown"
+        },
+        "3efca9175e7b056e": {
+          "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-tgt-online-form-2026/",
+          "first_seen": "2026-10-23T20:11:19.634634+00:00",
+          "eligibility": "unknown"
+        },
         "5a881e4f5766b733": {
           "title": "Air Force Airmen Group ‘Y’ Bharti Rally 2025",
           "url": "https://www.sarkariexam.com/air-force-airmen-group-y-recruitment-2025/",
@@ -6974,34 +6992,16 @@
           "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
           "first_seen": "2026-08-13T15:16:11.585362+00:00",
           "eligibility": "unknown"
-        },
-        "88a71162e998c7b1": {
-          "title": "IIT GATE Online Form 2027",
-          "url": "https://www.sarkariexam.com/iit-gate-2027/",
-          "first_seen": "2026-08-13T11:56:53.062467+00:00",
-          "eligibility": "unknown"
-        },
-        "33f685d04fc64f6f": {
-          "title": "SBI Assistant Manager Law, Deputy Manager Law Admit Card 2026",
-          "url": "https://www.sarkariexam.com/sbi-assistant-manager-law-deputy-manager-law-2026/",
-          "first_seen": "2026-08-13T11:08:53.924435+00:00",
-          "eligibility": "unknown"
-        },
-        "b412a4ffabb73feb": {
-          "title": "Sarkari Result",
-          "url": "https://www.sarkariexam.com/",
-          "first_seen": "2026-08-13T10:07:00.432836+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "963b9ead02ee1442",
+      "last_page_hash": "b6e0f6b251786aa9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 934,
-  "total_alerts": 277,
-  "last_new_job_ts": "2026-10-23T16:58:09.809543+00:00",
+  "total_checks": 935,
+  "total_alerts": 278,
+  "last_new_job_ts": "2026-10-23T20:11:20.405008+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
