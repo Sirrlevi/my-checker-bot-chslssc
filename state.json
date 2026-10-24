@@ -3393,6 +3393,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "ccb34e28b1ba0a80": {
+          "title": "NTA JEE Mains Session I Online Form 2027",
+          "url": "https://www.sarkariexam.com/nta-jee-mains-session-i-2027/",
+          "first_seen": "2026-10-24T19:43:50.021211+00:00",
+          "eligibility": "unknown"
+        },
         "4d1a5f0a34b1d899": {
           "title": "ISRO ICRB Assistant, UDC, JPA, Stenographer Result 2026",
           "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
@@ -6986,22 +6992,16 @@
           "url": "https://www.sarkariexam.com/bihar-cet-b-ed-2026/",
           "first_seen": "2026-08-14T14:13:28.524243+00:00",
           "eligibility": "unknown"
-        },
-        "4a481486eaa822c4": {
-          "title": "Delhi High Court Higher Judicial Service HJS Pre Result 2026 – Out",
-          "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
-          "first_seen": "2026-08-14T11:58:36.751529+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "fd77cd1f7ce629ad",
+      "last_page_hash": "5d0f5d5c753586ef",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 941,
-  "total_alerts": 281,
-  "last_new_job_ts": "2026-10-24T14:38:43.807361+00:00",
+  "total_checks": 942,
+  "total_alerts": 282,
+  "last_new_job_ts": "2026-10-24T19:43:50.539374+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
