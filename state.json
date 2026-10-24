@@ -3393,6 +3393,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "b412a4ffabb73feb": {
+          "title": "Sarkari Result",
+          "url": "https://www.sarkariexam.com/",
+          "first_seen": "2026-10-24T06:24:17.330231+00:00",
+          "eligibility": "unknown"
+        },
+        "88a71162e998c7b1": {
+          "title": "IIT GATE Online Form 2027",
+          "url": "https://www.sarkariexam.com/iit-gate-2027/",
+          "first_seen": "2026-10-24T06:24:17.330182+00:00",
+          "eligibility": "unknown"
+        },
+        "0b22f049f66991cc": {
+          "title": "UPSSSC PET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-10-24T06:24:17.330133+00:00",
+          "eligibility": "unknown"
+        },
         "5c1a3d74d7767053": {
           "title": "UPESSC UP Headmaster Online Form 2026 (1172 Posts)",
           "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
@@ -6974,34 +6992,16 @@
           "url": "https://www.sarkariexam.com/upsc-principal-vice-principal-2026/",
           "first_seen": "2026-08-14T06:43:38.124049+00:00",
           "eligibility": "unknown"
-        },
-        "ec4b82c06d1a85b3": {
-          "title": "Railway RRB Section Controller Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/railway-rrb-section-controller-2026/",
-          "first_seen": "2026-08-14T06:43:38.124039+00:00",
-          "eligibility": "unknown"
-        },
-        "50935c849fc05d8b": {
-          "title": "Allahabad High Court Research Associates Admit Card 2026",
-          "url": "https://www.sarkariexam.com/allahabad-high-court-research-associates-2026/",
-          "first_seen": "2026-08-14T06:43:38.123977+00:00",
-          "eligibility": "unknown"
-        },
-        "010cc82585b51f45": {
-          "title": "NTA AIAPGET Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
-          "first_seen": "2026-08-13T15:16:11.585362+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b6e0f6b251786aa9",
+      "last_page_hash": "6f23ef58333f60ab",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 937,
-  "total_alerts": 278,
-  "last_new_job_ts": "2026-10-23T20:11:20.405008+00:00",
+  "total_checks": 938,
+  "total_alerts": 279,
+  "last_new_job_ts": "2026-10-24T06:24:17.979800+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
