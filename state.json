@@ -3393,6 +3393,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "efdb8f847c3e1ead": {
+          "title": "UP Kanpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-rampur-ecce-educator-2026-2/",
+          "first_seen": "2026-10-24T11:20:09.172807+00:00",
+          "eligibility": "unknown"
+        },
+        "b6d58187d3cf73b4": {
+          "title": "UP Fatehpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-fatehpur-ecce-educator-2026/",
+          "first_seen": "2026-10-24T11:20:09.172801+00:00",
+          "eligibility": "unknown"
+        },
+        "24ebc8349fb4425d": {
+          "title": "UP Budaun ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-budaun-ecce-educator-2026/",
+          "first_seen": "2026-10-24T11:20:09.172795+00:00",
+          "eligibility": "unknown"
+        },
+        "f921efd2cc328f36": {
+          "title": "UP Hamirpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-hamirpur-ecce-educator-2026/",
+          "first_seen": "2026-10-24T11:20:09.172789+00:00",
+          "eligibility": "unknown"
+        },
+        "9a1a5821424575a3": {
+          "title": "UP Shahjahanpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-shahjahanpur-ecce-educator-2026-2/",
+          "first_seen": "2026-10-24T11:20:09.172780+00:00",
+          "eligibility": "unknown"
+        },
+        "4e49d7040e91e4fb": {
+          "title": "LIC HFL Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/lic-hfl-apprentice-2026/",
+          "first_seen": "2026-10-24T11:20:09.172681+00:00",
+          "eligibility": "unknown"
+        },
+        "af424790251fa314": {
+          "title": "UPESSC UP Special TET Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/up-special-tet-2026/",
+          "first_seen": "2026-10-24T11:20:09.172645+00:00",
+          "eligibility": "unknown"
+        },
         "b412a4ffabb73feb": {
           "title": "Sarkari Result",
           "url": "https://www.sarkariexam.com/",
@@ -6950,58 +6992,16 @@
           "url": "https://www.sarkariexam.com/bhu-school-teacher-tgt-pgt-prt-principal-2024/",
           "first_seen": "2026-08-14T11:11:03.225103+00:00",
           "eligibility": "unknown"
-        },
-        "4dcb3ae1807c8f0b": {
-          "title": "CNP Supervisor / Junior Technician Admit Card 2026",
-          "url": "https://www.sarkariexam.com/currency-note-press-cnp-supervisor-junior-technician-2026/",
-          "first_seen": "2026-08-14T11:11:03.225078+00:00",
-          "eligibility": "unknown"
-        },
-        "721db87514aabc86": {
-          "title": "RSSB Computer Instructor Exam City Details 2026 – Out",
-          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
-          "first_seen": "2026-08-14T10:18:38.498582+00:00",
-          "eligibility": "unknown"
-        },
-        "112830b97e7b562e": {
-          "title": "RSSB NHM & RajMES Final Result 2026 – Updated",
-          "url": "https://www.sarkariexam.com/rssb-nhm-rajmes-2025/",
-          "first_seen": "2026-08-14T10:18:38.498533+00:00",
-          "eligibility": "unknown"
-        },
-        "c46c83c09ceff585": {
-          "title": "UPSSSC Veterinary Pharmacist Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-veterinary-pharmacist-2026/",
-          "first_seen": "2026-08-14T09:16:42.411564+00:00",
-          "eligibility": "unknown"
-        },
-        "c88c96d463c172b0": {
-          "title": "UPSSSC Technical Assistant Group C AGTA Answer Key Objection 2026",
-          "url": "https://www.sarkariexam.com/upsssc-agriculture-technical-assistant-group-c-2026/",
-          "first_seen": "2026-08-14T08:03:16.165932+00:00",
-          "eligibility": "unknown"
-        },
-        "407be4ae76939079": {
-          "title": "UPSSSC Lower PCS Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/upsssc-lower-pcs-2026/",
-          "first_seen": "2026-08-14T08:03:16.165847+00:00",
-          "eligibility": "unknown"
-        },
-        "89a8b501999a73fd": {
-          "title": "UPSC Principal, Vice Principal Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/upsc-principal-vice-principal-2026/",
-          "first_seen": "2026-08-14T06:43:38.124049+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6f23ef58333f60ab",
+      "last_page_hash": "f937a1435f790dfd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 938,
-  "total_alerts": 279,
-  "last_new_job_ts": "2026-10-24T06:24:17.979800+00:00",
+  "total_checks": 939,
+  "total_alerts": 280,
+  "last_new_job_ts": "2026-10-24T11:20:09.820740+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
