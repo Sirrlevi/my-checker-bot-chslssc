@@ -3393,6 +3393,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "4d1a5f0a34b1d899": {
+          "title": "ISRO ICRB Assistant, UDC, JPA, Stenographer Result 2026",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-10-24T14:38:42.878438+00:00",
+          "eligibility": "eligible"
+        },
         "efdb8f847c3e1ead": {
           "title": "UP Kanpur ECCE Educator Online Form 2026",
           "url": "https://www.sarkariexam.com/up-rampur-ecce-educator-2026-2/",
@@ -6986,22 +6992,16 @@
           "url": "https://www.sarkariexam.com/delhi-high-court-hjs-2026/",
           "first_seen": "2026-08-14T11:58:36.751529+00:00",
           "eligibility": "unknown"
-        },
-        "cfa42ed7409e962d": {
-          "title": "BHU School Teacher TGT, PGT, PRT, Principal Exam Date 2026",
-          "url": "https://www.sarkariexam.com/bhu-school-teacher-tgt-pgt-prt-principal-2024/",
-          "first_seen": "2026-08-14T11:11:03.225103+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f937a1435f790dfd",
+      "last_page_hash": "fd77cd1f7ce629ad",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 939,
-  "total_alerts": 280,
-  "last_new_job_ts": "2026-10-24T11:20:09.820740+00:00",
+  "total_checks": 940,
+  "total_alerts": 281,
+  "last_new_job_ts": "2026-10-24T14:38:43.807361+00:00",
   "last_heartbeat_key": "2026-10-23-17"
 }
