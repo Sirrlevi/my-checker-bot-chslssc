@@ -3393,6 +3393,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "5809af43afe88d4f": {
+          "title": "Supreme Court SCI Court Master Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/sci-court-master-2026/",
+          "first_seen": "2026-10-25T07:32:05.660021+00:00",
+          "eligibility": "unknown"
+        },
         "ccb34e28b1ba0a80": {
           "title": "NTA JEE Mains Session I Online Form 2027",
           "url": "https://www.sarkariexam.com/nta-jee-mains-session-i-2027/",
@@ -6986,22 +6992,16 @@
           "url": "https://www.sarkariexam.com/ib-security-assistant-executive-2025/",
           "first_seen": "2026-08-14T14:13:28.524260+00:00",
           "eligibility": "unknown"
-        },
-        "591e628d1234783f": {
-          "title": "Bihar CET B.Ed 6th Round Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/bihar-cet-b-ed-2026/",
-          "first_seen": "2026-08-14T14:13:28.524243+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "5d0f5d5c753586ef",
+      "last_page_hash": "73bdb2231730b184",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 945,
-  "total_alerts": 282,
-  "last_new_job_ts": "2026-10-24T19:43:50.539374+00:00",
-  "last_heartbeat_key": "2026-10-23-17"
+  "total_checks": 946,
+  "total_alerts": 283,
+  "last_new_job_ts": "2026-10-25T07:32:06.246444+00:00",
+  "last_heartbeat_key": "2026-10-25-13"
 }
