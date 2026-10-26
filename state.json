@@ -3393,6 +3393,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "7267720f4f6f83f8": {
+          "title": "ISRO URSC Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
+          "first_seen": "2026-10-26T13:44:50.788305+00:00",
+          "eligibility": "unknown"
+        },
         "5809af43afe88d4f": {
           "title": "Supreme Court SCI Court Master Online Form 2026 – Start",
           "url": "https://www.sarkariexam.com/sci-court-master-2026/",
@@ -6986,22 +6992,16 @@
           "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
           "first_seen": "2026-08-14T15:08:25.249743+00:00",
           "eligibility": "unknown"
-        },
-        "a2925b6149a61298": {
-          "title": "IB Security Assistant/Executive Final Result 2026",
-          "url": "https://www.sarkariexam.com/ib-security-assistant-executive-2025/",
-          "first_seen": "2026-08-14T14:13:28.524260+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9de449b1bd59067c",
+      "last_page_hash": "a937f5327d58d3ef",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 953,
-  "total_alerts": 283,
-  "last_new_job_ts": "2026-10-25T07:32:06.246444+00:00",
+  "total_checks": 954,
+  "total_alerts": 284,
+  "last_new_job_ts": "2026-10-26T13:44:51.959524+00:00",
   "last_heartbeat_key": "2026-10-25-13"
 }
