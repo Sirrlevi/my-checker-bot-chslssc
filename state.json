@@ -7000,7 +7000,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 951,
+  "total_checks": 952,
   "total_alerts": 283,
   "last_new_job_ts": "2026-10-25T07:32:06.246444+00:00",
   "last_heartbeat_key": "2026-10-25-13"
