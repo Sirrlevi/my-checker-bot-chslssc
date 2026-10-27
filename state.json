@@ -3393,6 +3393,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "e8ef0956156656cf": {
+          "title": "Railway RRB Station Master Online Form 2026 (1265 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrb-station-master-2026/",
+          "first_seen": "2026-10-27T07:43:16.906701+00:00",
+          "eligibility": "unknown"
+        },
+        "9c7562278eb59092": {
+          "title": "SSC CPO SI CAPF Revised Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-10-27T07:43:16.906662+00:00",
+          "eligibility": "unknown"
+        },
         "7267720f4f6f83f8": {
           "title": "ISRO URSC Various Post Online Form 2026",
           "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
@@ -6980,28 +6992,16 @@
           "url": "https://www.sarkariexam.com/upsrtc-bus-conductor-kausambi-2026/",
           "first_seen": "2026-08-15T06:01:15.594660+00:00",
           "eligibility": "unknown"
-        },
-        "2bf65ab6fc4dc6c0": {
-          "title": "MPESB Forest Guard & Jail Prahari Result 2026 – Out",
-          "url": "https://www.sarkariexam.com/mpesb-forest-guard-jail-prahari-2026/",
-          "first_seen": "2026-08-14T16:02:26.510223+00:00",
-          "eligibility": "unknown"
-        },
-        "acfa53dddd0048ca": {
-          "title": "IBPS CRP PO/ MT 16th Pre Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
-          "first_seen": "2026-08-14T15:08:25.249743+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a937f5327d58d3ef",
+      "last_page_hash": "0f9a4e08f0745071",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 957,
-  "total_alerts": 284,
-  "last_new_job_ts": "2026-10-26T13:44:51.959524+00:00",
-  "last_heartbeat_key": "2026-10-25-13"
+  "total_checks": 958,
+  "total_alerts": 285,
+  "last_new_job_ts": "2026-10-27T07:43:17.497456+00:00",
+  "last_heartbeat_key": "2026-10-27-13"
 }
