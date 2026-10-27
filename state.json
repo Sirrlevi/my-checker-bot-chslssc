@@ -3393,6 +3393,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "28e6377dd90a6a0e": {
+          "title": "UPSSSC Stenographer 13/2024 Skill Test Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-stenographer-2024/",
+          "first_seen": "2026-10-27T18:54:54.897486+00:00",
+          "eligibility": "eligible"
+        },
         "12c20d731cb44d66": {
           "title": "CISF Constable Fire Exam Date 2026",
           "url": "https://www.sarkariexam.com/cisf-constable-fire-2024/",
@@ -6986,22 +6992,16 @@
           "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
           "first_seen": "2026-08-15T07:21:14.197537+00:00",
           "eligibility": "unknown"
-        },
-        "d72d431d2ebd9f80": {
-          "title": "NTA UGC NET June Answer Key 2026 – Soon",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-08-15T06:53:52.986201+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0a513ea12ed2cd4c",
+      "last_page_hash": "a86ef9d48af4eea5",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 959,
-  "total_alerts": 286,
-  "last_new_job_ts": "2026-10-27T13:36:51.910315+00:00",
+  "total_checks": 960,
+  "total_alerts": 287,
+  "last_new_job_ts": "2026-10-27T18:54:55.708971+00:00",
   "last_heartbeat_key": "2026-10-27-13"
 }
