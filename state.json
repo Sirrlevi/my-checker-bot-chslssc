@@ -7090,7 +7090,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 964,
+  "total_checks": 965,
   "total_alerts": 290,
   "last_new_job_ts": "2026-10-28T14:16:52.445865+00:00",
   "last_heartbeat_key": "2026-10-27-13"
