@@ -3483,6 +3483,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "d1e6532a92d3d06c": {
+          "title": "ISRO ICRB Assistant, UDC, JPA, Stenographer Final Answer Key 2026",
+          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
+          "first_seen": "2026-10-28T14:16:51.795236+00:00",
+          "eligibility": "eligible"
+        },
+        "8187339c11a80fbb": {
+          "title": "Indian Coast Guard CGEPT 01/2027 & 02/2027 Online Correction Form – Last Date",
+          "url": "https://www.sarkariexam.com/indian-coast-guard-cgept-01-2027-02-2027/",
+          "first_seen": "2026-10-28T14:16:51.795217+00:00",
+          "eligibility": "unknown"
+        },
+        "a4315ad3f1b23c9e": {
+          "title": "Delhi High Court SPA Typing Test Date 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
+          "first_seen": "2026-10-28T14:16:51.795198+00:00",
+          "eligibility": "unknown"
+        },
+        "523b4171abe5f141": {
+          "title": "NVS Class 6 Admission Admit Card 2027",
+          "url": "https://www.sarkariexam.com/nvs-class-6-admission-2027-28/",
+          "first_seen": "2026-10-28T14:16:51.795179+00:00",
+          "eligibility": "unknown"
+        },
         "5d5d62572d7f4c8f": {
           "title": "NTA UGC NET JRF December Online Form 2026 – Extended",
           "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
@@ -7058,40 +7082,16 @@
           "url": "https://www.sarkariexam.com/upsrtc-conductor-2026-2/",
           "first_seen": "2026-08-18T04:59:17.527126+00:00",
           "eligibility": "unknown"
-        },
-        "e97f25034c0f88dd": {
-          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
-          "first_seen": "2026-08-18T04:59:17.527058+00:00",
-          "eligibility": "unknown"
-        },
-        "4523f6a199506086": {
-          "title": "Indian Airforce Agniveer Vayu Musician Intake 01/2027 Admit Card",
-          "url": "https://www.sarkariexam.com/indian-airforce-agniveer-vayu-musician-intake-01-2027-online-form/",
-          "first_seen": "2026-08-18T04:59:17.527016+00:00",
-          "eligibility": "unknown"
-        },
-        "af45d18582e4f841": {
-          "title": "UPSSSC Forensic Science Laboratory Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
-          "first_seen": "2026-08-17T05:19:21.777406+00:00",
-          "eligibility": "unknown"
-        },
-        "972e319caf8551ab": {
-          "title": "Chhattisgarh State Eligibility Test SET Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-026/",
-          "first_seen": "2026-08-17T05:19:21.777400+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0f0e9928815d18da",
+      "last_page_hash": "bc537775a827403b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 963,
-  "total_alerts": 289,
-  "last_new_job_ts": "2026-10-28T07:29:10.526289+00:00",
+  "total_checks": 964,
+  "total_alerts": 290,
+  "last_new_job_ts": "2026-10-28T14:16:52.445865+00:00",
   "last_heartbeat_key": "2026-10-27-13"
 }
