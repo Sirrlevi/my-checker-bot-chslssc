@@ -3483,6 +3483,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "cee674eb91c3ec07": {
+          "title": "Rajasthan Safai Karamchari Correction Form 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
+          "first_seen": "2026-10-29T08:53:34.236172+00:00",
+          "eligibility": "unknown"
+        },
+        "28ed49fe2992558e": {
+          "title": "RRB Station Master Online Form (1265 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrb-station-master-2026/",
+          "first_seen": "2026-10-29T08:53:34.236098+00:00",
+          "eligibility": "unknown"
+        },
+        "e27535dcb4a7d082": {
+          "title": "UPESSC TGT Online Form (17,735 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-tgt-online-form-2026/",
+          "first_seen": "2026-10-29T08:53:34.236084+00:00",
+          "eligibility": "unknown"
+        },
         "d1e6532a92d3d06c": {
           "title": "ISRO ICRB Assistant, UDC, JPA, Stenographer Final Answer Key 2026",
           "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
@@ -7064,34 +7082,16 @@
           "url": "https://www.sarkariexam.com/upsssc-vdo-2023/",
           "first_seen": "2026-08-18T05:53:05.397501+00:00",
           "eligibility": "unknown"
-        },
-        "2dafc22b225de711": {
-          "title": "SSC 10+2 CHSL FRTA Result 2026",
-          "url": "https://www.sarkariexam.com/ssc-chsl-2025/",
-          "first_seen": "2026-08-18T05:27:07.751652+00:00",
-          "eligibility": "eligible"
-        },
-        "2f7db80048108ab7": {
-          "title": "KVS NVS Teaching & Non-Teaching Tier-II Result 2026",
-          "url": "https://www.sarkariexam.com/kvs-nvs-teaching-non-teaching-2026/",
-          "first_seen": "2026-08-18T05:27:07.751631+00:00",
-          "eligibility": "unknown"
-        },
-        "10b07a4efb42c507": {
-          "title": "UPSRTC Bus Conductor Online Form 2026 (43 Posts)",
-          "url": "https://www.sarkariexam.com/upsrtc-conductor-2026-2/",
-          "first_seen": "2026-08-18T04:59:17.527126+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "bc537775a827403b",
+      "last_page_hash": "c4218cfcf6b00eff",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 967,
-  "total_alerts": 290,
-  "last_new_job_ts": "2026-10-28T14:16:52.445865+00:00",
+  "total_checks": 968,
+  "total_alerts": 291,
+  "last_new_job_ts": "2026-10-29T08:53:34.747897+00:00",
   "last_heartbeat_key": "2026-10-27-13"
 }
