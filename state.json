@@ -3483,6 +3483,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "202f563eb876b822": {
+          "title": "RRB ALP CEN 01/2026 Admit Card 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-10-30T17:22:43.859551+00:00",
+          "eligibility": "unknown"
+        },
+        "6ed2a865b154f13a": {
+          "title": "UPCISB UP Cooperative Bank Various Post Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-10-30T17:22:43.859525+00:00",
+          "eligibility": "unknown"
+        },
+        "cb8ce0f5505530e8": {
+          "title": "RRB NTPC 10+2 UG CBT-II Result 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-10-30T17:22:43.859507+00:00",
+          "eligibility": "eligible"
+        },
         "1d09301ff2b55354": {
           "title": "Delhi High Court SPA & PA Typing Test Date 2026",
           "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
@@ -7064,34 +7082,16 @@
           "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
           "first_seen": "2026-08-19T08:22:54.309534+00:00",
           "eligibility": "eligible"
-        },
-        "f4ee1b0e54378027": {
-          "title": "IGCAR Trade Apprentice Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/igcar-trade-apprentice-2026/",
-          "first_seen": "2026-08-19T05:31:22.833709+00:00",
-          "eligibility": "unknown"
-        },
-        "1534363370e8aeaf": {
-          "title": "Railway NFR Apprentice Online Form 2026 (6777 Posts) – Last Date",
-          "url": "https://www.sarkariexam.com/railway-nfr-apprentice-2026/",
-          "first_seen": "2026-08-19T05:31:22.833706+00:00",
-          "eligibility": "unknown"
-        },
-        "4a209ed4eb237874": {
-          "title": "NTA AIAPGET Admit Card 2026",
-          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
-          "first_seen": "2026-08-19T05:31:22.833679+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7b99496bc619139a",
+      "last_page_hash": "47618161b311a432",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 973,
-  "total_alerts": 293,
-  "last_new_job_ts": "2026-10-30T11:51:42.757524+00:00",
+  "total_checks": 974,
+  "total_alerts": 294,
+  "last_new_job_ts": "2026-10-30T17:22:44.534216+00:00",
   "last_heartbeat_key": "2026-10-30-17"
 }
