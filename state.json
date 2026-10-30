@@ -3483,6 +3483,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "1d09301ff2b55354": {
+          "title": "Delhi High Court SPA & PA Typing Test Date 2026",
+          "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
+          "first_seen": "2026-10-30T11:51:42.108195+00:00",
+          "eligibility": "unknown"
+        },
         "5fca3c60c21ce29e": {
           "title": "UP Kushinagar ECCE Educator Online Form 2026",
           "url": "https://www.sarkariexam.com/up-kushinagar-ecce-educator-2026/",
@@ -7076,22 +7082,16 @@
           "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
           "first_seen": "2026-08-19T05:31:22.833679+00:00",
           "eligibility": "unknown"
-        },
-        "538362717ce717ff": {
-          "title": "MPESB Group 2 Sub Group 4 Patwari & Various Posts Online Form 2026 – Date Extended",
-          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-4-2026/",
-          "first_seen": "2026-08-18T13:03:13.143024+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "442fab833f95d143",
+      "last_page_hash": "7b99496bc619139a",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 972,
-  "total_alerts": 292,
-  "last_new_job_ts": "2026-10-29T15:41:59.098223+00:00",
-  "last_heartbeat_key": "2026-10-29-21"
+  "total_checks": 973,
+  "total_alerts": 293,
+  "last_new_job_ts": "2026-10-30T11:51:42.757524+00:00",
+  "last_heartbeat_key": "2026-10-30-17"
 }
