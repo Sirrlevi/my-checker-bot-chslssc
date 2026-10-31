@@ -3483,6 +3483,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "5c65d1c28c96cc92": {
+          "title": "Bihar BCECE Sr. Resident/ Tutor Phase 3 Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-bcece-sr-resident-tutor-phase-3-2026/",
+          "first_seen": "2026-10-31T13:06:18.504210+00:00",
+          "eligibility": "unknown"
+        },
         "5bcf4abd5617ebda": {
           "title": "NTA UGC NET JRF December Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
@@ -7076,22 +7082,16 @@
           "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
           "first_seen": "2026-08-19T13:03:58.465294+00:00",
           "eligibility": "unknown"
-        },
-        "c9c528cfce7d5a6e": {
-          "title": "UPSC EPFO APFC Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
-          "first_seen": "2026-08-19T11:23:50.439824+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0a860c319b202aaf",
+      "last_page_hash": "b33514829ddbc2fb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 977,
-  "total_alerts": 295,
-  "last_new_job_ts": "2026-10-31T06:43:35.025382+00:00",
+  "total_checks": 978,
+  "total_alerts": 296,
+  "last_new_job_ts": "2026-10-31T13:06:19.220082+00:00",
   "last_heartbeat_key": "2026-10-30-17"
 }
