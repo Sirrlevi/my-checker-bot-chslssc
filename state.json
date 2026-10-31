@@ -3483,6 +3483,36 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "5bcf4abd5617ebda": {
+          "title": "NTA UGC NET JRF December Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
+          "first_seen": "2026-10-31T06:43:34.430921+00:00",
+          "eligibility": "unknown"
+        },
+        "f768caa3b1a1892c": {
+          "title": "CSJMU Kanpur Teaching Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/csjmu-kanpur-teaching-post-2026/",
+          "first_seen": "2026-10-31T06:43:34.430913+00:00",
+          "eligibility": "unknown"
+        },
+        "5c31a7f3d1efe76b": {
+          "title": "Bihar Library Eligibility Test BLET Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
+          "first_seen": "2026-10-31T06:43:34.430899+00:00",
+          "eligibility": "unknown"
+        },
+        "cbbe4eb7635fac04": {
+          "title": "UPSC EPFO 2025 Interview Schedule 2026",
+          "url": "https://www.sarkariexam.com/upsc-epfo-eo-ao-2025/",
+          "first_seen": "2026-10-31T06:43:34.430885+00:00",
+          "eligibility": "unknown"
+        },
+        "3e55b840dbb6dbae": {
+          "title": "Bihar Board Class 10th & 12th Dummy Admit Card 2027",
+          "url": "https://www.sarkariexam.com/bihar-board-class-10th-12th-2027/",
+          "first_seen": "2026-10-31T06:43:34.430871+00:00",
+          "eligibility": "unknown"
+        },
         "202f563eb876b822": {
           "title": "RRB ALP CEN 01/2026 Admit Card 2026 – Out",
           "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
@@ -7052,46 +7082,16 @@
           "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
           "first_seen": "2026-08-19T11:23:50.439824+00:00",
           "eligibility": "unknown"
-        },
-        "3c1b65614f027e35": {
-          "title": "IIT JAM Online Form 2027",
-          "url": "https://www.sarkariexam.com/iit-jam-2027/",
-          "first_seen": "2026-08-19T10:59:33.729390+00:00",
-          "eligibility": "unknown"
-        },
-        "6c13c6d11eb4509a": {
-          "title": "RSSB Computer Instructor Admit Card 2026",
-          "url": "https://www.sarkariexam.com/rssb-computer-instructor-2026/",
-          "first_seen": "2026-08-19T09:43:40.249768+00:00",
-          "eligibility": "unknown"
-        },
-        "f4f8e27e7ed6113c": {
-          "title": "UPSSSC Lower PCS Admit Card 2026",
-          "url": "https://www.sarkariexam.com/upsssc-lower-pcs-2026/",
-          "first_seen": "2026-08-19T09:43:40.249754+00:00",
-          "eligibility": "unknown"
-        },
-        "1a41901594199f6d": {
-          "title": "CCI Various Post Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
-          "first_seen": "2026-08-19T09:02:00.333509+00:00",
-          "eligibility": "unknown"
-        },
-        "9a4710194a98f71c": {
-          "title": "BSF HCM & ASI Steno Admit Card 2026",
-          "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
-          "first_seen": "2026-08-19T08:22:54.309534+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "47618161b311a432",
+      "last_page_hash": "0a860c319b202aaf",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 976,
-  "total_alerts": 294,
-  "last_new_job_ts": "2026-10-30T17:22:44.534216+00:00",
+  "total_checks": 977,
+  "total_alerts": 295,
+  "last_new_job_ts": "2026-10-31T06:43:35.025382+00:00",
   "last_heartbeat_key": "2026-10-30-17"
 }
