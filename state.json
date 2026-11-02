@@ -3483,6 +3483,36 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "47b86c53406a2e00": {
+          "title": "NTA UGC NET JRF December Correction / Edit Form 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
+          "first_seen": "2026-11-02T10:53:30.139065+00:00",
+          "eligibility": "unknown"
+        },
+        "9b57fe5033d7270d": {
+          "title": "AFCAT 01/2027 Online Form",
+          "url": "https://www.sarkariexam.com/afcat-01-2027/",
+          "first_seen": "2026-11-02T10:53:30.139024+00:00",
+          "eligibility": "unknown"
+        },
+        "db50a10b65fe35b4": {
+          "title": "Bihar Library Eligibility Test BLET Dummy Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
+          "first_seen": "2026-11-02T10:53:30.139007+00:00",
+          "eligibility": "unknown"
+        },
+        "fb290ba577289409": {
+          "title": "CONCOR MT, Assistant Officer Exam Date 2026",
+          "url": "https://www.sarkariexam.com/concor-mt-assistant-officer-2026/",
+          "first_seen": "2026-11-02T10:53:30.139001+00:00",
+          "eligibility": "unknown"
+        },
+        "3bac2203c01aa97f": {
+          "title": "RRB NTPC 10+2 UG CBTST Exam Date 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
+          "first_seen": "2026-11-02T10:53:30.138983+00:00",
+          "eligibility": "eligible"
+        },
         "5c65d1c28c96cc92": {
           "title": "Bihar BCECE Sr. Resident/ Tutor Phase 3 Online Form 2026",
           "url": "https://www.sarkariexam.com/bihar-bcece-sr-resident-tutor-phase-3-2026/",
@@ -7052,46 +7082,16 @@
           "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
           "first_seen": "2026-08-20T09:56:49.899095+00:00",
           "eligibility": "unknown"
-        },
-        "93c4d523d33e7dd1": {
-          "title": "NTA SWAYAM Result/Score Card 2026",
-          "url": "https://www.sarkariexam.com/nta-swayam-2026/",
-          "first_seen": "2026-08-20T08:51:23.492192+00:00",
-          "eligibility": "unknown"
-        },
-        "c0f19036679184ff": {
-          "title": "ISRO Assistant, UDC, JPA, Stenographer Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
-          "first_seen": "2026-08-20T05:32:40.482531+00:00",
-          "eligibility": "eligible"
-        },
-        "f437761393c3437b": {
-          "title": "Army NCC 125th Special Entry Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/indian-army-ncc-125th-special-entry-april-2027-course/",
-          "first_seen": "2026-08-20T05:00:44.151589+00:00",
-          "eligibility": "unknown"
-        },
-        "668d733f92addfc2": {
-          "title": "Bank Of Baroda LBO Online Form 2026",
-          "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
-          "first_seen": "2026-08-19T13:03:58.465335+00:00",
-          "eligibility": "unknown"
-        },
-        "5f58e0ba9cd4a90b": {
-          "title": "Rajasthan Safai Karamchari Online Form 2026",
-          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
-          "first_seen": "2026-08-19T13:03:58.465294+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b33514829ddbc2fb",
+      "last_page_hash": "3d96ed89207bce45",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 987,
-  "total_alerts": 296,
-  "last_new_job_ts": "2026-10-31T13:06:19.220082+00:00",
+  "total_checks": 988,
+  "total_alerts": 297,
+  "last_new_job_ts": "2026-11-02T10:53:31.180173+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
