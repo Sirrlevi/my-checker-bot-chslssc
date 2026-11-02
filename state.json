@@ -3478,11 +3478,35 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7fec844312d291b",
+      "last_page_hash": "55fa6bc4c6a60397",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "a316a68fddea9439": {
+          "title": "AEES Teaching Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/aees-teaching-various-post-2026/",
+          "first_seen": "2026-11-02T20:33:43.526748+00:00",
+          "eligibility": "unknown"
+        },
+        "cd5b98e3eb1b61e3": {
+          "title": "ONGC Apprentice Online Form 2026 (3047 Posts)",
+          "url": "https://www.sarkariexam.com/ongc-apprentice-2026/",
+          "first_seen": "2026-11-02T20:33:43.526740+00:00",
+          "eligibility": "unknown"
+        },
+        "6f64145667d7cba3": {
+          "title": "UPSC CDS-I Final Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsc-cds-i-2025/",
+          "first_seen": "2026-11-02T20:33:43.526639+00:00",
+          "eligibility": "unknown"
+        },
+        "455212353147bc5b": {
+          "title": "UPSSSC PET Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
+          "first_seen": "2026-11-02T20:33:43.526618+00:00",
+          "eligibility": "unknown"
+        },
         "47b86c53406a2e00": {
           "title": "NTA UGC NET JRF December Correction / Edit Form 2026",
           "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
@@ -7058,40 +7082,16 @@
           "url": "https://www.sarkariexam.com/aibe-22nd-2026/",
           "first_seen": "2026-08-20T13:05:56.954648+00:00",
           "eligibility": "unknown"
-        },
-        "82fc2fa6da8874f5": {
-          "title": "UPSRTC Gonda, Bahraich, Balrampur Bus Conductor Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsrtc-gonda-bahraich-balrampur-bus-conductor-2026/",
-          "first_seen": "2026-08-20T12:03:08.366050+00:00",
-          "eligibility": "unknown"
-        },
-        "b0add89067d542da": {
-          "title": "NICL Assistant Admit Card 2026",
-          "url": "https://www.sarkariexam.com/national-insurance-nicl-assistant-2026/",
-          "first_seen": "2026-08-20T11:44:39.217390+00:00",
-          "eligibility": "unknown"
-        },
-        "8a06304d6d857d63": {
-          "title": "SSC MTS PET/PST Exam Date 2026",
-          "url": "https://www.sarkariexam.com/ssc-mts-havaldar-2026/",
-          "first_seen": "2026-08-20T11:16:12.147399+00:00",
-          "eligibility": "eligible"
-        },
-        "075b75bdfed8d75e": {
-          "title": "BSNL JTO Admit Card 2026",
-          "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
-          "first_seen": "2026-08-20T09:56:49.899095+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3d96ed89207bce45",
+      "last_page_hash": "7adac4a4d07884d9",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 988,
-  "total_alerts": 297,
-  "last_new_job_ts": "2026-11-02T10:53:31.180173+00:00",
+  "total_checks": 989,
+  "total_alerts": 298,
+  "last_new_job_ts": "2026-11-02T20:33:44.065806+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
