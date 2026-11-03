@@ -3483,6 +3483,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "3088a17aaf07946e": {
+          "title": "BSF Head Constable RO / RM Answer Key 2026",
+          "url": "https://www.sarkariexam.com/bsf-head-constable-ro-rm-2025/",
+          "first_seen": "2026-11-03T09:58:49.207761+00:00",
+          "eligibility": "unknown"
+        },
+        "b20774f86d0ad7d6": {
+          "title": "PGCIL Engineer Trainee Online Form 2026",
+          "url": "https://www.sarkariexam.com/pgcil-engineer-trainee-2026/",
+          "first_seen": "2026-11-03T09:58:49.207730+00:00",
+          "eligibility": "unknown"
+        },
+        "de92bbc4b70cfdc6": {
+          "title": "Indian Coast Guard Navik / Yantrik CGEPT Exam Date 2026",
+          "url": "https://www.sarkariexam.com/indian-coast-guard-cgept-01-2027-02-2027/",
+          "first_seen": "2026-11-03T09:58:49.207693+00:00",
+          "eligibility": "unknown"
+        },
+        "31f50a9d0545ca24": {
+          "title": "SSB Head Constable Ministerial Typing Test Date 2026",
+          "url": "https://www.sarkariexam.com/ssb-head-constable-ministerial-2021/",
+          "first_seen": "2026-11-03T09:58:49.207690+00:00",
+          "eligibility": "unknown"
+        },
+        "771c292b9e7d06b5": {
+          "title": "SSC CPO SI 2025 Paper II Exam Date 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-paper-i-2025/",
+          "first_seen": "2026-11-03T09:58:49.207686+00:00",
+          "eligibility": "unknown"
+        },
+        "a7288e66fcfba32c": {
+          "title": "UPCISB UP Cooperative Bank Various Post Result 2026",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-11-03T09:58:49.207665+00:00",
+          "eligibility": "unknown"
+        },
+        "b94d9e805dad4a8b": {
+          "title": "UPSC CDS-I Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsc-cds-i-2025/",
+          "first_seen": "2026-11-03T09:58:49.207651+00:00",
+          "eligibility": "unknown"
+        },
         "a316a68fddea9439": {
           "title": "AEES Teaching Various Post Online Form 2026",
           "url": "https://www.sarkariexam.com/aees-teaching-various-post-2026/",
@@ -7040,58 +7082,16 @@
           "url": "https://www.sarkariexam.com/cci-various-post-2026/",
           "first_seen": "2026-08-21T13:05:09.643253+00:00",
           "eligibility": "unknown"
-        },
-        "c1e13cd0a973b2bc": {
-          "title": "UPSSSC Junior Assistant 09/2022 Final Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-typing-test-2025/",
-          "first_seen": "2026-08-21T13:05:09.643206+00:00",
-          "eligibility": "unknown"
-        },
-        "47975fc914d3aef2": {
-          "title": "NTA NEET UG I Round Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/nta-neet-ug-2026/",
-          "first_seen": "2026-08-21T06:05:38.357564+00:00",
-          "eligibility": "unknown"
-        },
-        "c769d437349ea8fc": {
-          "title": "IBPS Clerk CSA 16th Online Form 2026 (11403 Posts) – Last Date",
-          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
-          "first_seen": "2026-08-21T05:00:57.121753+00:00",
-          "eligibility": "unknown"
-        },
-        "1b1a1bc3e3667d83": {
-          "title": "UPSSSC BCG Technician Final Answer Key 2026",
-          "url": "https://www.sarkariexam.com/upsssc-bcg-technician-2024/",
-          "first_seen": "2026-08-20T16:47:16.234848+00:00",
-          "eligibility": "unknown"
-        },
-        "87a755bf92f8f9b3": {
-          "title": "UPSSSC UP Pollution Control Board Various Post Final Answer Key 2026",
-          "url": "https://www.sarkariexam.com/upsssc-up-pollution-control-board-various-post-2026/",
-          "first_seen": "2026-08-20T16:47:16.234841+00:00",
-          "eligibility": "unknown"
-        },
-        "0641c89a728547d6": {
-          "title": "UPSSSC Pharmacist Final Answer Key 2026",
-          "url": "https://www.sarkariexam.com/upsssc-pharmacist-2026/",
-          "first_seen": "2026-08-20T16:47:16.234816+00:00",
-          "eligibility": "unknown"
-        },
-        "08dfb8d795976af2": {
-          "title": "AIBE 22nd Online Form 2026",
-          "url": "https://www.sarkariexam.com/aibe-22nd-2026/",
-          "first_seen": "2026-08-20T13:05:56.954648+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7adac4a4d07884d9",
+      "last_page_hash": "0c46ededb99da552",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 990,
-  "total_alerts": 298,
-  "last_new_job_ts": "2026-11-02T20:33:44.065806+00:00",
+  "total_checks": 991,
+  "total_alerts": 299,
+  "last_new_job_ts": "2026-11-03T09:58:50.289255+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
