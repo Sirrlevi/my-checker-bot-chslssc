@@ -3483,6 +3483,36 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "b497a067edcf3747": {
+          "title": "NTA AISSEE Sainik School Admission Online Form 2027",
+          "url": "https://www.sarkariexam.com/nta-aissee-sainik-school-admission-2026/",
+          "first_seen": "2026-11-03T17:30:58.405233+00:00",
+          "eligibility": "unknown"
+        },
+        "36b19162e56fb55a": {
+          "title": "PGCIL Engineer Trainee Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/pgcil-engineer-trainee-2026/",
+          "first_seen": "2026-11-03T17:30:58.405208+00:00",
+          "eligibility": "unknown"
+        },
+        "0ba3202d61f969f8": {
+          "title": "Semi Conductor SCL Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/semi-conductor-scl-various-post-2026/",
+          "first_seen": "2026-11-03T17:30:58.405198+00:00",
+          "eligibility": "unknown"
+        },
+        "c4bd2012607f15bc": {
+          "title": "UPSSSC Junior Assistant 12/2024 Typing Test Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-advt-12-2024/",
+          "first_seen": "2026-11-03T17:30:58.405149+00:00",
+          "eligibility": "unknown"
+        },
+        "23b6c0d4d08dc7a7": {
+          "title": "SSC GD Constable Final Answer Key & Marks 2026",
+          "url": "https://www.sarkariexam.com/ssc-gd-constable-2025/",
+          "first_seen": "2026-11-03T17:30:58.405092+00:00",
+          "eligibility": "eligible"
+        },
         "3088a17aaf07946e": {
           "title": "BSF Head Constable RO / RM Answer Key 2026",
           "url": "https://www.sarkariexam.com/bsf-head-constable-ro-rm-2025/",
@@ -7052,46 +7082,16 @@
           "url": "https://www.sarkariexam.com/upsssc-stenographer-2023/",
           "first_seen": "2026-08-21T15:00:15.455031+00:00",
           "eligibility": "eligible"
-        },
-        "a7ef926ac0ff5e74": {
-          "title": "SSC Selection Post 14th Exam Date 2026",
-          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
-          "first_seen": "2026-08-21T15:00:15.455024+00:00",
-          "eligibility": "unknown"
-        },
-        "e7408ba329d30a88": {
-          "title": "Delhi DSSSB Various Post Result Date 2026",
-          "url": "https://www.sarkariexam.com/dsssb-various-post-result-2026/",
-          "first_seen": "2026-08-21T15:00:15.454990+00:00",
-          "eligibility": "unknown"
-        },
-        "1bc3fe5d9556121c": {
-          "title": "UP DELEd 2026 Allotment Result",
-          "url": "https://www.sarkariexam.com/up-deled-admission-2026/",
-          "first_seen": "2026-08-21T15:00:15.454968+00:00",
-          "eligibility": "unknown"
-        },
-        "1bffbb825d26a704": {
-          "title": "NTPC NGEL Engineer and Executive Online Form 2026",
-          "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
-          "first_seen": "2026-08-21T13:05:09.643290+00:00",
-          "eligibility": "unknown"
-        },
-        "95fe872b3fa11ba5": {
-          "title": "CCI Various Post Admit Card 2026",
-          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
-          "first_seen": "2026-08-21T13:05:09.643253+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0c46ededb99da552",
+      "last_page_hash": "109d39158baae855",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 991,
-  "total_alerts": 299,
-  "last_new_job_ts": "2026-11-03T09:58:50.289255+00:00",
+  "total_checks": 992,
+  "total_alerts": 300,
+  "last_new_job_ts": "2026-11-03T17:30:59.006679+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
