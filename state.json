@@ -20338,6 +20338,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "f16976aa59c27462": {
+          "title": "Bihar Vidhan Sabha Junior Secretariat Assistant JSA Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-sabha-junior-secretariat-assistant-jsa-2026/",
+          "first_seen": "2026-11-04T09:46:50.560641+00:00",
+          "eligibility": "unknown"
+        },
+        "0fcfbfcb23736bd1": {
+          "title": "Bihar Vidhan Sabha Office Attendant Online Form 2026",
+          "url": "https://www.sarkariexam.com/bihar-vidhan-sabha-office-attendant-2026/",
+          "first_seen": "2026-11-04T09:46:50.560633+00:00",
+          "eligibility": "eligible"
+        },
+        "f956ae2ac29bef37": {
+          "title": "Indian Bank Apprentice Online Form 2026",
+          "url": "https://www.sarkariexam.com/indian-bank-apprentice-2026/",
+          "first_seen": "2026-11-04T09:46:50.560613+00:00",
+          "eligibility": "unknown"
+        },
         "b497a067edcf3747": {
           "title": "NTA AISSEE Sainik School Admission Online Form 2027",
           "url": "https://www.sarkariexam.com/nta-aissee-sainik-school-admission-2026/",
@@ -23919,34 +23937,16 @@
           "url": "https://www.sarkariexam.com/idbi-bank-jam-assistant-manager-2026/",
           "first_seen": "2026-08-22T06:55:14.385244+00:00",
           "eligibility": "unknown"
-        },
-        "41a1a18299d0e6e9": {
-          "title": "IBPS Clerk CSA 16th Online Form 2026 (11403 Posts) – Extend",
-          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
-          "first_seen": "2026-08-22T05:45:53.364462+00:00",
-          "eligibility": "unknown"
-        },
-        "2387cd962f67410d": {
-          "title": "RRB ALP CEN 01/2026 Online Application Status 2026",
-          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
-          "first_seen": "2026-08-22T05:45:53.364428+00:00",
-          "eligibility": "unknown"
-        },
-        "f3824c71359dda57": {
-          "title": "UPSSSC Stenographer 09/2023 Skill Test Exam Date 2026",
-          "url": "https://www.sarkariexam.com/upsssc-stenographer-2023/",
-          "first_seen": "2026-08-21T15:00:15.455031+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "109d39158baae855",
+      "last_page_hash": "fac107d00c129ea7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 994,
-  "total_alerts": 300,
-  "last_new_job_ts": "2026-11-03T17:30:59.006679+00:00",
+  "total_checks": 995,
+  "total_alerts": 301,
+  "last_new_job_ts": "2026-11-04T09:46:52.814181+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
