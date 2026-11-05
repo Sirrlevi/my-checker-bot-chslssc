@@ -20338,6 +20338,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "4a33daccbf8bfee2": {
+          "title": "UPESSC PRT Assistant Teacher Correction Form 2026",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-11-05T09:59:45.265963+00:00",
+          "eligibility": "unknown"
+        },
+        "ff0c36667e7d5d36": {
+          "title": "Railway RRB Ministerial & Isolated Online Form 2026",
+          "url": "https://www.sarkariexam.com/railway-rrb-ministerial-isolated-2026/",
+          "first_seen": "2026-11-05T09:59:45.265957+00:00",
+          "eligibility": "unknown"
+        },
+        "f66ce1974621e659": {
+          "title": "RRB ALP CEN 01/2026 Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-11-05T09:59:45.265916+00:00",
+          "eligibility": "unknown"
+        },
         "d86362d51d648842": {
           "title": "Railway RRC CR Apprentice Online Form 2026",
           "url": "https://www.sarkariexam.com/railway-rrc-cr-apprentice-nov-2026/",
@@ -23919,34 +23937,16 @@
           "url": "https://www.sarkariexam.com/neet-pg-2026/",
           "first_seen": "2026-08-24T11:01:03.841348+00:00",
           "eligibility": "unknown"
-        },
-        "71d5b455be24282c": {
-          "title": "OICL AO Score Card 2026",
-          "url": "https://www.sarkariexam.com/oicl-ao-scale-i-2025/",
-          "first_seen": "2026-08-24T11:01:03.841310+00:00",
-          "eligibility": "unknown"
-        },
-        "053df663fd62b192": {
-          "title": "ONGC Geologists and Engineers E1 Admit Card 2026",
-          "url": "https://www.sarkariexam.com/ongc-geologists-and-engineers-e1-2026/",
-          "first_seen": "2026-08-24T08:05:33.129997+00:00",
-          "eligibility": "unknown"
-        },
-        "db50821c53fe4638": {
-          "title": "RBI Officer Grade B Phase-II Result 2026",
-          "url": "https://www.sarkariexam.com/rbi-grade-b-2026/",
-          "first_seen": "2026-08-24T07:15:53.829318+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6cb2bf710cd3090e",
+      "last_page_hash": "ad8c437b9c171b3e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 998,
-  "total_alerts": 302,
-  "last_new_job_ts": "2026-11-04T17:33:49.878182+00:00",
+  "total_checks": 999,
+  "total_alerts": 303,
+  "last_new_job_ts": "2026-11-05T09:59:46.359921+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
