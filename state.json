@@ -20338,6 +20338,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "6f498d48dcc8d830": {
+          "title": "UP Kanpur ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-kanpur-ecce-educator-2026/",
+          "first_seen": "2026-11-06T17:41:42.891384+00:00",
+          "eligibility": "unknown"
+        },
+        "d4a6fd2989bd38eb": {
+          "title": "UP Bulandshahar ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-bulandshahar-ecce-educator-2026/",
+          "first_seen": "2026-11-06T17:41:42.891380+00:00",
+          "eligibility": "unknown"
+        },
+        "f7e6624c8ca915bf": {
+          "title": "DSSSB MTS & JE Online Form 2026",
+          "url": "https://www.sarkariexam.com/dsssb-mts-je-2026/",
+          "first_seen": "2026-11-06T17:41:42.891276+00:00",
+          "eligibility": "eligible"
+        },
+        "05bbae2089896d7d": {
+          "title": "CBSE Board Class 10th, 12th Date Sheet 2027",
+          "url": "https://www.sarkariexam.com/cbse-board-class-10th-12th-date-sheet-2027/",
+          "first_seen": "2026-11-06T17:41:42.891224+00:00",
+          "eligibility": "unknown"
+        },
         "197841c44a0a0cdc": {
           "title": "ISRO SDSC SHAR Apprentice Online Form 2026",
           "url": "https://www.sarkariexam.com/isro-sdsc-shar-apprentice-2026/",
@@ -23913,40 +23937,16 @@
           "url": "https://www.sarkariexam.com/ctet-september-2026/",
           "first_seen": "2026-08-25T09:58:44.368771+00:00",
           "eligibility": "unknown"
-        },
-        "e3f540b3623f22c2": {
-          "title": "SBI Apprentice Result 2026",
-          "url": "https://www.sarkariexam.com/sbi-apprentice-2026/",
-          "first_seen": "2026-08-25T08:54:25.154636+00:00",
-          "eligibility": "unknown"
-        },
-        "da91e20b55a7cd8a": {
-          "title": "MPESB Group 3 Sub Engineer & Other Post Online Form 2026 – Canceled",
-          "url": "https://www.sarkariexam.com/mpesb-group-3-sub-engineer-other-post-2026/",
-          "first_seen": "2026-08-25T07:17:47.179542+00:00",
-          "eligibility": "unknown"
-        },
-        "ab1d40ef1af40f8f": {
-          "title": "UPCISB UP Cooperative Bank Various Post Exam Date 2026",
-          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
-          "first_seen": "2026-08-25T07:17:47.179466+00:00",
-          "eligibility": "unknown"
-        },
-        "8540664f66ec81db": {
-          "title": "DSSSB Various Posts Exam Date 2026",
-          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
-          "first_seen": "2026-08-25T06:25:17.808473+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "08efeb2e5c0b0bd7",
+      "last_page_hash": "f2473cacf8b28d05",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1003,
-  "total_alerts": 305,
-  "last_new_job_ts": "2026-11-06T10:45:37.355568+00:00",
+  "total_checks": 1004,
+  "total_alerts": 306,
+  "last_new_job_ts": "2026-11-06T17:41:43.639256+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
