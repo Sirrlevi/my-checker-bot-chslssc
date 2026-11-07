@@ -20338,6 +20338,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "6eda6482dd2d844a": {
+          "title": "UPESSC UP Primary Teacher PRT Re-Open Online Form 2026 (For NIOS/ DELED)",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-11-07T08:40:10.725063+00:00",
+          "eligibility": "unknown"
+        },
+        "4afaf1512aaf28f8": {
+          "title": "Railway RRC NR Apprentice Online Form 2026 (4651 Posts)",
+          "url": "https://www.sarkariexam.com/railway-rrc-nr-apprentice-2026/",
+          "first_seen": "2026-11-07T08:40:10.725057+00:00",
+          "eligibility": "unknown"
+        },
+        "47a7f77b13e36840": {
+          "title": "UPSSSC BCG Technician Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-bcg-technician-2024/",
+          "first_seen": "2026-11-07T08:40:10.724985+00:00",
+          "eligibility": "unknown"
+        },
         "6f498d48dcc8d830": {
           "title": "UP Kanpur ECCE Educator Online Form 2026",
           "url": "https://www.sarkariexam.com/up-kanpur-ecce-educator-2026/",
@@ -23919,34 +23937,16 @@
           "url": "https://www.sarkariexam.com/up-ambedkar-nagar-ecce-educator-2026/",
           "first_seen": "2026-08-25T10:59:53.127677+00:00",
           "eligibility": "unknown"
-        },
-        "01d87023c4aba471": {
-          "title": "UPSSSC Pharmacist Ayurvedic Mains Exam Fees Payment 2026",
-          "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
-          "first_seen": "2026-08-25T10:59:53.127498+00:00",
-          "eligibility": "unknown"
-        },
-        "9f37eb9ca7be1880": {
-          "title": "UPSSSC Excise Constable Mains Exam Fees Payment 2026",
-          "url": "https://www.sarkariexam.com/upsssc-excise-constable-2026/",
-          "first_seen": "2026-08-25T10:28:42.347359+00:00",
-          "eligibility": "unknown"
-        },
-        "139bd3c1cf08ed1e": {
-          "title": "CTET September Online Form 2026",
-          "url": "https://www.sarkariexam.com/ctet-september-2026/",
-          "first_seen": "2026-08-25T09:58:44.368771+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f2473cacf8b28d05",
+      "last_page_hash": "961e86ab3859a4eb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1006,
-  "total_alerts": 306,
-  "last_new_job_ts": "2026-11-06T17:41:43.639256+00:00",
+  "total_checks": 1007,
+  "total_alerts": 307,
+  "last_new_job_ts": "2026-11-07T08:40:11.304600+00:00",
   "last_heartbeat_key": "2026-11-01-21"
 }
