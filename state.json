@@ -20333,11 +20333,29 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "55fa6bc4c6a60397",
+      "last_page_hash": "e7fec844312d291b",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "cac0a67597e3ecfc": {
+          "title": "Supreme Court SCI Junior Court Assistant Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-sci-junior-court-assistant-2026/",
+          "first_seen": "2026-11-09T20:46:33.164750+00:00",
+          "eligibility": "unknown"
+        },
+        "b500b82c96bb404e": {
+          "title": "IBPS RRB XV 15th Officer Scale-I Pre Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
+          "first_seen": "2026-11-09T20:46:33.164746+00:00",
+          "eligibility": "unknown"
+        },
+        "3623c8c094006a56": {
+          "title": "DRDO CEPTAM-11 Tier-II Result 2026",
+          "url": "https://www.sarkariexam.com/drdo-ceptam-11-2026/",
+          "first_seen": "2026-11-09T20:46:33.164714+00:00",
+          "eligibility": "unknown"
+        },
         "244de7c8dec4d233": {
           "title": "ISRO SDSC SHAR Various Post Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/isro-sdsc-shar-various-post-2026/",
@@ -23919,34 +23937,16 @@
           "url": "https://www.sarkariexam.com/bihar-bceceb-bsfc-various-post-2026/",
           "first_seen": "2026-08-25T12:23:41.975923+00:00",
           "eligibility": "unknown"
-        },
-        "99301914171cc997": {
-          "title": "Bihar BCECEB Senior Resident/ Tutor Online Form 2026",
-          "url": "https://www.sarkariexam.com/bihar-bceceb-senior-resident-tutor-2026-2/",
-          "first_seen": "2026-08-25T11:52:02.032172+00:00",
-          "eligibility": "unknown"
-        },
-        "38c78dc47d081c0d": {
-          "title": "UP Chitrakoot ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-chitrakoot-ecce-educator-2026/",
-          "first_seen": "2026-08-25T11:25:18.362189+00:00",
-          "eligibility": "unknown"
-        },
-        "c318be0b84f1cc39": {
-          "title": "UP Bijnor ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-bijnor-ecce-educator-2026-2/",
-          "first_seen": "2026-08-25T11:25:18.362172+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d0b4c6a95e57f055",
+      "last_page_hash": "a822a6e02986c1e5",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1017,
-  "total_alerts": 308,
-  "last_new_job_ts": "2026-11-09T10:16:16.897883+00:00",
+  "total_checks": 1018,
+  "total_alerts": 309,
+  "last_new_job_ts": "2026-11-09T20:46:34.461516+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
