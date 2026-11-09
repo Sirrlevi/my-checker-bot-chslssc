@@ -20333,11 +20333,17 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7fec844312d291b",
+      "last_page_hash": "55fa6bc4c6a60397",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "244de7c8dec4d233": {
+          "title": "ISRO SDSC SHAR Various Post Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/isro-sdsc-shar-various-post-2026/",
+          "first_seen": "2026-11-09T10:16:15.750190+00:00",
+          "eligibility": "unknown"
+        },
         "6eda6482dd2d844a": {
           "title": "UPESSC UP Primary Teacher PRT Re-Open Online Form 2026 (For NIOS/ DELED)",
           "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
@@ -23931,22 +23937,16 @@
           "url": "https://www.sarkariexam.com/up-bijnor-ecce-educator-2026-2/",
           "first_seen": "2026-08-25T11:25:18.362172+00:00",
           "eligibility": "unknown"
-        },
-        "736697aff4e6f408": {
-          "title": "UP Ambedkar Nagar ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-ambedkar-nagar-ecce-educator-2026/",
-          "first_seen": "2026-08-25T10:59:53.127677+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "961e86ab3859a4eb",
+      "last_page_hash": "d0b4c6a95e57f055",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1016,
-  "total_alerts": 307,
-  "last_new_job_ts": "2026-11-07T08:40:11.304600+00:00",
+  "total_checks": 1017,
+  "total_alerts": 308,
+  "last_new_job_ts": "2026-11-09T10:16:16.897883+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
