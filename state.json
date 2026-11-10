@@ -20333,11 +20333,17 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "55fa6bc4c6a60397",
+      "last_page_hash": "e7fec844312d291b",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "2912f5712404cb7e": {
+          "title": "Supreme Court SPA Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/supreme-court-spa-2026/",
+          "first_seen": "2026-11-10T10:39:43.649991+00:00",
+          "eligibility": "unknown"
+        },
         "cac0a67597e3ecfc": {
           "title": "Supreme Court SCI Junior Court Assistant Exam City Details 2026",
           "url": "https://www.sarkariexam.com/supreme-court-sci-junior-court-assistant-2026/",
@@ -23931,22 +23937,16 @@
           "url": "https://www.sarkariexam.com/bceceb-bihar-senior-resident-tutor-2026/",
           "first_seen": "2026-08-25T12:23:41.975938+00:00",
           "eligibility": "unknown"
-        },
-        "4303c888921bb083": {
-          "title": "Bihar BCECEB BSFC Various Post Online Form 2026",
-          "url": "https://www.sarkariexam.com/bihar-bceceb-bsfc-various-post-2026/",
-          "first_seen": "2026-08-25T12:23:41.975923+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a822a6e02986c1e5",
+      "last_page_hash": "ff25059f3be669cc",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1019,
-  "total_alerts": 309,
-  "last_new_job_ts": "2026-11-09T20:46:34.461516+00:00",
+  "total_checks": 1020,
+  "total_alerts": 310,
+  "last_new_job_ts": "2026-11-10T10:39:44.214686+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
