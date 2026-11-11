@@ -20338,6 +20338,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "22304dfe0f396673": {
+          "title": "UPESSC UP Primary Teacher PRT Re-Open Online Form 2026 (For NIOS/ DELED) – Last Date",
+          "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
+          "first_seen": "2026-11-11T02:52:53.654485+00:00",
+          "eligibility": "unknown"
+        },
+        "6b5cea9b1570466d": {
+          "title": "DSSSB Sweeper & Chowkidar Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/dsssb-sweeper-chowkidar-2026/",
+          "first_seen": "2026-11-11T02:52:53.654479+00:00",
+          "eligibility": "eligible"
+        },
+        "3347181cb4bb9b1a": {
+          "title": "NICL Administrative Officers AO Pre Admit Card 2026",
+          "url": "https://www.sarkariexam.com/nicl-administrative-officers-ao-2026/",
+          "first_seen": "2026-11-11T02:52:53.654451+00:00",
+          "eligibility": "unknown"
+        },
+        "14821da19979e52c": {
+          "title": "BSF Constable Tradesman Written Exam / Admit Card Notice 2026",
+          "url": "https://www.sarkariexam.com/bsf-constable-tradesman-2025/",
+          "first_seen": "2026-11-11T02:52:53.654431+00:00",
+          "eligibility": "eligible"
+        },
         "2912f5712404cb7e": {
           "title": "Supreme Court SPA Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/supreme-court-spa-2026/",
@@ -23913,40 +23937,16 @@
           "url": "https://www.sarkariexam.com/upsssc-stenographer-2024/",
           "first_seen": "2026-08-26T06:32:04.905171+00:00",
           "eligibility": "eligible"
-        },
-        "61181568147c0799": {
-          "title": "SJVN Various Post Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/sjvn-various-post-2026/",
-          "first_seen": "2026-08-26T04:51:50.226711+00:00",
-          "eligibility": "unknown"
-        },
-        "c42a3dcd8030b8cc": {
-          "title": "UPSC CAPF AC Result 2026",
-          "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
-          "first_seen": "2026-08-25T15:06:36.394437+00:00",
-          "eligibility": "unknown"
-        },
-        "054113feb7c55c6c": {
-          "title": "SSC Stenographer Group C, D 2025 Final Result",
-          "url": "https://www.sarkariexam.com/ssc-stenographer-2025/",
-          "first_seen": "2026-08-25T13:26:20.198640+00:00",
-          "eligibility": "eligible"
-        },
-        "04b2234652efa6db": {
-          "title": "Bihar BCECEB Senior Resident/ Tutor Online Form 2026",
-          "url": "https://www.sarkariexam.com/bceceb-bihar-senior-resident-tutor-2026/",
-          "first_seen": "2026-08-25T12:23:41.975938+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "d8218c0f7c15e3bb",
+      "last_page_hash": "40a666685f3f5cff",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1022,
-  "total_alerts": 310,
-  "last_new_job_ts": "2026-11-10T10:39:44.214686+00:00",
+  "total_checks": 1023,
+  "total_alerts": 311,
+  "last_new_job_ts": "2026-11-11T02:52:54.299160+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
