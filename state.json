@@ -20338,6 +20338,36 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "f1ebb073449cd113": {
+          "title": "UPESSC UP Special TET Answer Key 2026",
+          "url": "https://www.sarkariexam.com/up-special-tet-2026/",
+          "first_seen": "2026-11-11T09:57:19.501170+00:00",
+          "eligibility": "unknown"
+        },
+        "0ec8225d29bb4078": {
+          "title": "RRB ALP CEN 01/2026 Vacancy Increased 2026",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-11-11T09:57:19.501120+00:00",
+          "eligibility": "unknown"
+        },
+        "c889fc11f228068f": {
+          "title": "UPSC Engineering Services Pre Exam Schedule 2027",
+          "url": "https://www.sarkariexam.com/upsc-engineering-services-pre-2027/",
+          "first_seen": "2026-11-11T09:57:19.501117+00:00",
+          "eligibility": "unknown"
+        },
+        "7f4c2b26f1cc2c74": {
+          "title": "IIM CAT Admit Card 2026",
+          "url": "https://www.sarkariexam.com/iim-cat-admission-2026/",
+          "first_seen": "2026-11-11T09:57:19.501113+00:00",
+          "eligibility": "unknown"
+        },
+        "267a0859764cad65": {
+          "title": "CISCE ICSE Board Class 10th/12th Time Table 2027",
+          "url": "https://www.sarkariexam.com/cisce-icse-board-class-10th-12th-2027/",
+          "first_seen": "2026-11-11T09:57:19.501095+00:00",
+          "eligibility": "unknown"
+        },
         "22304dfe0f396673": {
           "title": "UPESSC UP Primary Teacher PRT Re-Open Online Form 2026 (For NIOS/ DELED) – Last Date",
           "url": "https://www.sarkariexam.com/upessc-prt-assistant-teacher-2026/",
@@ -23907,46 +23937,16 @@
           "url": "https://www.sarkariexam.com/up-jalaun-ecce-educator-2026/",
           "first_seen": "2026-08-26T12:05:12.023706+00:00",
           "eligibility": "unknown"
-        },
-        "1026e19c668c3a54": {
-          "title": "NTA UGC NET June Result 2026",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-08-26T10:49:26.080257+00:00",
-          "eligibility": "unknown"
-        },
-        "30a56cf213ca5f59": {
-          "title": "NTA CSIR UGC NET June Result 2026",
-          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
-          "first_seen": "2026-08-26T10:49:26.080240+00:00",
-          "eligibility": "unknown"
-        },
-        "f08ad2cfa21460de": {
-          "title": "Indian Overseas Bank Security Guard Online Form 2026",
-          "url": "https://www.sarkariexam.com/indian-overseas-bank-security-guard-2026/",
-          "first_seen": "2026-08-26T08:59:03.198990+00:00",
-          "eligibility": "unknown"
-        },
-        "08e088c9894b7b76": {
-          "title": "UPSSSC Stenographer 09/2023 Skill Test Admit Card 2026",
-          "url": "https://www.sarkariexam.com/upsssc-stenographer-2023/",
-          "first_seen": "2026-08-26T07:29:19.723272+00:00",
-          "eligibility": "eligible"
-        },
-        "53893d7ffd52abca": {
-          "title": "UPSSSC Stenographer 13/2024 Skill Test Admit Card 2026",
-          "url": "https://www.sarkariexam.com/upsssc-stenographer-2024/",
-          "first_seen": "2026-08-26T06:32:04.905171+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "40a666685f3f5cff",
+      "last_page_hash": "9875501c9ccd69cf",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1023,
-  "total_alerts": 311,
-  "last_new_job_ts": "2026-11-11T02:52:54.299160+00:00",
+  "total_checks": 1024,
+  "total_alerts": 312,
+  "last_new_job_ts": "2026-11-11T09:57:20.261135+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
