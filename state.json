@@ -20338,6 +20338,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "42dbe25a537e7491": {
+          "title": "Punjab National Bank PNB LBO Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/punjab-national-bank-pnb-lbo-2026/",
+          "first_seen": "2026-11-11T17:40:21.202104+00:00",
+          "eligibility": "unknown"
+        },
         "f1ebb073449cd113": {
           "title": "UPESSC UP Special TET Answer Key 2026",
           "url": "https://www.sarkariexam.com/up-special-tet-2026/",
@@ -23931,22 +23937,16 @@
           "url": "https://www.sarkariexam.com/up-tgt-2022/",
           "first_seen": "2026-08-26T13:12:10.596884+00:00",
           "eligibility": "unknown"
-        },
-        "1f929571e6f59181": {
-          "title": "UP Jalaun ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-jalaun-ecce-educator-2026/",
-          "first_seen": "2026-08-26T12:05:12.023706+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "9875501c9ccd69cf",
+      "last_page_hash": "d585e19a8023f5b0",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1024,
-  "total_alerts": 312,
-  "last_new_job_ts": "2026-11-11T09:57:20.261135+00:00",
+  "total_checks": 1025,
+  "total_alerts": 313,
+  "last_new_job_ts": "2026-11-11T17:40:21.800873+00:00",
   "last_heartbeat_key": "2026-11-08-13"
 }
