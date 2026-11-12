@@ -16,9 +16,142 @@
       "baseline_done": false
     },
     "ibps_home": {
-      "seen": {},
-      "last_page_hash": null,
-      "baseline_done": false
+      "seen": {
+        "1b6f13b2a53b3820": {
+          "title": "Former Chairmen of IBPS",
+          "url": "https://www.ibps.in/index.php/chairmen/",
+          "first_seen": "2026-11-12T20:31:09.298998+00:00",
+          "eligibility": "unknown"
+        },
+        "77e19ff24e753b9a": {
+          "title": "IBPS Social Responsibility",
+          "url": "https://www.ibps.in/index.php/csr/",
+          "first_seen": "2026-11-12T20:31:09.299015+00:00",
+          "eligibility": "unknown"
+        },
+        "66219595cdf13419": {
+          "title": "Services of IBPS",
+          "url": "https://www.ibps.in/index.php/services/",
+          "first_seen": "2026-11-12T20:31:09.299018+00:00",
+          "eligibility": "unknown"
+        },
+        "5a5b03e6c20782a4": {
+          "title": "CRP- RRBs-XV",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "first_seen": "2026-11-12T20:31:09.299020+00:00",
+          "eligibility": "unknown"
+        },
+        "e5f9a7e6ddb622e3": {
+          "title": "Online Pre-Examination Training for Candidates who Opted for PET under CRP- RRBs-XV",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "first_seen": "2026-11-12T20:31:09.299025+00:00",
+          "eligibility": "unknown"
+        },
+        "8ced31789ec59018": {
+          "title": "Online Preliminary Exam Call Letter for CRP-RRBs-XV- Officer Scale I",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "first_seen": "2026-11-12T20:31:09.299028+00:00",
+          "eligibility": "unknown"
+        },
+        "034b2c00c94f3aa1": {
+          "title": "Result Status of Online Preliminary Examination for CRP-SPL-XVI",
+          "url": "http://ibpsreg.ibps.in/crpspxvimy26/presta_oct26/login.php?appid=f8a5692529ba20a12e158903a42a917c",
+          "first_seen": "2026-11-12T20:31:09.299030+00:00",
+          "eligibility": "unknown"
+        },
+        "2626148476cec10b": {
+          "title": "CRP-PO/MTs-XVI",
+          "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+          "first_seen": "2026-11-12T20:31:09.299034+00:00",
+          "eligibility": "eligible"
+        },
+        "36351560bedf9e55": {
+          "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
+          "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+          "first_seen": "2026-11-12T20:31:09.299037+00:00",
+          "eligibility": "eligible"
+        },
+        "23ba33bfcd40ade1": {
+          "title": "BPCL Special Recruitment Drive for Persons with Benchmark Disabilities (PwBDs)/ Divyangjans Registration From 09-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/bpcljul26/",
+          "first_seen": "2026-11-12T20:31:09.299039+00:00",
+          "eligibility": "unknown"
+        },
+        "87164ce7c969d56f": {
+          "title": "JKB Recruitment of Various Posts Registration From 07-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/jkbvpocto26/",
+          "first_seen": "2026-11-12T20:31:09.299045+00:00",
+          "eligibility": "unknown"
+        },
+        "9025dcf2970f4b7f": {
+          "title": "SBI Recruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security)) Registration From 04-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/sbirscooct26/",
+          "first_seen": "2026-11-12T20:31:09.299047+00:00",
+          "eligibility": "unknown"
+        },
+        "39bea9841077287c": {
+          "title": "SBI Recruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire)) Registration From 04-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/sbiameoct26/",
+          "first_seen": "2026-11-12T20:31:09.299049+00:00",
+          "eligibility": "unknown"
+        },
+        "9f4a72117903e99b": {
+          "title": "RSBL Promotion from Clerk (Junior Officer) to Assistant Branch Manager, Senior Officer to Assistant Branch Manager & Junior Officer to Senior Officer Registration From 30-Oct-2026",
+          "url": "https://ibpsreg.ibps.in/rsbl2sep26/",
+          "first_seen": "2026-11-12T20:31:09.299051+00:00",
+          "eligibility": "unknown"
+        },
+        "14f5edd9e2e77370": {
+          "title": "RSBL Recruitment of Clerk (Junior Officer), Assistant Branch Manager & Assistant Manager-IT Registration From 30-Oct-2026",
+          "url": "https://ibpsreg.ibps.in/rsblrsep26/",
+          "first_seen": "2026-11-12T20:31:09.299052+00:00",
+          "eligibility": "unknown"
+        },
+        "b533e81e9cc70f01": {
+          "title": "CWC Recruitment of Various Posts Registration From 17-Oct-2026",
+          "url": "https://ibpsreg.ibps.in/cwcaug26/",
+          "first_seen": "2026-11-12T20:31:09.299056+00:00",
+          "eligibility": "unknown"
+        },
+        "d9ed360330a2de88": {
+          "title": "NIT Recruitment of Non-Faculty Position Registration From 01-Oct-2026",
+          "url": "https://ibpsreg.ibps.in/nitrjul26/",
+          "first_seen": "2026-11-12T20:31:09.299059+00:00",
+          "eligibility": "unknown"
+        },
+        "c72120fa0ac796d3": {
+          "title": "RECRUITMENT EXAMS",
+          "url": "https://www.ibps.in/index.php/recruitment/",
+          "first_seen": "2026-11-12T20:31:09.299062+00:00",
+          "eligibility": "unknown"
+        },
+        "bf614fe2f3cfad22": {
+          "title": "CRP - CLERKS",
+          "url": "https://www.ibps.in/index.php/clerical-cadre",
+          "first_seen": "2026-11-12T20:31:09.299065+00:00",
+          "eligibility": "unknown"
+        },
+        "dce59c15e6578fa7": {
+          "title": "CRP - PO/MTs",
+          "url": "https://www.ibps.in/index.php/management-trainees",
+          "first_seen": "2026-11-12T20:31:09.299068+00:00",
+          "eligibility": "eligible"
+        },
+        "1d286bfeedea4199": {
+          "title": "Personnel Selection Services for Recruitment, Promotion and Placement",
+          "url": "https://www.ibps.in/index.php/services",
+          "first_seen": "2026-11-12T20:31:09.299070+00:00",
+          "eligibility": "unknown"
+        },
+        "8cdaec9d08691383": {
+          "title": "Capacity Building Training for Interviewing Skills, Conduct of Group Discussions",
+          "url": "https://www.ibps.in/index.php/services",
+          "first_seen": "2026-11-12T20:31:09.299073+00:00",
+          "eligibility": "eligible"
+        }
+      },
+      "last_page_hash": "97c40fde640e6c61",
+      "baseline_done": true
     },
     "sarkariresult_latestjob": {
       "seen": {
@@ -20338,6 +20471,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "343268c7a870e976": {
+          "title": "UPSSSC Moharir 2022 Pay Mains Exam Fees 2026",
+          "url": "https://www.sarkariexam.com/upsssc-moharir-recruitment/",
+          "first_seen": "2026-11-12T20:31:09.904473+00:00",
+          "eligibility": "unknown"
+        },
+        "0edd49d59859202a": {
+          "title": "Rajasthan RSSB Teaching Associate Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-rssb-teaching-associate-2026/",
+          "first_seen": "2026-11-12T20:31:09.904468+00:00",
+          "eligibility": "unknown"
+        },
+        "a3c4292b19ff5fdf": {
+          "title": "RRB ALP CEN 01/2026 Answer Key 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-alp-cen-01-2026/",
+          "first_seen": "2026-11-12T20:31:09.904449+00:00",
+          "eligibility": "unknown"
+        },
+        "650b40774acf8dc3": {
+          "title": "Railway RRB Group D Result 2026 – Out",
+          "url": "https://www.sarkariexam.com/rrb-railway-group-d-2026/",
+          "first_seen": "2026-11-12T20:31:09.904428+00:00",
+          "eligibility": "eligible"
+        },
         "0566382e31d9cde4": {
           "title": "NTA CSIR UGC NET December Correction Form 2026",
           "url": "https://www.sarkariexam.com/nta-csir-ugc-net-december-2026/",
@@ -23913,40 +24070,16 @@
           "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-driver-2026/",
           "first_seen": "2026-08-27T20:47:10.332049+00:00",
           "eligibility": "eligible"
-        },
-        "4e524ceec2a1ea4d": {
-          "title": "UP Chakbandi Vibhag MTS Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-chakbandi-vibhag-mts-2026/",
-          "first_seen": "2026-08-27T20:47:10.332041+00:00",
-          "eligibility": "eligible"
-        },
-        "4d59e2aa6821bbd2": {
-          "title": "Bihar BTSC Staff Nurse Result / Cutoff 2026",
-          "url": "https://www.sarkariexam.com/bihar-btsc-staff-nurse-2025/",
-          "first_seen": "2026-08-27T20:47:10.331887+00:00",
-          "eligibility": "unknown"
-        },
-        "14ac11fab5398b6c": {
-          "title": "UPSSSC Forensic Science Laboratory Eligibility Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
-          "first_seen": "2026-08-27T20:47:10.331882+00:00",
-          "eligibility": "unknown"
-        },
-        "a53a4e6c1a5d461f": {
-          "title": "UPSSSC Forest Guard/ Wild Life Guard Eligibility Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
-          "first_seen": "2026-08-27T20:47:10.331867+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b566e0da1dd2f284",
+      "last_page_hash": "a9780932161bcb10",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1028,
-  "total_alerts": 314,
-  "last_new_job_ts": "2026-11-12T12:51:06.175208+00:00",
+  "total_checks": 1029,
+  "total_alerts": 315,
+  "last_new_job_ts": "2026-11-12T20:31:10.538088+00:00",
   "last_heartbeat_key": "2026-11-12-9"
 }
