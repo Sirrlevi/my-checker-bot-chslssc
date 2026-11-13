@@ -154,9 +154,15 @@
           "url": "https://ibpsreg.ibps.in/manitboct26/",
           "first_seen": "2026-11-13T16:29:15.448730+00:00",
           "eligibility": "unknown"
+        },
+        "9622e20abc0832f7": {
+          "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
+          "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
+          "first_seen": "2026-11-13T22:04:25.456682+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "cb3fefa319b2b517",
+      "last_page_hash": "c0d1ee9f3b1b122e",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -24084,8 +24090,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1032,
-  "total_alerts": 318,
-  "last_new_job_ts": "2026-11-13T16:29:18.562684+00:00",
+  "total_checks": 1033,
+  "total_alerts": 319,
+  "last_new_job_ts": "2026-11-13T22:04:26.567689+00:00",
   "last_heartbeat_key": "2026-11-13-21"
 }
