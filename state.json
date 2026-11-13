@@ -148,9 +148,15 @@
           "url": "https://www.ibps.in/index.php/services",
           "first_seen": "2026-11-12T20:31:09.299073+00:00",
           "eligibility": "eligible"
+        },
+        "5ffec4fd64bcc262": {
+          "title": "MANIT Recruitment of various Group ‘B’ & ‘C’ Non-Teaching Positions Registration From 13-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/manitboct26/",
+          "first_seen": "2026-11-13T16:29:15.448730+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "97c40fde640e6c61",
+      "last_page_hash": "cb3fefa319b2b517",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -20471,6 +20477,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "7a4344b622f9b81f": {
+          "title": "ISRO URSC Various Post Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
+          "first_seen": "2026-11-13T16:29:15.957320+00:00",
+          "eligibility": "unknown"
+        },
+        "47856c62f4c62717": {
+          "title": "ASRB ICAR Technical Assistant Online Form 2026",
+          "url": "https://www.sarkariexam.com/asrb-icar-technical-assistant-2026/",
+          "first_seen": "2026-11-13T16:29:15.957304+00:00",
+          "eligibility": "unknown"
+        },
         "6cf61ef380b4a367": {
           "title": "ISRO URSC Various Post Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
@@ -24058,28 +24076,16 @@
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
           "first_seen": "2026-08-29T07:26:51.843162+00:00",
           "eligibility": "eligible"
-        },
-        "0ac598cfefd0afaf": {
-          "title": "UPTET Result 2026",
-          "url": "https://www.sarkariexam.com/uptet-2026/",
-          "first_seen": "2026-08-29T07:26:51.843155+00:00",
-          "eligibility": "unknown"
-        },
-        "a6036c6e3df0aaac": {
-          "title": "NTA UGC NET June Result / Cutoff 2026 – Out",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-08-29T07:26:51.843136+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "13746e3acce14ca2",
+      "last_page_hash": "00320d162210c693",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1031,
-  "total_alerts": 316,
-  "last_new_job_ts": "2026-11-13T08:17:20.468534+00:00",
-  "last_heartbeat_key": "2026-11-13-13"
+  "total_checks": 1032,
+  "total_alerts": 318,
+  "last_new_job_ts": "2026-11-13T16:29:18.562684+00:00",
+  "last_heartbeat_key": "2026-11-13-21"
 }
