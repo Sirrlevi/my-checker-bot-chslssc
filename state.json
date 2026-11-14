@@ -20483,6 +20483,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "1a4a5e46bd72964f": {
+          "title": "NTA NIFT Online Form 2027 – Extend",
+          "url": "https://www.sarkariexam.com/nta-nift-2027/",
+          "first_seen": "2026-11-14T15:36:44.605222+00:00",
+          "eligibility": "unknown"
+        },
         "3f7473b993264410": {
           "title": "RRB NTPC 10+2 UG Level 07/2026 Online Form 2026 – Extended",
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
@@ -24076,22 +24082,16 @@
           "url": "https://www.sarkariexam.com/upsssc-female-health-worker-2026/",
           "first_seen": "2026-08-29T13:15:25.292661+00:00",
           "eligibility": "unknown"
-        },
-        "b63ffeaced84a06b": {
-          "title": "NTA CSIR UGC NET June Result 2026 -Out",
-          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
-          "first_seen": "2026-08-29T13:15:25.292602+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b4ff4ea34427d4ae",
+      "last_page_hash": "b46556054a1455eb",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1035,
-  "total_alerts": 320,
-  "last_new_job_ts": "2026-11-14T09:00:12.204013+00:00",
-  "last_heartbeat_key": "2026-11-13-21"
+  "total_checks": 1036,
+  "total_alerts": 321,
+  "last_new_job_ts": "2026-11-14T15:36:45.215664+00:00",
+  "last_heartbeat_key": "2026-11-14-21"
 }
