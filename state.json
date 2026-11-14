@@ -160,9 +160,21 @@
           "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
           "first_seen": "2026-11-13T22:04:25.456682+00:00",
           "eligibility": "unknown"
+        },
+        "b07643010b4cae92": {
+          "title": "CRP-PO/MTs & SPL-XVI",
+          "url": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
+          "first_seen": "2026-11-14T20:03:36.183468+00:00",
+          "eligibility": "eligible"
+        },
+        "947869fa6473fd7e": {
+          "title": "Window Notification for CRP-PO/MTs -XVI and SPL-XVI",
+          "url": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
+          "first_seen": "2026-11-14T20:03:36.183486+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "c0d1ee9f3b1b122e",
+      "last_page_hash": "216503cfa1bd744e",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -24090,8 +24102,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1036,
-  "total_alerts": 321,
-  "last_new_job_ts": "2026-11-14T15:36:45.215664+00:00",
+  "total_checks": 1037,
+  "total_alerts": 322,
+  "last_new_job_ts": "2026-11-14T20:03:37.304186+00:00",
   "last_heartbeat_key": "2026-11-14-21"
 }
