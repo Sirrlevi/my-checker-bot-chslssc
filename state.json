@@ -20483,6 +20483,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "3f7473b993264410": {
+          "title": "RRB NTPC 10+2 UG Level 07/2026 Online Form 2026 – Extended",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
+          "first_seen": "2026-11-14T09:00:11.649389+00:00",
+          "eligibility": "eligible"
+        },
+        "141d68aae378c4f1": {
+          "title": "SSC CPO SI CAPF Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-11-14T09:00:11.649360+00:00",
+          "eligibility": "unknown"
+        },
+        "137cda132339c664": {
+          "title": "Railway RRB Paramedical CEN 05/2026 Exam City Details 2026 – Out",
+          "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
+          "first_seen": "2026-11-14T09:00:11.649356+00:00",
+          "eligibility": "unknown"
+        },
+        "a8297f5dae9ff56f": {
+          "title": "Supreme Court SCI Junior Court Assistant Admit Card 2026",
+          "url": "https://www.sarkariexam.com/supreme-court-sci-junior-court-assistant-2026/",
+          "first_seen": "2026-11-14T09:00:11.649339+00:00",
+          "eligibility": "unknown"
+        },
         "7a4344b622f9b81f": {
           "title": "ISRO URSC Various Post Online Form 2026 – Extended",
           "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
@@ -24058,40 +24082,16 @@
           "url": "https://www.sarkariexam.com/nta-csir-ugc-net-june-2026/",
           "first_seen": "2026-08-29T13:15:25.292602+00:00",
           "eligibility": "unknown"
-        },
-        "83b2f94e24dff6e9": {
-          "title": "Rajasthan Safai Karamchari Online Form 2026 (24752 Posts)",
-          "url": "https://www.sarkariexam.com/rajasthan-safai-karamchari-2026/",
-          "first_seen": "2026-08-29T07:26:51.843229+00:00",
-          "eligibility": "unknown"
-        },
-        "de98510294208858": {
-          "title": "India Post Office GDS Online Form 2026 (23757 Posts)",
-          "url": "https://www.sarkariexam.com/india-post-office-gds-2026/",
-          "first_seen": "2026-08-29T07:26:51.843216+00:00",
-          "eligibility": "eligible"
-        },
-        "71f918a2a01d2d82": {
-          "title": "UP TGT 2022 Final Revised Result 2026",
-          "url": "https://www.sarkariexam.com/up-tgt-2022/",
-          "first_seen": "2026-08-29T07:26:51.843165+00:00",
-          "eligibility": "unknown"
-        },
-        "e96eeaafab071ebc": {
-          "title": "RRB NTPC 10+2 UG CBT-I Result / Score Card 2026",
-          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
-          "first_seen": "2026-08-29T07:26:51.843162+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "00320d162210c693",
+      "last_page_hash": "b4ff4ea34427d4ae",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1034,
-  "total_alerts": 319,
-  "last_new_job_ts": "2026-11-13T22:04:26.567689+00:00",
+  "total_checks": 1035,
+  "total_alerts": 320,
+  "last_new_job_ts": "2026-11-14T09:00:12.204013+00:00",
   "last_heartbeat_key": "2026-11-13-21"
 }
