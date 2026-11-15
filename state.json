@@ -20495,6 +20495,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "7142850972d2b22a": {
+          "title": "Assam Rifles Technical/ Tradesman Online Form 2026 – Start",
+          "url": "https://www.sarkariexam.com/assam-rifles-technical-tradesman-2026/",
+          "first_seen": "2026-11-15T10:44:32.666902+00:00",
+          "eligibility": "eligible"
+        },
         "1a4a5e46bd72964f": {
           "title": "NTA NIFT Online Form 2027 – Extend",
           "url": "https://www.sarkariexam.com/nta-nift-2027/",
@@ -24088,22 +24094,16 @@
           "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
           "first_seen": "2026-08-29T17:09:02.750172+00:00",
           "eligibility": "unknown"
-        },
-        "cc4cd76a0d522d1e": {
-          "title": "UPSSSC Female Health Worker DV Document Upload 2026",
-          "url": "https://www.sarkariexam.com/upsssc-female-health-worker-2026/",
-          "first_seen": "2026-08-29T13:15:25.292661+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b46556054a1455eb",
+      "last_page_hash": "b6fb1bcb679c8b0d",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1039,
-  "total_alerts": 322,
-  "last_new_job_ts": "2026-11-14T20:03:37.304186+00:00",
+  "total_checks": 1040,
+  "total_alerts": 323,
+  "last_new_job_ts": "2026-11-15T10:44:33.333357+00:00",
   "last_heartbeat_key": "2026-11-14-21"
 }
