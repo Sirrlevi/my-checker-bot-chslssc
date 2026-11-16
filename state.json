@@ -7236,11 +7236,29 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7fec844312d291b",
+      "last_page_hash": "55fa6bc4c6a60397",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "7f784b4d18688e08": {
+          "title": "RRB NTPC 10+2 UG Level 07/2026 Online Correction Form 2026",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
+          "first_seen": "2026-11-16T08:14:16.423641+00:00",
+          "eligibility": "eligible"
+        },
+        "899caf120fd5b1b2": {
+          "title": "MPESB Subedar Steno, ASI Admit Card 2026",
+          "url": "https://www.sarkariexam.com/mpesb-subedar-steno-asi-2026/",
+          "first_seen": "2026-11-16T08:14:16.423590+00:00",
+          "eligibility": "eligible"
+        },
+        "4ec5d1b9f07570a9": {
+          "title": "Indian Coast Guard Navik / Yantrik 01/2027 & 02/2027 CGEPT Admit Card 2026",
+          "url": "https://www.sarkariexam.com/indian-coast-guard-cgept-01-2027-02-2027/",
+          "first_seen": "2026-11-16T08:14:16.423551+00:00",
+          "eligibility": "unknown"
+        },
         "7142850972d2b22a": {
           "title": "Assam Rifles Technical/ Tradesman Online Form 2026 – Start",
           "url": "https://www.sarkariexam.com/assam-rifles-technical-tradesman-2026/",
@@ -10822,34 +10840,16 @@
           "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-2026/",
           "first_seen": "2026-08-31T06:21:56.821205+00:00",
           "eligibility": "unknown"
-        },
-        "93a999cb81e1d099": {
-          "title": "NTPC NGEL DGM, AE Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/ntpc-ngel-dgm-ae-2026/",
-          "first_seen": "2026-08-31T06:21:56.821200+00:00",
-          "eligibility": "unknown"
-        },
-        "a07953d90b3f8745": {
-          "title": "Bihar STET Online Form 2026 – Date Extended",
-          "url": "https://www.sarkariexam.com/bihar-stet-2026-2/",
-          "first_seen": "2026-08-31T06:21:56.821191+00:00",
-          "eligibility": "unknown"
-        },
-        "8513ed3b475e660a": {
-          "title": "BSNL JTO Answer Key 2026",
-          "url": "https://www.sarkariexam.com/bsnl-junior-telecom-officer-jto-2026/",
-          "first_seen": "2026-08-29T17:09:02.750172+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b6fb1bcb679c8b0d",
+      "last_page_hash": "1424196e86e890a8",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1043,
-  "total_alerts": 324,
-  "last_new_job_ts": "2026-11-16T01:27:58.797459+00:00",
-  "last_heartbeat_key": "2026-11-14-21"
+  "total_checks": 1044,
+  "total_alerts": 325,
+  "last_new_job_ts": "2026-11-16T08:14:17.128133+00:00",
+  "last_heartbeat_key": "2026-11-16-13"
 }
