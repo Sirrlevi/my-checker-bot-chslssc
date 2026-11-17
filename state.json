@@ -7253,6 +7253,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "7ae7d182cd4d4d8f": {
+          "title": "RSSB CET 10+2 Inter Level Exam Date 2026",
+          "url": "https://www.sarkariexam.com/rssb-cet-12-inter-level-2026/",
+          "first_seen": "2026-11-17T19:19:38.453097+00:00",
+          "eligibility": "eligible"
+        },
         "e6ddf88c0f0a3a9c": {
           "title": "Bihar Library Eligibility Test BLET Admit Card 2026",
           "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
@@ -10846,22 +10852,16 @@
           "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
           "first_seen": "2026-08-31T20:06:24.730545+00:00",
           "eligibility": "eligible"
-        },
-        "d6a415ac3942843c": {
-          "title": "UPCISB UP Cooperative Bank Various Post Exam City / Admit Card Notice 2026",
-          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
-          "first_seen": "2026-08-31T20:06:24.730536+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "c78223da93353894",
+      "last_page_hash": "b6c7d0dc2b324cae",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1047,
-  "total_alerts": 328,
-  "last_new_job_ts": "2026-11-17T10:33:25.978371+00:00",
+  "total_checks": 1048,
+  "total_alerts": 329,
+  "last_new_job_ts": "2026-11-17T19:19:39.133671+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
