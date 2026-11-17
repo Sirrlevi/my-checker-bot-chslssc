@@ -7253,6 +7253,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "e6ddf88c0f0a3a9c": {
+          "title": "Bihar Library Eligibility Test BLET Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bihar-library-eligibility-test-blet-2026/",
+          "first_seen": "2026-11-17T10:33:25.364166+00:00",
+          "eligibility": "unknown"
+        },
+        "9bd065c5bd3441a3": {
+          "title": "BSF Constable Tradesman Admit Card 2026",
+          "url": "https://www.sarkariexam.com/bsf-constable-tradesman-2025/",
+          "first_seen": "2026-11-17T10:33:25.364154+00:00",
+          "eligibility": "eligible"
+        },
         "eef2eeb5549367e3": {
           "title": "UPSC 13/2026 Various Post Online Form 2026",
           "url": "https://www.sarkariexam.com/upsc-13-2026-various-post/",
@@ -10840,28 +10852,16 @@
           "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
           "first_seen": "2026-08-31T20:06:24.730536+00:00",
           "eligibility": "unknown"
-        },
-        "015e7dbcd7e672c8": {
-          "title": "MPESB Group 2 Sub Group 3 Result 2026",
-          "url": "https://www.sarkariexam.com/mpesb-group-2-sub-group-3-2026/",
-          "first_seen": "2026-08-31T20:06:24.730466+00:00",
-          "eligibility": "unknown"
-        },
-        "4ff64760ceb7a436": {
-          "title": "IBPS RRB XV 15th Scale-I, II, III Online Form 2026",
-          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
-          "first_seen": "2026-08-31T14:11:55.977735+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a43ac4aadb67fab7",
+      "last_page_hash": "c78223da93353894",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1046,
-  "total_alerts": 327,
-  "last_new_job_ts": "2026-11-16T18:33:52.251645+00:00",
+  "total_checks": 1047,
+  "total_alerts": 328,
+  "last_new_job_ts": "2026-11-17T10:33:25.978371+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
