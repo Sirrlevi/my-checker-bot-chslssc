@@ -11,9 +11,82 @@
       "baseline_done": true
     },
     "upsc_whatsnew": {
-      "seen": {},
-      "last_page_hash": null,
-      "baseline_done": false
+      "seen": {
+        "9388cef3727fee7e": {
+          "title": "Apply Online",
+          "url": "https://upsconline.nic.in",
+          "first_seen": "2026-11-19T13:48:25.075516+00:00",
+          "eligibility": "unknown"
+        },
+        "09375698f062cc4b": {
+          "title": "EOP for PwD Employees of UPSC",
+          "url": "https://upsc.gov.in/about-us/#equal-opportunity-policy",
+          "first_seen": "2026-11-19T13:48:25.075536+00:00",
+          "eligibility": "unknown"
+        },
+        "ee34f3f79df45045": {
+          "title": "UPSC PRATIBHA Setu open_in_new",
+          "url": "https://upsconline.gov.in/miscellaneous/pdoiac/",
+          "first_seen": "2026-11-19T13:48:25.075543+00:00",
+          "eligibility": "unknown"
+        },
+        "4747a87a05f9bf62": {
+          "title": "Recruitment cases kept on hold on account of Pending Litigations",
+          "url": "https://upsc.gov.in/status-of-lateral-recruitment-cases-advertisement-wise/recruitment-cases-kept-on-hold-on-account-of-pending-litigations/",
+          "first_seen": "2026-11-19T13:48:25.075549+00:00",
+          "eligibility": "unknown"
+        },
+        "3ad96ef865d2b68a": {
+          "title": "Online Recruitment Application (ORA) open_in_new",
+          "url": "https://upsconline.nic.in/",
+          "first_seen": "2026-11-19T13:48:25.075555+00:00",
+          "eligibility": "unknown"
+        },
+        "30171b300013818e": {
+          "title": "Recruitment cases kept on hold on account of Pending Litigations",
+          "url": "https://upsc.gov.in/status-of-recruitment-cases-advertisement-wise/recruitment-cases-kept-on-hold-on-account-of-pending-litigations/",
+          "first_seen": "2026-11-19T13:48:25.075583+00:00",
+          "eligibility": "unknown"
+        },
+        "9cf0e073af909253": {
+          "title": "Schedule for Recruitment Tests and Interviews",
+          "url": "https://upsc.gov.in/recruitment-tests/schedule-for-recruitment-tests-and-interviews/",
+          "first_seen": "2026-11-19T13:48:25.075591+00:00",
+          "eligibility": "unknown"
+        },
+        "cd79065e1ee8df36": {
+          "title": "e-admit Card open_in_new",
+          "url": "https://upsconline.nic.in/",
+          "first_seen": "2026-11-19T13:48:25.075599+00:00",
+          "eligibility": "unknown"
+        },
+        "4040a1d9f3b818cb": {
+          "title": "Result Details",
+          "url": "https://upsc.gov.in/recruitment-tests/result-details/",
+          "first_seen": "2026-11-19T13:48:25.075605+00:00",
+          "eligibility": "unknown"
+        },
+        "d26b9cb1503eb664": {
+          "title": "Provisional Answer Key",
+          "url": "https://upsc.gov.in/recruitment-tests/provisional-answer-key/",
+          "first_seen": "2026-11-19T13:48:25.075611+00:00",
+          "eligibility": "unknown"
+        },
+        "3c94d036b7debc7c": {
+          "title": "Recruitment Representation on Question Papers open_in_new",
+          "url": "https://upsconline.nic.in/",
+          "first_seen": "2026-11-19T13:48:25.075617+00:00",
+          "eligibility": "unknown"
+        },
+        "28e4c431d27b4a25": {
+          "title": "Recruitment Representation on Question Papers",
+          "url": "https://upsc.gov.in/recruitment-representation-on-question-papers/",
+          "first_seen": "2026-11-19T13:48:25.075622+00:00",
+          "eligibility": "unknown"
+        }
+      },
+      "last_page_hash": "1efcf1e238382c9c",
+      "baseline_done": true
     },
     "ibps_home": {
       "seen": {
@@ -184,9 +257,15 @@
           "url": "https://www.ibps.in/index.php/management-trainees-xv/",
           "first_seen": "2026-11-16T18:33:48.613546+00:00",
           "eligibility": "eligible"
+        },
+        "7747a4e0b47d2d98": {
+          "title": "Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/inbraoct26/",
+          "first_seen": "2026-11-19T13:48:28.207738+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "8d92bc1d1104d1ef",
+      "last_page_hash": "6f80d28322b52ed6",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -7253,6 +7332,54 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "10c0f8d2fb30f71c": {
+          "title": "UP Sant Kabir Nagar ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-sant-kabir-nagar-ecce-educator-2026/",
+          "first_seen": "2026-11-19T13:48:28.672659+00:00",
+          "eligibility": "unknown"
+        },
+        "63f9ca38ab01bedb": {
+          "title": "UPTET February Online Form 2027",
+          "url": "https://www.sarkariexam.com/uptet-february-2027/",
+          "first_seen": "2026-11-19T13:48:28.672523+00:00",
+          "eligibility": "unknown"
+        },
+        "5daba0c67f3f6546": {
+          "title": "NTA UGC NET JRF December Subject Wise Exam Date 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
+          "first_seen": "2026-11-19T13:48:28.672491+00:00",
+          "eligibility": "unknown"
+        },
+        "acf181f86a03adb8": {
+          "title": "NTPC NGEL Engineer and Executive Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
+          "first_seen": "2026-11-19T13:48:28.672485+00:00",
+          "eligibility": "unknown"
+        },
+        "b61fed9dd5d92e65": {
+          "title": "RSSB CET 10+2 Inter Level Exam City / Admit Card Date 2026",
+          "url": "https://www.sarkariexam.com/rssb-cet-12-inter-level-2026/",
+          "first_seen": "2026-11-19T13:48:28.672479+00:00",
+          "eligibility": "eligible"
+        },
+        "44d4ce29201b7480": {
+          "title": "UPSSSC Cane Supervisor Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-cane-supervisor-2026/",
+          "first_seen": "2026-11-19T13:48:28.672472+00:00",
+          "eligibility": "unknown"
+        },
+        "2205b2630c8de5f4": {
+          "title": "UPSSSC Vidhan Bhawan Guard/ Fire Guard Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-vidhan-bhawan-guard-fire-guard-2026/",
+          "first_seen": "2026-11-19T13:48:28.672432+00:00",
+          "eligibility": "unknown"
+        },
+        "4ead71d6e4fc320b": {
+          "title": "UPSSSC Auditor/ Asst. Accountant Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-auditor-assistant-accountant-2026/",
+          "first_seen": "2026-11-19T13:48:28.672415+00:00",
+          "eligibility": "unknown"
+        },
         "ea1f26c472dd6d4b": {
           "title": "Haryana HTET Online Form 2026",
           "url": "https://www.sarkariexam.com/haryana-htet-2026/",
@@ -10804,64 +10931,16 @@
           "url": "https://www.sarkariexam.com/upsssc-computer-operator-2026/",
           "first_seen": "2026-09-03T15:10:24.785623+00:00",
           "eligibility": "unknown"
-        },
-        "25db1c94d86aeb8e": {
-          "title": "UPSC CDS-II Admit Card 2026",
-          "url": "https://www.sarkariexam.com/upsc-cds-ii-2026/",
-          "first_seen": "2026-09-03T15:10:24.785566+00:00",
-          "eligibility": "unknown"
-        },
-        "4c73e6e1f7ecf16d": {
-          "title": "EMRS Teaching & Non-Teaching Tier-II Result 2026",
-          "url": "https://www.sarkariexam.com/emrs-teaching-non-teaching-2025/",
-          "first_seen": "2026-09-03T15:10:24.785519+00:00",
-          "eligibility": "unknown"
-        },
-        "aafed3d9a818e782": {
-          "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
-          "url": "https://www.sarkariexam.com/nielit-ccc-2026/",
-          "first_seen": "2026-09-03T11:40:16.344776+00:00",
-          "eligibility": "unknown"
-        },
-        "893516b1b735b8f0": {
-          "title": "CCI Various Post Answer Key 2026",
-          "url": "https://www.sarkariexam.com/cci-various-post-2026/",
-          "first_seen": "2026-09-03T11:40:16.344755+00:00",
-          "eligibility": "unknown"
-        },
-        "4f09b2598cdeab98": {
-          "title": "AAI Junior Executive & Manager Online Form 2026",
-          "url": "https://www.sarkariexam.com/aai-junior-executive-manager-2026/",
-          "first_seen": "2026-09-03T11:40:16.344744+00:00",
-          "eligibility": "unknown"
-        },
-        "91486dc9015d1bd9": {
-          "title": "Railway RRC SR Apprentice Online Form 2026 (4471 Posts)",
-          "url": "https://www.sarkariexam.com/railway-rrc-sr-apprentice-2026/",
-          "first_seen": "2026-09-03T11:40:16.344727+00:00",
-          "eligibility": "unknown"
-        },
-        "41a7c71cef333d08": {
-          "title": "IBPS RRB XV 15th Scale-I, II, III Online Form 2026 (13706 Posts)",
-          "url": "https://www.sarkariexam.com/ibps-rrb-15th-2026/",
-          "first_seen": "2026-09-03T11:40:16.344715+00:00",
-          "eligibility": "unknown"
-        },
-        "82f5d57e83533c76": {
-          "title": "AIIMS NORCET 11th Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
-          "first_seen": "2026-09-03T11:40:16.344670+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a1fcc157b68a730d",
+      "last_page_hash": "a320c88eb3dffb3e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1053,
-  "total_alerts": 332,
-  "last_new_job_ts": "2026-11-18T17:57:58.115735+00:00",
+  "total_checks": 1054,
+  "total_alerts": 334,
+  "last_new_job_ts": "2026-11-19T13:48:31.190955+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
