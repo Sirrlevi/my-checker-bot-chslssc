@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "40658cff2b8777b9",
+      "last_page_hash": "d9d8425c6cb8192d",
       "baseline_done": true
     },
     "ibps_home": {
@@ -263,9 +263,21 @@
           "url": "https://ibpsreg.ibps.in/inbraoct26/",
           "first_seen": "2026-11-19T13:48:28.207738+00:00",
           "eligibility": "unknown"
+        },
+        "4a2bbe7fd2399099": {
+          "title": "CRP-PO/MTs-XVI",
+          "url": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
+          "first_seen": "2026-11-20T18:46:36.073074+00:00",
+          "eligibility": "eligible"
+        },
+        "37f24930c60d937d": {
+          "title": "Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+          "url": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
+          "first_seen": "2026-11-20T18:46:36.073089+00:00",
+          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "6f80d28322b52ed6",
+      "last_page_hash": "1fb0e3b49b693ff1",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -7332,6 +7344,42 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "7bb5dc06f6ed9b9a": {
+          "title": "UP Meerut ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-meerut-ecce-educator-2026/",
+          "first_seen": "2026-11-20T18:46:36.508545+00:00",
+          "eligibility": "unknown"
+        },
+        "89e9f6159f7ee9bd": {
+          "title": "UP Prayagraj ECCE Educator Online Form 2026",
+          "url": "https://www.sarkariexam.com/up-prayagraj-ecce-educator-2026/",
+          "first_seen": "2026-11-20T18:46:36.508522+00:00",
+          "eligibility": "unknown"
+        },
+        "b66e121d0c2a3d71": {
+          "title": "NTA SWAYAM July Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/nta-swayam-july-2026/",
+          "first_seen": "2026-11-20T18:46:36.508448+00:00",
+          "eligibility": "unknown"
+        },
+        "27ee2dbca1c2650e": {
+          "title": "NTA CSIR UGC NET December Exam Date 2026",
+          "url": "https://www.sarkariexam.com/nta-csir-ugc-net-december-2026/",
+          "first_seen": "2026-11-20T18:46:36.508400+00:00",
+          "eligibility": "unknown"
+        },
+        "f4cfeaf2e87baffa": {
+          "title": "IBPS CRP PO/ MT 16th Mains Result 2026",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-11-20T18:46:36.508362+00:00",
+          "eligibility": "unknown"
+        },
+        "69878368362864e1": {
+          "title": "UPESSC UP Special TET Result 2026",
+          "url": "https://www.sarkariexam.com/up-special-tet-2026/",
+          "first_seen": "2026-11-20T18:46:36.508344+00:00",
+          "eligibility": "unknown"
+        },
         "aafed3d9a818e782": {
           "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
           "url": "https://www.sarkariexam.com/nielit-ccc-2026/",
@@ -10895,52 +10943,16 @@
           "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
           "first_seen": "2026-09-05T09:24:07.420655+00:00",
           "eligibility": "unknown"
-        },
-        "afc4b54c41a79393": {
-          "title": "UPCISB UP Cooperative Bank Various Post Admit Card 2026",
-          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
-          "first_seen": "2026-09-05T09:24:07.420591+00:00",
-          "eligibility": "unknown"
-        },
-        "f390c17a6afa2ab0": {
-          "title": "NTA UGC NET June Re-Exam Admit Card 2026 – Out",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-09-04T17:16:00.763545+00:00",
-          "eligibility": "unknown"
-        },
-        "3fc4a8ef409b7d18": {
-          "title": "UP Banda ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-banda-ecce-educator-online-form-2026/",
-          "first_seen": "2026-09-04T09:57:46.877970+00:00",
-          "eligibility": "unknown"
-        },
-        "fb9c3b2e99a04ef0": {
-          "title": "NTA AIAPGET Answer Key 2026",
-          "url": "https://www.sarkariexam.com/nta-aiapget-2026/",
-          "first_seen": "2026-09-04T09:57:46.877898+00:00",
-          "eligibility": "unknown"
-        },
-        "82d52b4028eeedbf": {
-          "title": "Bank of Baroda SO Online Form 2026 (1100 Posts)",
-          "url": "https://www.sarkariexam.com/bank-of-baroda-so-2026/",
-          "first_seen": "2026-09-04T09:57:46.877883+00:00",
-          "eligibility": "unknown"
-        },
-        "40fa44b820422750": {
-          "title": "PFRDA Assistant Manager Online Form 2026",
-          "url": "https://www.sarkariexam.com/pfrda-assistant-manager-2026/",
-          "first_seen": "2026-09-04T09:57:46.877878+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "99f133f829f3fe72",
+      "last_page_hash": "909e7114b87ed60c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1057,
-  "total_alerts": 335,
-  "last_new_job_ts": "2026-11-20T10:32:25.404685+00:00",
+  "total_checks": 1058,
+  "total_alerts": 337,
+  "last_new_job_ts": "2026-11-20T18:46:39.318197+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
