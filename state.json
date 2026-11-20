@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "43aa6b36fe5cc4d0",
+      "last_page_hash": "40658cff2b8777b9",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7332,6 +7332,42 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "aafed3d9a818e782": {
+          "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
+          "url": "https://www.sarkariexam.com/nielit-ccc-2026/",
+          "first_seen": "2026-11-20T10:32:24.728082+00:00",
+          "eligibility": "unknown"
+        },
+        "87b2461c36eaa13a": {
+          "title": "Allahabad High Court Private Secretary Answer Key 2026",
+          "url": "https://www.sarkariexam.com/allahabad-high-court-private-secretary-grade-1-2026/",
+          "first_seen": "2026-11-20T10:32:24.728066+00:00",
+          "eligibility": "unknown"
+        },
+        "0b58725e03595397": {
+          "title": "ISRO URSC Various Post Online Form 2026 – Last Date Today",
+          "url": "https://www.sarkariexam.com/isro-ursc-various-post-2026/",
+          "first_seen": "2026-11-20T10:32:24.728038+00:00",
+          "eligibility": "unknown"
+        },
+        "814ebf577c5be0db": {
+          "title": "ONGC Apprentice Online Form 2026 (3047 Posts) – Last Date Today",
+          "url": "https://www.sarkariexam.com/ongc-apprentice-2026/",
+          "first_seen": "2026-11-20T10:32:24.728034+00:00",
+          "eligibility": "unknown"
+        },
+        "1771b68c44fdd4d8": {
+          "title": "UPSSSC Moharir 2022 Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/upsssc-moharir-recruitment/",
+          "first_seen": "2026-11-20T10:32:24.728009+00:00",
+          "eligibility": "unknown"
+        },
+        "8a2236e3390887e2": {
+          "title": "SSC CPO SI CAPF Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-11-20T10:32:24.727991+00:00",
+          "eligibility": "unknown"
+        },
         "10c0f8d2fb30f71c": {
           "title": "UP Sant Kabir Nagar ECCE Educator Online Form 2026",
           "url": "https://www.sarkariexam.com/up-sant-kabir-nagar-ecce-educator-2026/",
@@ -10895,52 +10931,16 @@
           "url": "https://www.sarkariexam.com/pfrda-assistant-manager-2026/",
           "first_seen": "2026-09-04T09:57:46.877878+00:00",
           "eligibility": "unknown"
-        },
-        "ea9c08a9dd76af67": {
-          "title": "IBPS Clerk CSA 16th Correction Form 2026",
-          "url": "https://www.sarkariexam.com/ibps-clerk-csa-16th-2026/",
-          "first_seen": "2026-09-04T09:57:46.877870+00:00",
-          "eligibility": "unknown"
-        },
-        "93887e5c72ba9e96": {
-          "title": "MPESB Primary & Middle School Teacher Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
-          "first_seen": "2026-09-04T09:57:46.877834+00:00",
-          "eligibility": "unknown"
-        },
-        "a1fa1e0977c6e53d": {
-          "title": "UP Special TET Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-special-tet-2026/",
-          "first_seen": "2026-09-03T18:35:43.799320+00:00",
-          "eligibility": "unknown"
-        },
-        "7df2af5d569f8f64": {
-          "title": "UPSC NDA/ NA-II Admit Card 2026",
-          "url": "https://www.sarkariexam.com/upsc-nda-na-ii-2026/",
-          "first_seen": "2026-09-03T18:35:43.799292+00:00",
-          "eligibility": "unknown"
-        },
-        "38302184c41c8fb7": {
-          "title": "UP Home Guard PET Admit Card 2026",
-          "url": "https://www.sarkariexam.com/up-home-guard-2025/",
-          "first_seen": "2026-09-03T18:35:43.799263+00:00",
-          "eligibility": "unknown"
-        },
-        "7a8eaf2cac78a078": {
-          "title": "UPSSSC Computer Operator Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-computer-operator-2026/",
-          "first_seen": "2026-09-03T15:10:24.785623+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "a320c88eb3dffb3e",
+      "last_page_hash": "99f133f829f3fe72",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1056,
-  "total_alerts": 334,
-  "last_new_job_ts": "2026-11-19T13:48:31.190955+00:00",
+  "total_checks": 1057,
+  "total_alerts": 335,
+  "last_new_job_ts": "2026-11-20T10:32:25.404685+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
