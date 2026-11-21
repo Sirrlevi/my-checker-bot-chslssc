@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6cbcf1d5770ee482",
+      "last_page_hash": "fc023b2a29d4777b",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7344,6 +7344,12 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "32633ca4b7f1948b": {
+          "title": "MP High Court Stenographer Gr-II, III & AG Gr-III Exam Date 2026",
+          "url": "https://www.sarkariexam.com/stenographer-gr-ii-iii-ag-gr-iii-2026/",
+          "first_seen": "2026-11-21T07:20:34.208843+00:00",
+          "eligibility": "eligible"
+        },
         "7bb5dc06f6ed9b9a": {
           "title": "UP Meerut ECCE Educator Online Form 2026",
           "url": "https://www.sarkariexam.com/up-meerut-ecce-educator-2026/",
@@ -10937,22 +10943,16 @@
           "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
           "first_seen": "2026-09-05T09:24:07.420665+00:00",
           "eligibility": "unknown"
-        },
-        "7aae4dd87e18def3": {
-          "title": "Delhi High Court SPA & PA Online Form 2026",
-          "url": "https://www.sarkariexam.com/delhi-high-court-spa-and-pa-2026/",
-          "first_seen": "2026-09-05T09:24:07.420655+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "909e7114b87ed60c",
+      "last_page_hash": "0ed34e86a52bc643",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1059,
-  "total_alerts": 337,
-  "last_new_job_ts": "2026-11-20T18:46:39.318197+00:00",
+  "total_checks": 1060,
+  "total_alerts": 338,
+  "last_new_job_ts": "2026-11-21T07:20:35.561159+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
