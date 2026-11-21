@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "fc023b2a29d4777b",
+      "last_page_hash": "5085e1ae605ffde6",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7344,6 +7344,54 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "523157cf2bc961e9": {
+          "title": "SIDBI Grade A & B Online Form 2026",
+          "url": "https://www.sarkariexam.com/sidbi-grade-a-b-2026/",
+          "first_seen": "2026-11-21T15:28:23.790661+00:00",
+          "eligibility": "unknown"
+        },
+        "4bf4fe3498ed55aa": {
+          "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Extended",
+          "url": "https://www.sarkariexam.com/upessc-up-tgt-online-form-2026/",
+          "first_seen": "2026-11-21T15:28:23.790653+00:00",
+          "eligibility": "unknown"
+        },
+        "c1a69c0e97fec46e": {
+          "title": "RSSB CET 10+2 Inter Level Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/rssb-cet-12-inter-level-2026/",
+          "first_seen": "2026-11-21T15:28:23.790626+00:00",
+          "eligibility": "eligible"
+        },
+        "b4ba39bd49a196e8": {
+          "title": "CLAT 2027 Admit Card",
+          "url": "https://www.sarkariexam.com/clat-admission-2026/",
+          "first_seen": "2026-11-21T15:28:23.790619+00:00",
+          "eligibility": "unknown"
+        },
+        "eda82a84188bda2d": {
+          "title": "UIICL Administrative Officers AO Phase-II Admit Card 2026",
+          "url": "https://www.sarkariexam.com/uiic-ao-2026/",
+          "first_seen": "2026-11-21T15:28:23.790612+00:00",
+          "eligibility": "unknown"
+        },
+        "dc972a890f3df0fd": {
+          "title": "UPSSSC Computer Operator Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-computer-operator-2026/",
+          "first_seen": "2026-11-21T15:28:23.790568+00:00",
+          "eligibility": "unknown"
+        },
+        "649916c427ab4ca1": {
+          "title": "UPSSSC Livestock Extension Officer Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-livestock-extension-officer-2026/",
+          "first_seen": "2026-11-21T15:28:23.790562+00:00",
+          "eligibility": "unknown"
+        },
+        "832a79e8ca050d38": {
+          "title": "UPSSSC Veterinary Pharmacist Eligibility Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-veterinary-pharmacist-2026/",
+          "first_seen": "2026-11-21T15:28:23.790536+00:00",
+          "eligibility": "unknown"
+        },
         "32633ca4b7f1948b": {
           "title": "MP High Court Stenographer Gr-II, III & AG Gr-III Exam Date 2026",
           "url": "https://www.sarkariexam.com/stenographer-gr-ii-iii-ag-gr-iii-2026/",
@@ -10895,64 +10943,16 @@
           "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
           "first_seen": "2026-09-07T06:36:57.847143+00:00",
           "eligibility": "unknown"
-        },
-        "c4a845922eb13cf3": {
-          "title": "AAI Junior Executive & Manager Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/aai-junior-executive-manager-2026/",
-          "first_seen": "2026-09-07T06:36:57.847134+00:00",
-          "eligibility": "unknown"
-        },
-        "36c76e77bc83544d": {
-          "title": "Bank Of Baroda LBO Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/bank-of-baroda-lbo-2026/",
-          "first_seen": "2026-09-07T06:36:57.847125+00:00",
-          "eligibility": "unknown"
-        },
-        "255ce8a76af35d19": {
-          "title": "NTA UGC NET June Re-Exam Admit Card 2026",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-09-07T06:36:57.847069+00:00",
-          "eligibility": "unknown"
-        },
-        "d2c1b02f386e9e25": {
-          "title": "UP Moradabad ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-moradabad-ecce-educator-2026/",
-          "first_seen": "2026-09-05T09:24:07.420799+00:00",
-          "eligibility": "unknown"
-        },
-        "91be7f7b3840e89c": {
-          "title": "UP Moradabad ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-moradabad-ecce-educator-job-2026/",
-          "first_seen": "2026-09-05T09:24:07.420793+00:00",
-          "eligibility": "unknown"
-        },
-        "271999c9a54d3cf4": {
-          "title": "UP Azamgarh ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-azamgarh-ecce-educator-2026/",
-          "first_seen": "2026-09-05T09:24:07.420785+00:00",
-          "eligibility": "unknown"
-        },
-        "aafe669cf39af5ee": {
-          "title": "UP Mirzapur ECCE Educator Online Form 2026",
-          "url": "https://www.sarkariexam.com/up-mirzapur-ecce-educator-2026/",
-          "first_seen": "2026-09-05T09:24:07.420775+00:00",
-          "eligibility": "unknown"
-        },
-        "ece42b4400c496bd": {
-          "title": "MPESB Primary & Middle School Teacher Online Form 2026 – Extend",
-          "url": "https://www.sarkariexam.com/mpesb-primary-middle-school-teacher-2026/",
-          "first_seen": "2026-09-05T09:24:07.420665+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "0ed34e86a52bc643",
+      "last_page_hash": "7a102ea9d976c2bd",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1060,
-  "total_alerts": 338,
-  "last_new_job_ts": "2026-11-21T07:20:35.561159+00:00",
+  "total_checks": 1061,
+  "total_alerts": 339,
+  "last_new_job_ts": "2026-11-21T15:28:24.307825+00:00",
   "last_heartbeat_key": "2026-11-16-13"
 }
