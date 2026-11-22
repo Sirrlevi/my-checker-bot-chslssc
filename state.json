@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "32c6377fc4deab7a",
+      "last_page_hash": "f777271328a33217",
       "baseline_done": true
     },
     "ibps_home": {
@@ -10951,8 +10951,8 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1063,
+  "total_checks": 1064,
   "total_alerts": 339,
   "last_new_job_ts": "2026-11-21T15:28:24.307825+00:00",
-  "last_heartbeat_key": "2026-11-16-13"
+  "last_heartbeat_key": "2026-11-22-13"
 }
