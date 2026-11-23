@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2868495af4b1d1b2",
+      "last_page_hash": "435d46086bf26269",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7339,11 +7339,41 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "e7fec844312d291b",
+      "last_page_hash": "55fa6bc4c6a60397",
       "baseline_done": true
     },
     "sarkariexam_home": {
       "seen": {
+        "c2f9617324a4649e": {
+          "title": "UPESSC UP Headmaster Correction / Edit Form 2026 (1172 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
+          "first_seen": "2026-11-23T09:49:35.859631+00:00",
+          "eligibility": "unknown"
+        },
+        "70fc7819e2c10359": {
+          "title": "UPESSC UP Principal Inter Level Correction / Edit Form 2026 (1475 Posts)",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-inter-level-2026/",
+          "first_seen": "2026-11-23T09:49:35.859625+00:00",
+          "eligibility": "unknown"
+        },
+        "d45fad72a1bd409f": {
+          "title": "AEES Teaching Various Post Online Form 2026 – Extend",
+          "url": "https://www.sarkariexam.com/aees-teaching-various-post-2026/",
+          "first_seen": "2026-11-23T09:49:35.859617+00:00",
+          "eligibility": "unknown"
+        },
+        "233a418ffd3c7faa": {
+          "title": "Bihar BCECE Sr. Resident/ Tutor Phase 3 Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/bihar-bcece-sr-resident-tutor-phase-3-2026/",
+          "first_seen": "2026-11-23T09:49:35.859582+00:00",
+          "eligibility": "unknown"
+        },
+        "df5463ccb7d66086": {
+          "title": "Bihar Board Class 10th & 12th 2nd Dummy Admit Card 2027",
+          "url": "https://www.sarkariexam.com/bihar-board-class-10th-12th-2027/",
+          "first_seen": "2026-11-23T09:49:35.859547+00:00",
+          "eligibility": "unknown"
+        },
         "523157cf2bc961e9": {
           "title": "SIDBI Grade A & B Online Form 2026",
           "url": "https://www.sarkariexam.com/sidbi-grade-a-b-2026/",
@@ -10913,46 +10943,16 @@
           "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-2026/",
           "first_seen": "2026-09-07T12:58:56.203601+00:00",
           "eligibility": "unknown"
-        },
-        "9703829681d8a532": {
-          "title": "UPCISB Cooperative Bank Various Posts Exam Date 2026",
-          "url": "https://www.sarkariexam.com/upcisb-cooperative-bank-various-post-2026/",
-          "first_seen": "2026-09-07T12:58:56.203592+00:00",
-          "eligibility": "unknown"
-        },
-        "989f49e8201c3fec": {
-          "title": "BCECE Admission Mop-up Allotment Result 2026",
-          "url": "https://www.sarkariexam.com/bcece-admission-2026/",
-          "first_seen": "2026-09-07T12:58:56.203553+00:00",
-          "eligibility": "unknown"
-        },
-        "e42bb979477ca57f": {
-          "title": "EMRS Teaching & Non-Teaching Tier-II Result 2026 – Updated",
-          "url": "https://www.sarkariexam.com/emrs-teaching-non-teaching-2025/",
-          "first_seen": "2026-09-07T12:58:56.203536+00:00",
-          "eligibility": "unknown"
-        },
-        "32e82c839b156bac": {
-          "title": "GIMS Noida Staff Nurse Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
-          "first_seen": "2026-09-07T06:36:57.847150+00:00",
-          "eligibility": "unknown"
-        },
-        "de5ca1ee6ec79a0e": {
-          "title": "NTPC NGEL Engineer and Executive Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/ntpc-ngel-engineer-and-executive-2026/",
-          "first_seen": "2026-09-07T06:36:57.847143+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "7a102ea9d976c2bd",
+      "last_page_hash": "360f7516389b0681",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1067,
-  "total_alerts": 339,
-  "last_new_job_ts": "2026-11-21T15:28:24.307825+00:00",
+  "total_checks": 1068,
+  "total_alerts": 340,
+  "last_new_job_ts": "2026-11-23T09:49:36.573374+00:00",
   "last_heartbeat_key": "2026-11-22-21"
 }
