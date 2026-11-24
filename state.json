@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "df0ccf087ae58e5e",
+      "last_page_hash": "1f8d2b72b954114e",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7452,6 +7452,24 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "46ab65df56cc4d3e": {
+          "title": "NTA CMAT Online Form 2026",
+          "url": "https://www.sarkariexam.com/nta-cmat-2026/",
+          "first_seen": "2026-11-24T16:17:00.814482+00:00",
+          "eligibility": "unknown"
+        },
+        "c5e526838d473e19": {
+          "title": "NTA UGC NET JRF December Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/nta-ugc-net-jrf-december-2026/",
+          "first_seen": "2026-11-24T16:17:00.814412+00:00",
+          "eligibility": "unknown"
+        },
+        "46b334d9067e11dd": {
+          "title": "NICL Assistant Pre Score Card 2026",
+          "url": "https://www.sarkariexam.com/national-insurance-nicl-assistant-2026/",
+          "first_seen": "2026-11-24T16:17:00.814350+00:00",
+          "eligibility": "unknown"
+        },
         "a06966e4093dd91e": {
           "title": "Supreme Court SCI Court Assistant Online Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/supreme-court-sci-court-assistant-2026/",
@@ -11033,34 +11051,16 @@
           "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
           "first_seen": "2026-09-08T06:04:59.040623+00:00",
           "eligibility": "unknown"
-        },
-        "2d00109159d269ca": {
-          "title": "Bihar BCECEB Senior Resident/ Tutor Online Form 2026 Last Date",
-          "url": "https://www.sarkariexam.com/bceceb-bihar-senior-resident-tutor-2026/",
-          "first_seen": "2026-09-08T06:04:59.040618+00:00",
-          "eligibility": "unknown"
-        },
-        "5660e216e0002a31": {
-          "title": "RRB NTPC 10+2 UG Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/rrb-ntpc-102-inter-level-2025/",
-          "first_seen": "2026-09-08T06:04:59.040584+00:00",
-          "eligibility": "eligible"
-        },
-        "1dc9531d5e009c1c": {
-          "title": "UPTET 2026 Certificate",
-          "url": "https://www.sarkariexam.com/uptet-2026/",
-          "first_seen": "2026-09-08T06:04:59.040536+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "af6d93b8148fc2bb",
+      "last_page_hash": "f1bf0a613b01f51e",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1070,
-  "total_alerts": 343,
-  "last_new_job_ts": "2026-11-24T05:33:25.069271+00:00",
-  "last_heartbeat_key": "2026-11-22-21"
+  "total_checks": 1071,
+  "total_alerts": 344,
+  "last_new_job_ts": "2026-11-24T16:17:01.454442+00:00",
+  "last_heartbeat_key": "2026-11-24-21"
 }
