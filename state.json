@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "6787b07650188beb",
+      "last_page_hash": "55ab28e91e48649d",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7458,6 +7458,48 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "fa227c612f29aaad": {
+          "title": "UPSC CDS I Online Form 2027",
+          "url": "https://www.sarkariexam.com/upsc-cds-i-2026/",
+          "first_seen": "2026-11-25T19:17:26.274721+00:00",
+          "eligibility": "unknown"
+        },
+        "cc027d78fb114d5f": {
+          "title": "Coconut Development Board Various Post Online Form 2026",
+          "url": "https://www.sarkariexam.com/coconut-development-board-various-post-2026/",
+          "first_seen": "2026-11-25T19:17:26.274719+00:00",
+          "eligibility": "unknown"
+        },
+        "1e7ef17b9f321109": {
+          "title": "UPSSSC Cane Supervisor Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-cane-supervisor-2026/",
+          "first_seen": "2026-11-25T19:17:26.274702+00:00",
+          "eligibility": "unknown"
+        },
+        "54e7fe49dc7541b1": {
+          "title": "UPSSSC Moharir 2022 Admit Card 2026",
+          "url": "https://www.sarkariexam.com/upsssc-moharir-recruitment/",
+          "first_seen": "2026-11-25T19:17:26.274699+00:00",
+          "eligibility": "unknown"
+        },
+        "420dae051e99dfdf": {
+          "title": "SSC CPO SI 2025 Paper II Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-paper-i-2025/",
+          "first_seen": "2026-11-25T19:17:26.274693+00:00",
+          "eligibility": "unknown"
+        },
+        "6f9fa367a1b0f713": {
+          "title": "SBI Clerk 2nd Wait List 2026",
+          "url": "https://www.sarkariexam.com/sbi-bank-clerk-2025/",
+          "first_seen": "2026-11-25T19:17:26.274671+00:00",
+          "eligibility": "unknown"
+        },
+        "1937ceb97ba0c7f0": {
+          "title": "SBI Clerk JA Backlog Mains Result 2026",
+          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
+          "first_seen": "2026-11-25T19:17:26.274654+00:00",
+          "eligibility": "unknown"
+        },
         "faf1d3b5ff410b7e": {
           "title": "RRB NTPC 10+2 UG Level 07/2026 Online Correction Form 2026 – Last Date",
           "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
@@ -11015,58 +11057,16 @@
           "url": "https://www.sarkariexam.com/upsssc-junior-assistant-2025/",
           "first_seen": "2026-09-09T15:08:07.376844+00:00",
           "eligibility": "unknown"
-        },
-        "232c10644152cb13": {
-          "title": "SSC CHSL Online Form (2536 Posts)",
-          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
-          "first_seen": "2026-09-09T15:08:07.376801+00:00",
-          "eligibility": "eligible"
-        },
-        "8b69e1af19e37273": {
-          "title": "SSC JHT Option Cum Preference Form 2026",
-          "url": "https://www.sarkariexam.com/ssc-jht-2025/",
-          "first_seen": "2026-09-09T11:15:50.371808+00:00",
-          "eligibility": "unknown"
-        },
-        "ea2530531203a05c": {
-          "title": "AFCAT 02/2026 Result – Out",
-          "url": "https://www.sarkariexam.com/afcat-02-2026/",
-          "first_seen": "2026-09-09T11:15:50.371708+00:00",
-          "eligibility": "unknown"
-        },
-        "2a34b9114f58eb9a": {
-          "title": "UPSSSC PET Online Correction Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
-          "first_seen": "2026-09-09T06:09:16.390439+00:00",
-          "eligibility": "unknown"
-        },
-        "45f13757db6cde14": {
-          "title": "UPSSSC Forest Guard/ Wild Life Guard Mains Exam Fee Payment 2026",
-          "url": "https://www.sarkariexam.com/upsssc-forest-guard-wild-life-guard-2026/",
-          "first_seen": "2026-09-09T06:09:16.390356+00:00",
-          "eligibility": "unknown"
-        },
-        "d10212e0f96fa3bb": {
-          "title": "UPSSSC Forensic Science Laboratory Mains Exam Fee Payment 2026",
-          "url": "https://www.sarkariexam.com/upsssc-forensic-science-laboratory-2026/",
-          "first_seen": "2026-09-09T06:09:16.390350+00:00",
-          "eligibility": "unknown"
-        },
-        "09c487430344917e": {
-          "title": "AIIMS NORCET 11th Admit Card 2026",
-          "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
-          "first_seen": "2026-09-09T06:09:16.390344+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "22fab9205cd7a9f7",
+      "last_page_hash": "dd5d4dd8ee14732c",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1073,
-  "total_alerts": 347,
-  "last_new_job_ts": "2026-11-25T09:14:16.742899+00:00",
+  "total_checks": 1074,
+  "total_alerts": 348,
+  "last_new_job_ts": "2026-11-25T19:17:26.911633+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
