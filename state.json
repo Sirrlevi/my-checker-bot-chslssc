@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "1f8d2b72b954114e",
+      "last_page_hash": "ebdb31784fd21415",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7452,6 +7452,18 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "d2d6f86bdec4cabd": {
+          "title": "UPSSSC Platoon Commander / Block Organizer Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
+          "first_seen": "2026-11-25T00:47:41.036561+00:00",
+          "eligibility": "unknown"
+        },
+        "1515d67c23c097bc": {
+          "title": "UPCISB UP Cooperative Bank Various Post Final Result 2026",
+          "url": "https://www.sarkariexam.com/up-co-operative-bank-various-post-2026/",
+          "first_seen": "2026-11-25T00:47:41.036420+00:00",
+          "eligibility": "unknown"
+        },
         "46ab65df56cc4d3e": {
           "title": "NTA CMAT Online Form 2026",
           "url": "https://www.sarkariexam.com/nta-cmat-2026/",
@@ -11039,28 +11051,16 @@
           "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
           "first_seen": "2026-09-08T06:04:59.040641+00:00",
           "eligibility": "unknown"
-        },
-        "57edc0edc2fdbcc6": {
-          "title": "SSC CHSL 10+2 Online Form 2026",
-          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
-          "first_seen": "2026-09-08T06:04:59.040627+00:00",
-          "eligibility": "eligible"
-        },
-        "2a516944e8d14650": {
-          "title": "UPSSSC PET Online Correction Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
-          "first_seen": "2026-09-08T06:04:59.040623+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "f1bf0a613b01f51e",
+      "last_page_hash": "18fefa6206fc550f",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1071,
-  "total_alerts": 344,
-  "last_new_job_ts": "2026-11-24T16:17:01.454442+00:00",
+  "total_checks": 1072,
+  "total_alerts": 345,
+  "last_new_job_ts": "2026-11-25T00:47:41.560092+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
