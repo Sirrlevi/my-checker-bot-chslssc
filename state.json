@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ebdb31784fd21415",
+      "last_page_hash": "6787b07650188beb",
       "baseline_done": true
     },
     "ibps_home": {
@@ -275,9 +275,15 @@
           "url": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
           "first_seen": "2026-11-20T18:46:36.073089+00:00",
           "eligibility": "eligible"
+        },
+        "e574ce543fcab7ad": {
+          "title": "SBI Recruitment Of Specialist Cadre Officers on Regular Basis Registration From 20-Nov-2026",
+          "url": "https://ibpsreg.ibps.in/sbifteoct26/",
+          "first_seen": "2026-11-25T09:14:13.360686+00:00",
+          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "2929c6eeb7b6b198",
+      "last_page_hash": "b2aa501c01901bca",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -7452,6 +7458,66 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "faf1d3b5ff410b7e": {
+          "title": "RRB NTPC 10+2 UG Level 07/2026 Online Correction Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/rrb-ntpc-102-ug-level-07-2026/",
+          "first_seen": "2026-11-25T09:14:13.880601+00:00",
+          "eligibility": "eligible"
+        },
+        "a1e70f9e9984a92d": {
+          "title": "MPESB Subedar Steno, ASI Answer Key 2026",
+          "url": "https://www.sarkariexam.com/mpesb-subedar-steno-asi-2026/",
+          "first_seen": "2026-11-25T09:14:13.880594+00:00",
+          "eligibility": "eligible"
+        },
+        "aa586b2cbcea6071": {
+          "title": "UPSSSC Havildar Instructor Answer Key 2026",
+          "url": "https://www.sarkariexam.com/upsssc-havildar-instructor-2026/",
+          "first_seen": "2026-11-25T09:14:13.880589+00:00",
+          "eligibility": "eligible"
+        },
+        "77611dab29e957fe": {
+          "title": "UPESSC UP Headmaster Correction / Edit Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
+          "first_seen": "2026-11-25T09:14:13.880564+00:00",
+          "eligibility": "unknown"
+        },
+        "e9d80280cdb71f2f": {
+          "title": "UPESSC UP Principal Inter Level Correction / Edit Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-inter-level-2026/",
+          "first_seen": "2026-11-25T09:14:13.880558+00:00",
+          "eligibility": "unknown"
+        },
+        "e468d814b0bd81e6": {
+          "title": "Supreme Court Junior Court Attendant Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/supreme-court-junior-court-attendant-2026/",
+          "first_seen": "2026-11-25T09:14:13.880552+00:00",
+          "eligibility": "unknown"
+        },
+        "eaaac741e4057d03": {
+          "title": "Indian Bank Apprentice Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/indian-bank-apprentice-2026/",
+          "first_seen": "2026-11-25T09:14:13.880547+00:00",
+          "eligibility": "unknown"
+        },
+        "cefe017543d7edce": {
+          "title": "Railway RRB Station Master Online Form 2026 (1265 Posts) – Last Date",
+          "url": "https://www.sarkariexam.com/railway-rrb-station-master-2026/",
+          "first_seen": "2026-11-25T09:14:13.880540+00:00",
+          "eligibility": "unknown"
+        },
+        "5aeb7f54ddf2545f": {
+          "title": "GIMS Noida Staff Nurse Admit Card 2026",
+          "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
+          "first_seen": "2026-11-25T09:14:13.880519+00:00",
+          "eligibility": "unknown"
+        },
+        "01e7afcfd17cc2f7": {
+          "title": "Rajasthan State Eligibility Test SET Score Card 2026",
+          "url": "https://www.sarkariexam.com/rajasthan-state-eligibility-test-set-2026/",
+          "first_seen": "2026-11-25T09:14:13.880480+00:00",
+          "eligibility": "unknown"
+        },
         "d2d6f86bdec4cabd": {
           "title": "UPSSSC Platoon Commander / Block Organizer Answer Key 2026",
           "url": "https://www.sarkariexam.com/upsssc-platoon-commander-block-organizer-2026/",
@@ -10991,76 +11057,16 @@
           "url": "https://www.sarkariexam.com/aiims-norcet-11th-2026/",
           "first_seen": "2026-09-09T06:09:16.390344+00:00",
           "eligibility": "unknown"
-        },
-        "da33e18eb4fb7486": {
-          "title": "SAV Bihar Class 6 Dummy Admit Card 2027-28",
-          "url": "https://www.sarkariexam.com/sav-bihar-class-6-pre-admission-2027-28/",
-          "first_seen": "2026-09-09T06:09:16.390326+00:00",
-          "eligibility": "unknown"
-        },
-        "f7019ea8cdc6bb67": {
-          "title": "Delhi High Court JJA Main Exam Date 2026",
-          "url": "https://www.sarkariexam.com/delhi-high-court-jja-2026/",
-          "first_seen": "2026-09-08T15:04:05.238615+00:00",
-          "eligibility": "unknown"
-        },
-        "8120be7256b82e92": {
-          "title": "Patna High Court Assistant Exam Date 2026",
-          "url": "https://www.sarkariexam.com/patna-high-court-assistant-2026/",
-          "first_seen": "2026-09-08T15:04:05.238611+00:00",
-          "eligibility": "unknown"
-        },
-        "edc5477a5dddf344": {
-          "title": "SSC Selection Post 14th Exam City Details 2026",
-          "url": "https://www.sarkariexam.com/ssc-phase-xiv-2026/",
-          "first_seen": "2026-09-08T15:04:05.238607+00:00",
-          "eligibility": "unknown"
-        },
-        "a3b06f9e50d8c4b1": {
-          "title": "UPSSSC Draftsman, Cartographer Mains Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-draftsman-cartographer-2023/",
-          "first_seen": "2026-09-08T15:04:05.238583+00:00",
-          "eligibility": "unknown"
-        },
-        "703a4bb01dd12ebd": {
-          "title": "UPSC CAPF AC Name Wise Result 2026",
-          "url": "https://www.sarkariexam.com/upsc-capf-ac-2026/",
-          "first_seen": "2026-09-08T15:04:05.238561+00:00",
-          "eligibility": "unknown"
-        },
-        "3ede7bf6202c6fda": {
-          "title": "Railway RRB Paramedical CEN 05/2026 Online Form 2026",
-          "url": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/",
-          "first_seen": "2026-09-08T11:09:04.867060+00:00",
-          "eligibility": "unknown"
-        },
-        "6adfc2958e6b41de": {
-          "title": "SSC JHT Tier-I Admit Card 2026",
-          "url": "https://www.sarkariexam.com/ssc-jht-2026/",
-          "first_seen": "2026-09-08T11:09:04.867020+00:00",
-          "eligibility": "unknown"
-        },
-        "9f9f1cba1144e980": {
-          "title": "SSC Stenographer Grade C & D Tier-I Admit Card 2026",
-          "url": "https://www.sarkariexam.com/ssc-stenographer-group-c-d-2026/",
-          "first_seen": "2026-09-08T11:09:04.867005+00:00",
-          "eligibility": "eligible"
-        },
-        "0b51cd231d882a68": {
-          "title": "GIMS Noida Staff Nurse Online Form 2026 – Extended",
-          "url": "https://www.sarkariexam.com/gims-noida-staff-nurse-2026/",
-          "first_seen": "2026-09-08T06:04:59.040641+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "18fefa6206fc550f",
+      "last_page_hash": "22fab9205cd7a9f7",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1072,
-  "total_alerts": 345,
-  "last_new_job_ts": "2026-11-25T00:47:41.560092+00:00",
+  "total_checks": 1073,
+  "total_alerts": 347,
+  "last_new_job_ts": "2026-11-25T09:14:16.742899+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
