@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "4a9aec08f2cf488c",
+      "last_page_hash": "e2db0bce881572da",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7458,6 +7458,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "270d6d6608f029fa": {
+          "title": "CONCOR MT, Assistant Officer Answer Key 2026",
+          "url": "https://www.sarkariexam.com/concor-mt-assistant-officer-2026/",
+          "first_seen": "2026-11-26T19:54:43.852366+00:00",
+          "eligibility": "unknown"
+        },
+        "a8b5cc5994717154": {
+          "title": "ECIL Graduates / Diploma Apprentices Online Form 2026",
+          "url": "https://www.sarkariexam.com/ecil-graduates-diploma-apprentices-2026/",
+          "first_seen": "2026-11-26T19:54:43.852351+00:00",
+          "eligibility": "unknown"
+        },
+        "0d624775d4536a5f": {
+          "title": "RSSB CET 10+2 Inter Level Admit Card 2026",
+          "url": "https://www.sarkariexam.com/rssb-cet-12-inter-level-2026/",
+          "first_seen": "2026-11-26T19:54:43.852316+00:00",
+          "eligibility": "eligible"
+        },
+        "aac2ebcf4a9584f5": {
+          "title": "SSC CHSL 10+2 Tier-I Admit Card 2026",
+          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
+          "first_seen": "2026-11-26T19:54:43.852275+00:00",
+          "eligibility": "eligible"
+        },
         "989410d39b32cc77": {
           "title": "UPESSC UP Headmaster Correction / Edit Form 2026",
           "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
@@ -11033,40 +11057,16 @@
           "url": "https://www.sarkariexam.com/mpesb-krashi-vistar-adhikari-2026/",
           "first_seen": "2026-09-10T20:03:04.210698+00:00",
           "eligibility": "unknown"
-        },
-        "e1dcda9da335bac9": {
-          "title": "Railway RRB Technician CEN 02/2026 Application Status 2026",
-          "url": "https://www.sarkariexam.com/rrb-technician-grade-i-iii-2026/",
-          "first_seen": "2026-09-10T20:03:04.210675+00:00",
-          "eligibility": "unknown"
-        },
-        "d40bfcb27599a56b": {
-          "title": "NTA UGC NET June Re-Exam Answer Key 2026",
-          "url": "https://www.sarkariexam.com/nta-ugc-net-june-2026/",
-          "first_seen": "2026-09-10T17:45:41.780441+00:00",
-          "eligibility": "unknown"
-        },
-        "84c0fb8aa2153db9": {
-          "title": "ISRO Assistant, UDC, JPA, Stenographer Admit Card 2026",
-          "url": "https://www.sarkariexam.com/isro-assistant-udc-jpa-stenographer-2026/",
-          "first_seen": "2026-09-10T14:23:47.353121+00:00",
-          "eligibility": "eligible"
-        },
-        "4baf8adc3b94d91e": {
-          "title": "SSC CHSL 10+2 Online Form 2026 (2536 Posts)",
-          "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
-          "first_seen": "2026-09-10T10:10:32.762853+00:00",
-          "eligibility": "eligible"
         }
       },
-      "last_page_hash": "0e70fac257a28c1d",
+      "last_page_hash": "ea73cf344d4649a8",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1076,
-  "total_alerts": 349,
-  "last_new_job_ts": "2026-11-26T10:55:33.684717+00:00",
+  "total_checks": 1077,
+  "total_alerts": 350,
+  "last_new_job_ts": "2026-11-26T19:54:44.403130+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
