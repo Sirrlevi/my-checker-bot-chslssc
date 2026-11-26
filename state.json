@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "343275fa08b73411",
+      "last_page_hash": "4a9aec08f2cf488c",
       "baseline_done": true
     },
     "ibps_home": {
@@ -283,7 +283,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "3039c82d0a50a334",
+      "last_page_hash": "a7cc2e144a71c2d6",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -7458,6 +7458,42 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "989410d39b32cc77": {
+          "title": "UPESSC UP Headmaster Correction / Edit Form 2026",
+          "url": "https://www.sarkariexam.com/upessc-up-headmaster-2026/",
+          "first_seen": "2026-11-26T10:55:32.601352+00:00",
+          "eligibility": "unknown"
+        },
+        "99e6fc1296a68bdc": {
+          "title": "UPESSC UP Principal Inter Level Correction / Edit Form 2026",
+          "url": "https://www.sarkariexam.com/upessc-up-principal-inter-level-2026/",
+          "first_seen": "2026-11-26T10:55:32.601349+00:00",
+          "eligibility": "unknown"
+        },
+        "011d11026c494b5a": {
+          "title": "DSSSB MTS, Various Post Exam Answer Key 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-exam-answer-key-2026/",
+          "first_seen": "2026-11-26T10:55:32.601342+00:00",
+          "eligibility": "eligible"
+        },
+        "66882c8d301fba19": {
+          "title": "MP High Court Assistant Grade III Answer Key 2026",
+          "url": "https://www.sarkariexam.com/mp-high-court-assistant-grade-iii-2026/",
+          "first_seen": "2026-11-26T10:55:32.601338+00:00",
+          "eligibility": "unknown"
+        },
+        "869f45f35ca047b6": {
+          "title": "ISRO SDSC SHAR Apprentice Online Form 2026 – Last Date",
+          "url": "https://www.sarkariexam.com/isro-sdsc-shar-apprentice-2026/",
+          "first_seen": "2026-11-26T10:55:32.601317+00:00",
+          "eligibility": "unknown"
+        },
+        "9197e49afd22ba3d": {
+          "title": "UPSSSC Junior Analyst Food 2024 Final Result 2026",
+          "url": "https://www.sarkariexam.com/upsssc-junior-analyst-food-result-2024/",
+          "first_seen": "2026-11-26T10:55:32.601255+00:00",
+          "eligibility": "unknown"
+        },
         "fa227c612f29aaad": {
           "title": "UPSC CDS I Online Form 2027",
           "url": "https://www.sarkariexam.com/upsc-cds-i-2026/",
@@ -11021,52 +11057,16 @@
           "url": "https://www.sarkariexam.com/ssc-chsl-2026/",
           "first_seen": "2026-09-10T10:10:32.762853+00:00",
           "eligibility": "eligible"
-        },
-        "8cbcde4c376c6f77": {
-          "title": "SSC CPO SI CAPF Online Form 2026 (1871 Posts)",
-          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
-          "first_seen": "2026-09-10T10:10:32.762848+00:00",
-          "eligibility": "unknown"
-        },
-        "d43a6eda76f1b200": {
-          "title": "BSF HCM & ASI Steno Answer Key 2026",
-          "url": "https://www.sarkariexam.com/bsf-hcm-asi-steno-2024/",
-          "first_seen": "2026-09-10T10:10:32.762799+00:00",
-          "eligibility": "eligible"
-        },
-        "9bd1b454d377910e": {
-          "title": "UP TGT 2022 College Allotment Result",
-          "url": "https://www.sarkariexam.com/up-tgt-2022/",
-          "first_seen": "2026-09-10T10:10:32.762783+00:00",
-          "eligibility": "unknown"
-        },
-        "397a2d9107b61953": {
-          "title": "SBI Clerk JA Backlog Pre Admit Card 2026",
-          "url": "https://www.sarkariexam.com/sbi-junior-associates-clerk-backlog-2026/",
-          "first_seen": "2026-09-09T15:08:07.376883+00:00",
-          "eligibility": "unknown"
-        },
-        "fd4ceafb3570b514": {
-          "title": "UPSSSC PET Exam Date 2026",
-          "url": "https://www.sarkariexam.com/upsssc-pet-2026/",
-          "first_seen": "2026-09-09T15:08:07.376878+00:00",
-          "eligibility": "unknown"
-        },
-        "cbb2d9ec600cae46": {
-          "title": "UPSSSC Junior Assistant, Clerk Grade II 2023 Final Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-junior-assistant-2025/",
-          "first_seen": "2026-09-09T15:08:07.376844+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "dd5d4dd8ee14732c",
+      "last_page_hash": "0e70fac257a28c1d",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1075,
-  "total_alerts": 348,
-  "last_new_job_ts": "2026-11-25T19:17:26.911633+00:00",
+  "total_checks": 1076,
+  "total_alerts": 349,
+  "last_new_job_ts": "2026-11-26T10:55:33.684717+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
