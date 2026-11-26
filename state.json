@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "55ab28e91e48649d",
+      "last_page_hash": "343275fa08b73411",
       "baseline_done": true
     },
     "ibps_home": {
@@ -283,7 +283,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "b2aa501c01901bca",
+      "last_page_hash": "3039c82d0a50a334",
       "baseline_done": true
     },
     "sarkariresult_latestjob": {
@@ -11065,7 +11065,7 @@
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1074,
+  "total_checks": 1075,
   "total_alerts": 348,
   "last_new_job_ts": "2026-11-25T19:17:26.911633+00:00",
   "last_heartbeat_key": "2026-11-24-21"
