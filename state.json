@@ -85,7 +85,7 @@
           "eligibility": "unknown"
         }
       },
-      "last_page_hash": "ef27e8d45ea17549",
+      "last_page_hash": "55bc5b2e63d9fe4f",
       "baseline_done": true
     },
     "ibps_home": {
@@ -7470,6 +7470,30 @@
     },
     "sarkariexam_home": {
       "seen": {
+        "8540664f66ec81db": {
+          "title": "DSSSB Various Posts Exam Date 2026",
+          "url": "https://www.sarkariexam.com/dsssb-various-post-2025/",
+          "first_seen": "2026-11-27T20:04:57.481100+00:00",
+          "eligibility": "unknown"
+        },
+        "fe4e9bcaf90a2db6": {
+          "title": "SSC CPO SI CAPF Admit Card / Re-Exam Notice 2026",
+          "url": "https://www.sarkariexam.com/ssc-cpo-si-capf-2026/",
+          "first_seen": "2026-11-27T20:04:57.481075+00:00",
+          "eligibility": "unknown"
+        },
+        "03f34c2897966ecd": {
+          "title": "CTET September Exam City Details 2026",
+          "url": "https://www.sarkariexam.com/ctet-september-2026/",
+          "first_seen": "2026-11-27T20:04:57.481062+00:00",
+          "eligibility": "unknown"
+        },
+        "774589fe08d8f21d": {
+          "title": "IBPS CRP PO/ MT 16th Mains Score Card 2026",
+          "url": "https://www.sarkariexam.com/ibps-crp-po-mt-16th-2026/",
+          "first_seen": "2026-11-27T20:04:57.481029+00:00",
+          "eligibility": "unknown"
+        },
         "df69e83433605b7a": {
           "title": "DSSSB MTS & JE Online Form 2026 (1260 Posts)",
           "url": "https://www.sarkariexam.com/dsssb-mts-je-2026/",
@@ -11045,40 +11069,16 @@
           "url": "https://www.sarkariexam.com/upsssc-pharmacist-ayurvedic-2024/",
           "first_seen": "2026-09-11T17:09:28.185226+00:00",
           "eligibility": "unknown"
-        },
-        "0c00bb1a09962770": {
-          "title": "UPSSSC Lekhpal Result 2026",
-          "url": "https://www.sarkariexam.com/upsssc-up-lekhpal-2026/",
-          "first_seen": "2026-09-11T17:09:28.185185+00:00",
-          "eligibility": "unknown"
-        },
-        "5d3b6fc387f65c83": {
-          "title": "UPSSSC Senior Instructor Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsssc-senior-instructor-2026/",
-          "first_seen": "2026-09-11T13:35:25.915411+00:00",
-          "eligibility": "unknown"
-        },
-        "36d84778487a3f79": {
-          "title": "UPSC Various Post Online Form 2026",
-          "url": "https://www.sarkariexam.com/upsc-various-post-2026/",
-          "first_seen": "2026-09-11T13:35:25.915405+00:00",
-          "eligibility": "unknown"
-        },
-        "e343e31e5a829783": {
-          "title": "UPSC EPFO APFC Online Form 2026 – Last Date",
-          "url": "https://www.sarkariexam.com/upsc-epfo-apfc-2026/",
-          "first_seen": "2026-09-11T13:35:25.915391+00:00",
-          "eligibility": "unknown"
         }
       },
-      "last_page_hash": "713bd2b45c0fad0d",
+      "last_page_hash": "900fd88d05fe524b",
       "baseline_done": true
     }
   },
   "consecutive_errors": 0,
   "last_error_alert_ts": null,
-  "total_checks": 1079,
-  "total_alerts": 353,
-  "last_new_job_ts": "2026-11-27T11:20:47.731151+00:00",
+  "total_checks": 1080,
+  "total_alerts": 354,
+  "last_new_job_ts": "2026-11-27T20:04:58.077521+00:00",
   "last_heartbeat_key": "2026-11-24-21"
 }
